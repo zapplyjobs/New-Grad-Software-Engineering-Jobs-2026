@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "Software Development Engineer",
+    "job_city": "Orlando",
+    "job_state": "FL",
+    "job_posted_at": "1h",
+    "job_description": "• Strong proficiency in C++ and object-oriented programmingAbility to write high quality code with a keen attention to detail Experience with modern concurrent programming and threading APIs Experience with Windows, Linux and/or Android operating system development Experience with software development processes and tools such as debuggers, source code control systems (GitHub) and profilers is a plus Effective communication and problem-solving skills Motivating leader with good interpersonal skills Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Design, develop, and maintain AI developer tools focused on graphics driver developmentWork with AMD’s architecture specialists to improve future products Stay current with GPU architecture advancements and integrate them into toolsDebugging/fix existing issues and research alternative, more efficient ways to accomplish the same workDevelop technical relationships with peers and partnersLead optimization efforts and promote adoption of improvements across multiple teams Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://canadacareers-amd.icims.com/jobs/75380/login",
+    "id": "amd-software-development-engineer-orlando"
+  }
+]
