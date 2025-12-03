@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Distributed Systems Software Engineer - Public Cloud SMTS",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "• You have experience balancing live-site management, feature delivery, and retirement of technical debtParticipate in the team’s on-call rotation to address complex problems in real-time and keep services operational and highly available Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback A related technical degree required4+ years backend software development experienceDeep knowledge of programming in Java, Golang, or PythonExperience owning and operating multiple instances of a critical serviceExperience with Agile development methodology and Test Driven DevelopmentExperience with critical infrastructure services including, monitoring, alerting, logging, and reporting application University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.\n• Deliver cloud infrastructure automation tools, frameworks, workflows, and validation platforms on our public cloud platforms such as AWS, GCP, Azure, or AlibabaDesigning, developing, debugging, and operating resilient distributed systems that run across thousands of compute nodes in multiple data centersUsing and contributing to open source technology (Spinnaker, Zookeeper, etc.\n• )Developing Infrastructure-as-Code using TerraformWriting microservices on containerization frameworks such as Kubernetes, Docker, MesosResolving complex technical issues and drive innovations that improve system availability, resilience, and performanceEat, sleep, and breathe services.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr317911/distributed-systems-software-engineer-public-cloud-smts/",
+    "id": "salesforce-distributed-systems-software-engineer-public-cloud-smts-san-francisco"
+  }
+]
