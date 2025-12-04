@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Antenna Software",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "20h",
+    "job_description": "software engineering job for the role Software Development Engineer, Antenna Software",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3137694/software-development-engineer-antenna-software",
+    "id": "amazon-software-development-engineer-antenna-software-redmond"
+  }
+]
