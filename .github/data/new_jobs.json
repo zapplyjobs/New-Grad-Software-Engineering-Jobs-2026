@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer (Data)",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_posted_at": "22h",
-    "job_description": "• Minimum QualificationsBachelors or Masters degree in a quantitative / technical field (math, statistics, engineering, information management, computer science, or similar)Experience with large language models: understanding of patterns/approaches/constraints for large language model prompting, understanding of approaches and techniques for output evaluation and benchmarkingExperience with big data systems and tools like SQL, Hive, Spark.\n• Programming skills in Python, Swift, Objective C, C++, or similar languageExperience with data visualization techniques and software such at matplotlib and TableauUnderstanding of data privacy, security, and ethical data handling practices.\n• Ability to work with large datasets.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200630500-0836/software-engineer-data?team=SFTWR",
-    "id": "apple-software-engineer-data-cupertino"
-  }
-]
+[]
