@@ -3064,5 +3064,29 @@
     "job_title": "Software Engineer III - Encompass Administrator",
     "company": "JPMorgan Chase",
     "first_seen": "2025-12-09T19:56:24.840Z"
+  },
+  "google-software-engineer-iii,-site-reliability-engineering-raleigh": {
+    "assigned_date": "2025-12-09T20:58:08.372Z",
+    "job_title": "Software Engineer III, Site Reliability Engineering",
+    "company": "Google",
+    "first_seen": "2025-12-09T20:58:08.372Z"
+  },
+  "google-software-engineer-iii,-engineering-productivity,-search-mountain-view": {
+    "assigned_date": "2025-12-09T20:58:08.372Z",
+    "job_title": "Software Engineer III, Engineering Productivity, Search",
+    "company": "Google",
+    "first_seen": "2025-12-09T20:58:08.372Z"
+  },
+  "google-software-engineer-iii,-platforms-infrastructure-engineering-sunnyvale": {
+    "assigned_date": "2025-12-09T20:58:08.372Z",
+    "job_title": "Software Engineer III, Platforms Infrastructure Engineering",
+    "company": "Google",
+    "first_seen": "2025-12-09T20:58:08.372Z"
+  },
+  "google-software-engineer-iii,-performance,-platforms-infrastructure-engineering-sunnyvale": {
+    "assigned_date": "2025-12-09T20:58:08.372Z",
+    "job_title": "Software Engineer III, Performance, Platforms Infrastructure Engineering",
+    "company": "Google",
+    "first_seen": "2025-12-09T20:58:08.372Z"
   }
 }
