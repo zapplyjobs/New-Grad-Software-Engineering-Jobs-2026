@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Amazon",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "20h",
+    "job_description": "software engineering job for the role Software Development Engineer, Amazon",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3139970/software-development-engineer-amazon",
+    "id": "amazon-software-development-engineer-amazon-dallas"
+  }
+]
