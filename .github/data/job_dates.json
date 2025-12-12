@@ -3166,5 +3166,17 @@
     "job_title": "Software Engineer II - Cloud/DevOps",
     "company": "JPMorgan Chase",
     "first_seen": "2025-12-12T05:19:57.643Z"
+  },
+  "jpmorgan-chase-software-engineer-iii-(argo)-westerville": {
+    "assigned_date": "2025-12-12T18:54:31.831Z",
+    "job_title": "Software Engineer III (Argo)",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-12-12T18:54:31.831Z"
+  },
+  "jpmorgan-chase-software-engineer-iii-(argo/.net)-westerville": {
+    "assigned_date": "2025-12-12T18:54:31.831Z",
+    "job_title": "Software Engineer III (Argo/.NET)",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-12-12T18:54:31.831Z"
   }
 }
