@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "AMD",
-    "job_title": "Software Development Engineer - C++",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "1h",
-    "job_description": "• Hands on professional experience writing and optimizing GPU code Strong background developing applications and libraries in modern C++ Experience with best practices in software development, including testing, profiling, debugging, documentation, version control, and issue tracking Experience with low-level optimization techniques.\n• Assembly programming and/or vectorization Bachelor’s or Master's degree in Applied Mathematics, Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Contribute to the design and implementation of AMD’S GPU kernel generator used in a variety of high-performance machine learning libraries and frameworks Develop modern build and testing systems Communicate and collaborate with key technical experts across AMD and with our partners and customers to improve ROCm applications, libraries, and tools, as well as hardware Deliver high-quality code and documentation following best practices for open-source software development Apply software engineering methodologies to ensure robust, maintainable code Develop technical relationships with peers and partners Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68100/login",
-    "id": "amd-software-development-engineer-c-austin"
-  }
-]
+[]
