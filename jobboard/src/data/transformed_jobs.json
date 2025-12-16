@@ -163,11 +163,20 @@
   },
   {
     "employer_name": "Workday",
+    "job_title": "Product Manager",
+    "job_city": "Pleasanton",
+    "job_state": "CA",
+    "job_posted_at": "1w",
+    "job_description": "• Product Managerremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 13 Days AgoJR-0101906Global Project Delivery Managerremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 30+ Days AgoJR-0101725Sr.\n• Solution Consultant - HCMremote typeFlexlocations4 Locationsposted onPosted 13 Days AgoJR-0102060.",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Product-Manager_JR-0101906?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09"
+  },
+  {
+    "employer_name": "Workday",
     "job_title": "Sr. Solution Consultant - HCM",
     "job_city": "Multiple Cities",
     "job_state": "",
     "job_posted_at": "1w",
-    "job_description": "• Global Project Delivery Managerremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 30+ Days AgoJR-0101725Sr.\n• Solution Consultant - HCMremote typeFlexlocations4 Locationsposted onPosted 13 Days AgoJR-0102060.",
+    "job_description": "• Product Managerremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 13 Days AgoJR-0101906Global Project Delivery Managerremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 30+ Days AgoJR-0101725Sr.\n• Solution Consultant - HCMremote typeFlexlocations4 Locationsposted onPosted 13 Days AgoJR-0102060.",
     "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-IL-Chicago/Sr-Solution-Consultant---HCM_JR-0102060?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09"
   }
 ]
