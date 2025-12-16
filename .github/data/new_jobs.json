@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Engineer, IT, AI Enablement",
+    "job_city": "Boise",
+    "job_state": "ID",
+    "job_posted_at": "1h",
+    "job_description": "• Embed Security from Inception: Employ security scanning tools for real-time code analysis and enforce data flow protocols in line with classification requirements.\n• Multiply Team Impact: Conduct comprehensive code reviews, lead architecture design sessions, and facilitate skill advancement for both U.\n• Promote a “Governance as Guardrails” methodology to integrate compliance and security throughout the development process.\n• And GDC teams in agent-oriented programming and advanced prompt engineering.\n• Engineer, Product & System Engineering (Media Health Reliability), Heteregenous Integration - High Bandwidth MemorySingapore, SingaporePosted a month ago Lead Full-Stack Development: Complete development across the technology stack, including data pipelines, API integrations, and front-end interfaces (using languages such as Python and C#).\n• Construct reusable libraries to enhance development efficiency.\n• Senior Embedded Software EngineerBoise, Idaho, United States of AmericaPosted 11 days ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/39315398",
+    "id": "micron-technology-engineer-it-ai-enablement-boise"
+  }
+]
