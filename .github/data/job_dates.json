@@ -3304,5 +3304,23 @@
     "job_title": "Software Engineer III - Admin Center",
     "company": "JPMorgan Chase",
     "first_seen": "2025-12-18T16:17:42.691Z"
+  },
+  "salesforce-lmts-software-engineer---agentforce-san-francisco": {
+    "assigned_date": "2025-12-18T16:38:25.864Z",
+    "job_title": "LMTS Software Engineer - Agentforce",
+    "company": "Salesforce",
+    "first_seen": "2025-12-18T16:38:25.864Z"
+  },
+  "salesforce-smts-software-engineer---ml-infrastructure-san-francisco": {
+    "assigned_date": "2025-12-18T16:38:25.864Z",
+    "job_title": "SMTS Software Engineer - ML Infrastructure",
+    "company": "Salesforce",
+    "first_seen": "2025-12-18T16:38:25.864Z"
+  },
+  "salesforce-smts/lmts-software-engineer---ml-infrastructure-san-francisco": {
+    "assigned_date": "2025-12-18T16:38:25.864Z",
+    "job_title": "SMTS/LMTS Software Engineer - ML Infrastructure",
+    "company": "Salesforce",
+    "first_seen": "2025-12-18T16:38:25.864Z"
   }
 }
