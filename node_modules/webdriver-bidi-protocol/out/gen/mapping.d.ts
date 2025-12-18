@@ -140,7 +140,7 @@ export interface Commands {
   };
   'emulation.setNetworkConditions': {
     params: Bidi.Emulation.SetNetworkConditionsParameters;
-    returnType: Bidi.EmptyResult;
+    returnType: Bidi.Emulation.SetNetworkConditionsResult;
   };
   'emulation.setScreenOrientationOverride': {
     params: Bidi.Emulation.SetScreenOrientationOverrideParameters;
