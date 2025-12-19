@@ -3382,5 +3382,17 @@
     "job_title": "Software Engineer, Mobile, Android, Platforms and Devices",
     "company": "Google",
     "first_seen": "2025-12-19T10:48:45.105Z"
+  },
+  "abb-graduate-project-engineer-aberdeen": {
+    "assigned_date": "2025-12-19T11:45:17.702Z",
+    "job_title": "Graduate Project Engineer",
+    "company": "ABB",
+    "first_seen": "2025-12-19T11:45:17.702Z"
+  },
+  "abb-graduate-service-engineer-aberdeen": {
+    "assigned_date": "2025-12-19T11:45:17.702Z",
+    "job_title": "Graduate Service Engineer",
+    "company": "ABB",
+    "first_seen": "2025-12-19T11:45:17.702Z"
   }
 }
