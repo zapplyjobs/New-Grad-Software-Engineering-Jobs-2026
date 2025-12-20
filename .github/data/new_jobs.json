@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Platforms and Devices, Android XR",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Platforms and Devices, Android XR",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/129191296857187014-software-engineer-platforms-and-devices-android-xr?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-platforms-and-devices-android-xr-san-jose"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Hybrid and On-prem AI Infrastructure",
+    "job_city": "Addison",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Hybrid and On-prem AI Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/88485737330025158-software-engineer-hybrid-and-onprem-ai-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-hybrid-and-on-prem-ai-infrastructure-addison"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering Multiple Levels",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows 10+ years of software engineering experience, ideally in distributed systems, internal developer platforms, or test automation frameworks.\n• Strong systems design skills with deep understanding of shift-left testing, CI pipelines, code quality gates, and composable architectures.\n• Hands-on experience with cloud infrastructure (AWS/S3, credential management, multi-tenant architectures).\n• Strong documentation and communication skills.\n• A related technical degree required.\n• Bonus: Experience with Salesforce Data Cloud, marketing activation, identity resolution, or data engineering.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Drive the architecture, design, and evolution of the next-generation Unified Q3 Test Framework, the core platform used across all Data Cloud teams to model, validate, and automate cross-cloud business flows.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager Contribute to and lead development in the Q3 SDK, CLIs, codegen, workspace tooling, data generators, catalog systems, and execution pipelines for local, workspace, and FIT tenants.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr318440/software-engineering-multiple-levels/",
+    "id": "salesforce-software-engineering-multiple-levels-bellevue"
+  }
+]
