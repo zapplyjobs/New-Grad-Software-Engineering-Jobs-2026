@@ -1,10 +1,4 @@
 {
-  "jpmorgan-chase-software-engineer-iii---ai/ml-plano": {
-    "assigned_date": "2025-10-25T18:49:10.174Z",
-    "job_title": "Software Engineer III - AI/ML",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-10-25T18:49:10.174Z"
-  },
   "jpmorgan-chase-software-engineer-iii---platform-engineering-wilmington": {
     "assigned_date": "2025-10-26T08:56:28.047Z",
     "job_title": "Software Engineer III - Platform Engineering",
@@ -3052,5 +3046,17 @@
     "job_title": "Software Engineering LMTS",
     "company": "Salesforce",
     "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "abb-dcs-application-engineer-westerville": {
+    "assigned_date": "2025-12-24T18:58:43.215Z",
+    "job_title": "DCS Application Engineer",
+    "company": "ABB",
+    "first_seen": "2025-12-24T18:58:43.215Z"
+  },
+  "abb-r&d-associate-engineer-cleveland": {
+    "assigned_date": "2025-12-24T18:58:43.215Z",
+    "job_title": "R&D Associate Engineer",
+    "company": "ABB",
+    "first_seen": "2025-12-24T18:58:43.215Z"
   }
 }
