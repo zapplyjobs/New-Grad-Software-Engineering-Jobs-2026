@@ -2956,5 +2956,101 @@
     "job_title": "Software Engineer II - QA Automation, Java, Spring, AWS, Oracle, Postgres",
     "company": "JPMorgan Chase",
     "first_seen": "2025-12-24T17:58:22.699Z"
+  },
+  "abb-quality-engineer-mount-juliet": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Quality Engineer",
+    "company": "ABB",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "abb-application-engineer-westerville": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Application Engineer",
+    "company": "ABB",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "jpmorgan-chase-software-engineer-ii---mobile-application-developer(ios-&-android)-plano": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Software Engineer II - Mobile Application Developer(iOS & Android)",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "jpmorgan-chase-software-engineering-atlanta": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Software Engineering",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "jpmorgan-chase-software-engineer-[multiple-positions-available]-wilmington": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Software Engineer [Multiple Positions Available]",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "jpmorgan-chase-software-engineer-atlanta": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Software Engineer",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "waymo-software-engineer,-planner,-route-and-motion-generation-mountain-view": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Software Engineer, Planner, Route and Motion Generation",
+    "company": "Waymo",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "waymo-ml-compiler-engineer,-compute-mountain-view": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "ML Compiler Engineer, Compute",
+    "company": "Waymo",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "waymo-software-engineer,-onboard-evaluation-mountain-view": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Software Engineer, Onboard Evaluation",
+    "company": "Waymo",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "waymo-software-engineer,-planner-vehicle-dynamics-mountain-view": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Software Engineer, Planner Vehicle Dynamics",
+    "company": "Waymo",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "google-software-engineer,-high-performance-computing-kirkland": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Software Engineer, High Performance Computing",
+    "company": "Google",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "google-software-engineer,-phd,-early-career,-ai/machine-learning,-2026-start-sunnyvale": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+    "company": "Google",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "ibm-associate-quality-engineer---entry-level-(baton-rouge,-la)-baton-rouge": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Associate Quality Engineer - Entry Level (Baton Rouge, LA)",
+    "company": "IBM",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "ibm-associate-application-developer---entry-level-(baton-rouge,-la)-baton-rouge": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Associate Application Developer - Entry Level (Baton Rouge, LA)",
+    "company": "IBM",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "salesforce-software-engineering-smts-san-francisco": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Software Engineering SMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-12-24T18:20:55.505Z"
+  },
+  "salesforce-software-engineering-lmts-san-francisco": {
+    "assigned_date": "2025-12-24T18:20:55.505Z",
+    "job_title": "Software Engineering LMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-12-24T18:20:55.505Z"
   }
 }
