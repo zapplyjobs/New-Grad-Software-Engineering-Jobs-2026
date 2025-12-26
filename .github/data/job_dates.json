@@ -2986,5 +2986,17 @@
     "job_title": "Software Engineer III, Infrastructure, Google Cloud Storage",
     "company": "Google",
     "first_seen": "2025-12-26T09:46:34.466Z"
+  },
+  "jpmorgan-chase-fullstack-aws-software-engineer-westerville": {
+    "assigned_date": "2025-12-26T09:59:38.894Z",
+    "job_title": "Fullstack AWS Software Engineer",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-12-26T09:59:38.894Z"
+  },
+  "jpmorgan-chase-full-stack-aws-software-engineer-westerville": {
+    "assigned_date": "2025-12-26T09:59:38.894Z",
+    "job_title": "Full stack AWS Software Engineer",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-12-26T09:59:38.894Z"
   }
 }
