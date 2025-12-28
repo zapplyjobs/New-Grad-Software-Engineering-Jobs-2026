@@ -1,148 +1,4 @@
 {
-  "jpmorgan-chase-python/react-software-engineer-plano": {
-    "assigned_date": "2025-10-27T15:57:30.185Z",
-    "job_title": "Python/React Software Engineer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-10-27T15:57:30.185Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---.net,-c#-chicago": {
-    "assigned_date": "2025-10-27T15:57:30.185Z",
-    "job_title": "Software Engineer III - .NET, C#",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-10-27T15:57:30.185Z"
-  },
-  "salesforce-software-engineer,-observability-platform-(smts,-lmts)-bellevue": {
-    "assigned_date": "2025-10-27T16:34:58.491Z",
-    "job_title": "Software Engineer, Observability Platform (SMTS, LMTS)",
-    "company": "Salesforce",
-    "first_seen": "2025-10-27T16:34:58.491Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---aws/kafka/java-jersey-city": {
-    "assigned_date": "2025-10-27T17:02:52.029Z",
-    "job_title": "Software Engineer III - AWS/Kafka/Java",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-10-27T17:02:52.029Z"
-  },
-  "salesforce-software-engineering-mts-san-francisco": {
-    "assigned_date": "2025-10-27T20:32:19.326Z",
-    "job_title": "Software Engineering MTS",
-    "company": "Salesforce",
-    "first_seen": "2025-10-27T20:32:19.326Z"
-  },
-  "micron-technology-r2r-engineer-nassas": {
-    "assigned_date": "2025-10-27T21:42:39.171Z",
-    "job_title": "R2R Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-10-27T21:42:39.171Z"
-  },
-  "jpmorgan-chase-software-engineer-wilmington": {
-    "assigned_date": "2025-10-27T21:57:39.890Z",
-    "job_title": "Software Engineer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-10-27T21:57:39.890Z"
-  },
-  "micron-technology-mts-memory-sustaining-design-engineer,-hbm-richardson": {
-    "assigned_date": "2025-10-27T21:57:39.890Z",
-    "job_title": "MTS Memory Sustaining Design Engineer, HBM",
-    "company": "Micron Technology",
-    "first_seen": "2025-10-27T21:57:39.890Z"
-  },
-  "salesforce-machine-learning-platform-engineer,-lmts-": {
-    "assigned_date": "2025-10-28T00:41:25.213Z",
-    "job_title": "Machine Learning Platform Engineer, LMTS",
-    "company": "Salesforce",
-    "first_seen": "2025-10-28T00:41:25.213Z"
-  },
-  "arm-software-engineer-austin": {
-    "assigned_date": "2025-10-28T01:21:14.481Z",
-    "job_title": "Software Engineer",
-    "company": "Arm",
-    "first_seen": "2025-10-28T01:21:14.481Z"
-  },
-  "micron-technology-software-engineer,-secs/gem-boise": {
-    "assigned_date": "2025-10-28T02:10:21.383Z",
-    "job_title": "Software Engineer, SECS/GEM",
-    "company": "Micron Technology",
-    "first_seen": "2025-10-28T02:10:21.383Z"
-  },
-  "google-software-engineer,-silent-data-corruption-sunnyvale": {
-    "assigned_date": "2025-10-28T11:16:06.148Z",
-    "job_title": "Software Engineer, Silent Data Corruption",
-    "company": "Google",
-    "first_seen": "2025-10-28T11:16:06.148Z"
-  },
-  "google-software-engineer,-phd,-early-career,-embedded-systems-and-firmware,-2026-start-sunnyvale": {
-    "assigned_date": "2025-10-28T13:07:41.177Z",
-    "job_title": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
-    "company": "Google",
-    "first_seen": "2025-10-28T13:07:41.177Z"
-  },
-  "jpmorgan-chase-software-engineer-iii:-java-": {
-    "assigned_date": "2025-10-28T21:33:02.281Z",
-    "job_title": "Software Engineer III: JAVA",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-10-28T21:33:02.281Z"
-  },
-  "micron-technology-process-integration-semiconductor-fab-engineer-nassas": {
-    "assigned_date": "2025-10-28T21:44:05.209Z",
-    "job_title": "Process Integration Semiconductor Fab Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-10-28T21:44:05.209Z"
-  },
-  "micron-technology-supply-chain-engineer-boise": {
-    "assigned_date": "2025-10-28T21:44:05.209Z",
-    "job_title": "Supply Chain Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-10-28T21:44:05.209Z"
-  },
-  "micron-technology-process-mechanical-design-engineer-boise": {
-    "assigned_date": "2025-10-28T22:33:15.249Z",
-    "job_title": "Process Mechanical Design Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-10-28T22:33:15.249Z"
-  },
-  "arm-5g/networking-performance-engineer-austin": {
-    "assigned_date": "2025-10-29T01:27:43.455Z",
-    "job_title": "5G/Networking Performance Engineer",
-    "company": "Arm",
-    "first_seen": "2025-10-29T01:27:43.455Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---python-/-sql-plano": {
-    "assigned_date": "2025-10-29T03:37:01.361Z",
-    "job_title": "Software Engineer III - Python / SQL",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-10-29T03:37:01.361Z"
-  },
-  "google-software-engineer,-android,-maps-seattle": {
-    "assigned_date": "2025-10-29T06:21:15.283Z",
-    "job_title": "Software Engineer, Android, Maps",
-    "company": "Google",
-    "first_seen": "2025-10-29T06:21:15.283Z"
-  },
-  "salesforce-ml-platform-engineer---feature-store,-lmts-": {
-    "assigned_date": "2025-10-29T07:33:32.929Z",
-    "job_title": "ML Platform Engineer - Feature Store, LMTS",
-    "company": "Salesforce",
-    "first_seen": "2025-10-29T07:33:32.929Z"
-  },
-  "google-software-engineer,-ai/ml,-learning-and-sustainability-": {
-    "assigned_date": "2025-10-29T08:37:03.041Z",
-    "job_title": "Software Engineer, AI/ML, Learning and Sustainability",
-    "company": "Google",
-    "first_seen": "2025-10-29T08:37:03.041Z"
-  },
-  "google-software-engineer,-chrome,-macos-": {
-    "assigned_date": "2025-10-29T09:45:49.744Z",
-    "job_title": "Software Engineer, Chrome, macOS",
-    "company": "Google",
-    "first_seen": "2025-10-29T09:45:49.744Z"
-  },
-  "micron-technology-us-expansion-layout-engineer-boise": {
-    "assigned_date": "2025-10-29T10:17:53.838Z",
-    "job_title": "US Expansion Layout Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-10-29T10:17:53.838Z"
-  },
   "salesforce-software-engineering-smts-seattle": {
     "assigned_date": "2025-10-29T20:50:33.042Z",
     "job_title": "Software Engineering SMTS",
@@ -2998,5 +2854,11 @@
     "job_title": "Software Engineer III, Monarch Query, Infrastructure",
     "company": "Google",
     "first_seen": "2025-12-26T13:53:30.612Z"
+  },
+  "salesforce-missionforce---associate-forward-deployed-engineer-(fde),-public-sector-herndon": {
+    "assigned_date": "2025-12-28T14:59:19.888Z",
+    "job_title": "Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector",
+    "company": "Salesforce",
+    "first_seen": "2025-12-28T14:59:19.888Z"
   }
 }
