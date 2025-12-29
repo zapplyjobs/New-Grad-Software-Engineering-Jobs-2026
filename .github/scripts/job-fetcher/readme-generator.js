@@ -259,7 +259,7 @@ async function generateReadme(
 <!-- Banner -->
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
-  # Software Engineering Jobs 2026
+# Software Engineering Jobs 2026
 
 <br>
 
@@ -291,15 +291,9 @@ async function generateReadme(
 
 </div>
 
-<p align="center">
-**🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with ${
-    currentJobs.length
-  }+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
-</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with ${currentJobs.length}+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
-<p align="center">
-**🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
-</p>
+<p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
 > [!TIP]
 > 🛠 Help us grow! Add new jobs by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).
