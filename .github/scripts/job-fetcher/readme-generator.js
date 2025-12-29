@@ -308,7 +308,7 @@ async function generateReadme(
 ---
 ## **Join Our Community**
 
-<img src="images/community.png" alt="Software Engineering Jobs Banner">
+<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
 
 Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
 
