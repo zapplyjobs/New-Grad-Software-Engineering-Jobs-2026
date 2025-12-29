@@ -259,8 +259,7 @@ async function generateReadme(
 <!-- Banner -->
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
-<h3>💼 New Grad Software Engineering Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from ${totalCompanies}</em></p>
+  # Software Engineering Jobs 2026
 
 <br>
 
@@ -292,16 +291,15 @@ async function generateReadme(
 
 </div>
 
----
-  
-  
-  # 💻 Software Engineering Jobs 2026 by Zapply
-
+<p align="center">
 **🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with ${
     currentJobs.length
   }+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+</p>
 
+<p align="center">
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
+</p>
 
 > [!TIP]
 > 🛠 Help us grow! Add new jobs by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).
@@ -352,13 +350,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ---
 
-## 🎯 **Fresh Software Job Listings 2026 (under 1 week)**
+## Fresh Software Jobs 2026
 
 ${generateJobTable(currentJobs)}
 
 
 ---
-## **✨ Insights on the Repo**
+## Insights on the Repo
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
@@ -460,7 +458,7 @@ ${
 
 ---
 
-## 🚀 **Job Hunt Tips That Actually Work**
+## Job Hunt Tips That Actually Work
 
 <img src="images/tips.png" alt="No fluff — just strategies that help.">
 
@@ -489,7 +487,7 @@ ${
 
 ---
 
-## 🤝 **Become a Contributor**
+## Become a Contributor
 
 <img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
 
