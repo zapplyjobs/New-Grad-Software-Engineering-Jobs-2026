@@ -303,7 +303,8 @@ async function generateReadme(
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
-**🛠 Help us grow! Add new jobs by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).**
+> [!TIP]
+> 🛠 Help us grow! Add new jobs by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).
 
 ---
 
@@ -330,11 +331,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 👁️ **Watch** for instant notifications on new jobs
 - 🔔 **Turn on notifications** to never miss FAANG+ postings
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date" />
-</picture>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Software-Engineering-Jobs-2026&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Software-Engineering-Jobs-2026&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Software-Engineering-Jobs-2026&type=date&legend=top-left" />
+ </picture>
 
 ---
 
@@ -446,15 +447,15 @@ ${
 ✅ **100% Real Jobs:** ${
     currentJobs.length
   }+ verified CS internships and entry-level software roles from ${totalCompanies} elite tech companies.
-
+<br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 15 minutes automatically.
-
+<br>
 ✅ **Entry-Level Focused:** Smart filtering for CS majors, new grads, and early-career engineers.
-
+<br>
 ✅ **Intern-to-FTE Pipeline:** Track internships that convert to full-time SWE roles.
-
+<br>
 ✅ **Direct Applications:** Skip recruiters -- apply straight to company career pages for Tesla, Amazon, and NVIDIA positions.
-
+<br>
 ✅ **Mobile-Optimized:** Perfect mobile experience for CS students job hunting between classes.
 
 ---
@@ -484,9 +485,7 @@ ${
 - **Reference their products:** "As a daily Slack user, I've noticed..." proves genuine interest.
 - [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
-<img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="310">
-<img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="310">
-<img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="310">
+<img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="310">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="310">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="310">
 
 ---
 
@@ -494,7 +493,7 @@ ${
 
 <img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
 
-Add new jobs! See the [contributing guide](#contributing-guide).
+Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 ### Contributing Guide
 #### 🎯 Roles We Accept
@@ -520,12 +519,6 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 - The README updates automatically via script.
 - Contributions go live at the next daily refresh (9 AM UTC).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
-
-### Thanks to all our contributors! **The real MVPs. 🏆**
-
-<a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=zapplyjobs/Research-Internships-for-Undergraduates"/>
-</a>
 
 ---
 
