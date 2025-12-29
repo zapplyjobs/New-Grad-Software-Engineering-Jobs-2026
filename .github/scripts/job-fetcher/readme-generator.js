@@ -485,7 +485,7 @@ ${
 - **Reference their products:** "As a daily Slack user, I've noticed..." proves genuine interest.
 - [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
-<img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="310">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="310">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="310">
+<img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="290">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="290">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="290">
 
 ---
 
@@ -519,8 +519,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 - The README updates automatically via script.
 - Contributions go live at the next daily refresh (9 AM UTC).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
-
----
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 
