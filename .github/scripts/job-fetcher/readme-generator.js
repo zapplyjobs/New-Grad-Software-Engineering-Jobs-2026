@@ -306,23 +306,41 @@ async function generateReadme(
 **🛠 Help us grow! Add new jobs by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).**
 
 ---
-## **Join Our Community**
+
+## Join Our Community
 
 <img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
 
 Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
 
-
- <div align="center">
-  <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="400"   alt="Join Discord - Job Finder & Career Hub by Zapply">
-  </a>
-</div>
-
+<p align="center">
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Join Our Reddit" width="200"></a>
+</p>
 
 ---
 
-## 📊 **Live Stats**
+## Alerts
+
+<img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
+
+**Don't miss new opportunities!**  
+- 🌟 **Star this repo** to get updates on your GitHub dashboard
+- 👁️ **Watch** for instant notifications on new jobs
+- 🔔 **Turn on notifications** to never miss FAANG+ postings
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date" />
+</picture>
+
+---
+
+## **Live Stats**
+
+<img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
 🔥 **Current Positions:** ${currentJobs.length} hot software engineering jobs  
 🏢 **Top Companies:** ${totalCompanies} elite tech including Tesla, NVIDIA, Raytheon  
@@ -340,6 +358,8 @@ ${generateJobTable(currentJobs)}
 
 ---
 ## **✨ Insights on the Repo**
+
+<img src="images/insights.png" alt="Insights pulled from current listings.">
 
 ### 🏢 **Top Companies**
 
@@ -421,7 +441,7 @@ ${
 
 ---
 
-## 🔮 **Why Software Engineers Choose Our Job Board**
+### 🔮 **Why Software Engineers Choose Our Job Board**
 
 ✅ **100% Real Jobs:** ${
     currentJobs.length
@@ -440,6 +460,8 @@ ${
 ---
 
 ## 🚀 **Job Hunt Tips That Actually Work**
+
+<img src="images/tips.png" alt="No fluff — just strategies that help.">
 
 ### 🔍 **Research Before Applying**
 
@@ -462,14 +484,48 @@ ${
 - **Reference their products:** "As a daily Slack user, I've noticed..." proves genuine interest.
 - [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
+<img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="310">
+<img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="310">
+<img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="310">
+
 ---
 
-## 📬 **Stay Updated**
+## 🤝 **Become a Contributor**
 
-- ⭐ **Star this repo** to bookmark and check daily.
-- 👀 **Watch** to get notified of new SWE jobs.
-- 📱 **Bookmark on your phone** for quick job hunting.
-- 🤝 **Become a contributor** and add new jobs! Visit our CONTRIBUTING GUIDE [here](CONTRIBUTING-GUIDE.md).
+<img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
+
+Add new jobs! See the [contributing guide](#contributing-guide).
+
+### Contributing Guide
+#### 🎯 Roles We Accept
+- Located in the US, Canada, or Remote.
+- Not already in our database.
+- Currently accepting applications.
+
+#### 🚀 How to Add Jobs
+1. Create a new issue.
+2. Select the "New Job" template.
+3. Fill out and submit the form.
+   > Submit separate issues for each position, even from the same company.
+
+#### ✏️ How to Update Jobs
+1. Copy the job URL to edit.
+2. Create a new issue.
+3. Select the "Edit Job" template.
+4. Paste the URL and describe changes.
+
+#### ⚡ What Happens Next
+- Our team reviews within 24-48 hours.
+- Approved jobs are added to the main list.
+- The README updates automatically via script.
+- Contributions go live at the next daily refresh (9 AM UTC).
+- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
+
+### Thanks to all our contributors! **The real MVPs. 🏆**
+
+<a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=zapplyjobs/Research-Internships-for-Undergraduates"/>
+</a>
 
 ---
 
