@@ -2680,5 +2680,35 @@
     "job_title": "Software Engineer [Multiple Positions Available]",
     "company": "JPMorgan Chase",
     "first_seen": "2025-12-29T14:32:11.641Z"
+  },
+  "amd-software-development-engineer-san-jose": {
+    "assigned_date": "2025-12-29T14:49:42.256Z",
+    "job_title": "Software Development Engineer",
+    "company": "AMD",
+    "first_seen": "2025-12-29T14:49:42.256Z"
+  },
+  "amd-c++-software-engineer,-ai-open-source-software-santa-clara": {
+    "assigned_date": "2025-12-29T14:49:42.256Z",
+    "job_title": "C++ Software Engineer, AI Open-Source Software",
+    "company": "AMD",
+    "first_seen": "2025-12-29T14:49:42.256Z"
+  },
+  "rivian-ml-compiler-engineer-palo-alto": {
+    "assigned_date": "2025-12-29T14:49:42.256Z",
+    "job_title": "ML Compiler Engineer",
+    "company": "RIVIAN",
+    "first_seen": "2025-12-29T14:49:42.256Z"
+  },
+  "ibm-associate-quality-engineer--entry-level-(lansing,-mi)-lansing": {
+    "assigned_date": "2025-12-29T14:49:42.257Z",
+    "job_title": "Associate Quality Engineer- Entry Level (Lansing, MI)",
+    "company": "IBM",
+    "first_seen": "2025-12-29T14:49:42.257Z"
+  },
+  "ibm-associate-application-developer---entry-level-(lansing,-mi)-lansing": {
+    "assigned_date": "2025-12-29T14:49:42.257Z",
+    "job_title": "Associate Application Developer - Entry Level (Lansing, MI)",
+    "company": "IBM",
+    "first_seen": "2025-12-29T14:49:42.257Z"
   }
 }
