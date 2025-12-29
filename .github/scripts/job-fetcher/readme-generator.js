@@ -477,7 +477,13 @@ ${
 - **Reference their products:** "As a daily Slack user, I've noticed..." proves genuine interest.
 - [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
-<img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250">
+<p align="center">
+  <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e"><img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0"><img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250"></a>
+</p>
 
 ---
 
