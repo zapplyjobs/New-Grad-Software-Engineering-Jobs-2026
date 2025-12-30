@@ -209,40 +209,42 @@ function generateJobTable(jobs) {
   return output;
 }
 
-// function generateInternshipSection(internshipData) {
-//   if (!internshipData) return "";
+function generateInternshipSection(internshipData) {
+  if (!internshipData) return "";
 
-//   return `
-// ---
+  return `
 
-// ## 🎓 **SWE Internships 2026**
+---
 
-// > **Top internships for software engineers, programmers, and computer science majors.**
+## SWE Internships 2026
 
-// ### 🏢 **FAANG+ Internship Programs**
+<img src="images/sej-internships.png" alt="Software engineering internships for 2026.">
 
-// | Company | Program | Apply Now |
-// |---------|---------|-----------|
-// ${internshipData.companyPrograms
-//   .map((program) => {
-   
-//     return `| ${program.emogi} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|`;
-//   })
-//   .join("\n")}
+### 🏢 **FAANG+ Internship Programs**
 
-// ### 📚 **Top Software Internship Resources**
+| Company | Program | Application Link |
+|---------|---------|------------------|
+${internshipData.companyPrograms
+  .map((program) => {
+    const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
+    const emoji = companyObj ? companyObj.emoji : "🏢";
+    return `| ${emoji} **${program.company}** | ${program.program} | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](${program.url})</p> |`;
+  })
+  .join("\n")}
 
-// | Platform | Description | Visit Now |
-// |----------|-------------|-----------|
-// ${internshipData.sources
-//   .map(
-//     (source) =>
-//       `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|`
-//   )
-//   .join("\n")}
+### 📚 **Top Software Internship Resources**
 
-// `;
-// }
+| Platform | Type | Description | Link |
+|----------|------|-------------|------|
+${internshipData.sources
+  .map(
+    (source) =>
+      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [<img src="images/visit.png" width="75" alt="Visit button">](${source.url}) |`
+  )
+  .join("\n")}
+
+`;
+}
 
 function generateArchivedSection(archivedJobs, stats) {
   if (archivedJobs.length === 0) return "";
@@ -372,6 +374,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 🏢 **Top Companies:** ${totalCompanies} companies<br>
 ${faangJobs > 0 ? '⭐ **FAANG+ Jobs & Internships:** ' + faangJobs + ' premium opportunities<br>' : ''}📅 **Last Updated:** ${currentDate}<br>
 🤖 **Next Update:** Tomorrow at 9 AM UTC
+
+${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ---
 
@@ -596,8 +600,9 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
   }
 }
 
-module.exports = {
+mmodule.exports = {
   generateJobTable,
+  generateInternshipSection,
   generateArchivedSection,
   generateReadme,
   updateReadme,
