@@ -8,7 +8,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-44-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-45-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-13-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-6-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 13+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 44+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 13+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 45+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -73,7 +73,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-🔥 **Current Positions:** 44 software engineering jobs<br>
+🔥 **Current Positions:** 45 software engineering jobs<br>
 🏢 **Top Companies:** 13 companies<br>
 ⭐ **FAANG+ Jobs & Internships:** 6 premium opportunities<br>📅 **Last Updated:** December 30, 2025<br>
 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -137,15 +137,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/122258040807137990-software-engineer-phd-early-career-aimachine-learning-2026-start?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3) | 5d |
 | Software Engineer, Resource Engineering, Cloud Storage | Raleigh, NC | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/76699915425587910-software-engineer-resource-engineering-cloud-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 6d |
 
-### 🏢 **Top Tech** (12 positions)
+### 🏢 **Top Tech** (14 positions)
 
-#### 🔶 **AMD** (1 position)
+#### 🔶 **AMD** (2 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Software Development Engineer | San Jose, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/67796/login) | 1d |
+| C++ Software Engineer, AI Open-Source Software | Santa Clara, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/72464/login) | 1d |
 
-#### ☁️ **Salesforce** (7 positions)
+#### ☁️ **Salesforce** (8 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -156,6 +157,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer SMTS | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr323654/software-engineer-smts/) | 6d |
 | Software Engineering MTS, ML & IAM | Bellevue, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr323104/software-engineering-mts-ml-iam/) | 6d |
 | Security Software Engineer, Endpoint Protection | Bellevue, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr323494/security-software-engineer-endpoint-protection/) | 6d |
+| Software Engineer LMTS — Big Data Focus | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr323652/software-engineer-lmts-big-data-focus/) | 6d |
 
 #### 🔵 **IBM** (4 positions)
 
@@ -228,7 +230,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer, Onboard Evaluation | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.withwaymo.com/jobs/software-engineer-onboard-evaluation-mountain-view-california-united-states) | 5d |
 | Software Engineer, Planner Vehicle Dynamics | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.withwaymo.com/jobs/software-engineer-planner-vehicle-dynamics-mountain-view-california-united-states-san-francisco-pittsburgh-pennsylvania) | 5d |
 
-### 🏭 **Manufacturing & Industrial** (4 positions)
+### 🏭 **Manufacturing & Industrial** (3 positions)
 
 #### 💾 **Micron Technology** (1 position)
 
@@ -236,13 +238,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-------|-----------|-----|
 | New College Grad - Yield Analysis Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/38975434) | 2d |
 
-#### ⚡ **ABB** (3 positions)
+#### ⚡ **ABB** (2 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Quality Engineer | Mount Juliet, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.abb/global/en/job/JR00008605/Quality-Engineer) | 5d |
 | R&D Associate Engineer | Cleveland, OH | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.abb/global/en/job/JR00010453/R-D-Associate-Engineer) | 5d |
-| Field Service Engineer - Drives | Houston, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.abb/global/en/job/JR00012229/Field-Service-Engineer-Drives) | 5d |
 
 
 
@@ -263,34 +264,34 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 #### ☁️ **Enterprise & Cloud** (4 companies)
-📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (2 positions) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (7) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (4)
+📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (2 positions) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (2) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (8) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (4)
 
 ---
 ### 📈 **Experience Breakdown**
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 13 | 30% | No or minimal experience |
-| 🟡 Beginner & Early Career | 9 | 20% | 1-2 years of experience |
-| 🔴 Manager         | 22 | 50% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 12 | 27% | No or minimal experience |
+| 🟡 Beginner & Early Career | 10 | 22% | 1-2 years of experience |
+| 🔴 Manager         | 23 | 51% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
+- **San Francisco, CA**: 6 positions
 - **Annapolis Junction, MD**: 5 positions
-- **San Francisco, CA**: 5 positions
 - **Mountain View, CA**: 4 positions
 - **San Jose, CA**: 2 positions
 - **Plano, TX**: 2 positions
-- **Houston, TX**: 2 positions
 - **Lansing, MI**: 2 positions
 - **Sunnyvale, CA**: 2 positions
+- **Westerville, OH**: 2 positions
 
 ---
 
 ### 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 44+ verified CS internships and entry-level software roles from 13 elite tech companies.
+✅ **100% Real Jobs:** 45+ verified CS internships and entry-level software roles from 13 elite tech companies.
 <br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 15 minutes automatically.
 <br>
@@ -374,16 +375,16 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 129 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 130 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 129 positions
+- **📁 Total Jobs**: 130 positions
 - **🏢 Companies**: 13 companies  
-- **⭐ FAANG+ Jobs & Internships**: 39 roles
+- **⭐ FAANG+ Jobs & Internships**: 40 roles
 
-### ⭐ **FAANG+** (39 positions)
+### ⭐ **FAANG+** (40 positions)
 
 #### 📦 **Amazon** (9 positions)
 
@@ -432,12 +433,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 </details>
 
-#### 🍎 **Apple** (5 positions)
+#### 🍎 **Apple** (6 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Software Development Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/en-us/details/200630511-0836/software-development-engineer?team=SFTWR) | 2w |
 | Swift Software Engineer | San Francisco, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/en-us/details/200636390-3577/swift-software-engineer?team=SFTWR) | 2w |
+| Software Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/en-us/details/200635365-0836/software-engineer?team=SFTWR) | 3w |
 | ML Software Engineer | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/en-us/details/200634719-3337/ml-software-engineer?team=MLAI) | 3w |
 | Software Engineer (Data) | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/en-us/details/200630500-0836/software-engineer-data?team=SFTWR) | 3w |
 | Software QA Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/en-us/details/200634970-0836/software-qa-engineer?team=SFTWR) | 3w |
@@ -474,7 +476,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | LMTS Software Engineer - Agentforce | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr321269/lmts-software-engineer-agentforce/) | 1w |
-| Software Engineering Multiple Levels | Bellevue, WA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr318440/software-engineering-multiple-levels/) | 1w |
+| SMTS Software Engineer - ML Infrastructure | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr320608/smts-software-engineer-ml-infrastructure/) | 1w |
 | SMTS/LMTS Software Engineer - ML Infrastructure | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr321128/smtslmts-software-engineer-ml-infrastructure/) | 1w |
 | Software Engineering AMTS/MTS (College Grad) | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr307625/software-engineering-amtsmts-college-grad/) | 2w |
 | Software Engineering LMTS, Compute Infrastructure | San Francisco, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr317447/software-engineering-lmts-compute-infrastructure/) | 1mo |
@@ -610,8 +612,8 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Memory Design Engineer, DRAM | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/38851125) | 1w |
 | Product Applications Engineer | Longmont, CO | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/38368859) | 1w |
+| Memory Design Engineer, DRAM | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/38851125) | 1w |
 
 #### ⚡ **ABB** (1 position)
 
@@ -644,7 +646,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 44 current opportunities from 13 elite companies.**
+**🎯 45 current opportunities from 13 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
