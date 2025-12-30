@@ -600,7 +600,7 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
   }
 }
 
-mmodule.exports = {
+module.exports = {
   generateJobTable,
   generateInternshipSection,
   generateArchivedSection,
