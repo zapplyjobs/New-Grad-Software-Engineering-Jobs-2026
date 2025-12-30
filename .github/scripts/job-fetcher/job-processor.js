@@ -544,7 +544,7 @@ async function processJobs() {
                 if (!dateStr) return 0;
                 
                 // Handle relative format (1d, 2w, 3mo, etc.)
-                const match = String(dateStr).match(/^(\d+)([hdwmo])$/i);
+                const match = String(dateStr).match(/^(\d+)(h|d|w|mo)$/i);
                 if (match) {
                     const value = parseInt(match[1]);
                     const unit = match[2].toLowerCase();
