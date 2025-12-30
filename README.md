@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
+<img src="images/sej-heading.png" alt="Software Engineering Jobs 2026 - Illustration of people working on tech.">
 
 # Software Engineering Jobs 2026
 
@@ -63,15 +63,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 <img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
 
 **Don't miss new opportunities!**  
-- 🌟 **Star this repo** to get updates on your GitHub dashboard
-- 👁️ **Watch** for instant notifications on new jobs
-- 🔔 **Turn on notifications** to never miss FAANG+ postings
-
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Software-Engineering-Jobs-2026&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Software-Engineering-Jobs-2026&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Software-Engineering-Jobs-2026&type=date&legend=top-left" />
- </picture>
+- 🌟 **Star this repo** to get updates on your GitHub dashboard.
+- 👁️ **Watch** for instant notifications on new jobs.
+- 🔔 **Turn on notifications** to never miss FAANG+ postings.
 
 ---
 
@@ -89,6 +83,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 ## Fresh Software Jobs 2026
+
+<img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 ### ⭐ **FAANG+** (12 positions)
 
@@ -133,6 +129,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineering LMTS | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr322448/software-engineering-lmts/) | 5d |
 | Software Engineer LMTS | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr323653/software-engineer-lmts/) | 6d |
 | Software Engineer SMTS | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr323654/software-engineer-smts/) | 6d |
+| Software Engineering SMTS | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr317574/software-engineering-smts/) | 5d |
+| Software Engineering LMTS | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr289045/software-engineering-lmts/) | 5d |
 | Software Engineering MTS, ML & IAM | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr323104/software-engineering-mts-ml-iam/) | 6d |
 | Software Engineering LMTS, Compute Infrastructure | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr317447/software-engineering-lmts-compute-infrastructure/) | 1mo |
 | Software Engineer LMTS — Big Data Focus | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr323652/software-engineer-lmts-big-data-focus/) | 6d |
@@ -357,7 +355,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 - **🏢 Companies**: 12 companies  
 - **⭐ FAANG+ Jobs & Internships**: 33 roles
 
-### ⭐ **FAANG+** (33 positions)
+### ⭐ **FAANG+** (35 positions)
 
 #### 📦 **Amazon** (9 positions)
 
@@ -365,6 +363,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 |------|----------|-----------|-----|
 | Software Engineer | Irvine, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3144113/software-engineer-i) | 2w |
 | Software Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3145977/software-engineer) | 1w |
+| AGI Inference Software Development Engineering, AGI Inference | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141473/agi-inference-software-development-engineering-agi-inference) | 2w |
 | Software Development Engineer | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3146656/software-development-engineer) | 1w |
 | Software Development Engineer, AWS Hardware Engineering, AWS Hardware Engineering | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3143860/software-development-engineer-aws-hardware-engineering-aws-hardware-engineering) | 2w |
 | AGI Inference Software Development Engineering, AGI Inference | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141473/agi-inference-software-development-engineering-agi-inference) | 2w |
@@ -379,6 +378,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Engineer, Platforms and Devices | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139790908387140294-software-engineer-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1w |
+| Software Engineer, AI/ML Infrastructure, Ads | Pittsburgh, PA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135050548687577798-software-engineer-aiml-infrastructure-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 2w |
 | Software Engineer, Platforms and Devices | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129963490637947590-software-engineer-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1w |
 | Software Engineer, AI/ML Infrastructure, Ads | Pittsburgh, PA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135050548687577798-software-engineer-aiml-infrastructure-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 2w |
 | Software Engineer, Machine Learning, Google Cloud Compute | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82531323519869638-software-engineer-machine-learning-google-cloud-compute?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 2w |
@@ -401,12 +401,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 </details>
 
-#### 🍎 **Apple** (4 positions)
+#### 🍎 **Apple** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Swift Software Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636390-3577/swift-software-engineer?team=SFTWR) | 2w |
 | Software Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635365-0836/software-engineer?team=SFTWR) | 3w |
+| Software Engineer (Data) | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630500-0836/software-engineer-data?team=SFTWR) | 3w |
 | ML Software Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200634719-3337/ml-software-engineer?team=MLAI) | 3w |
 | Software Engineer (Data) | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630500-0836/software-engineer-data?team=SFTWR) | 3w |
 
@@ -428,11 +429,12 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Automation Software Development Integration Engineer | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Automation-Software-Development-Integration-Engineer_JR0277568?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=ace7a3d23b7e01a0544279031a0ec85c) | 4w |
 | Software Application Development Engineer | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0277566-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=ace7a3d23b7e01a0544279031a0ec85c) | 4w |
 
-#### 🔶 **AMD** (1 position)
+#### 🔶 **AMD** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Development Engineer – SGLang | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/75640/login) | 1w |
+| Software Development Engineer - Kernel Development | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/76254/login) | 1w |
 
 #### ☁️ **Salesforce** (4 positions)
 
