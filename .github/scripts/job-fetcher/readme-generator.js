@@ -43,9 +43,9 @@ function generateJobTable(jobs) {
   );
 
   if (jobs.length === 0) {
-    return `| Company | Role | Location | Apply Now | Age |
-|---------|------|----------|-----------|-----|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* |`;
+    return `| Company | Role | Location | Level | Apply Now | Age |
+    |---------|------|----------|-------|-----------|-----|
+    | *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |`;
   }
 
   // Create a map of lowercase company names to actual names for case-insensitive matching
@@ -154,8 +154,8 @@ function generateJobTable(jobs) {
           output += `#### ${emoji} **${companyName}** (${companyJobs.length} ${positionText})\n\n`;
         }
 
-        output += `| Role | Location | Apply Now | Age |\n`;
-        output += `|------|----------|-----------|-----|\n`;
+        output += `| Role | Location | Level | Apply Now | Age |\n`;
+        output += `|------|----------|-------|-----------|-----|\n`;
 
         companyJobs.forEach((job) => {
           const role = job.job_title;
@@ -163,6 +163,19 @@ function generateJobTable(jobs) {
           const posted = job.job_posted_at;
           const applyLink =
             job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+          
+          // Get experience level and create badge
+          const level = getExperienceLevel(job.job_title, job.job_description);
+          let levelBadge = '';
+          if (level === 'Entry-Level') {
+            levelBadge = '![Entry](https://img.shields.io/badge/Entry-00C853)';
+          } else if (level === 'Mid-Level') {
+            levelBadge = '![Mid](https://img.shields.io/badge/Mid-FFD600)';
+          } else if (level === 'Senior') {
+            levelBadge = '![Senior](https://img.shields.io/badge/Senior-FF5252)';
+          } else {
+            levelBadge = '![Unknown](https://img.shields.io/badge/Unknown-9E9E9E)';
+          }
 
           let statusIndicator = "";
           const description = (job.job_description || "").toLowerCase();
@@ -176,7 +189,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | [<img src="./image.png" width="100" alt="Apply">](${applyLink}) | ${posted} |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | ${levelBadge} | [<img src="./image.png" width="100" alt="Apply">](${applyLink}) | ${posted} |\n`;
         });
 
         if (companyJobs.length > 15) {
