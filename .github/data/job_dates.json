@@ -1,118 +1,4 @@
 {
-  "google-software-engineer-iii,-cloud-ai-security-and-compliance-sunnyvale": {
-    "assigned_date": "2025-10-30T15:50:25.957Z",
-    "job_title": "Software Engineer III, Cloud AI Security and Compliance",
-    "company": "Google",
-    "first_seen": "2025-10-30T15:50:25.957Z"
-  },
-  "jpmorgan-chase-aws/scala/python-software-engineer-jersey-city": {
-    "assigned_date": "2025-10-30T17:05:42.266Z",
-    "job_title": "AWS/Scala/Python Software Engineer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-10-30T17:05:42.266Z"
-  },
-  "ibm-software-engineer-apprentince-research-triangle-park": {
-    "assigned_date": "2025-10-30T17:45:23.742Z",
-    "job_title": "Software Engineer Apprentince",
-    "company": "IBM",
-    "first_seen": "2025-10-30T17:45:23.742Z"
-  },
-  "salesforce-software-engineering-lmts-burlington": {
-    "assigned_date": "2025-10-30T17:45:23.743Z",
-    "job_title": "Software Engineering LMTS",
-    "company": "Salesforce",
-    "first_seen": "2025-10-30T17:45:23.743Z"
-  },
-  "salesforce-localization-engineer-mts-burlington": {
-    "assigned_date": "2025-10-30T17:45:23.743Z",
-    "job_title": "Localization Engineer MTS",
-    "company": "Salesforce",
-    "first_seen": "2025-10-30T17:45:23.743Z"
-  },
-  "infineon-technologies-graduate---analog-engineer-warwick": {
-    "assigned_date": "2025-10-30T17:45:23.743Z",
-    "job_title": "Graduate - Analog Engineer",
-    "company": "Infineon Technologies",
-    "first_seen": "2025-10-30T17:45:23.743Z"
-  },
-  "amd-software-development-engineer-": {
-    "assigned_date": "2025-10-30T18:40:00.958Z",
-    "job_title": "Software Development Engineer",
-    "company": "AMD",
-    "first_seen": "2025-10-30T18:40:00.958Z"
-  },
-  "amd-software-development-engineer---graphics-": {
-    "assigned_date": "2025-10-30T18:40:00.958Z",
-    "job_title": "Software Development Engineer - Graphics",
-    "company": "AMD",
-    "first_seen": "2025-10-30T18:40:00.958Z"
-  },
-  "amd-system-software-engineer-for-ml-platform-": {
-    "assigned_date": "2025-10-30T18:40:00.958Z",
-    "job_title": "System Software Engineer for ML Platform",
-    "company": "AMD",
-    "first_seen": "2025-10-30T18:40:00.958Z"
-  },
-  "amd-product-development-engineer-": {
-    "assigned_date": "2025-10-30T18:40:00.958Z",
-    "job_title": "Product Development Engineer",
-    "company": "AMD",
-    "first_seen": "2025-10-30T18:40:00.958Z"
-  },
-  "amd-ai-software-engineer,-rocm-and-opensource-": {
-    "assigned_date": "2025-10-30T18:40:00.958Z",
-    "job_title": "AI Software Engineer, ROCm and Opensource",
-    "company": "AMD",
-    "first_seen": "2025-10-30T18:40:00.958Z"
-  },
-  "amd-linux-kernel-software-engineer-": {
-    "assigned_date": "2025-10-30T18:40:00.958Z",
-    "job_title": "Linux Kernel Software Engineer",
-    "company": "AMD",
-    "first_seen": "2025-10-30T18:40:00.958Z"
-  },
-  "amd-c++-software-engineer,-ai-open-source-software-": {
-    "assigned_date": "2025-10-30T18:40:00.958Z",
-    "job_title": "C++ Software Engineer, AI Open-Source Software",
-    "company": "AMD",
-    "first_seen": "2025-10-30T18:40:00.958Z"
-  },
-  "google-software-engineer,-chrome,-macos-new-york": {
-    "assigned_date": "2025-10-30T18:40:00.958Z",
-    "job_title": "Software Engineer, Chrome, macOS",
-    "company": "Google",
-    "first_seen": "2025-10-30T18:40:00.958Z"
-  },
-  "google-software-engineer,-geo-data-new-york": {
-    "assigned_date": "2025-10-30T18:40:00.958Z",
-    "job_title": "Software Engineer, Geo Data",
-    "company": "Google",
-    "first_seen": "2025-10-30T18:40:00.958Z"
-  },
-  "abb-r&d-hw-engineer-bartlesville": {
-    "assigned_date": "2025-10-30T19:18:45.001Z",
-    "job_title": "R&D HW Engineer",
-    "company": "ABB",
-    "first_seen": "2025-10-30T19:18:45.001Z"
-  },
-  "google-software-engineer,-ad-safety-mountain-view": {
-    "assigned_date": "2025-10-30T20:50:57.694Z",
-    "job_title": "Software Engineer, Ad Safety",
-    "company": "Google",
-    "first_seen": "2025-10-30T20:50:57.694Z"
-  },
-  "google-software-engineer,-google-fi-san-francisco": {
-    "assigned_date": "2025-10-30T21:19:47.717Z",
-    "job_title": "Software Engineer, Google Fi",
-    "company": "Google",
-    "first_seen": "2025-10-30T21:19:47.717Z"
-  },
-  "micron-technology-mechanical-design-engineer-san-jose": {
-    "assigned_date": "2025-10-30T22:18:29.395Z",
-    "job_title": "Mechanical Design Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-10-30T22:18:29.395Z"
-  },
   "jpmorgan-chase-software-engineer-iii---peoplesoft-crm-plano": {
     "assigned_date": "2025-10-31T10:32:42.782Z",
     "job_title": "Software Engineer III - Peoplesoft CRM",
@@ -2716,5 +2602,11 @@
     "job_title": "Software Engineer III - Full Stack",
     "company": "JPMorgan Chase",
     "first_seen": "2025-12-29T15:35:46.753Z"
+  },
+  "jpmorgan-chase-software-engineer-iii---database/java/-aws-jersey-city": {
+    "assigned_date": "2025-12-30T05:34:59.442Z",
+    "job_title": "Software Engineer III - Database/Java/ AWS",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-12-30T05:34:59.442Z"
   }
 }
