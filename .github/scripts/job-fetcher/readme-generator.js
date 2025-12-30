@@ -11,6 +11,32 @@ const {
 } = require("./utils");
 // Import or load the JSON configuration
 
+// Filter jobs by age - jobs posted within last 7 days are "current", older ones are "archived"
+function filterJobsByAge(allJobs, maxAgeDays = 7) {
+  const now = new Date();
+  const cutoffDate = new Date(now.getTime() - maxAgeDays * 24 * 60 * 60 * 1000);
+
+  const currentJobs = [];
+  const archivedJobs = [];
+
+  allJobs.forEach((job) => {
+    // Parse the job_posted_at field (adjust format as needed)
+    const postedDate = new Date(job.job_posted_at);
+
+    if (isNaN(postedDate.getTime())) {
+      // If date is invalid, treat as current
+      currentJobs.push(job);
+    } else if (postedDate >= cutoffDate) {
+      currentJobs.push(job);
+    } else {
+      archivedJobs.push(job);
+    }
+  });
+
+  console.log(`📅 Filtered: ${currentJobs.length} current (≤${maxAgeDays} days), ${archivedJobs.length} archived (>${maxAgeDays} days)`);
+  return { currentJobs, archivedJobs };
+}
+
 function generateJobTable(jobs) {
   console.log(
     `🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`
@@ -257,7 +283,7 @@ async function generateReadme(
   return `<div align="center">
 
 <!-- Banner -->
-<img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
+<img src="images/sej-heading.png" alt="Software Engineering Jobs 2026 - Illustration of people working on tech.">
 
 # Software Engineering Jobs 2026
 
@@ -319,15 +345,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 <img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
 
 **Don't miss new opportunities!**  
-- 🌟 **Star this repo** to get updates on your GitHub dashboard
-- 👁️ **Watch** for instant notifications on new jobs
-- 🔔 **Turn on notifications** to never miss FAANG+ postings
-
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Software-Engineering-Jobs-2026&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Software-Engineering-Jobs-2026&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Software-Engineering-Jobs-2026&type=date&legend=top-left" />
- </picture>
+- 🌟 **Star this repo** to get updates on your GitHub dashboard.
+- 👁️ **Watch** for instant notifications on new jobs.
+- 🔔 **Turn on notifications** to never miss FAANG+ postings.
 
 ---
 
@@ -345,6 +365,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 ## Fresh Software Jobs 2026
+
+<img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 ${generateJobTable(currentJobs)}
 
@@ -565,8 +587,8 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
 
 module.exports = {
   generateJobTable,
-  
   generateArchivedSection,
   generateReadme,
   updateReadme,
+  filterJobsByAge,
 };
