@@ -239,7 +239,7 @@ ${internshipData.companyPrograms
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [<img src="images/visit.png" width="75" alt="Visit button">](${source.url}) |`
+      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [<img src="images/sej-visit.png" width="75" alt="Visit button">](${source.url}) |`
   )
   .join("\n")}
 
