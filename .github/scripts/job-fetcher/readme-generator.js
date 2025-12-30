@@ -292,7 +292,7 @@ async function generateReadme(
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-${faangJobs}-red?style=flat&logo=star)
+${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + faangJobs + '-red?style=flat&logo=star)' : ''}
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -355,12 +355,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-🔥 **Current Positions:** ${currentJobs.length} hot software engineering jobs  
-🏢 **Top Companies:** ${totalCompanies} elite tech including Tesla, NVIDIA, Raytheon  
-⭐ **FAANG+ Jobs & Internships:** ${faangJobs} premium opportunities  
-📅 **Last Updated:** ${currentDate}  
-🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Developer Jobs:** ${archivedJobs.length} (older than 1 week)
+🔥 **Current Positions:** ${currentJobs.length} software engineering jobs<br>
+🏢 **Top Companies:** ${totalCompanies} companies<br>
+${faangJobs > 0 ? '⭐ **FAANG+ Jobs & Internships:** ' + faangJobs + ' premium opportunities<br>' : ''}📅 **Last Updated:** ${currentDate}<br>
+🤖 **Next Update:** Tomorrow at 9 AM UTC
 
 ---
 
