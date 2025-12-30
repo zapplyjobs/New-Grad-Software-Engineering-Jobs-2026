@@ -189,7 +189,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | ${levelBadge} | [<img src="./image.png" width="100" alt="Apply">](${applyLink}) | ${posted} |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply button">](${applyLink}) | ${posted} |\n`;
         });
 
         if (companyJobs.length > 15) {
