@@ -1,34 +1,4 @@
 {
-  "arm-graduate-software-engineer-cambridge": {
-    "assigned_date": "2025-10-31T19:58:16.407Z",
-    "job_title": "Graduate Software Engineer",
-    "company": "Arm",
-    "first_seen": "2025-10-31T19:58:16.407Z"
-  },
-  "google-software-engineer,-ml-infrastructure,-ads-pittsburgh": {
-    "assigned_date": "2025-10-31T20:44:42.428Z",
-    "job_title": "Software Engineer, ML Infrastructure, Ads",
-    "company": "Google",
-    "first_seen": "2025-10-31T20:44:42.428Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---react-": {
-    "assigned_date": "2025-10-31T21:43:53.019Z",
-    "job_title": "Software Engineer III - React",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-10-31T21:43:53.019Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---golang-new-york": {
-    "assigned_date": "2025-10-31T21:58:38.164Z",
-    "job_title": "Software Engineer III - Golang",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-10-31T21:58:38.164Z"
-  },
-  "salesforce-software-engineer,-mts-(force.com-developer)-san-francisco": {
-    "assigned_date": "2025-11-01T00:45:52.400Z",
-    "job_title": "Software Engineer, MTS (Force.com Developer)",
-    "company": "Salesforce",
-    "first_seen": "2025-11-01T00:45:52.400Z"
-  },
   "arm-software-engineer---media-driver-cambridge": {
     "assigned_date": "2025-11-01T18:46:49.126Z",
     "job_title": "Software Engineer - Media Driver",
@@ -2146,5 +2116,11 @@
     "job_title": "Software Engineer III - PySpark Developer",
     "company": "JPMorgan Chase",
     "first_seen": "2025-12-30T19:16:16.760Z"
+  },
+  "jpmorgan-chase-software-engineer-iii---python/agentic-ai-wilmington": {
+    "assigned_date": "2025-12-31T05:30:26.530Z",
+    "job_title": "Software Engineer III - Python/Agentic AI",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-12-31T05:30:26.530Z"
   }
 }
