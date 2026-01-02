@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "AI Models GPU deployment software Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "• On AMD GPUs in upstream open-source repositories Collaborate and interact with internal GPU library teams to analyze and optimize training and inference for AIWork with open-source framework maintainers to understand their requirements – and have your code changes integrated upstream Optimize GPU kernels, understand and drive AI operator performance (GEMM, Attention, etc.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Excellent C/C++/Python programming and software design skills, including debugging, performance analysis, and test design.\n• Experiences to run workloads on large scale heterogeneous cluster is a plus Knowledge of GPU computing (HIP, CUDA, OpenCL)AI model experience or knowledge - Natural Language Processing, Vision, Audio, Recommendation systems Masters or PhD or equivalent experience in Computer Science, Computer Engineering, or related field AMD Partner Hub Authorized Distributors AMD University Program Experiences to optimize GPU kernels for performance is a plus Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Optimize AI frameworks like PyTorch, TensorFlow, etc.\n• ) with specialized teamsWork in a distributed computing setting to optimize for both scale-up (multi-GPU) and scale-out (multi-node) systems Apply your knowledge of software engineering best practices Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/75423/login",
+    "id": "amd-ai-models-gpu-deployment-software-engineer-austin"
+  }
+]
