@@ -1,130 +1,4 @@
 {
-  "arm-5g/network-performance-engineer-austin": {
-    "assigned_date": "2025-11-03T21:42:35.643Z",
-    "job_title": "5G/Network Performance Engineer",
-    "company": "Arm",
-    "first_seen": "2025-11-03T21:42:35.643Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---ai/ml-houston": {
-    "assigned_date": "2025-11-04T07:02:05.197Z",
-    "job_title": "Software Engineer III - AI/ML",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-04T07:02:05.197Z"
-  },
-  "jpmorgan-chase-software-engineer-[multiple-positions-available]-palo-alto": {
-    "assigned_date": "2025-11-04T12:24:09.590Z",
-    "job_title": "Software Engineer [Multiple Positions Available]",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-04T12:24:09.590Z"
-  },
-  "jpmorgan-chase-software-engineering-[multiple-positions-available]-columbus": {
-    "assigned_date": "2025-11-04T14:34:49.792Z",
-    "job_title": "Software Engineering [Multiple Positions Available]",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-04T14:34:49.792Z"
-  },
-  "jpmorgan-chase-cloud-software-engineer-iii---aws-columbus": {
-    "assigned_date": "2025-11-04T17:47:16.469Z",
-    "job_title": "Cloud Software Engineer III - AWS",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-04T17:47:16.469Z"
-  },
-  "arm-ip-eda-verification-&-automation-engineer-austin": {
-    "assigned_date": "2025-11-04T18:56:16.718Z",
-    "job_title": "IP EDA Verification & Automation Engineer",
-    "company": "Arm",
-    "first_seen": "2025-11-04T18:56:16.718Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---sql-database-engineer-columbus": {
-    "assigned_date": "2025-11-04T20:48:43.336Z",
-    "job_title": "Software Engineer III - SQL Database Engineer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-04T20:48:43.336Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---aws-new-york": {
-    "assigned_date": "2025-11-04T21:32:47.007Z",
-    "job_title": "Software Engineer III - AWS",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-04T21:32:47.007Z"
-  },
-  "google-software-engineer-iii,-wear-os,-google-maps-san-francisco": {
-    "assigned_date": "2025-11-04T21:43:31.786Z",
-    "job_title": "Software Engineer III, Wear OS, Google Maps",
-    "company": "Google",
-    "first_seen": "2025-11-04T21:43:31.786Z"
-  },
-  "google-software-engineer,-motion-and-ai-algorithms,-android-ecosystem-mountain-view": {
-    "assigned_date": "2025-11-04T23:46:00.680Z",
-    "job_title": "Software Engineer, Motion and AI Algorithms, Android Ecosystem",
-    "company": "Google",
-    "first_seen": "2025-11-04T23:46:00.680Z"
-  },
-  "salesforce-ai-forward-deployed-engineer-(early-career)-bellevue": {
-    "assigned_date": "2025-11-05T03:27:42.636Z",
-    "job_title": "AI Forward Deployed Engineer (Early Career)",
-    "company": "Salesforce",
-    "first_seen": "2025-11-05T03:27:42.636Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---react-developer-jersey-city": {
-    "assigned_date": "2025-11-05T09:03:58.856Z",
-    "job_title": "Software Engineer III - React Developer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-05T09:03:58.856Z"
-  },
-  "jpmorgan-chase-android-developer,-software-engineer-columbus": {
-    "assigned_date": "2025-11-05T09:03:58.856Z",
-    "job_title": "Android Developer, Software Engineer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-05T09:03:58.856Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---mainframe-wilmington": {
-    "assigned_date": "2025-11-05T13:36:01.000Z",
-    "job_title": "Software Engineer III - Mainframe",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-05T13:36:01.000Z"
-  },
-  "google-software-engineer-iii,-infrastructure,-platforms-infrastructure-engineering-madison": {
-    "assigned_date": "2025-11-05T13:52:01.249Z",
-    "job_title": "Software Engineer III, Infrastructure, Platforms Infrastructure Engineering",
-    "company": "Google",
-    "first_seen": "2025-11-05T13:52:01.249Z"
-  },
-  "jpmorgan-chase-principle-software-engineer-palo-alto": {
-    "assigned_date": "2025-11-05T20:47:36.104Z",
-    "job_title": "Principle Software Engineer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-05T20:47:36.104Z"
-  },
-  "amd-ai-software-development-engineer-san-jose": {
-    "assigned_date": "2025-11-05T20:58:45.124Z",
-    "job_title": "AI Software Development Engineer",
-    "company": "AMD",
-    "first_seen": "2025-11-05T20:58:45.124Z"
-  },
-  "micron-technology-new-college-grad---it-software-engineer-boise": {
-    "assigned_date": "2025-11-05T21:46:01.600Z",
-    "job_title": "New College Grad - IT Software Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-05T21:46:01.600Z"
-  },
-  "google-software-engineer-iii,-infrastructure,-google-cloud-business-platforms-irvine": {
-    "assigned_date": "2025-11-06T00:43:11.250Z",
-    "job_title": "Software Engineer III, Infrastructure, Google Cloud Business Platforms",
-    "company": "Google",
-    "first_seen": "2025-11-06T00:43:11.250Z"
-  },
-  "google-software-engineer,-bigquery-platform,-infrastructure-kirkland": {
-    "assigned_date": "2025-11-06T00:43:11.250Z",
-    "job_title": "Software Engineer, BigQuery Platform, Infrastructure",
-    "company": "Google",
-    "first_seen": "2025-11-06T00:43:11.250Z"
-  },
-  "google-software-engineer,-google-distributed-cloud-air-gapped-sunnyvale": {
-    "assigned_date": "2025-11-06T01:20:40.103Z",
-    "job_title": "Software Engineer, Google Distributed Cloud Air-Gapped",
-    "company": "Google",
-    "first_seen": "2025-11-06T01:20:40.103Z"
-  },
   "micron-technology-memory-design-engineer,-hbm-richardson": {
     "assigned_date": "2025-11-06T09:34:17.995Z",
     "job_title": "Memory Design Engineer, HBM",
@@ -2110,5 +1984,11 @@
     "job_title": "Software Engineer II- Big Data",
     "company": "JPMorgan Chase",
     "first_seen": "2026-01-02T21:15:26.821Z"
+  },
+  "google-software-engineer,-cluster-networking-sunnyvale": {
+    "assigned_date": "2026-01-05T08:40:50.438Z",
+    "job_title": "Software Engineer, Cluster Networking",
+    "company": "Google",
+    "first_seen": "2026-01-05T08:40:50.438Z"
   }
 }
