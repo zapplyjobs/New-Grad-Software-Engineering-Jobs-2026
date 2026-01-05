@@ -1,10 +1,4 @@
 {
-  "micron-technology-memory-design-engineer,-hbm-richardson": {
-    "assigned_date": "2025-11-06T09:34:17.995Z",
-    "job_title": "Memory Design Engineer, HBM",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-06T09:34:17.995Z"
-  },
   "amd-post-silicon-software-tools-engineer-austin": {
     "assigned_date": "2025-11-06T17:14:29.694Z",
     "job_title": "Post-Silicon Software Tools Engineer",
@@ -1990,5 +1984,11 @@
     "job_title": "Software Engineer, Cluster Networking",
     "company": "Google",
     "first_seen": "2026-01-05T08:40:50.438Z"
+  },
+  "arm-ml/data-software-engineer-(fixed-term-12-months)-cambridge": {
+    "assigned_date": "2026-01-05T10:54:22.706Z",
+    "job_title": "ML/Data Software Engineer (Fixed-Term 12 months)",
+    "company": "Arm",
+    "first_seen": "2026-01-05T10:54:22.706Z"
   }
 }
