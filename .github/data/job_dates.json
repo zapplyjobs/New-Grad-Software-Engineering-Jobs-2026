@@ -2002,5 +2002,23 @@
     "job_title": "Software Engineer, Applied Machine Learning, Planner Technology",
     "company": "Waymo",
     "first_seen": "2026-01-05T19:18:14.676Z"
+  },
+  "salesforce-software-engineer-lmts-(big-data)-san-francisco": {
+    "assigned_date": "2026-01-05T20:35:30.788Z",
+    "job_title": "Software Engineer LMTS (Big Data)",
+    "company": "Salesforce",
+    "first_seen": "2026-01-05T20:35:30.788Z"
+  },
+  "salesforce-software-engineer-smts-(big-data)-san-francisco": {
+    "assigned_date": "2026-01-05T20:35:30.788Z",
+    "job_title": "Software Engineer SMTS (Big Data)",
+    "company": "Salesforce",
+    "first_seen": "2026-01-05T20:35:30.788Z"
+  },
+  "salesforce-software-engineer-lmts-(big-data-focus)-san-francisco": {
+    "assigned_date": "2026-01-05T20:35:30.788Z",
+    "job_title": "Software Engineer LMTS (Big Data Focus)",
+    "company": "Salesforce",
+    "first_seen": "2026-01-05T20:35:30.788Z"
   }
 }

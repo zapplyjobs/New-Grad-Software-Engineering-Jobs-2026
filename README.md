@@ -8,7 +8,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-41-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-44-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 9+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 41+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 9+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 44+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -73,7 +73,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-🔥 **Current Positions:** 41 software engineering jobs<br>
+🔥 **Current Positions:** 44 software engineering jobs<br>
 🏢 **Top Companies:** 9 companies<br>
 ⭐ **FAANG+ Jobs & Internships:** 2 premium opportunities<br>📅 **Last Updated:** January 5, 2026<br>
 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -128,7 +128,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer, Cluster Networking | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/132943103798452934-software-engineer-cluster-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2) | 11h |
 | Software Engineer III, Google Cloud Business Platforms | Pittsburgh, PA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/92650208487187142-software-engineer-iii-google-cloud-business-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 4d |
 
-### 🏢 **Top Tech** (3 positions)
+### 🏢 **Top Tech** (6 positions)
 
 #### 🔶 **AMD** (2 positions)
 
@@ -137,10 +137,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Post-Silicon Software Tools Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/72002/login) | 1h |
 | AI Models GPU deployment software Engineer | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/75423/login) | 2d |
 
-#### ☁️ **Salesforce** (1 position)
+#### ☁️ **Salesforce** (4 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| Software Engineer LMTS (Big Data) | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr323653/software-engineer-lmts-big-data/) | 1h |
+| Software Engineer SMTS (Big Data) | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr323654/software-engineer-smts-big-data/) | 1h |
+| Software Engineer LMTS (Big Data Focus) | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr323652/software-engineer-lmts-big-data-focus/) | 1h |
 | Software Engineering AMTS (College Grad) | Dallas, TX | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr322433/software-engineering-amts-college-grad/) | 5d |
 
 ### 💻 **Enterprise Software** (1 position)
@@ -241,7 +244,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 #### ☁️ **Enterprise & Cloud** (3 companies)
-📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (2) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (1)
+📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (2) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (4)
 
 ---
 ### 📈 **Experience Breakdown**
@@ -249,8 +252,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 1 | 2% | No or minimal experience |
-| 🟡 Beginner & Early Career | 4 | 10% | 1-2 years of experience |
-| 🔴 Manager         | 36 | 88% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 4 | 9% | 1-2 years of experience |
+| 🔴 Manager         | 39 | 89% | 2+ years of experience |
 
 ---
 
@@ -258,17 +261,17 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Annapolis Junction, MD**: 7 positions
 - **Chantilly, VA**: 6 positions
 - **Herndon, VA**: 5 positions
+- **San Francisco, CA**: 3 positions
 - **Washington, DC**: 3 positions
 - **Austin, TX**: 2 positions
 - **MacDill AFB, FL**: 2 positions
 - **Houston, TX**: 1 positions
-- **Mountain View, CA**: 1 positions
 
 ---
 
 ### 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 41+ verified CS internships and entry-level software roles from 9 elite tech companies.
+✅ **100% Real Jobs:** 44+ verified CS internships and entry-level software roles from 9 elite tech companies.
 <br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 15 minutes automatically.
 <br>
@@ -573,11 +576,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 |------|----------|-------|-----------|-----|
 | Network Performance Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.arm.com/job/austin/network-performance-engineer/33099/87916449264) | 1mo |
 
-#### 💾 **Micron Technology** (1 position)
+#### 💾 **Micron Technology** (3 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | New College Grad - Yield Analysis Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/38975434) | 1w |
+| New College Grad - Memory Design Engineer, DRAM | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com) | 1w |
+| Memory Design Engineer, DRAM | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/38851125) | 2w |
 
 #### ⚡ **ABB** (3 positions)
 
@@ -629,7 +634,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 41 current opportunities from 9 elite companies.**
+**🎯 44 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
