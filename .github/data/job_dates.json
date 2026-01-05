@@ -1,16 +1,4 @@
 {
-  "amd-post-silicon-software-tools-engineer-austin": {
-    "assigned_date": "2025-11-06T17:14:29.694Z",
-    "job_title": "Post-Silicon Software Tools Engineer",
-    "company": "AMD",
-    "first_seen": "2025-11-06T17:14:29.694Z"
-  },
-  "jpmorgan-chase-software-engineer-iii--oracle-dba/java-plano": {
-    "assigned_date": "2025-11-06T18:40:32.947Z",
-    "job_title": "Software Engineer III -Oracle DBA/Java",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-06T18:40:32.947Z"
-  },
   "10x-genomics-automation-engineer-pleasanton": {
     "assigned_date": "2025-11-06T20:37:06.117Z",
     "job_title": "Automation Engineer",
@@ -1996,5 +1984,11 @@
     "job_title": "Software Engineer",
     "company": "JPMorgan Chase",
     "first_seen": "2026-01-05T15:05:12.453Z"
+  },
+  "jpmorgan-chase-software-engineer-iii---front-end-houston": {
+    "assigned_date": "2026-01-05T18:49:07.377Z",
+    "job_title": "Software Engineer III - Front-End",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-05T18:49:07.377Z"
   }
 }
