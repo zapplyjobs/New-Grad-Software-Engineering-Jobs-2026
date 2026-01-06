@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering PMTS, Compute Infrastructure",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Proven experience managing production-grade infrastructure with Kubernetes and EC2.\n• Experience with Terraform for infrastructure provisioning.\n• Experience with package management, ideally with Aptly.\n• Strong scripting skills in a language like Python, Bash, or Go.\n• Excellent problem-solving skills and a collaborative attitude.\n• Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager Design, build, and maintain our core compute infrastructure, primarily using Kubernetes and EC2.\n• Proficiency in configuration management tools like Chef (or similar, such as Puppet or Ansible).",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr312680/software-engineering-pmts-compute-infrastructure/",
-    "id": "salesforce-software-engineering-pmts-compute-infrastructure-san-francisco"
-  }
-]
+[]
