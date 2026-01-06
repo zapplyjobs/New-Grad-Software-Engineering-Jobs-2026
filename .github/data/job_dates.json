@@ -1,22 +1,4 @@
 {
-  "jpmorgan-chase-software-engineer-iii-java-wilmington": {
-    "assigned_date": "2025-11-07T16:51:43.154Z",
-    "job_title": "Software Engineer III Java",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-07T16:51:43.154Z"
-  },
-  "google-software-engineer,-privacy-engineering-and-trust-cambridge": {
-    "assigned_date": "2025-11-07T17:48:02.769Z",
-    "job_title": "Software Engineer, Privacy Engineering and Trust",
-    "company": "Google",
-    "first_seen": "2025-11-07T17:48:02.769Z"
-  },
-  "google-software-engineer-iii,-front-end,-material-studio-new-york": {
-    "assigned_date": "2025-11-07T17:48:02.769Z",
-    "job_title": "Software Engineer III, Front End, Material Studio",
-    "company": "Google",
-    "first_seen": "2025-11-07T17:48:02.769Z"
-  },
   "arm-fye26-us-graduate-network-performance-engineer-austin": {
     "assigned_date": "2025-11-07T18:53:21.183Z",
     "job_title": "FYE26 US Graduate Network Performance Engineer",
@@ -1966,5 +1948,11 @@
     "job_title": "Software Engineering PMTS, Cloud Service Ownership",
     "company": "Salesforce",
     "first_seen": "2026-01-06T16:36:39.401Z"
+  },
+  "ibm-software-engineer-apprentice-lowell": {
+    "assigned_date": "2026-01-06T18:01:31.651Z",
+    "job_title": "Software Engineer Apprentice",
+    "company": "IBM",
+    "first_seen": "2026-01-06T18:01:31.651Z"
   }
 }
