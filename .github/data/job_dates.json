@@ -1,10 +1,4 @@
 {
-  "google-software-engineer-iii,-infrastructure,-google-cloud-platforms-san-francisco": {
-    "assigned_date": "2025-11-06T22:19:17.641Z",
-    "job_title": "Software Engineer III, Infrastructure, Google Cloud Platforms",
-    "company": "Google",
-    "first_seen": "2025-11-06T22:19:17.641Z"
-  },
   "jpmorgan-chase-software-engineer-iii---data-engineer,-spark,-databricks,-sql-plano": {
     "assigned_date": "2025-11-07T00:52:11.082Z",
     "job_title": "Software Engineer III - Data Engineer, Spark, Databricks, SQL",
@@ -1984,5 +1978,11 @@
     "job_title": "Software Engineer II - QA Automation",
     "company": "JPMorgan Chase",
     "first_seen": "2026-01-05T21:56:52.158Z"
+  },
+  "salesforce-software-engineering-pmts,-compute-infrastructure-san-francisco": {
+    "assigned_date": "2026-01-06T00:48:50.867Z",
+    "job_title": "Software Engineering PMTS, Compute Infrastructure",
+    "company": "Salesforce",
+    "first_seen": "2026-01-06T00:48:50.867Z"
   }
 }
