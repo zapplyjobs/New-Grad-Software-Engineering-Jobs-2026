@@ -1,10 +1,4 @@
 {
-  "arm-fye26-us-graduate-network-performance-engineer-austin": {
-    "assigned_date": "2025-11-07T18:53:21.183Z",
-    "job_title": "FYE26 US Graduate Network Performance Engineer",
-    "company": "Arm",
-    "first_seen": "2025-11-07T18:53:21.183Z"
-  },
   "google-software-engineer,-infrastructure-sunnyvale": {
     "assigned_date": "2025-11-07T20:46:12.029Z",
     "job_title": "Software Engineer, Infrastructure",
@@ -1954,5 +1948,11 @@
     "job_title": "Software Engineer Apprentice",
     "company": "IBM",
     "first_seen": "2026-01-06T18:01:31.651Z"
+  },
+  "jpmorgan-chase-software-engineer-iii---ios-developer-palo-alto": {
+    "assigned_date": "2026-01-06T19:33:42.760Z",
+    "job_title": "Software Engineer III - iOS Developer",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-06T19:33:42.760Z"
   }
 }
