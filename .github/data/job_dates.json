@@ -1,10 +1,4 @@
 {
-  "google-software-engineer-iii,-infrastructure,-platforms-infrastructure-engineering-pittsburgh": {
-    "assigned_date": "2025-11-07T12:40:03.917Z",
-    "job_title": "Software Engineer III, Infrastructure, Platforms Infrastructure Engineering",
-    "company": "Google",
-    "first_seen": "2025-11-07T12:40:03.917Z"
-  },
   "jpmorgan-chase-software-engineer-iii-java-wilmington": {
     "assigned_date": "2025-11-07T16:51:43.154Z",
     "job_title": "Software Engineer III Java",
@@ -1948,5 +1942,11 @@
     "job_title": "Software Engineer, ML",
     "company": "Google",
     "first_seen": "2026-01-06T12:24:01.389Z"
+  },
+  "abb-line-product-engineer-senatobia": {
+    "assigned_date": "2026-01-06T13:27:50.728Z",
+    "job_title": "Line Product Engineer",
+    "company": "ABB",
+    "first_seen": "2026-01-06T13:27:50.728Z"
   }
 }
