@@ -1,46 +1,4 @@
 {
-  "jpmorgan-chase-software-engineer-iii---data-engineer,-spark,-databricks,-sql-plano": {
-    "assigned_date": "2025-11-07T00:52:11.082Z",
-    "job_title": "Software Engineer III - Data Engineer, Spark, Databricks, SQL",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-07T00:52:11.082Z"
-  },
-  "arm-firmware-engineer-austin": {
-    "assigned_date": "2025-11-07T01:20:57.253Z",
-    "job_title": "Firmware Engineer",
-    "company": "Arm",
-    "first_seen": "2025-11-07T01:20:57.253Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---react-engineer-": {
-    "assigned_date": "2025-11-07T01:20:57.253Z",
-    "job_title": "Software Engineer III - React Engineer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-07T01:20:57.253Z"
-  },
-  "abb-line-product-engineer-senatobia": {
-    "assigned_date": "2025-11-07T02:50:29.256Z",
-    "job_title": "Line Product Engineer",
-    "company": "ABB",
-    "first_seen": "2025-11-07T02:50:29.256Z"
-  },
-  "google-software-engineer,-infrastructure,-platforms-and-devices-kirkland": {
-    "assigned_date": "2025-11-07T08:21:02.619Z",
-    "job_title": "Software Engineer, Infrastructure, Platforms and Devices",
-    "company": "Google",
-    "first_seen": "2025-11-07T08:21:02.619Z"
-  },
-  "google-software-engineer-iii,-infrastructure,-google-cloud-netinfra-sunnyvale": {
-    "assigned_date": "2025-11-07T10:21:01.218Z",
-    "job_title": "Software Engineer III, Infrastructure, Google Cloud NetInfra",
-    "company": "Google",
-    "first_seen": "2025-11-07T10:21:01.218Z"
-  },
-  "google-software-engineer,-play,-platforms-and-devices-mountain-view": {
-    "assigned_date": "2025-11-07T11:46:03.686Z",
-    "job_title": "Software Engineer, Play, Platforms and Devices",
-    "company": "Google",
-    "first_seen": "2025-11-07T11:46:03.686Z"
-  },
   "google-software-engineer-iii,-infrastructure,-platforms-infrastructure-engineering-pittsburgh": {
     "assigned_date": "2025-11-07T12:40:03.917Z",
     "job_title": "Software Engineer III, Infrastructure, Platforms Infrastructure Engineering",
@@ -1984,5 +1942,11 @@
     "job_title": "Software Engineering PMTS, Compute Infrastructure",
     "company": "Salesforce",
     "first_seen": "2026-01-06T00:48:50.867Z"
+  },
+  "google-software-engineer,-ml-sunnyvale": {
+    "assigned_date": "2026-01-06T12:24:01.389Z",
+    "job_title": "Software Engineer, ML",
+    "company": "Google",
+    "first_seen": "2026-01-06T12:24:01.389Z"
   }
 }
