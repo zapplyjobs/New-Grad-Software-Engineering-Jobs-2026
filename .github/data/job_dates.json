@@ -1,16 +1,4 @@
 {
-  "google-software-engineer,-infrastructure-sunnyvale": {
-    "assigned_date": "2025-11-07T20:46:12.029Z",
-    "job_title": "Software Engineer, Infrastructure",
-    "company": "Google",
-    "first_seen": "2025-11-07T20:46:12.029Z"
-  },
-  "google-software-engineer,-protocol-buffers-seattle": {
-    "assigned_date": "2025-11-07T21:12:55.314Z",
-    "job_title": "Software Engineer, Protocol Buffers",
-    "company": "Google",
-    "first_seen": "2025-11-07T21:12:55.314Z"
-  },
   "micron-technology-new-college-grad---engineer,-shift-equipment-boise": {
     "assigned_date": "2025-11-07T22:56:06.139Z",
     "job_title": "New College Grad - Engineer, Shift Equipment",
@@ -1960,5 +1948,11 @@
     "job_title": "Project Engineer, Robotics",
     "company": "ABB",
     "first_seen": "2026-01-06T20:34:58.833Z"
+  },
+  "micron-technology-new-college-grad---dram-device-and-process-integration-engineer-boise": {
+    "assigned_date": "2026-01-06T21:44:56.618Z",
+    "job_title": "New College Grad - DRAM Device and Process Integration Engineer",
+    "company": "Micron Technology",
+    "first_seen": "2026-01-06T21:44:56.618Z"
   }
 }
