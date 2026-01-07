@@ -1,10 +1,4 @@
 {
-  "salesforce-incident-commander-sre-seattle": {
-    "assigned_date": "2025-11-08T09:00:10.362Z",
-    "job_title": "Incident Commander SRE",
-    "company": "Salesforce",
-    "first_seen": "2025-11-08T09:00:10.362Z"
-  },
   "google-software-engineer,-core-data-processing-infrastructure,-conduit-sunnyvale": {
     "assigned_date": "2025-11-10T09:19:57.877Z",
     "job_title": "Software Engineer, Core Data Processing Infrastructure, Conduit",
@@ -1972,5 +1966,11 @@
     "job_title": "Software Engineer, ChromeOS/AL Release Platform",
     "company": "Google",
     "first_seen": "2026-01-07T08:18:56.249Z"
+  },
+  "google-software-engineer,-chrome,-platforms-and-devices-mountain-view": {
+    "assigned_date": "2026-01-07T11:45:47.065Z",
+    "job_title": "Software Engineer, Chrome, Platforms and Devices",
+    "company": "Google",
+    "first_seen": "2026-01-07T11:45:47.065Z"
   }
 }
