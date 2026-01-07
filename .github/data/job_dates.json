@@ -1,10 +1,4 @@
 {
-  "micron-technology-new-college-grad---engineer,-shift-equipment-boise": {
-    "assigned_date": "2025-11-07T22:56:06.139Z",
-    "job_title": "New College Grad - Engineer, Shift Equipment",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-07T22:56:06.139Z"
-  },
   "salesforce-incident-commander-sre-seattle": {
     "assigned_date": "2025-11-08T09:00:10.362Z",
     "job_title": "Incident Commander SRE",
@@ -1960,5 +1954,11 @@
     "job_title": "React Software Engineer III - UI, UX, Gen AI",
     "company": "JPMorgan Chase",
     "first_seen": "2026-01-06T22:40:10.628Z"
+  },
+  "jpmorgan-chase-devops-software-engineer-": {
+    "assigned_date": "2026-01-07T02:15:56.001Z",
+    "job_title": "DevOps Software Engineer",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-07T02:15:56.001Z"
   }
 }
