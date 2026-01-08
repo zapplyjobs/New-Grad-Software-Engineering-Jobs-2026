@@ -2050,5 +2050,17 @@
     "job_title": "Software Engineer II - Android",
     "company": "JPMorgan Chase",
     "first_seen": "2026-01-08T18:55:53.527Z"
+  },
+  "jpmorgan-chase-software-engineer-iii---ios-": {
+    "assigned_date": "2026-01-08T19:19:27.055Z",
+    "job_title": "Software Engineer III - iOS",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-08T19:19:27.055Z"
+  },
+  "jpmorgan-chase-software-engineer-iii---android-": {
+    "assigned_date": "2026-01-08T19:19:27.055Z",
+    "job_title": "Software Engineer III - Android",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-08T19:19:27.055Z"
   }
 }
