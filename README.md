@@ -8,8 +8,8 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-76-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-16-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-77-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-17-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-9-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 16+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 76+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 17+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 77+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -73,8 +73,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-🔥 **Current Positions:** 76 software engineering jobs<br>
-🏢 **Top Companies:** 16 companies<br>
+🔥 **Current Positions:** 77 software engineering jobs<br>
+🏢 **Top Companies:** 17 companies<br>
 ⭐ **FAANG+ Jobs & Internships:** 9 premium opportunities<br>📅 **Last Updated:** January 8, 2026<br>
 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
@@ -164,7 +164,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Development Engineer for GPU Graphics Driver Development | Orlando, FL | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/72329/login) | 2d |
+| Software Development Engineer for GPU Graphics Driver Development | Orlando, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/72329/login) | 2d |
 | AI Models GPU deployment software Engineer | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/75423/login) | 5d |
 
 #### ☁️ **Salesforce** (3 positions)
@@ -179,8 +179,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer Apprentice | LOWELL, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=43140&source=WEB_Search_NA) | 1d |
 | Engineer | NY | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84989&source=WEB_Search_NA) | 1d |
+| Software Engineer Apprentice | LOWELL, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=43140&source=WEB_Search_NA) | 2d |
 
 ### 💻 **Enterprise Software** (4 positions)
 
@@ -225,6 +225,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| Software Developer Associate | Annapolis Junction, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate_RQ212586?q=software+engineering) | 1d |
 | Full Stack Software Developer - TS/SCI w/Polygraph required | Herndon, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Full-Stack-Software-Developer---TS-SCI-w-Polygraph-required_RQ212126-1?q=software+engineering) | 1d |
 | UI Angular Software Developer, TS/SCI with Polygraph required | Herndon, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/UI-Angular-Software-Developer--TS-SCI-with-Polygraph-required_RQ211780-1?q=software+engineering) | 1d |
 | Junior Software Developer - DHS or CBP public trust or Top secret preferred | Ashburn, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Ashburn/Junior-Software-Developer----DHS-or-CBP-public-trust-or-Top-secret-preferred_RQ212132-2?q=software+engineering) | 1d |
@@ -253,7 +254,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer - Data Engineer (TS/SCI with Polygraph REQUIRED) | Chantilly, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Software-Engineer---Data-Engineer--TS-SCI-with-Polygraph-REQUIRED-_RQ211847-1?q=software+engineering) | 6d |
 | Software Engineer - Graph Database (TS/SCI with Polygraph REQUIRED) | Chantilly, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Software-Engineer---Graph-Database--TS-SCI-with-Polygraph-REQUIRED-_RQ211876?q=software+engineering) | 6d |
 | Cloud Engineer - TS/SCI w/Poly | Annapolis Junction, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Cloud-Engineer---TS-SCI-w-Poly_RQ204488?q=software+engineering) | 6d |
-| Capabilities Development Engineer | Hanover, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Hanover/Capabilities-Development-Engineer_RQ207029?q=software+engineering) | 6d |
 
 </details>
 
@@ -280,17 +280,23 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-------|-----------|-----|
 | Software Engineer, Applied Machine Learning, Planner Technology | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.withwaymo.com/jobs/software-engineer-applied-machine-learning-planner-technology-mountain-view-california-united-states-58735c80-2697-42b2-80d7-fe262bd7c4d2) | 2d |
 
-### 🏭 **Manufacturing & Industrial** (5 positions)
+### 🏭 **Manufacturing & Industrial** (6 positions)
 
 #### 💾 **Micron Technology** (5 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Yield Analysis Engineer | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/38760180) | 2d |
+| Yield Analysis Engineer | Boise, ID | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/38760180) | 2d |
 | Engineer, Global Probe Modeling | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/38261065) | 2d |
 | New College Grad - DRAM Device and Process Integration Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/39519074) | 3d |
 | Memory Design Engineer, DRAM | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/39520187) | 3d |
 | Engineer, IT, AI Enablement | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/39315398) | 4d |
+
+#### ⚡ **ABB** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Project Engineer, Robotics | Auburn Hills, MI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.abb/global/en/job/JR00020329/Project-Engineer-Robotics) | 1d |
 
 
 
@@ -318,15 +324,15 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 4% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 5 | 6% | No or minimal experience |
 | 🟡 Beginner & Early Career | 16 | 21% | 1-2 years of experience |
-| 🔴 Manager         | 57 | 75% | 2+ years of experience |
+| 🔴 Manager         | 56 | 73% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Chantilly, VA**: 8 positions
-- **Annapolis Junction, MD**: 7 positions
+- **Annapolis Junction, MD**: 8 positions
 - **Herndon, VA**: 5 positions
 - **Boise, ID**: 5 positions
 - **McLean, VA**: 4 positions
@@ -338,7 +344,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 76+ verified CS internships and entry-level software roles from 16 elite tech companies.
+✅ **100% Real Jobs:** 77+ verified CS internships and entry-level software roles from 17 elite tech companies.
 <br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 15 minutes automatically.
 <br>
@@ -422,13 +428,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 101 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 104 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 101 positions
-- **🏢 Companies**: 16 companies  
+- **📁 Total Jobs**: 104 positions
+- **🏢 Companies**: 17 companies  
 - **⭐ FAANG+ Jobs & Internships**: 32 roles
 
 ### ⭐ **FAANG+** (32 positions)
@@ -439,9 +445,9 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 |------|----------|-------|-----------|-----|
 | Software Development Engineer | Newark, NJ | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en-gb/jobs/3149736/software-development-engineer) | 1w |
 | Software Engineer, Graviton Software, Annapurna Labs | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en-gb/jobs/3148814/software-engineer-graviton-software-annapurna-labs) | 2w |
-| Software Engineer | San Francisco, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en-gb/jobs/3146898/software-engineer) | 2w |
 | Software Development Engineer | Arlington, VA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en-gb/jobs/3146656/software-development-engineer) | 2w |
 | Software Development Engineer, AWS Hardware Engineering, AWS Hardware Engineering | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en-gb/jobs/3143860/software-development-engineer-aws-hardware-engineering-aws-hardware-engineering) | 3w |
+| Software Engineer | San Francisco, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en-gb/jobs/3145977/software-engineer) | 3w |
 | Software Engineer | Irvine, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en-gb/jobs/3144113/software-engineer-i) | 3w |
 | AGI Inference Software Development Engineering, AGI Inference | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en-gb/jobs/3141473/agi-inference-software-development-engineering-agi-inference) | 4w |
 
@@ -460,7 +466,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Software Engineer III, Full Stack, Google Ads | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/99171459850478278-software-engineer-iii-full-stack-google-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3) | 2w |
 | Software Engineer, Mobile, Android, Platforms and Devices | Kirkland, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/91257434344956614-software-engineer-mobile-android-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3) | 2w |
 | Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/122258040807137990-software-engineer-phd-early-career-aimachine-learning-2026-start?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3) | 2w |
-| Software Engineer, Infrastructure, User Personalization | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/105926384043336390-software-engineer-infrastructure-user-personalization?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3) | 2w |
 | Software Engineer, Machine Learning, Google Cloud Compute | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/82531323519869638-software-engineer-machine-learning-google-cloud-compute?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 3w |
 | Software Engineer III, Adspam Mobile Security | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/143363960400159430-software-engineer-iii-adspam-mobile-security?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2) | 3w |
 | Software Engineer III, Google Cloud Storage | New York, NY | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/80650737729577670-software-engineer-iii-google-cloud-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3) | 3w |
@@ -473,6 +478,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Software Engineer, Google Ads, Auction Mechanisms | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/82135593823150790-software-engineer-google-ads-auction-mechanisms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1mo |
 | Software Engineer III, Infrastructure, Google Cloud Storage | Madison, WI | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/72401075679699654-software-engineer-iii-infrastructure-google-cloud-storage?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3) | 1mo |
 | Software Engineer III, Quantum | Goleta, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/97117692271436486-software-engineer-iii-quantum?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3) | 1mo |
+| Software Engineer III, Infrastructure, Platforms Infrastructure Engineering | San Francisco, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://www.google.com/about/careers/applications/jobs/results/141492603370513094-software-engineer-iii-infrastructure-platforms-infrastructure-engineering?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3) | 1mo |
 
 </details>
 
@@ -483,19 +489,20 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Software Updates Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/en-us/details/200638384-0836/software-updates-engineer?team=SFTWR) | 2w |
 | Swift Software Engineer | San Francisco, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/en-us/details/200636390-3577/swift-software-engineer?team=SFTWR) | 3w |
 
-### 🏢 **Top Tech** (22 positions)
+### 🏢 **Top Tech** (24 positions)
 
-#### 🔶 **AMD** (5 positions)
+#### 🔶 **AMD** (6 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Software Development Engineer | San Jose, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/67796/login) | 1w |
 | C++ Software Engineer, AI Open-Source Software | Santa Clara, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/72464/login) | 1w |
+| Software Development Engineer - Kernel Development | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/76254/login) | 3w |
 | Software Development Eng. | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/73864/login) | 1mo |
 | 3D Graphics Software Engineer | Boxborough, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/73427/login) | 1mo |
 | Software Development Engineer - Profiling Tools (Pre/Post - Silicon) | Santa Clara, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers-amd.icims.com/jobs/74447/login) | 1mo |
 
-#### ☁️ **Salesforce** (9 positions)
+#### ☁️ **Salesforce** (10 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -504,6 +511,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Software Engineering SMTS | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr317574/software-engineering-smts/) | 2w |
 | Security Software Engineer, Endpoint Protection | Bellevue, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr323494/security-software-engineer-endpoint-protection/) | 2w |
 | Software Engineering Developer CI Infrastructure PMTS | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr313273/software-engineering-developer-ci-infrastructure-pmts/) | 2w |
+| Distributed Systems Software Engineer - Public Cloud MTS/SMTS | San Francisco, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr322404/distributed-systems-software-engineer-public-cloud-mtssmts/) | 2w |
 | LMTS Software Engineer - Agentforce | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr321269/lmts-software-engineer-agentforce/) | 3w |
 | SMTS Software Engineer - ML Infrastructure | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr320608/smts-software-engineer-ml-infrastructure/) | 3w |
 | Software Engineering AMTS/MTS (College Grad) | San Francisco, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr307625/software-engineering-amtsmts-college-grad/) | 3w |
@@ -517,7 +525,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Associate Application Developer - Entry Level (Lansing, MI) | Lansing, MI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65763&source=WEB_Search_NA) | 1w |
 | Associate Quality Engineer - Entry Level (Baton Rouge, LA) | BATON ROUGE, LA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65759&source=WEB_Search_NA) | 2w |
 | Associate Application Developer - Entry Level (Baton Rouge, LA) | BATON ROUGE, LA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65755&source=WEB_Search_NA) | 2w |
-| Entry Level Software Developer - Lowell | LOWELL, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74565&source=WEB_Search_NA) | 1mo |
+| Entry Level Software Developer - Lowell | LOWELL, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81690&source=WEB_Search_NA) | 1mo |
 | Entry Level Software Developer New York - | NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74549&source=WEB_Search_NA) | 1mo |
 | Entry Level Software Developer 2026: SVL | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73407&source=WEB_Search_NA) | 1mo |
 | Entry Level Software Developer Austin: | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73771&source=WEB_Search_NA) | 1mo |
@@ -616,7 +624,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Software Engineer, Onboard Evaluation | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.withwaymo.com/jobs/software-engineer-onboard-evaluation-mountain-view-california-united-states) | 2w |
 | Software Engineer, Planner Vehicle Dynamics | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.withwaymo.com/jobs/software-engineer-planner-vehicle-dynamics-mountain-view-california-united-states-san-francisco-pittsburgh-pennsylvania) | 2w |
 
-### 🏭 **Manufacturing & Industrial** (3 positions)
+### 🏭 **Manufacturing & Industrial** (4 positions)
 
 #### 💪 **Arm** (1 position)
 
@@ -624,11 +632,12 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 |------|----------|-------|-----------|-----|
 | Network Performance Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.arm.com/job/austin/network-performance-engineer/33099/87916449264) | 1mo |
 
-#### ⚡ **ABB** (1 position)
+#### ⚡ **ABB** (2 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Field Service Engineer - Drives | Houston, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.abb/global/en/job/JR00012229/Field-Service-Engineer-Drives) | 2w |
+| R&D Associate Engineer | Cleveland, OH | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.abb/global/en/job/JR00010453/R-D-Associate-Engineer) | 2w |
+| Quality Engineer | Mount Juliet, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.abb/global/en/job/JR00008605/Quality-Engineer) | 2w |
 
 #### 📡 **Analog Devices** (1 position)
 
@@ -672,7 +681,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 76 current opportunities from 16 elite companies.**
+**🎯 77 current opportunities from 17 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
