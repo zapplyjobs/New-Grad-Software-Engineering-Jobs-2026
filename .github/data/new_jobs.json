@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "AMD",
-    "job_title": "SMTS Software Development Eng.",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "1h",
-    "job_description": "• Strong programming skills in C++ and Python Strong development experience is at least one major DL framework such as Pytorch or Tensorflow in inference, fine tuning and/or training MS or PhD in Computer Science or Computer Engineering or related equivalent.\n• Experience developing software and system-level performance optimizations with a solid architecture understanding in GPUs a plusExperience with open-source software development including collaboration with community maintainers and submitting contributions is a plus Expertise in profiling tools across the AI SW Stack (Torchprofiler, RocM profiler, Vtune, Nsight) Experience in implementing and optimizing parallel methods on GPU accelerators (NCCL/RCCL, OpenMP, MPI) Performance analysis skills for both CPU and GPU Experience with Singularity, Docker, and/or Kubernetes.\n• Experience providing clear and timely communication related to status and other key aspects of the project to leadership team.\n• Publications in reputed peer-reviewed ML conferences/journals a plus Excellent analytical and problem-solving skills root-causing/addressing performance issues.\n• Willingness to learn skills, tools, and methods to advance the quality, consistency, and timeliness of AMD software products.\n• Ability to work independently and as part of a team.\n• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/76957/login",
-    "id": "amd-smts-software-development-eng-austin"
-  }
-]
+[]
