@@ -1,16 +1,4 @@
 {
-  "google-software-engineer,-core-data-processing-infrastructure,-conduit-sunnyvale": {
-    "assigned_date": "2025-11-10T09:19:57.877Z",
-    "job_title": "Software Engineer, Core Data Processing Infrastructure, Conduit",
-    "company": "Google",
-    "first_seen": "2025-11-10T09:19:57.877Z"
-  },
-  "arm-graduate-implementation-engineer---systems-austin": {
-    "assigned_date": "2025-11-10T13:52:55.376Z",
-    "job_title": "Graduate Implementation Engineer - Systems",
-    "company": "Arm",
-    "first_seen": "2025-11-10T13:52:55.376Z"
-  },
   "google-software-engineer-iii,-google-cloud-storage-kirkland": {
     "assigned_date": "2025-11-10T15:18:40.160Z",
     "job_title": "Software Engineer III, Google Cloud Storage",
@@ -2068,5 +2056,11 @@
     "job_title": "SMTS Software Development Eng.",
     "company": "AMD",
     "first_seen": "2026-01-08T22:58:35.859Z"
+  },
+  "jpmorgan-chase-react-software-engineer-iii---aws-tampa": {
+    "assigned_date": "2026-01-09T15:03:47.556Z",
+    "job_title": "React Software Engineer III - AWS",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-09T15:03:47.556Z"
   }
 }
