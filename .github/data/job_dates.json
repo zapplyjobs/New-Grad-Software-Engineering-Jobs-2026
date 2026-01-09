@@ -2092,5 +2092,17 @@
     "job_title": "Salesforce Software Engineer",
     "company": "JPMorgan Chase",
     "first_seen": "2026-01-09T20:16:50.547Z"
+  },
+  "salesforce-software-engineering-lmts-burlington": {
+    "assigned_date": "2026-01-09T20:32:35.974Z",
+    "job_title": "Software Engineering LMTS",
+    "company": "Salesforce",
+    "first_seen": "2026-01-09T20:32:35.974Z"
+  },
+  "salesforce-software-engineering-lmts/pmts-san-francisco": {
+    "assigned_date": "2026-01-09T20:32:35.974Z",
+    "job_title": "Software Engineering LMTS/PMTS",
+    "company": "Salesforce",
+    "first_seen": "2026-01-09T20:32:35.974Z"
   }
 }
