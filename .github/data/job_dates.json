@@ -1,10 +1,4 @@
 {
-  "salesforce-software-engineering-pmts---full-stack-web-development-san-francisco": {
-    "assigned_date": "2025-11-10T20:38:13.163Z",
-    "job_title": "Software Engineering PMTS - Full Stack Web Development",
-    "company": "Salesforce",
-    "first_seen": "2025-11-10T20:38:13.163Z"
-  },
   "micron-technology-dry-mechanical-operations-&-design-engineer-boise": {
     "assigned_date": "2025-11-10T21:51:49.043Z",
     "job_title": "Dry Mechanical Operations & Design Engineer",
@@ -2104,5 +2098,17 @@
     "job_title": "Software Engineering LMTS/PMTS",
     "company": "Salesforce",
     "first_seen": "2026-01-09T20:32:35.974Z"
+  },
+  "micron-technology-new-college-grad---change-management-engineer-manassas": {
+    "assigned_date": "2026-01-09T21:44:32.454Z",
+    "job_title": "New College Grad - Change Management Engineer",
+    "company": "Micron Technology",
+    "first_seen": "2026-01-09T21:44:32.454Z"
+  },
+  "micron-technology-new-college-grad---engineer,-shift-equipment-boise": {
+    "assigned_date": "2026-01-09T21:44:32.454Z",
+    "job_title": "New College Grad - Engineer, Shift Equipment",
+    "company": "Micron Technology",
+    "first_seen": "2026-01-09T21:44:32.454Z"
   }
 }
