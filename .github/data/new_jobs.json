@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "Software Development Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "• Develop and drive execution of comprehensive, highly effective software for sophisticated new technology and new product introduction projects Validate new SW features before releasing them to customers Develop end-to-end product to help publish and monitor AGS software quality and performance metricsContribute to a high-functioning feature team Collaborate closely with multiple teams to deliver key planning solutions and the technology to support them Help contribute to the design and implementation of future architecture for a highly scalable, durable, and innovative systemWork very closely with dev teams and Project Managers to drive resultsKnowledge and understanding of Software Development Life Cycle and AutomationKnowledge and Experience using Python, C/C++, Unix Shell Script, Grafana, MySQL Database, GitHub Actions, CI/CD Jenkins, HTML and Javascript, Docker containers Expert knowledge and hands-on experience in Python and Linux Shell scripting languages Solid understanding of object-oriented-design principlesSolid understanding of Software Engineering principles, Data structure, algorithms, Operating Systems concepts and multithread programmingExcellent design and code development skills, familiarity with Linux and modern software tools and techniques for developmentGood analytical and problem-solving skills Bachelor’s or Master’s degree in Computer/Software Engineering, Computer Science, or related technical discipline AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/76567/login",
+    "id": "amd-software-development-engineer-austin"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Development Engineer, Satellite Engineering and Mechanical Development",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Development Engineer, Satellite Engineering and Mechanical Development",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3154864/software-development-engineer-satellite-engineering-and-mechanical-development",
+    "id": "amazon-software-development-engineer-satellite-engineering-and-mechanical-development-redmond"
+  }
+]
