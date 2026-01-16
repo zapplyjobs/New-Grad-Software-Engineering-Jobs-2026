@@ -479,3 +479,4 @@ module.exports = {
   filterJobsByAge,
   filterOutSeniorPositions,  // ADD THIS
 };
+
