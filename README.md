@@ -193,12 +193,12 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 117 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 119 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 117 positions
+- **📁 Total Jobs**: 119 positions
 - **🏢 Companies**: 16 companies  
 - **⭐ FAANG+ Jobs & Internships**: 25 roles
 
