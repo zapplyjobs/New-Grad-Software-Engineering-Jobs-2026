@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, ML and Data Center Fabric Routing",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, ML and Data Center Fabric Routing",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112718156488680134-software-engineer-ml-and-data-center-fabric-routing?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-ml-and-data-center-fabric-routing-sunnyvale"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Performance Engineer LMTS",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "• Work closely with management, product owners, and engineers to understand product requirements and design appropriate performance test plans to verify features performance and scalability requirementsMeasure, analyze, and optimize the performance and scalability of new and existing features within an Agile development environment.\n• Collaborating and planning with development scrum teams to identify, prioritize, and mitigate performance risks of features being shipped every releaseReview automation implementations and encourage sound design principlesReview test plans, results analysis, capacity planning guides for in–flight releasesCoordinate technical presentations and training for capacity planning guidesReport weekly trends highlighting product performance and team status against committed milestones and projects 8+ years of software development experience with specific experience in benchmark testing, performance analysis, troubleshooting, and optimizing enterprise softwareProven development experience in Java and SQLOutstanding attention to detail and communication skills, both written and verbalAbility to interpret technical data, and analyze performance results using applicable statistics conceptsAbility to identify / resolve system bottlenecksAbility to identify potential limitations in software architecturesAbility to write clear and concise technical documentsExcellent troubleshooting and reasoning skillsUnderstanding of throughput, latency, memory and CPU utilizationUnderstanding concepts of multi-threading, cache, memory management, Java Virtual Machine, JITExperience with scripting tools such as JMeter, and profiling tools such as JProfiler and YourKitWorking knowledge of AJAX, HTTP, REST, JSONWorking knowledge of database tuning and administration (e.\n• Linux, Solaris, OProfile, VTune)A related technical degree required.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Find performance bottlenecks in features across all areas of the cloud, diagnose the issues, fix them, and verify and test your solutions with the owning team.\n• Design and implement scalability, stability, stress, reliability, availability, and longevity tests using industry standard tools and custom developed software and scripts.\n• Provide accurate scoping, clear strategies, and milestones for performance testsCommunicate status, risks to test complete dates, and offer mitigation strategies to ensure on-time delivery of all committed projects to cross functional teamsReproduce, diagnose, and resolve critical customer situations requiring special performance tests or simulations.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr324365/performance-engineer-lmts/",
+    "id": "salesforce-performance-engineer-lmts-san-francisco"
+  }
+]
