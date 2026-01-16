@@ -143,7 +143,7 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineering PMTS | San Francisco, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr324489/software-engineering-pmts/) | 2h |
+| Software Engineering PMTS | San Francisco, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.salesforce.com/en/jobs/jr324489/software-engineering-pmts/) | 3h |
 
 #### 🔵 **IBM** (3 positions)
 
@@ -159,17 +159,23 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Network Performance Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.arm.com/job/austin/network-performance-engineer/33099/87916449264) | 3h |
+| Network Performance Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.arm.com/job/austin/network-performance-engineer/33099/87916449264) | 4h |
 
-#### 💾 **Micron Technology** (5 positions)
+#### 💾 **Micron Technology** (4 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| New College Grad - Global Quality Signal Integrity Qualification Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/39608127) | 2d |
 | Ultra Pure Water Engineer | Clay, NY | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/39531894) | 2d |
-| New College Grad - FE Automotive Product Quality Engineer | Manassas, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/39568836) | 3d |
+| New College Grad - Global Quality Signal Integrity Qualification Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/39608127) | 2d |
 | New College Grad - Change Management Engineer | Manassas, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/39560727) | 3d |
-| RDA Engineer, DRAM | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/39569879) | 4d |
+| New College Grad - FE Automotive Product Quality Engineer | Manassas, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.micron.com/careers/job/39568836) | 3d |
+
+#### ⚡ **ABB** (2 positions)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Associate Mechanical Design Engineer | Mebane, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.abb/global/en/job/JR00020831/Associate-Mechanical-Design-Engineer) | 7h |
+| R&D Engineer - LV Switchboards | Bloomfield, CT | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.abb/global/en/job/JR00021368/R-D-Engineer-LV-Switchboards) | 7h |
 
 #### ⚡ **ABB** (2 positions)
 
@@ -283,6 +289,16 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Associate Application Developer - Entry Level (Lansing, MI) | Lansing, MI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65763&source=WEB_Search_NA) | 2w |
 | Associate Quality Engineer - Entry Level (Baton Rouge, LA) | BATON ROUGE, LA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65759&source=WEB_Search_NA) | 3w |
 | Associate Application Developer - Entry Level (Baton Rouge, LA) | BATON ROUGE, LA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply button">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65755&source=WEB_Search_NA) | 3w |
+
+### 🚀 **Startups & Growth** (3 positions)
+
+#### 🛡️ **BAE Systems** (3 positions)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Agentic AI Software Engineer | Chantilly, VA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Agentic-AI-Software-Engineer_R0228205?q=software+engineering) | 1w |
+| Software Engineer and Developer | Beavercreek, OH | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer-and-Developer_R0230158?q=software+engineering) | 2w |
+| Front End Software Engineer | McLean, VA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Front-End-Software-Engineer_R0231103?q=software+engineering) | 4w |
 
 ### 🛡️ **Defense & Aerospace** (5 positions)
 
