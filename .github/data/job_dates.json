@@ -1,22 +1,4 @@
 {
-  "jpmorgan-chase-software-engineer-iii-:full-stack-seattle": {
-    "assigned_date": "2025-11-17T18:37:07.463Z",
-    "job_title": "Software Engineer III :Full Stack",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-17T18:37:07.463Z"
-  },
-  "arm-network-performance-engineer-austin": {
-    "assigned_date": "2025-11-17T18:53:53.251Z",
-    "job_title": "Network Performance Engineer",
-    "company": "Arm",
-    "first_seen": "2025-11-17T18:53:53.251Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---python,-aws-chicago": {
-    "assigned_date": "2025-11-17T19:30:45.861Z",
-    "job_title": "Software Engineer III - Python, AWS",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-17T19:30:45.861Z"
-  },
   "micron-technology-process-control-engineer-(run-to-run)-boise": {
     "assigned_date": "2025-11-17T21:43:33.259Z",
     "job_title": "Process Control Engineer (Run-To-Run)",
@@ -1972,5 +1954,11 @@
     "job_title": "Software Engineer, Trust and Safety, Tech Enablement",
     "company": "Google",
     "first_seen": "2026-01-16T17:49:35.184Z"
+  },
+  "jpmorgan-chase-software-engineer-charlotte": {
+    "assigned_date": "2026-01-16T19:32:12.357Z",
+    "job_title": "Software Engineer",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-16T19:32:12.357Z"
   }
 }
