@@ -1,316 +1,4 @@
 {
-  "amd-software-development-eng.-austin": {
-    "assigned_date": "2025-11-11T02:15:22.869Z",
-    "job_title": "Software Development Eng.",
-    "company": "AMD",
-    "first_seen": "2025-11-11T02:15:22.869Z"
-  },
-  "salesforce-android-engineer,-salesforce-field-service-san-francisco": {
-    "assigned_date": "2025-11-11T02:15:22.869Z",
-    "job_title": "Android Engineer, Salesforce Field Service",
-    "company": "Salesforce",
-    "first_seen": "2025-11-11T02:15:22.869Z"
-  },
-  "salesforce-devops-engineer-mts-atlanta": {
-    "assigned_date": "2025-11-11T06:37:10.209Z",
-    "job_title": "DevOps Engineer MTS",
-    "company": "Salesforce",
-    "first_seen": "2025-11-11T06:37:10.209Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---frontend,-reactjs-chicago": {
-    "assigned_date": "2025-11-11T07:46:04.476Z",
-    "job_title": "Software Engineer III - Frontend, ReactJS",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-11T07:46:04.476Z"
-  },
-  "google-software-engineer,-ai/ml,-youtube-ads-creative-optimization-mountain-view": {
-    "assigned_date": "2025-11-11T07:46:04.477Z",
-    "job_title": "Software Engineer, AI/ML, YouTube Ads Creative Optimization",
-    "company": "Google",
-    "first_seen": "2025-11-11T07:46:04.477Z"
-  },
-  "amd-3d-graphics-software-engineer-boxborough": {
-    "assigned_date": "2025-11-11T17:03:50.991Z",
-    "job_title": "3D Graphics Software Engineer",
-    "company": "AMD",
-    "first_seen": "2025-11-11T17:03:50.991Z"
-  },
-  "salesforce-database-engineer-san-francisco": {
-    "assigned_date": "2025-11-11T18:38:04.969Z",
-    "job_title": "Database Engineer",
-    "company": "Salesforce",
-    "first_seen": "2025-11-11T18:38:04.969Z"
-  },
-  "salesforce-software-engineer-san-francisco": {
-    "assigned_date": "2025-11-11T20:35:26.432Z",
-    "job_title": "Software Engineer",
-    "company": "Salesforce",
-    "first_seen": "2025-11-11T20:35:26.432Z"
-  },
-  "ibm-entry-level-software-developer-2026:-lowell-lowell": {
-    "assigned_date": "2025-11-12T02:52:59.655Z",
-    "job_title": "Entry Level Software Developer 2026: Lowell",
-    "company": "IBM",
-    "first_seen": "2025-11-12T02:52:59.655Z"
-  },
-  "google-software-engineer-iii,-embedded-systems/firmware,-glasses-os-mountain-view": {
-    "assigned_date": "2025-11-12T10:17:08.781Z",
-    "job_title": "Software Engineer III, Embedded Systems/Firmware, Glasses OS",
-    "company": "Google",
-    "first_seen": "2025-11-12T10:17:08.781Z"
-  },
-  "jpmorgan-chase-software-engineer-[multiple-positions-available]-atlanta": {
-    "assigned_date": "2025-11-12T14:18:28.362Z",
-    "job_title": "Software Engineer [Multiple Positions Available]",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-12T14:18:28.362Z"
-  },
-  "jpmorgan-chase-software-engineer-ii---ui/react-plano": {
-    "assigned_date": "2025-11-12T14:49:50.610Z",
-    "job_title": "Software Engineer II - UI/REACT",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-12T14:49:50.610Z"
-  },
-  "jpmorgan-chase-java-/-react-software-engineer-atlanta": {
-    "assigned_date": "2025-11-12T17:34:18.050Z",
-    "job_title": "Java / React Software Engineer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-12T17:34:18.050Z"
-  },
-  "salesforce-software-engineering-smts---applied-ai/ml-team-dallas": {
-    "assigned_date": "2025-11-12T20:36:02.481Z",
-    "job_title": "Software Engineering SMTS - Applied AI/ML Team",
-    "company": "Salesforce",
-    "first_seen": "2025-11-12T20:36:02.481Z"
-  },
-  "micron-technology-new-college-grad---semiconductor-quality-assurance-engineer-manassas": {
-    "assigned_date": "2025-11-12T21:43:18.562Z",
-    "job_title": "New College Grad - Semiconductor Quality Assurance Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-12T21:43:18.562Z"
-  },
-  "micron-technology-memory-design-engineer,-dram-boise": {
-    "assigned_date": "2025-11-13T00:41:44.363Z",
-    "job_title": "Memory Design Engineer, DRAM",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-13T00:41:44.363Z"
-  },
-  "google-software-engineer,-notebooklm,-backend-mountain-view": {
-    "assigned_date": "2025-11-13T12:23:36.666Z",
-    "job_title": "Software Engineer, NotebookLM, Backend",
-    "company": "Google",
-    "first_seen": "2025-11-13T12:23:36.666Z"
-  },
-  "google-software-engineer,-generative-ai-for-education,-google-research-mountain-view": {
-    "assigned_date": "2025-11-13T14:17:08.209Z",
-    "job_title": "Software Engineer, Generative AI for Education, Google Research",
-    "company": "Google",
-    "first_seen": "2025-11-13T14:17:08.209Z"
-  },
-  "google-software-engineer-iii,-google-cloud-global-networking-atlanta": {
-    "assigned_date": "2025-11-13T14:17:08.209Z",
-    "job_title": "Software Engineer III, Google Cloud Global Networking",
-    "company": "Google",
-    "first_seen": "2025-11-13T14:17:08.209Z"
-  },
-  "google-software-engineer,-google-ads,-auction-mechanisms-mountain-view": {
-    "assigned_date": "2025-11-13T14:47:14.876Z",
-    "job_title": "Software Engineer, Google Ads, Auction Mechanisms",
-    "company": "Google",
-    "first_seen": "2025-11-13T14:47:14.876Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---mainframe-application-developer,-db2,-cobol-jersey-city": {
-    "assigned_date": "2025-11-13T15:18:23.212Z",
-    "job_title": "Software Engineer III - Mainframe Application Developer, DB2, Cobol",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-13T15:18:23.212Z"
-  },
-  "ibm-entry-level-software-developer---poughkeepsie-ny-": {
-    "assigned_date": "2025-11-13T15:18:23.212Z",
-    "job_title": "Entry Level Software Developer - Poughkeepsie NY",
-    "company": "IBM",
-    "first_seen": "2025-11-13T15:18:23.212Z"
-  },
-  "ibm-entry-level-software-developer-austin:-austin": {
-    "assigned_date": "2025-11-13T15:18:23.212Z",
-    "job_title": "Entry Level Software Developer Austin:",
-    "company": "IBM",
-    "first_seen": "2025-11-13T15:18:23.212Z"
-  },
-  "jpmorgan-chase-software-engineer-ii---salesforce-plano": {
-    "assigned_date": "2025-11-13T19:44:21.535Z",
-    "job_title": "Software Engineer II - Salesforce",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-13T19:44:21.535Z"
-  },
-  "ibm-entry-level-software-developer-2026:-svl-san-jose": {
-    "assigned_date": "2025-11-13T20:59:25.872Z",
-    "job_title": "Entry Level Software Developer 2026: SVL",
-    "company": "IBM",
-    "first_seen": "2025-11-13T20:59:25.872Z"
-  },
-  "micron-technology-process-control-engineer-(fault-detection)-boise": {
-    "assigned_date": "2025-11-13T22:17:58.158Z",
-    "job_title": "Process Control Engineer (Fault Detection)",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-13T22:17:58.158Z"
-  },
-  "salesforce-lmts,-software-engineering-dallas": {
-    "assigned_date": "2025-11-13T22:31:32.756Z",
-    "job_title": "LMTS, Software Engineering",
-    "company": "Salesforce",
-    "first_seen": "2025-11-13T22:31:32.756Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---java-/-springboot-jersey-city": {
-    "assigned_date": "2025-11-14T03:19:36.481Z",
-    "job_title": "Software Engineer III - Java / Springboot",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-14T03:19:36.481Z"
-  },
-  "micron-technology-dram-device-and-process-integration-engineer-boise": {
-    "assigned_date": "2025-11-14T03:46:54.045Z",
-    "job_title": "DRAM Device and Process Integration Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-14T03:46:54.045Z"
-  },
-  "google-software-engineer-iii,-infrastructure,-platforms-infrastructure-engineering-san-francisco": {
-    "assigned_date": "2025-11-14T07:45:05.620Z",
-    "job_title": "Software Engineer III, Infrastructure, Platforms Infrastructure Engineering",
-    "company": "Google",
-    "first_seen": "2025-11-14T07:45:05.620Z"
-  },
-  "google-software-engineer-iii,-google-cloud-storage-seattle": {
-    "assigned_date": "2025-11-14T08:17:59.824Z",
-    "job_title": "Software Engineer III, Google Cloud Storage",
-    "company": "Google",
-    "first_seen": "2025-11-14T08:17:59.824Z"
-  },
-  "micron-technology-new-college-grad---process-integration-engineer-boise": {
-    "assigned_date": "2025-11-14T09:01:13.863Z",
-    "job_title": "New College Grad - Process Integration Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-14T09:01:13.863Z"
-  },
-  "google-software-engineer,-laptops-and-tablets,-core-ui-san-jose": {
-    "assigned_date": "2025-11-14T09:18:00.607Z",
-    "job_title": "Software Engineer, Laptops and Tablets, Core UI",
-    "company": "Google",
-    "first_seen": "2025-11-14T09:18:00.607Z"
-  },
-  "google-software-engineering,-core-data-processing-infrastructure,-conduit-sunnyvale": {
-    "assigned_date": "2025-11-14T12:43:31.256Z",
-    "job_title": "Software Engineering, Core Data Processing Infrastructure, Conduit",
-    "company": "Google",
-    "first_seen": "2025-11-14T12:43:31.256Z"
-  },
-  "google-software-engineer,-data-protection-sunnyvale": {
-    "assigned_date": "2025-11-14T13:34:14.330Z",
-    "job_title": "Software Engineer, Data Protection",
-    "company": "Google",
-    "first_seen": "2025-11-14T13:34:14.330Z"
-  },
-  "google-software-engineer,-engineering-productivity,-play-games-cambridge": {
-    "assigned_date": "2025-11-14T16:18:38.411Z",
-    "job_title": "Software Engineer, Engineering Productivity, Play Games",
-    "company": "Google",
-    "first_seen": "2025-11-14T16:18:38.411Z"
-  },
-  "jpmorgan-chase-software-engineer-ii---frontend-react-plano": {
-    "assigned_date": "2025-11-14T18:18:44.305Z",
-    "job_title": "Software Engineer II - Frontend-React",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-14T18:18:44.305Z"
-  },
-  "jpmorgan-chase-devops-software-engineer-columbus": {
-    "assigned_date": "2025-11-14T20:56:35.594Z",
-    "job_title": "DevOps Software Engineer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-14T20:56:35.594Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---network-": {
-    "assigned_date": "2025-11-14T21:33:46.064Z",
-    "job_title": "Software Engineer III - Network",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-14T21:33:46.064Z"
-  },
-  "google-software-engineer,-google-cloud-platforms-sunnyvale": {
-    "assigned_date": "2025-11-14T22:16:19.814Z",
-    "job_title": "Software Engineer, Google Cloud Platforms",
-    "company": "Google",
-    "first_seen": "2025-11-14T22:16:19.814Z"
-  },
-  "micron-technology-us-expansion-capital-engineer-boise": {
-    "assigned_date": "2025-11-14T22:31:45.976Z",
-    "job_title": "US Expansion Capital Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-14T22:31:45.976Z"
-  },
-  "jpmorgan-chase-mainframe-software-engineer-wilmington": {
-    "assigned_date": "2025-11-14T22:46:38.810Z",
-    "job_title": "Mainframe Software Engineer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-14T22:46:38.810Z"
-  },
-  "micron-technology-product-quality-engineer-boise": {
-    "assigned_date": "2025-11-14T22:46:38.810Z",
-    "job_title": "Product Quality Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-14T22:46:38.810Z"
-  },
-  "micron-technology-process-control-review-board-(pcrb)-engineer-boise": {
-    "assigned_date": "2025-11-14T23:55:43.103Z",
-    "job_title": "Process Control Review Board (PCRB) Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-14T23:55:43.103Z"
-  },
-  "jpmorgan-chase-software-engineer-ii---ui-developer-plano": {
-    "assigned_date": "2025-11-15T00:46:49.836Z",
-    "job_title": "Software Engineer II - UI Developer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-15T00:46:49.836Z"
-  },
-  "salesforce-software-engineering-lmts,-compute-infrastructure-san-francisco": {
-    "assigned_date": "2025-11-15T00:46:49.836Z",
-    "job_title": "Software Engineering LMTS, Compute Infrastructure",
-    "company": "Salesforce",
-    "first_seen": "2025-11-15T00:46:49.836Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---mobile-developer-plano": {
-    "assigned_date": "2025-11-15T04:59:14.943Z",
-    "job_title": "Software Engineer III - Mobile Developer",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-15T04:59:14.943Z"
-  },
-  "jpmorgan-chase-software-engineer-iii---mobile-development-plano": {
-    "assigned_date": "2025-11-15T07:15:40.945Z",
-    "job_title": "Software Engineer III - Mobile Development",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-15T07:15:40.945Z"
-  },
-  "arm-3dic-integration-engineer-san-diego": {
-    "assigned_date": "2025-11-16T01:21:53.317Z",
-    "job_title": "3DIC Integration Engineer",
-    "company": "Arm",
-    "first_seen": "2025-11-16T01:21:53.317Z"
-  },
-  "arm-full-stack-developer-cambridge": {
-    "assigned_date": "2025-11-16T01:21:53.318Z",
-    "job_title": "Full Stack Developer",
-    "company": "Arm",
-    "first_seen": "2025-11-16T01:21:53.318Z"
-  },
-  "jpmorgan-chase-software-engineer-ii---site-reliabilty-chicago": {
-    "assigned_date": "2025-11-16T02:52:21.139Z",
-    "job_title": "Software Engineer II - Site Reliabilty",
-    "company": "JPMorgan Chase",
-    "first_seen": "2025-11-16T02:52:21.139Z"
-  },
-  "google-software-engineer-iii,-google-cloud-networking-cambridge": {
-    "assigned_date": "2025-11-17T08:39:34.011Z",
-    "job_title": "Software Engineer III, Google Cloud Networking",
-    "company": "Google",
-    "first_seen": "2025-11-17T08:39:34.011Z"
-  },
   "jpmorgan-chase-software-engineer-ii---mainframe-wilmington": {
     "assigned_date": "2025-11-17T15:01:25.461Z",
     "job_title": "Software Engineer II - Mainframe",
@@ -2110,5 +1798,107 @@
     "job_title": "Software Engineer III - AWS",
     "company": "JPMorgan Chase",
     "first_seen": "2026-01-09T21:56:47.429Z"
+  },
+  "amd-platform-development-software-engineer-austin": {
+    "assigned_date": "2026-01-16T14:14:03.343Z",
+    "job_title": "Platform Development Software Engineer",
+    "company": "AMD",
+    "first_seen": "2026-01-16T14:14:03.343Z"
+  },
+  "jpmorgan-chase-software-engineer-ii---credit-technology-atlanta": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer II - Credit Technology",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "jpmorgan-chase-software-engineer-austin": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer,-cns2-new-york": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer, CNS2",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer,-network-infrastructure,-google-cloud-boulder": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer, Network Infrastructure, Google Cloud",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer,-data-integrity-new-york": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer, Data Integrity",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer-iii,-chrome-product-security,-core-kirkland": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer III, Chrome Product Security, Core",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer,-bigquery-ai-developer-experience-kirkland": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer, BigQuery AI Developer Experience",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer,-firebase-app-backend-services-san-francisco": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer, Firebase App Backend Services",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer,-bigquery-agentic-ai-kirkland": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer, BigQuery Agentic AI",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer-iii,-google-ads-mountain-view": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer III, Google Ads",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer,-search,-live-quality,-generative-ai-new-york": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer, Search, Live Quality, Generative AI",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer-iii,-google-cloud-business-platforms-kirkland": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer III, Google Cloud Business Platforms",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer,-spanner-hybrid-search-kirkland": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer, Spanner Hybrid Search",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer,-mobile-(android),-geo-mountain-view": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer, Mobile (Android), Geo",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "google-software-engineer-iii,-spanner-tablet-efficiency-new-york": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Software Engineer III, Spanner Tablet Efficiency",
+    "company": "Google",
+    "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "infineon-technologies-graduate---product-marketing-engineer-dallas-tx": {
+    "assigned_date": "2026-01-16T14:14:03.344Z",
+    "job_title": "Graduate - Product Marketing Engineer",
+    "company": "Infineon Technologies",
+    "first_seen": "2026-01-16T14:14:03.344Z"
   }
 }
