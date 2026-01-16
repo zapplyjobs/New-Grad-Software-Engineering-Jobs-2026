@@ -1960,5 +1960,11 @@
     "job_title": "Software Engineer",
     "company": "JPMorgan Chase",
     "first_seen": "2026-01-16T19:32:12.357Z"
+  },
+  "arm-network-performance-engineer-austin": {
+    "assigned_date": "2026-01-16T19:40:00.140Z",
+    "job_title": "Network Performance Engineer",
+    "company": "Arm",
+    "first_seen": "2026-01-16T19:40:00.140Z"
   }
 }
