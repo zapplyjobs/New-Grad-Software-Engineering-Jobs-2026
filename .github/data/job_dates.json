@@ -1900,5 +1900,29 @@
     "job_title": "Graduate - Product Marketing Engineer",
     "company": "Infineon Technologies",
     "first_seen": "2026-01-16T14:14:03.344Z"
+  },
+  "amd-3d-graphics-software-engineer-boxborough": {
+    "assigned_date": "2026-01-16T14:30:29.862Z",
+    "job_title": "3D Graphics Software Engineer",
+    "company": "AMD",
+    "first_seen": "2026-01-16T14:30:29.862Z"
+  },
+  "jpmorgan-chase-software-engineer-iii---mainframe-application-developer,-db2,-cobol-jersey-city": {
+    "assigned_date": "2026-01-16T14:30:29.862Z",
+    "job_title": "Software Engineer III - Mainframe Application Developer, DB2, Cobol",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-16T14:30:29.862Z"
+  },
+  "ibm-entry-level-software-developer-2026:-svl-san-jose": {
+    "assigned_date": "2026-01-16T14:30:29.862Z",
+    "job_title": "Entry Level Software Developer 2026: SVL",
+    "company": "IBM",
+    "first_seen": "2026-01-16T14:30:29.862Z"
+  },
+  "ibm-entry-level-software-developer-austin:-austin": {
+    "assigned_date": "2026-01-16T14:30:29.862Z",
+    "job_title": "Entry Level Software Developer Austin:",
+    "company": "IBM",
+    "first_seen": "2026-01-16T14:30:29.862Z"
   }
 }
