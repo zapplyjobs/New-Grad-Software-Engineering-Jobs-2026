@@ -1,10 +1,4 @@
 {
-  "google-software-engineer,-trust-and-safety,-tech-enablement-kirkland": {
-    "assigned_date": "2025-11-17T17:15:25.773Z",
-    "job_title": "Software Engineer, Trust and Safety, Tech Enablement",
-    "company": "Google",
-    "first_seen": "2025-11-17T17:15:25.773Z"
-  },
   "jpmorgan-chase-software-engineer-iii-:full-stack-seattle": {
     "assigned_date": "2025-11-17T18:37:07.463Z",
     "job_title": "Software Engineer III :Full Stack",
@@ -1966,5 +1960,11 @@
     "job_title": "R&D Engineer - LV Switchboards",
     "company": "ABB",
     "first_seen": "2026-01-16T16:51:06.138Z"
+  },
+  "jpmorgan-chase-software-engineer-ii---java-palo-alto": {
+    "assigned_date": "2026-01-16T17:30:18.453Z",
+    "job_title": "Software Engineer II - JAVA",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-16T17:30:18.453Z"
   }
 }
