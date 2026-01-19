@@ -387,6 +387,8 @@ ${generateJobTable(currentJobs)}
 
 ## More Resources
 
+<img src="images/more-resources.png" alt="Jobs and templates in our other repos.">
+
 Check out our other repos for jobs and free resources:
 
 <p align="center">
