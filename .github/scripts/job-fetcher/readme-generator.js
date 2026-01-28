@@ -317,8 +317,6 @@ async function generateReadme(
 
 # Software Engineering Jobs 2026
 
-<br>
-
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
@@ -359,7 +357,7 @@ Experience an advanced career journey with us! 🚀
 
 ## Explore Around
 
-<img src="images/connect.png" alt="Explore Around">
+<img src="images/community.png" alt="Explore Around">
 
 Check out what we're doing on our socials, join our community to connect with fellow job seekers, get career advice, keep a lookout for free templates, and stay updated on the latest opportunities.
 
