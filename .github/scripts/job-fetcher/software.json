@@ -1,0 +1,27 @@
+{
+  "faang_plus": {
+    "title": "FAANG+ Companies",
+    "emoji": "⭐",
+    "companies": ["Google", "Apple", "Microsoft", "Amazon", "Meta", "Netflix"]
+  },
+  "top_tech": {
+    "title": "Top Tech Companies",
+    "emoji": "🚀",
+    "companies": ["Nvidia", "Uber", "Airbnb", "Spotify", "Twitter"]
+  },
+  "software_engineering": {
+    "title": "Software Engineering Companies",
+    "emoji": "💻",
+    "companies": ["Palantir", "Databricks", "Snowflake", "OpenAI", "Anthropic"]
+  },
+  "enterprise": {
+    "title": "Enterprise & Cloud",
+    "emoji": "☁️",
+    "companies": ["Salesforce", "Oracle", "IBM", "SAP", "Adobe"]
+  },
+  "finance": {
+    "title": "Finance & Quantitative",
+    "emoji": "💰",
+    "companies": ["Goldman Sachs", "JPMorgan Chase", "Capital One", "Two Sigma", "Citadel"]
+  }
+}
