@@ -1,0 +1,90 @@
+{
+  "backend": {
+    "title": "Backend",
+    "emoji": "⚙️",
+    "keywords": [
+      "backend",
+      "back-end",
+      "back end",
+      "server",
+      "api engineer",
+      "platform engineer",
+      "backend engineer",
+      "backend developer",
+      "systems engineer",
+      "java developer",
+      "python developer",
+      "javascript developer",
+      "software engineer",
+      "software developer",
+      "sde",
+      "application developer",
+      "it engineer"
+    ]
+  },
+  "frontend": {
+    "title": "Frontend",
+    "emoji": "🎨",
+    "keywords": [
+      "frontend",
+      "front-end",
+      "front end",
+      "ui engineer",
+      "web developer",
+      "react developer",
+      "vue developer",
+      "frontend engineer",
+      "frontend developer",
+      "angular developer",
+      "javascript developer",
+      "typescript developer",
+      "web development"
+    ]
+  },
+  "full_stack": {
+    "title": "Full Stack",
+    "emoji": "🌐",
+    "keywords": [
+      "full stack",
+      "fullstack",
+      "full-stack",
+      "software engineer",
+      "software developer",
+      "full stack engineer",
+      "full stack developer",
+      "web developer",
+      "application developer"
+    ]
+  },
+  "mobile": {
+    "title": "Mobile Development",
+    "emoji": "📱",
+    "keywords": [
+      "ios",
+      "android",
+      "mobile",
+      "react native",
+      "flutter",
+      "swift",
+      "kotlin",
+      "mobile developer",
+      "ios developer",
+      "android developer",
+      "mobile engineer"
+    ]
+  },
+  "qa_engineering": {
+    "title": "QA Engineering",
+    "emoji": "🧪",
+    "keywords": [
+      "qa",
+      "quality assurance",
+      "quality engineer",
+      "sdet",
+      "test engineer",
+      "automation engineer",
+      "software development engineer in test",
+      "quality assurance engineer"
+    ]
+  }
+}
