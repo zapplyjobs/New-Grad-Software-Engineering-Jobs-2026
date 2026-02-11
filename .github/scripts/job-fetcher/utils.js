@@ -1,116 +1,53 @@
-#!/usr/bin/env node
-
 /**
- * Utility functions for job processing
+ * Job Fetcher Utilities - Wrapper for Shared Library
+ *
+ * MIGRATED TO SHARED SUBMODULE: 2026-02-11
+ *
+ * This file now acts as a thin wrapper that re-exports from the shared
+ * job-board-scripts library. This ensures all repos use the same
+ * filtering logic (DRY principle) while maintaining backwards compatibility.
+ *
+ * Source of Truth: .github/scripts/shared/lib/utils.js
+ * Repository: https://github.com/zapplyjobs/job-board-scripts
  */
 
-/**
- * Format time ago for display
- */
-function formatTimeAgo(dateString) {
-    if (!dateString) return 'Recently';
+const fs = require('fs');
+const path = require('path');
 
-    const date = new Date(dateString);
-    const now = new Date();
-    const diffInHours = Math.floor((now - date) / (1000 * 60 * 60));
+// Import shared utilities library
+const sharedUtils = require('../shared/lib/utils');
 
-    if (diffInHours < 24) {
-        return `${diffInHours}h ago`;
-    } else {
-        const diffInDays = Math.floor(diffInHours / 24);
-        if (diffInDays === 1) return '1d ago';
-        if (diffInDays < 7) return `${diffInDays}d ago`;
-        if (diffInDays < 30) return `${Math.floor(diffInDays / 7)}w ago`;
-        return `${Math.floor(diffInDays / 30)}mo ago`;
-    }
+// Try to load company database (different filenames for different repos)
+// Main repos: companies.json
+// SEO repos: software.json, data-science.json, hardware.json, etc.
+let companies = {};
+const possibleFiles = ['companies.json', 'software.json', 'data-science.json', 'hardware.json', 'nursing.json'];
+
+for (const file of possibleFiles) {
+  const filePath = path.join(__dirname, file);
+  if (fs.existsSync(filePath)) {
+    companies = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    break;
+  }
 }
 
-/**
- * Format location for display
- */
-function formatLocation(city, state, country) {
-    if (!city && !state) return 'Remote';
+// Initialize shared library with this repo's company data (if found and compatible format)
+// Main repos use format: {category: [{name, api_names}, ...]}
+// SEO repos use format: {category: {title, companies: [names]}}
+// Only initialize for Main repo format to avoid errors
+if (Object.keys(companies).length > 0) {
+  const firstCategory = Object.values(companies)[0];
 
-    if (city && city.toLowerCase() === 'remote') return 'Remote 🏠';
-
-    const parts = [];
-    if (city) parts.push(city);
-    if (state) parts.push(state);
-    if (country && country.toLowerCase() !== 'us') parts.push(country);
-
-    return parts.join(', ');
+  // Check if Main repo format (array of company objects)
+  if (Array.isArray(firstCategory)) {
+    sharedUtils.initCompanyDatabase(companies);
+  }
+  // SEO repo format - skip company init, just use shared filtering logic
+  // Company-specific features won't work, but core filtering (US location, experience level) will
 }
 
-/**
- * Get company emoji based on company name
- */
-function getCompanyEmoji(companyName) {
-    const company = (companyName || '').toLowerCase();
-
-    const emojiMap = {
-        'google': '🔍',
-        'microsoft': '🪟',
-        'amazon': '📦',
-        'apple': '🍎',
-        'meta': '👥',
-        'facebook': '👥',
-        'netflix': '🎬',
-        'spotify': '🎵',
-        'uber': '🚗',
-        'airbnb': '🏠',
-        'twitter': '🐦',
-        'linkedin': '💼',
-        'salesforce': '☁️',
-        'oracle': '🔴',
-        'ibm': '🔵',
-        'adobe': '🅰️',
-        'nvidia': '🟢',
-        'intel': '💻',
-        'amd': '🔶',
-        'samsung': '📱',
-        'sony': '📺'
-    };
-
-    for (const [key, emoji] of Object.entries(emojiMap)) {
-        if (company.includes(key)) {
-            return emoji;
-        }
-    }
-
-    return '🏢';
-}
-
-/**
- * Get job category based on title and description
- */
-function getJobCategory(title, description = '') {
-    const text = `${title} ${description}`.toLowerCase();
-
-    if (text.includes('ios') || text.includes('android') || text.includes('mobile')) {
-        return 'Mobile Development';
-    }
-    if (text.includes('frontend') || text.includes('front-end') || text.includes('react') || text.includes('vue')) {
-        return 'Frontend Development';
-    }
-    if (text.includes('backend') || text.includes('back-end') || text.includes('api') || text.includes('server')) {
-        return 'Backend Development';
-    }
-    if (text.includes('full stack') || text.includes('fullstack')) {
-        return 'Full Stack Development';
-    }
-    if (text.includes('devops') || text.includes('sre') || text.includes('site reliability')) {
-        return 'DevOps/SRE';
-    }
-    if (text.includes('cloud') || text.includes('aws') || text.includes('azure') || text.includes('gcp')) {
-        return 'Cloud Engineering';
-    }
-
-    return 'Software Engineering';
-}
-
+// Re-export all shared utilities
 module.exports = {
-    formatTimeAgo,
-    formatLocation,
-    getCompanyEmoji,
-    getJobCategory
+  ...sharedUtils,
+  companies
 };
