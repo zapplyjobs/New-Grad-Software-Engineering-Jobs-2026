@@ -60,6 +60,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
+<details>
+<summary><h3>⚙️ <strong>Backend</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **Synchrony** | Front-End Software Developer | Chicago, Illinois | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/front-end-software-developer-at-synchrony-4371304199?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>🎨 <strong>Frontend</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **Peraton** | Front-End Developer | College Park, Maryland | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.careers.peraton.com/jobs/front-end-developer-college-park-maryland-153775-jobs--cms-scientific-research-analysis--?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
 
 
 ---
@@ -123,6 +141,25 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 - **📁 Total Jobs**: 6 positions
 - **🏢 Companies**: 11 companies  
 - **⭐ FAANG+ Jobs & Internships**: 0 roles
+
+<details>
+<summary><h3>⚙️ <strong>Backend</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **DataAnnotation** | Frontend Developer - AI Trainer 🏠 | Boston, Massachusetts | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.indeed.com/viewjob?jk=09a24282118e7250&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>🎨 <strong>Frontend</strong> (2 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **Deloitte** | Frontend Developer (React and Ty... | Jacksonville, Florida | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobsus.deloitte.com/jacksonville-fl/frontend-developer-react-and-typescript/98E078F85B4041359917EC181618BEDC/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Deloitte** | Frontend Developer (React and Ty... | Columbus, Ohio | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Deloitte/Job/Frontend-Developer-(React-and-TypeScript)/-in-Columbus,OH?jid=8ebbb71afec6d5e8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
 
 
 
