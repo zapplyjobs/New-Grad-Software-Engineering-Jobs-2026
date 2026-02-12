@@ -17,21 +17,16 @@ const REPO_README_PATH = path.join(__dirname, '../../../README.md');
 // Import or load the JSON configuration
 
 // Filter jobs by age (1 week = 7 days)
+// NOTE: This function is NOT used - job-processor.js already filters by age (14 days)
+// The currentJobs/archivedJobs split is done in job-processor, not here
+// Keeping this for backwards compatibility but it should not be called
 function filterJobsByAge(allJobs) {
-  const oneWeekAgo = new Date();
-  oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
-
-  const currentJobs = allJobs.filter(job => {
-    const jobDate = new Date(job.job_posted_at_datetime_utc);
-    return jobDate >= oneWeekAgo;
-  });
-
-  const archivedJobs = allJobs.filter(job => {
-    const jobDate = new Date(job.job_posted_at_datetime_utc);
-    return jobDate < oneWeekAgo;
-  });
-
-  return { currentJobs, archivedJobs };
+  // Jobs are already filtered by job-processor.js to 14-day window
+  // No additional filtering needed here
+  return {
+    currentJobs: allJobs,
+    archivedJobs: []
+  };
 }
 
 // Helper function to categorize a job based on keywords
