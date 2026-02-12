@@ -33,9 +33,9 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" height="60"></a>
+  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/extension-button.png" alt="Install Our Extension" height="60"></a>
+  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="300"></a>
 </p>
 
 ---
@@ -47,11 +47,11 @@ Experience an advanced career journey with us! 🚀
 Connect and seek advice from a growing network of fellow students and new grads.
 
 <p align="center">
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Join Our Discord" height="60"></a>
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="60"></a>
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="75"></a>
   &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="60"></a>
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
 </p>
 
 ---
@@ -115,12 +115,12 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 8 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 6 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 8 positions
+- **📁 Total Jobs**: 6 positions
 - **🏢 Companies**: 11 companies  
 - **⭐ FAANG+ Jobs & Internships**: 0 roles
 
