@@ -10,7 +10,7 @@
 # Software Engineering Jobs 2026
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
 ![Backend](https://img.shields.io/badge/Backend-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 2+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 3+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 3+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 3+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -73,17 +73,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **BeaconFire Inc.** | Software Engineer-iOS | Rose Hill, Virginia | 12h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-ios-at-beaconfire-inc-4364420355?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **BeaconFire Inc.** | iOS & React Native Developer | Remote | 13h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/ios-react-native-developer-at-beaconfire-inc-4356113601?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Walmart** | Software Engineer III, Frontend ... | Hayward, California | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Walmart/Job/Software-Engineer-III,-Frontend-ReactJS-Node-GQL/-in-Hayward,CA?jid=939c7514a65e0c12&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Data Capital Inc** | React Developer | Bentonville, Arkansas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.dice.com/job-detail/0f322628-ebdb-44a6-88ba-ca7aac3e8cb3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
 <details>
-<summary><h3>📱 <strong>Mobile Development</strong> (1 positions)</h3></summary>
+<summary><h3>🎨 <strong>Frontend</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Apple Inc.** | iOS Engineer-Apple TV | Santa Clara, California | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tallo.com/jobs/technology/mobile-applications-developer/ca/santa-clara/ios-engineer-apple-tv-405693429c64/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Talent Groups** | ReactJS Developer | Pennington, New Jersey | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/reactjs-developer-at-talent-groups-4371459136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -148,7 +148,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 1 positions
-- **🏢 Companies**: 2 companies
+- **🏢 Companies**: 3 companies
 - **🏷️ Top Category**: Backend
 
 <details>
@@ -156,7 +156,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Adobe** | iOS Engineer, Adobe Scan | San Jose, California | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.adobe.com/us/en/job/R164093/iOS-Engineer-Adobe-Scan?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **MARKS IT Solutions** | React Developer JavaScript 🏆 | Richmond, Virginia | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://devitjobs.com/jobs/MARKS-IT-Solutions-React-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -170,7 +170,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3 current opportunities from 2 companies**
+**🎯 3 current opportunities from 3 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
