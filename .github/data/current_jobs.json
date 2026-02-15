@@ -37,8 +37,8 @@
     "job_latitude": 38.9960671,
     "job_longitude": -77.0280731,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUTH0_kej52J_7nptAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -136,9 +136,9 @@
     "job_latitude": 38.840390899999996,
     "job_longitude": -77.42887689999999,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dv-MmUtAbdPx2bC2bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
@@ -196,202 +196,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-walmart-job-software-engineer-iii-backend-in-centreville-va",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "RiWoWUeqtS8l0d8gAAAAAA==",
-    "job_title": "Backend Engineer | Mimir | USA | Remote",
-    "employer_name": "Grafana Labs",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzK2Nb3poTEm7SOzkoLFDn_KfC64avx8jMCwx&s=0",
-    "employer_website": "https://grafana.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Grafana-Labs/Job/Backend-Engineer-Mimir-%7C-USA-%7C-Remote/-in-Remote,OR?jid=0c89e674cd6ccc0b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Grafana-Labs/Job/Backend-Engineer-Mimir-%7C-USA-%7C-Remote/-in-Remote,OR?jid=0c89e674cd6ccc0b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Grafana Labs is a remote-first, open-source powerhouse. There are more than 20M users of Grafana, the open source visualization tool, around the globe, monitoring everything from beehives to climate change in the Alps. The instantly recognizable dashboards have been spotted everywhere from a NASA launch and Minecraft HQ to Wimbledon and the Tour de France. Grafana Labs also helps more than 3,000 companies -- including Bloomberg, JPMorgan Chase, and eBay -- manage their observability strategies with the Grafana LGTM Stack, which can be run fully managed with Grafana Cloud or self-managed with the Grafana Enterprise Stack, both featuring scalable metrics (Grafana Mimir), logs (Grafana Loki), and traces (Grafana Tempo).\n\nWe're scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.\n\nYou may not meet every requirement, and that's okay. If this role excites you, we'd love you to raise your hand for what could be a truly career-defining opportunity.\n\nThis is a remote position. We are looking for candidates in the United States time zones.\n\nWhat is Grafana Cloud?\n\nGrafana Cloud is our composable observability platform that integrates metrics, logs, traces, and profiles with Grafana. It allows our customers to leverage the best open source observability software - including Prometheus, Mimir, Loki, Tempo, and Pyroscope - without the overhead of installing, maintaining and scaling their own observability stack.\n\nThe Databases team owns and operates the telemetry databases that are Mimir for metrics, Loki for logs, Tempo for traces, and Pyroscope for profiles. Our databases are offered as a hosted service in Grafana Cloud, and additionally as on-premise solutions with Grafana Enterprise Metrics, Grafana Enterprise Logs, and Grafana Enterprise Traces. They are multi-tenant distributed systems implemented in Go and operating at scale on Kubernetes across all major Cloud service providers (AWS, GCP, Azure).\n\nAs a company we are remote-first and global, we embrace people of different experiences and backgrounds to build diverse teams where every person brings a new perspective to the software.\n\nMimir Squad\n\nThe Mimir squad has 3 sub-squads, Ingest, Storage, and Query, which together maintain the Mimir OSS project, and additionally own and operate Grafana Cloud Metrics across 3 major cloud providers. Engineers on the team focus on optimizing the efficiency and resilience of processing, storing, and querying metrics at large volumes. These services operate at a large scale and performance is key to keeping the offering competitive and running smoothly.\n\nA Mimir engineer has various work streams. They are likely engaged in a larger project with another engineer, and they are also incorporating some performance and reliability improvements discovered through operating the system in production. They are also responsible for writing and reviewing PRs and design documents from other engineers in the squad, shepherding automated release rollouts, and participating in the on-call rotation for their systems.\n\nWhat will you be doing?\n• Take an active role in influencing our roadmap and your own career objectives\n• Work with your team to deliver new features, then use the results to iterate and improve.\n• Help your team drive projects from initial idea all the way to operations once it is in the hands of customers\n• Embrace our open-source culture and contribute to other projects that may not directly fall within your team's scope\n• Build, operate, and maintain critical systems, owning the reliability, performance, and availability\n• Be a part of your team's follow-the-sun on-call rotations and take ownership of the services you're running\n• Support other team members, participate in design discussions and collaborate with the team\n• Learn new skills by gaining a deeper understanding of our cloud product and our customers and getting to know the codebase of a large distributed system\n\nAs we are remote-first and our engineering organization is largely remote, we provide guidance and meet regularly using video calls, so an independent attitude and good communication skills are a must.\n\nWe invest heavily in developer productivity. You can use modern AI coding assistants as part of your daily workflow (your choice of tools, within security guidelines), backed by a company-funded usage budget so you can iterate quickly without unnecessary friction.\n\nWe encourage pragmatic AI-assisted development: faster prototyping, test generation, refactors, documentation, and incident follow-ups-always paired with strong code review and quality standards.\n\nYou'll also have access to frontier models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3 Pro).\n\nWhat Makes You a Great Fit:\n\nYou are a motivated self starter with a bias towards action. You are customer focused. We build everything with our users in mind. You have a passion for building intuitive products that fit customers' needs. You have good time management skills, which you leverage to work on the right things at the right time.\n• Pragmatism: You have a bias towards action, taking direction and building a plan of action to analyze, design, and build modular solutions, deliver MVPs, gather data and feedback and then progress iteratively\n• Collaboration and communication: The smallest unit we have is a squad. You'll be working with your teammates in a fully remote setup. Good communication and time management skills are a must\n• AI: some experience using LLMs for day to day coding tasks and understanding a codebase.\n• Experience with at least one programming language. We use Go, but if you have familiarity with Python, C, C++, Rust or similar then that translates well\n• Some experience with delivering projects as a member of a larger team. Your experience includes gathering requirements and brainstorming ideas, all the way to shipping features to the customer's hands.\n• Some experience with developing software that runs in the Cloud or some experience with systems engineering\n• Some experience with being on-call and following the DevOps model\n• Experience writing clean, robust, and performant software that is easily maintained by others\n• Some familiarity with observability systems, know when to use metrics, logs, traces, to debug a problem.\n\nBonus Points For:\n• Experience working with Kubernetes\n• Experience working with queue systems, e.g. the Kafka protocol\n• Been a user of Grafana and Prometheus in operational roles (including on-call for your team at a previous employer or just using these tools on hobby/homelab projects)\n• Exposure to microservices architecture and distributed systems, or a desire to learn\n• Familiarity with the concept of infrastructure as code\n\nCompensation & Rewards:\n\nIn the United States, the Base compensation range for this role is USD 127,651 - USD 153,180. Actual compensation may vary based on level, experience, and skillset as assessed in the interview process. Benefits include equity, bonus (if applicable) and other benefits listed here.\n• Compensation ranges are country-specific. If you are applying for this role from a different location than listed above, your recruiter will discuss your specific market's defined pay range & benefits at the beginning of the process.\n• Compensation ranges are country specific. If you are applying for this role from a different location than listed above, your recruiter will discuss your specific market's defined pay range & benefits at the beginning of the process.\n\nWhy You'll Thrive at Grafana Labs:\n• 100% Remote, Global Culture - As a remote-only company, we bring together talent from around the world, united by a culture of collaboration and shared purpose.\n• Scaling Organization - Tackle meaningful work in a high-growth, ever-evolving environment.\n• Transparent Communication - Expect open decision-making and regular company-wide updates.\n• Innovation-Driven - Autonomy and support to ship great work and try new things.\n• Open Source Roots - Built on community-driven values that shape how we work.\n• Empowered Teams - High trust, low ego culture that values outcomes over optics.\n• Career Growth Pathways - Defined opportunities to grow and develop your career.\n• Approachable Leadership - Transparent execs who are involved, visible, and human.\n• Passionate People - Join a team of smart, supportive folks who care deeply about what they do.\n• In-Person onboarding - We want you to thrive from day 1 with your fellow new 'Grafanistas' to learn all about what we do and how we do it.\n• Balance is Key - We operate a global annual leave policy of 30 days per annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown Days to allow the team to really disconnect. *We will comply with local legislation where applicable.\n\nEqual Opportunity Employer: We will recruit, train, compensate and promote regardless of race, religion, color, national origin, gender, disability, age, veteran status, and all the other fascinating characteristics that make us different and unique. We believe that equality and diversity builds a strong organization and we're working hard to make sure that's the foundation of our organization as we grow.\n\nGrafana Labs may utilize AI tools in its recruitment process to assist in matching information provided in CVs to job postings. The recruitment team will continue to review inbound CVs manually to identify alignment with current openings.\n\n#LI-Remote\n\nFor information about how your personal data is used once you've applied to a job, check out our privacy policy.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Remote, OR",
-    "job_city": "Remote",
-    "job_state": "Oregon",
-    "job_country": "US",
-    "job_latitude": 43.005945499999996,
-    "job_longitude": -123.8925908,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRiWoWUeqtS8l0d8gAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "You are a motivated self starter with a bias towards action",
-        "You are customer focused",
-        "You have a passion for building intuitive products that fit customers' needs",
-        "You have good time management skills, which you leverage to work on the right things at the right time",
-        "Pragmatism: You have a bias towards action, taking direction and building a plan of action to analyze, design, and build modular solutions, deliver MVPs, gather data and feedback and then progress iteratively",
-        "Collaboration and communication: The smallest unit we have is a squad",
-        "Good communication and time management skills are a must",
-        "AI: some experience using LLMs for day to day coding tasks and understanding a codebase",
-        "Experience with at least one programming language",
-        "We use Go, but if you have familiarity with Python, C, C++, Rust or similar then that translates well",
-        "Some experience with delivering projects as a member of a larger team",
-        "Your experience includes gathering requirements and brainstorming ideas, all the way to shipping features to the customer's hands",
-        "Some experience with developing software that runs in the Cloud or some experience with systems engineering",
-        "Some experience with being on-call and following the DevOps model",
-        "Experience writing clean, robust, and performant software that is easily maintained by others",
-        "Some familiarity with observability systems, know when to use metrics, logs, traces, to debug a problem",
-        "Experience working with Kubernetes",
-        "Experience working with queue systems, e.g. the Kafka protocol",
-        "Been a user of Grafana and Prometheus in operational roles (including on-call for your team at a previous employer or just using these tools on hobby/homelab projects)",
-        "Exposure to microservices architecture and distributed systems, or a desire to learn",
-        "Transparent Communication - Expect open decision-making and regular company-wide updates"
-      ],
-      "Benefits": [
-        "Familiarity with the concept of infrastructure as code",
-        "In the United States, the Base compensation range for this role is USD 127,651 - USD 153,180. Actual compensation may vary based on level, experience, and skillset as assessed in the interview process",
-        "Benefits include equity, bonus (if applicable) and other benefits listed here",
-        "Compensation ranges are country-specific",
-        "If you are applying for this role from a different location than listed above, your recruiter will discuss your specific market's defined pay range & benefits at the beginning of the process",
-        "Compensation ranges are country specific",
-        "If you are applying for this role from a different location than listed above, your recruiter will discuss your specific market's defined pay range & benefits at the beginning of the process",
-        "Career Growth Pathways - Defined opportunities to grow and develop your career",
-        "3 days of your annual leave entitlement are reserved for Grafana Shutdown Days to allow the team to really disconnect"
-      ],
-      "Responsibilities": [
-        "They are likely engaged in a larger project with another engineer, and they are also incorporating some performance and reliability improvements discovered through operating the system in production",
-        "They are also responsible for writing and reviewing PRs and design documents from other engineers in the squad, shepherding automated release rollouts, and participating in the on-call rotation for their systems",
-        "Take an active role in influencing our roadmap and your own career objectives",
-        "Work with your team to deliver new features, then use the results to iterate and improve",
-        "Help your team drive projects from initial idea all the way to operations once it is in the hands of customers",
-        "Embrace our open-source culture and contribute to other projects that may not directly fall within your team's scope",
-        "Build, operate, and maintain critical systems, owning the reliability, performance, and availability",
-        "Be a part of your team's follow-the-sun on-call rotations and take ownership of the services you're running",
-        "Support other team members, participate in design discussions and collaborate with the team",
-        "Learn new skills by gaining a deeper understanding of our cloud product and our customers and getting to know the codebase of a large distributed system",
-        "You can use modern AI coding assistants as part of your daily workflow (your choice of tools, within security guidelines), backed by a company-funded usage budget so you can iterate quickly without unnecessary friction",
-        "We encourage pragmatic AI-assisted development: faster prototyping, test generation, refactors, documentation, and incident follow-ups-always paired with strong code review and quality standards",
-        "You'll also have access to frontier models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3 Pro)",
-        "You'll be working with your teammates in a fully remote setup",
-        "Innovation-Driven - Autonomy and support to ship great work and try new things"
-      ]
-    },
-    "job_onet_soc": "15119900",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-grafana-labs-job-backend-engineer-mimir-7c-usa-7c-remote-in-remote-or",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "e-Y-DRmhmhzBVzgNAAAAAA==",
-    "job_title": "Software Engineer - Backend",
-    "employer_name": "Snowflake",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpLqaY5bhser3M_0CNtOLHRqhfh6VYSZ_gF1p&s=0",
-    "employer_website": "https://www.snowflake.com",
-    "job_publisher": "Snowflake Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snowflake Careers",
-        "apply_link": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Principal-Software-Engineer-Tech/-in-Bellevue,WA?jid=9122a24991d41c1e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Bandana.com",
-        "apply_link": "https://bandana.com/jobs/d3c2260c-6c73-46bf-8bf8-b68951ce3ddf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/principal-software-engineer-tech_7ea1a7579325c79587ce8ce1f6ad230be8ba2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-snowflake-4214697219?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Milwaukee Jobs",
-        "apply_link": "https://www.milwaukeejobs.com/j/t-Software-Engineer-Backend-e-Snowflake-l-San-Mateo,-CA-jobs-j82730532.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Karkidi",
-        "apply_link": "https://www.karkidi.com/job-details/81253-sr-backend-software-engineer-wa-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Snowflake is about empowering enterprises to achieve their full potential — and people too. With a culture that’s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology — and careers — to the next level.\n\nWe’re at the forefront of the data revolution, committed to building the world’s greatest data and applications platform. Snowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Data Cloud allows sharing live data in governed and secure ways so our customers can solve their business problems.\n\nData Cloud allows sharing live data in governed and secure ways so our customers can solve their business problems. Come join our world-class team as a Software Engineer to build the backend services for data cloud to help our customers to share data internally within their company or outside with external organizations.\n\nWe are investing in initiatives across multiple engineering areas that include: Data Engineering & Open Lakehouse, Database Engineering, Engineering Systems, Product Experiences, Apps & Collaboration,Platform Engineering, and Public Sector, Security and Governance\n\nAS A SOFTWARE ENGINEER, YOU WILL:\n• Design and build features, and/or distributed platforms at scale.\n• Drive impactful initiatives for the globally distributed infrastructure\n• Collaborate with product managers, architects, other engineering teams, and business groups, to drive end-to-end solutions.\n• Contribute to improving our engineering processes, tooling, and standards.\n\nOUR IDEAL CANDIDATE WILL HAVE:\n• 2-5 years’ of industry experience designing, building, and supporting large-scale systems in production.\n• Strong fundamental computer science skills. Knowledge of algorithms and data structures.\n• Fluency in Java, Python, C++, or SQL\n• Deep multi-faceted appreciation in building end-to-end customer facing products.\n• BS/MS/PhD in Computer Science or related majors, or equivalent experience.\n\nBONUS POINTS IF YOU HAVE:\n• Familiarity with database internals or data governance, and/or payment systems is a plus\n\nEvery Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com\n\nThe following represents the expected range of compensation for this role:\n• The estimated base salary range for this role is $160,000 - $230,000.\n• Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.\n\nThe successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.\n\nTo comply with pay transparency requirements and other statutes, you can notify us if you believe that a job posting is not compliant by completing this form.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Bellevue, WA",
-    "job_city": "Bellevue",
-    "job_state": "Washington",
-    "job_country": "US",
-    "job_latitude": 47.6101497,
-    "job_longitude": -122.20151589999999,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De-Y-DRmhmhzBVzgNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "2-5 years’ of industry experience designing, building, and supporting large-scale systems in production",
-        "Strong fundamental computer science skills",
-        "Knowledge of algorithms and data structures",
-        "Fluency in Java, Python, C++, or SQL",
-        "Deep multi-faceted appreciation in building end-to-end customer facing products",
-        "BS/MS/PhD in Computer Science or related majors, or equivalent experience",
-        "Every Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data"
-      ],
-      "Benefits": [
-        "The estimated base salary range for this role is $160,000 - $230,000",
-        "Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan",
-        "The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location",
-        "This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits"
-      ],
-      "Responsibilities": [
-        "Design and build features, and/or distributed platforms at scale",
-        "Drive impactful initiatives for the globally distributed infrastructure",
-        "Collaborate with product managers, architects, other engineering teams, and business groups, to drive end-to-end solutions",
-        "Contribute to improving our engineering processes, tooling, and standards"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "careers-snowflake-com-us-en-job-sncousdd524b932e4e4e3b84b44684a46e9148externalenus3eb872af0ab149868f72e7321fcd1538-software-engineer-backend",
     "_source": "new_jobs"
   },
   {
@@ -501,6 +305,105 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "e-Y-DRmhmhzBVzgNAAAAAA==",
+    "job_title": "Software Engineer - Backend",
+    "employer_name": "Snowflake",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpLqaY5bhser3M_0CNtOLHRqhfh6VYSZ_gF1p&s=0",
+    "employer_website": "https://www.snowflake.com",
+    "job_publisher": "Snowflake Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Snowflake Careers",
+        "apply_link": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Principal-Software-Engineer-Tech/-in-Bellevue,WA?jid=9122a24991d41c1e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Bandana.com",
+        "apply_link": "https://bandana.com/jobs/d3c2260c-6c73-46bf-8bf8-b68951ce3ddf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/principal-software-engineer-tech_7ea1a7579325c79587ce8ce1f6ad230be8ba2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-snowflake-4214697219?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Milwaukee Jobs",
+        "apply_link": "https://www.milwaukeejobs.com/j/t-Software-Engineer-Backend-e-Snowflake-l-San-Mateo,-CA-jobs-j82730532.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Karkidi",
+        "apply_link": "https://www.karkidi.com/job-details/81253-sr-backend-software-engineer-wa-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Snowflake is about empowering enterprises to achieve their full potential — and people too. With a culture that’s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology — and careers — to the next level.\n\nWe’re at the forefront of the data revolution, committed to building the world’s greatest data and applications platform. Snowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Data Cloud allows sharing live data in governed and secure ways so our customers can solve their business problems.\n\nData Cloud allows sharing live data in governed and secure ways so our customers can solve their business problems. Come join our world-class team as a Software Engineer to build the backend services for data cloud to help our customers to share data internally within their company or outside with external organizations.\n\nWe are investing in initiatives across multiple engineering areas that include: Data Engineering & Open Lakehouse, Database Engineering, Engineering Systems, Product Experiences, Apps & Collaboration,Platform Engineering, and Public Sector, Security and Governance\n\nAS A SOFTWARE ENGINEER, YOU WILL:\n• Design and build features, and/or distributed platforms at scale.\n• Drive impactful initiatives for the globally distributed infrastructure\n• Collaborate with product managers, architects, other engineering teams, and business groups, to drive end-to-end solutions.\n• Contribute to improving our engineering processes, tooling, and standards.\n\nOUR IDEAL CANDIDATE WILL HAVE:\n• 2-5 years’ of industry experience designing, building, and supporting large-scale systems in production.\n• Strong fundamental computer science skills. Knowledge of algorithms and data structures.\n• Fluency in Java, Python, C++, or SQL\n• Deep multi-faceted appreciation in building end-to-end customer facing products.\n• BS/MS/PhD in Computer Science or related majors, or equivalent experience.\n\nBONUS POINTS IF YOU HAVE:\n• Familiarity with database internals or data governance, and/or payment systems is a plus\n\nEvery Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com\n\nThe following represents the expected range of compensation for this role:\n• The estimated base salary range for this role is $160,000 - $230,000.\n• Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.\n\nThe successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.\n\nTo comply with pay transparency requirements and other statutes, you can notify us if you believe that a job posting is not compliant by completing this form.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Bellevue, WA",
+    "job_city": "Bellevue",
+    "job_state": "Washington",
+    "job_country": "US",
+    "job_latitude": 47.6101497,
+    "job_longitude": -122.20151589999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De-Y-DRmhmhzBVzgNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "2-5 years’ of industry experience designing, building, and supporting large-scale systems in production",
+        "Strong fundamental computer science skills",
+        "Knowledge of algorithms and data structures",
+        "Fluency in Java, Python, C++, or SQL",
+        "Deep multi-faceted appreciation in building end-to-end customer facing products",
+        "BS/MS/PhD in Computer Science or related majors, or equivalent experience",
+        "Every Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data"
+      ],
+      "Benefits": [
+        "The estimated base salary range for this role is $160,000 - $230,000",
+        "Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan",
+        "The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location",
+        "This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits"
+      ],
+      "Responsibilities": [
+        "Design and build features, and/or distributed platforms at scale",
+        "Drive impactful initiatives for the globally distributed infrastructure",
+        "Collaborate with product managers, architects, other engineering teams, and business groups, to drive end-to-end solutions",
+        "Contribute to improving our engineering processes, tooling, and standards"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "careers-snowflake-com-us-en-job-sncousdd524b932e4e4e3b84b44684a46e9148externalenus3eb872af0ab149868f72e7321fcd1538-software-engineer-backend",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "iJ7ZcdlY4jExtywHAAAAAA==",
     "job_title": "Software Engineer Backend/Platform Systems II (Full Time) – United States",
     "employer_name": "Cisco",
@@ -557,9 +460,9 @@
     "job_latitude": 39.1511692,
     "job_longitude": -76.92305069999999,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiJ7ZcdlY4jExtywHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -704,8 +607,8 @@
     "job_latitude": 40.737100399999996,
     "job_longitude": -74.03130469999999,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXKhho2kzxK4XaGSSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -749,6 +652,192 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-efinancialcareers-com-jobs-usa-nj-hoboken-lead_software_engineer_-java_backend_engineer-id23819827",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "3eZMcwRxuwsbECvLAAAAAA==",
+    "job_title": "Software Engineer II: Backend",
+    "employer_name": "Uber",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5P-JaTkhLgASUEADjcI9_THrw2ftb9JylguhC&s=0",
+    "employer_website": "https://www.uber.com",
+    "job_publisher": "Uber",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.uber.com/global/en/careers/list/154897/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Uber",
+        "apply_link": "https://www.uber.com/global/en/careers/list/154897/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Uber/Job/Software-Engineer-II-,-Backend/-in-Sunnyvale,CA?jid=91f2c408ff2241ae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/backend-software-engineer-sunnyvale-ca--5d44f0d8-cdf7-4b7d-827d-3590cf67c7eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/f33977bb-813c-4b47-9a61-c942df624596?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/connect-staffing-and-consulting/backend-software-engineer-42767253/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "EarnBetter",
+        "apply_link": "https://earnbetter.com/app/job/01KH02BMZMQVT6Y8MEKSCFRVX0/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/7e20e9307ce98183b48ccf35bdfbf48a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "IHireTechnology",
+        "apply_link": "https://www.ihiretechnology.com/jobs/view/502106225?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "About the Role\n\nAs a Backend Software Engineer working on the Eats for Business team at Uber, you will build highly-performant, reliable products used by hundreds of millions of customers every day. You will collaborate with stakeholders within and across teams to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.\n\nWhat the Candidate Will Do\n• Your technical expertise will have a direct impact on hundreds of millions of daily customer interactions\n• Own end to end delivery of features and systems\n• Collaborate with other Uber engineers to gather requirements and build for the future\n• Adapt to meet the needs of our massive scale and rapidly evolving systems\n• Write maintainable and extensible code with high quality tests and documentation\n\nBasic Qualifications\n• Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 1-year full-time Software Engineering work experience, WHICH INCLUDES 1-year total technical software engineering experience in one or more of the following areas:\n• Programming language (e.g. C, C++, Java, Python, or Go)\n\nPreferred Qualifications\n• Product engineering\n• Scalability engineering\n• Distributed systems\n\nFor Sunnyvale, CA-based roles: The base salary range for this role is USD$171,000 per year - USD$190,000 per year.\n\nYou will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits. More details can be found at the following link https://jobs.uber.com/en/benefits.\n\nUber's mission is to reimagine the way the world moves for the better. Here, bold ideas create real-world impact, challenges drive growth, and speed fuels progress. What moves us, moves the world - let's move it forward, together.\n\nUber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.\n\nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Sunnyvale, CA",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.368829999999996,
+    "job_longitude": -122.0363496,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3eZMcwRxuwsbECvLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 1-year full-time Software Engineering work experience, WHICH INCLUDES 1-year total technical software engineering experience in one or more of the following areas:",
+        "Programming language (e.g. C, C++, Java, Python, or Go)"
+      ],
+      "Benefits": [
+        "For Sunnyvale, CA-based roles: The base salary range for this role is USD$171,000 per year - USD$190,000 per year",
+        "You will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp",
+        "All full-time employees are eligible to participate in a 401(k) plan",
+        "You will also be eligible for various benefits"
+      ],
+      "Responsibilities": [
+        "As a Backend Software Engineer working on the Eats for Business team at Uber, you will build highly-performant, reliable products used by hundreds of millions of customers every day",
+        "You will collaborate with stakeholders within and across teams to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber",
+        "Your technical expertise will have a direct impact on hundreds of millions of daily customer interactions",
+        "Own end to end delivery of features and systems",
+        "Collaborate with other Uber engineers to gather requirements and build for the future",
+        "Adapt to meet the needs of our massive scale and rapidly evolving systems",
+        "Write maintainable and extensible code with high quality tests and documentation"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-uber-com-global-en-careers-list-154897",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "GlmD67ytRTUjLlO2AAAAAA==",
+    "job_title": "Software Engineer, Level 1",
+    "employer_name": "Independent Software, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQfZcfb7aCqdGVmfkPbXLPGjXh36ohcPl3xP8&s=0",
+    "employer_website": "https://independentsoftware.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineer-level-1-at-independent-software-inc-4368865469?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-level-1-at-independent-software-inc-4368865469?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WKRN Jobs",
+        "apply_link": "https://jobs.wkrn.com/jobs/software-engineer-level-1-ellicott-city-maryland/2618620785-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "What You Will Do\n\nAs a Software Engineer, you will design, develop, deploy, and maintain secure, mission-focused applications supporting distributed operational environments. You will work across the full software development lifecycle, from design and development through deployment and sustainment, collaborating closely with cross-functional teams to ensure high availability, performance, and reliability. This role blends hands-on software engineering with operational support and system administration responsibilities across multiple production sites.\n\nKey Responsibilities\n• Develop, enhance, and maintain applications using Python\n• Build, deploy, and manage containerized applications using Docker\n• Design, implement, and optimize database solutions using MongoDB\n• Collaborate with team members using Git for version control, branching strategies, and code reviews\n• Participate in and support CI/CD pipelines and Agile software development processes\n• Conduct peer code reviews and provide constructive technical feedback\n• Manage and execute deployments to all production sites, including pushing new software versions and validating successful rollouts\n• Ensure minimal disruption to business operations during deployments and system updates\n• Provide on-site technical support, diagnosing and resolving issues related to hardware, applications, and user environments\n• Perform system administration tasks as needed to maintain operational stability across multiple locations\n• Collaborate with cross-functional teams to troubleshoot complex issues and maintain high system availability\n\nRequired Skills and Qualifications:\n• Strong proficiency in Python for application development\n• Hands-on experience with Docker and containerized application deployment\n• Experience designing and managing MongoDB databases\n• Solid understanding of Git and collaborative development workflows\n• Experience with JavaScript frameworks such as Angular (Angular 2+) and/or React for UI development\n• Familiarity with CI/CD pipelines, tools, and Agile methodologies\n• Strong problem-solving skills and ability to troubleshoot complex technical issues\n• Effective written and verbal communication skills\n• Exposure to tools such as Ansible, JIRA, Bitbucket, and Terraform is a plus\n• Familiarity with Kubernetes is desired\n\nEducation And Experience\n• Bachelor’s degree in Computer Science or a related discipline from an accredited college or university\n• Four (4) additional years of Software Engineering experience on projects with similar software processes may be substituted for a bachelor’s degree on a case-by-case basis\n• Minimum of seven (7) years of experience as a Software Engineer supporting programs and contracts of similar scope, type, and complexity\n\nClearance Requirement\n• Must possess an active TS SCI with appropriate Polygraph to be considered for this role\n\nWhy Choose Independent Software\n\nAt Independent Software, our people are the mission. We’ve built a company around collaboration, integrity, and innovation and we make sure our team has the tools and support to grow, succeed, and thrive.\n\nWhen You Join Us, You Will\n• Support critical national security missions that matter\n• Be part of a close-knit, employee-first culture where your voice is heard\n• Expand your skills through ongoing training, mentorship, and career development\n• Enjoy competitive compensation, generous benefits, and work-life balance\n\nReady to take the next step in your career? Join us and be part of something bigger.\n\nApply today.\n\nWe’re an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Ellicott City, MD",
+    "job_city": "Ellicott City",
+    "job_state": "Maryland",
+    "job_country": "US",
+    "job_latitude": 39.267328299999996,
+    "job_longitude": -76.7983067,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGlmD67ytRTUjLlO2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Strong proficiency in Python for application development",
+        "Hands-on experience with Docker and containerized application deployment",
+        "Experience designing and managing MongoDB databases",
+        "Solid understanding of Git and collaborative development workflows",
+        "Experience with JavaScript frameworks such as Angular (Angular 2+) and/or React for UI development",
+        "Familiarity with CI/CD pipelines, tools, and Agile methodologies",
+        "Strong problem-solving skills and ability to troubleshoot complex technical issues",
+        "Effective written and verbal communication skills",
+        "Bachelor’s degree in Computer Science or a related discipline from an accredited college or university",
+        "Four (4) additional years of Software Engineering experience on projects with similar software processes may be substituted for a bachelor’s degree on a case-by-case basis",
+        "Minimum of seven (7) years of experience as a Software Engineer supporting programs and contracts of similar scope, type, and complexity",
+        "Must possess an active TS SCI with appropriate Polygraph to be considered for this role"
+      ],
+      "Benefits": [
+        "Be part of a close-knit, employee-first culture where your voice is heard",
+        "Expand your skills through ongoing training, mentorship, and career development",
+        "Enjoy competitive compensation, generous benefits, and work-life balance"
+      ],
+      "Responsibilities": [
+        "As a Software Engineer, you will design, develop, deploy, and maintain secure, mission-focused applications supporting distributed operational environments",
+        "You will work across the full software development lifecycle, from design and development through deployment and sustainment, collaborating closely with cross-functional teams to ensure high availability, performance, and reliability",
+        "This role blends hands-on software engineering with operational support and system administration responsibilities across multiple production sites",
+        "Develop, enhance, and maintain applications using Python",
+        "Build, deploy, and manage containerized applications using Docker",
+        "Design, implement, and optimize database solutions using MongoDB",
+        "Collaborate with team members using Git for version control, branching strategies, and code reviews",
+        "Participate in and support CI/CD pipelines and Agile software development processes",
+        "Conduct peer code reviews and provide constructive technical feedback",
+        "Manage and execute deployments to all production sites, including pushing new software versions and validating successful rollouts",
+        "Ensure minimal disruption to business operations during deployments and system updates",
+        "Provide on-site technical support, diagnosing and resolving issues related to hardware, applications, and user environments",
+        "Perform system administration tasks as needed to maintain operational stability across multiple locations",
+        "Collaborate with cross-functional teams to troubleshoot complex issues and maintain high system availability"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-software-engineer-level-1-at-independent-software-inc-4368865469",
     "_source": "new_jobs"
   },
   {
@@ -818,9 +907,9 @@
     "job_latitude": 33.9462125,
     "job_longitude": -84.3346473,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdvcyNjr4VgsOlPyqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -894,119 +983,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "jobs-statefarm-com-jobs-43468",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "u72KdRaqhQ15ubAyAAAAAA==",
-    "job_title": "Software Engineer - Early Career",
-    "employer_name": "Lockheed Martin",
-    "employer_logo": null,
-    "employer_website": "https://www.lockheedmartin.com",
-    "job_publisher": "Lockheed Martin Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/cape-canaveral/software-engineer-early-career/694/91375966448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Lockheed Martin Careers",
-        "apply_link": "https://www.lockheedmartinjobs.com/job/cape-canaveral/software-engineer-early-career/694/91375966448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Lockheed-Martin/Job/Software-Engineer-Early-Career/-in-Cape-Canaveral,FL?jid=a84d5a37011d5f4d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/software-engineer-early-career-lockheed-martin-JV_IC1154280_KO0,30_KE31,46.htm?jl=1010025522509&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=676fb70c6ee9c78c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/53cdff28-87f5-44d7-9421-fd78b8037790?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Women In Business & Industry",
-        "apply_link": "https://wib-i.com/cape-canaveral-fl/software-engineer-early-career/9D9319F68A2545E6B94770ACDAB8387C/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/nDPZJwIrhb1GfCeFuFIx6P_wh8r3BVGX9_NR1THz4zfbADqGgDq1Kg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JSfirm.com",
-        "apply_link": "https://www.jsfirm.com/job/Engineering-Software-Engineer---Early-Career/Cape+Canaveral-Florida/jobID_1850278?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description:By bringing together people that use their passion for purposeful innovation, at Lockheed Martin we keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work. With our employees as our priority, we provide career opportunities designed to propel development and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. At Lockheed Martin, we place an emphasis on empowering our employees by fostering innovation, integrity, and exemplifying the epitome of corporate responsibility. Your Mission is Ours.\n\nLockheed Martin Space is seeking a full-time Early Career Software Engineer. In this role, you will help the Space Sustainment and Services team design and implement interfaces between IBM Maximo Application Suite, IoT devices and other enterprise systems. The successful candidate will have experience and/or working knowledge of SQL, Java, Python, XML and JSON. Candidate should also have a firm understanding of the System Development Lifecycle and Agile practices. Must be a US Citizen.\nBasic Qualifications:\n• Degree in Software Engineering, Computer Science, Systems Engineering, Data Science, or equivalent.\n• Proficient with Python and SQL (Structured Query Language).\n• Must be a US Citizen.\n• Willing to travel.\nDesired Skills:\n• Familiar with Java, XML (Extensible Markup Language) and JSON (JavaScript Object Notation) and Agile methodology.\n• Familiar with asset management practices.\n• Familiar with IBM Maximo Application Suite.\n• Familiar with SysML and/or Cameo.\nClearance Level: None\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Full-time Remote Telework: The employee selected for this position will work remotely full time at a location other than a Lockheed Martin designated office/job site. Employees may travel to a Lockheed Martin office for periodic meetings.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 4x10 hour day, 3 days off per week\nPay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $72,200 - $125,005. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\nThis position is incentive plan eligible.\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $62,700 - $110,630. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: 4 yr and up College\nBusiness Unit: SPACE\nRelocation Available: No\nCareer Area: Software Engineering\nType: Full-Time\nShift: First",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Cape Canaveral, FL",
-    "job_city": "Cape Canaveral",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 28.3922182,
-    "job_longitude": -80.60771319999999,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Du72KdRaqhQ15ubAyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The successful candidate will have experience and/or working knowledge of SQL, Java, Python, XML and JSON",
-        "Candidate should also have a firm understanding of the System Development Lifecycle and Agile practices",
-        "Must be a US Citizen",
-        "Degree in Software Engineering, Computer Science, Systems Engineering, Data Science, or equivalent",
-        "Proficient with Python and SQL (Structured Query Language)",
-        "Must be a US Citizen",
-        "Willing to travel",
-        "Experience Level: 4 yr and up College"
-      ],
-      "Benefits": [
-        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
-        "Ability to Work Remotely: Full-time Remote Telework: The employee selected for this position will work remotely full time at a location other than a Lockheed Martin designated office/job site",
-        "Schedules range from standard 40 hours over a five day work week while others may be condensed",
-        "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
-        "Pay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $72,200 - $125,005. For states not referenced above, the salary range for this position will reflect the candidate’s final work location",
-        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
-        "This position is incentive plan eligible",
-        "Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $62,700 - $110,630",
-        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
-        "(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
-        "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
-        "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year",
-        "This position is incentive plan eligible",
-        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work"
-      ],
-      "Responsibilities": [
-        "In this role, you will help the Space Sustainment and Services team design and implement interfaces between IBM Maximo Application Suite, IoT devices and other enterprise systems",
-        "Schedule for this Position: 4x10 hour day, 3 days off per week"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-lockheedmartinjobs-com-job-cape-canaveral-software-engineer-early-career-694-91375966448",
     "_source": "new_jobs"
   },
   {
@@ -1130,64 +1106,12 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "2vnMw5Cgv5HMZEviAAAAAA==",
-    "job_title": "Backend Engineer",
-    "employer_name": "Bison Trails",
-    "employer_logo": null,
-    "employer_website": "https://www.bisontrails-ok.com",
-    "job_publisher": "BeBee",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://us.bebee.com/job/38aba7f4685b5321c0aaaa92b72fb87e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/38aba7f4685b5321c0aaaa92b72fb87e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A leading cryptocurrency firm in Oregon seeks a skilled software engineer to drive product growth through building scalable systems and writing high-quality code.\n\nIdeal candidates will have at least 2 years of experience in software engineering and a strong understanding of cloud technology.\nPassion for developing an open financial system is essential. This role includes competitive salary and benefits, with a collaborative work culture aimed at fostering innovation.\n#J-18808-Ljbffr",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Myrtle Point, OR",
-    "job_city": "Myrtle Point",
-    "job_state": "Oregon",
-    "job_country": "US",
-    "job_latitude": 43.064831999999996,
-    "job_longitude": -124.13899199999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2vnMw5Cgv5HMZEviAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Ideal candidates will have at least 2 years of experience in software engineering and a strong understanding of cloud technology",
-        "Passion for developing an open financial system is essential"
-      ],
-      "Benefits": [
-        "This role includes competitive salary and benefits, with a collaborative work culture aimed at fostering innovation",
-        "#J-18808-Ljbffr"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "us-bebee-com-job-38aba7f4685b5321c0aaaa92b72fb87e",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "3yQe_VvJV1vljZ13AAAAAA==",
     "job_title": "Senior Software Engineer - Openflow",
     "employer_name": "Snowflake",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpLqaY5bhser3M_0CNtOLHRqhfh6VYSZ_gF1p&s=0",
     "employer_website": "https://www.snowflake.com",
-    "job_publisher": "Careers At Snowflake",
+    "job_publisher": "Snowflake Careers",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
@@ -1196,7 +1120,7 @@
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Careers At Snowflake",
+        "publisher": "Snowflake Careers",
         "apply_link": "https://careers.snowflake.com/us/en/job/SNCOUS2B6F6B0290C14E87AB17C54F71654B88EXTERNALENUSAFA654DD0431403098781E48C27465BD/Senior-Software-Engineer-Openflow?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
@@ -1248,8 +1172,8 @@
     "job_latitude": 37.452959799999995,
     "job_longitude": -122.18172519999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3yQe_VvJV1vljZ13AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1291,6 +1215,119 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "careers-snowflake-com-us-en-job-sncous2b6f6b0290c14e87ab17c54f71654b88externalenusafa654dd0431403098781e48c27465bd-senior-software-engineer-openflow",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "u72KdRaqhQ15ubAyAAAAAA==",
+    "job_title": "Software Engineer - Early Career",
+    "employer_name": "Lockheed Martin",
+    "employer_logo": null,
+    "employer_website": "https://www.lockheedmartin.com",
+    "job_publisher": "Lockheed Martin Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/cape-canaveral/software-engineer-early-career/694/91375966448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Lockheed Martin Careers",
+        "apply_link": "https://www.lockheedmartinjobs.com/job/cape-canaveral/software-engineer-early-career/694/91375966448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Lockheed-Martin/Job/Software-Engineer-Early-Career/-in-Cape-Canaveral,FL?jid=a84d5a37011d5f4d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/software-engineer-early-career-lockheed-martin-JV_IC1154280_KO0,30_KE31,46.htm?jl=1010025522509&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=676fb70c6ee9c78c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/53cdff28-87f5-44d7-9421-fd78b8037790?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Women In Business & Industry",
+        "apply_link": "https://wib-i.com/cape-canaveral-fl/software-engineer-early-career/9D9319F68A2545E6B94770ACDAB8387C/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/nDPZJwIrhb1GfCeFuFIx6P_wh8r3BVGX9_NR1THz4zfbADqGgDq1Kg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-early-career-at-jobs-via-dice-4371111236?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Description:By bringing together people that use their passion for purposeful innovation, at Lockheed Martin we keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work. With our employees as our priority, we provide career opportunities designed to propel development and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. At Lockheed Martin, we place an emphasis on empowering our employees by fostering innovation, integrity, and exemplifying the epitome of corporate responsibility. Your Mission is Ours.\n\nLockheed Martin Space is seeking a full-time Early Career Software Engineer. In this role, you will help the Space Sustainment and Services team design and implement interfaces between IBM Maximo Application Suite, IoT devices and other enterprise systems. The successful candidate will have experience and/or working knowledge of SQL, Java, Python, XML and JSON. Candidate should also have a firm understanding of the System Development Lifecycle and Agile practices. Must be a US Citizen.\nBasic Qualifications:\n• Degree in Software Engineering, Computer Science, Systems Engineering, Data Science, or equivalent.\n• Proficient with Python and SQL (Structured Query Language).\n• Must be a US Citizen.\n• Willing to travel.\nDesired Skills:\n• Familiar with Java, XML (Extensible Markup Language) and JSON (JavaScript Object Notation) and Agile methodology.\n• Familiar with asset management practices.\n• Familiar with IBM Maximo Application Suite.\n• Familiar with SysML and/or Cameo.\nClearance Level: None\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Full-time Remote Telework: The employee selected for this position will work remotely full time at a location other than a Lockheed Martin designated office/job site. Employees may travel to a Lockheed Martin office for periodic meetings.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 4x10 hour day, 3 days off per week\nPay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $72,200 - $125,005. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\nThis position is incentive plan eligible.\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $62,700 - $110,630. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: 4 yr and up College\nBusiness Unit: SPACE\nRelocation Available: No\nCareer Area: Software Engineering\nType: Full-Time\nShift: First",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Cape Canaveral, FL",
+    "job_city": "Cape Canaveral",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 28.3922182,
+    "job_longitude": -80.60771319999999,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Du72KdRaqhQ15ubAyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The successful candidate will have experience and/or working knowledge of SQL, Java, Python, XML and JSON",
+        "Candidate should also have a firm understanding of the System Development Lifecycle and Agile practices",
+        "Must be a US Citizen",
+        "Degree in Software Engineering, Computer Science, Systems Engineering, Data Science, or equivalent",
+        "Proficient with Python and SQL (Structured Query Language)",
+        "Must be a US Citizen",
+        "Willing to travel",
+        "Experience Level: 4 yr and up College"
+      ],
+      "Benefits": [
+        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
+        "Ability to Work Remotely: Full-time Remote Telework: The employee selected for this position will work remotely full time at a location other than a Lockheed Martin designated office/job site",
+        "Schedules range from standard 40 hours over a five day work week while others may be condensed",
+        "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
+        "Pay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $72,200 - $125,005. For states not referenced above, the salary range for this position will reflect the candidate’s final work location",
+        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
+        "This position is incentive plan eligible",
+        "Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $62,700 - $110,630",
+        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
+        "(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
+        "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
+        "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year",
+        "This position is incentive plan eligible",
+        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work"
+      ],
+      "Responsibilities": [
+        "In this role, you will help the Space Sustainment and Services team design and implement interfaces between IBM Maximo Application Suite, IoT devices and other enterprise systems",
+        "Schedule for this Position: 4x10 hour day, 3 days off per week"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-lockheedmartinjobs-com-job-cape-canaveral-software-engineer-early-career-694-91375966448",
     "_source": "new_jobs"
   },
   {
@@ -1382,9 +1419,9 @@
     "job_latitude": 36.1334622,
     "job_longitude": -94.1629938,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFDZXZEoUM2_uDTMBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 110000,
@@ -1491,8 +1528,8 @@
     "job_latitude": 41.88325,
     "job_longitude": -87.6323879,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSLttNDLOC13PPnk5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1687,9 +1724,9 @@
     "job_latitude": 33.1496718,
     "job_longitude": -96.835567,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD5rVDrynyJhWv_3dAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
