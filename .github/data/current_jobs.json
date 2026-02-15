@@ -249,69 +249,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "q8-FC58E5DeaDtV0AAAAAA==",
-    "job_title": "Android Mobile Developer - Latin & South America",
-    "employer_name": "Redfin",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwn_JJvR5M_LHHYdDqB9KTMZCHoxrxSnoro-9S&s=0",
-    "employer_website": "https://www.redfin.com",
-    "job_publisher": "Jobgether",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobgether.com/offer/698e70d90f33c87a10eae4e6-android-mobile-developer---latin-south-america?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobgether",
-        "apply_link": "https://jobgether.com/offer/698e70d90f33c87a10eae4e6-android-mobile-developer---latin-south-america?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "This a Full Remote job, the offer is available from: South America, United States\n\nThis is a remote contract role to be based in Latin or South America. Only qualified applicants residing in and working from Latin or South America will be considered.\n\nRedfin is revolutionizing the $75 billion real estate industry. We use data, beautiful software, and innovative design to put customers first at every step in the home-buying and selling process. Get ready to dive headfirst into our award-winning mobile apps, solving complex business problems in a highly visible, customer-centric way. If you value doing great work in a collaborative environment, join our team!\n\nRedfin is expanding our nearshoring developer program and is currently seeking an Android Mobile Engineer to be based remotely in Latin America. As an Android Mobile Engineer, you'll join a passionate team working to build engaging experiences to make it easy for users to find their next home. We support the infrastructure to ensure our app is fast and stable and build features for our customers that allow them to interact with the home buying experience while on the move.\n\nThe Role\n• Design and implement complex, technical projects that change the way people make one of the biggest decisions of their lives.\n• Collaborate with your teammates by reviewing code, writing documentation, refining best practices, and building maintainable and testable codebases.\n• Work closely with our product and design teams to understand user and business needs.\n• Drive the team forward in Android best practices and design principles, bringing in industry trends where applicable.\n• Using approved AI code generation tools to document, architect, and create code\n\nWho You Are\n• You continually obsess over improving the user experience, whether it's collaborating with product managers and designers to build beautiful products or finding and squashing performance bottlenecks.\n• You have 3+ years of development experience with at least 2 years of native Android experience.\n• You have practical experience building Android applications in Kotlin and Java and a solid understanding of computer science and engineering fundamentals.\n• Effective communication: you can collaborate across distances and experience levels, and you can disagree constructively with respect for everyone’s opinions and ideas.\n• You stay on top of what's happening in the iOS community and are always looking for ways to improve the products you make.\n• You love working with a smart, talented team because you know that makes you better.\n• You have a passion for well-architected, clean, well-written code.\n• You have experience using AI code generation tools tools such as GitHub CoPilot, Anthropic Claude Code, Cursor, or similar\n• Experience with running experiments and experimentation frameworks a plus.\n• You are fluent in English (written and spoken)\n• You have a reliable internet connection where you can connect via VPN and engage in video based conferencing for the entire workday.\n\nRedfin provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination based on race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, and any other characteristic protected by applicable federal, state or local law. If you need accommodation in the application or recruitment process because of a disability or special need, please contact recruitingteam@redfin.com.\n\nRedfin accepts applications on an ongoing basis.\n\nThis offer from \"Redfin\" has been enriched by Jobgether.com and got a 81% flex score.",
-    "job_is_remote": true,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Washington, DC",
-    "job_city": "Washington",
-    "job_state": "District of Columbia",
-    "job_country": "US",
-    "job_latitude": 38.9072873,
-    "job_longitude": -77.0369274,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dq8-FC58E5DeaDtV0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "You continually obsess over improving the user experience, whether it's collaborating with product managers and designers to build beautiful products or finding and squashing performance bottlenecks",
-        "You have 3+ years of development experience with at least 2 years of native Android experience",
-        "You have practical experience building Android applications in Kotlin and Java and a solid understanding of computer science and engineering fundamentals",
-        "Effective communication: you can collaborate across distances and experience levels, and you can disagree constructively with respect for everyone’s opinions and ideas",
-        "You stay on top of what's happening in the iOS community and are always looking for ways to improve the products you make",
-        "You love working with a smart, talented team because you know that makes you better",
-        "You have a passion for well-architected, clean, well-written code",
-        "You have experience using AI code generation tools tools such as GitHub CoPilot, Anthropic Claude Code, Cursor, or similar",
-        "You are fluent in English (written and spoken)",
-        "You have a reliable internet connection where you can connect via VPN and engage in video based conferencing for the entire workday"
-      ],
-      "Responsibilities": [
-        "Design and implement complex, technical projects that change the way people make one of the biggest decisions of their lives",
-        "Collaborate with your teammates by reviewing code, writing documentation, refining best practices, and building maintainable and testable codebases",
-        "Work closely with our product and design teams to understand user and business needs",
-        "Drive the team forward in Android best practices and design principles, bringing in industry trends where applicable",
-        "Using approved AI code generation tools to document, architect, and create code"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "jobgether-com-offer-698e70d90f33c87a10eae4e6-android-mobile-developer-latin-south-america",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "dngkhverHQvDnnQoAAAAAA==",
     "job_title": "Mobile Application Developer III (Android)",
     "employer_name": "Lennox International",
@@ -439,6 +376,355 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "ZWxYNDtebgDQcEcEAAAAAA==",
+    "job_title": "Junior Mobile Developer",
+    "employer_name": "Tech Consulting",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU79DrcmFHX0Q06CKgG4Emnk4WA5_yZmunXspF&s=0",
+    "employer_website": null,
+    "job_publisher": "Digitalhire",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2AfDuWUM15oHL2Fx54m22L?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Digitalhire",
+        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/2AfDuWUM15oHL2Fx54m22L?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Overview\n\nJob Title: Jr. Mobile Developer (Urgent hiring). Location: New York, NY. Employment type: Fulltime. Duration: 2 years. Experience: 1-4 years (Entry level). Educational Qualification: Bachelor’s/Master’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field. Are you excited about taking your technical career to new heights with a full-time, W-2 role as a consultant in a dynamic and rapidly growing company? NO SPONSORSHIP applies.\n\nKey Responsibilities\n• 1-4 years of IT developer experience after your degree.\n• Must have basic coding knowledge of frameworks and languages like Java, C#, C, C++, Python, React Native, JavaScript, TypeScript, Flutter, Dart, Kotlin & Java.\n• Basic knowledge of iOS & experience with mobile technologies preferred.\n• Sound understanding of the entire Software Development Lifecycle.\n• Strong knowledge of software design patterns, data structures, and best practices.\n• Hands-on experience in:\n• Developing software with Agile Scrum or Kanban methodologies\n• Interacting with REST Web APIs (JSON/XML) using a VCS like Git or SVN\n• Working with XCode\n• Testing using various testing tools\n• Using software integration tools like JIRA, Jenkins & FastLane\n\nRequired Qualifications\n• Willingness to relocate anywhere in the US on a client project-to-project basis; this is an onsite, in-office position.\n• Strong English communication skills, both written and verbal.\n• Bachelor’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field.\n\nBenefits & Perks\n• Gain valuable, career-enhancing experience working with our Fortune 1,000 clients.\n• Relocation support for training and project assignments, as required.\n• Enjoy comprehensive W-2 employee benefits.\n• Access full coverage medical, dental, and vision insurance.\n• Qualify for 401K eligibility after one year of employment.\n• Benefit from basic life/AD&D and dependent disability (short/long term) coverage.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZWxYNDtebgDQcEcEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience: 1-4 years (Entry level)",
+        "Educational Qualification: Bachelor’s/Master’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field",
+        "Must have basic coding knowledge of frameworks and languages like Java, C#, C, C++, Python, React Native, JavaScript, TypeScript, Flutter, Dart, Kotlin & Java",
+        "Strong knowledge of software design patterns, data structures, and best practices",
+        "Hands-on experience in:",
+        "Willingness to relocate anywhere in the US on a client project-to-project basis; this is an onsite, in-office position",
+        "Strong English communication skills, both written and verbal",
+        "Bachelor’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field"
+      ],
+      "Benefits": [
+        "Gain valuable, career-enhancing experience working with our Fortune 1,000 clients",
+        "Relocation support for training and project assignments, as required",
+        "Enjoy comprehensive W-2 employee benefits",
+        "Access full coverage medical, dental, and vision insurance",
+        "Qualify for 401K eligibility after one year of employment",
+        "Benefit from basic life/AD&D and dependent disability (short/long term) coverage"
+      ],
+      "Responsibilities": [
+        "1-4 years of IT developer experience after your degree",
+        "Sound understanding of the entire Software Development Lifecycle",
+        "Developing software with Agile Scrum or Kanban methodologies",
+        "Interacting with REST Web APIs (JSON/XML) using a VCS like Git or SVN",
+        "Working with XCode",
+        "Testing using various testing tools",
+        "Using software integration tools like JIRA, Jenkins & FastLane"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "jobs-digitalhire-com-job-listing-opening-2afduwum15ohl2fx54m22l",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "q8-FC58E5DeaDtV0AAAAAA==",
+    "job_title": "Android Mobile Developer - Latin & South America",
+    "employer_name": "Redfin",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwn_JJvR5M_LHHYdDqB9KTMZCHoxrxSnoro-9S&s=0",
+    "employer_website": "https://www.redfin.com",
+    "job_publisher": "Jobgether",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobgether.com/offer/698e70d90f33c87a10eae4e6-android-mobile-developer---latin-south-america?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobgether",
+        "apply_link": "https://jobgether.com/offer/698e70d90f33c87a10eae4e6-android-mobile-developer---latin-south-america?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This a Full Remote job, the offer is available from: South America, United States\n\nThis is a remote contract role to be based in Latin or South America. Only qualified applicants residing in and working from Latin or South America will be considered.\n\nRedfin is revolutionizing the $75 billion real estate industry. We use data, beautiful software, and innovative design to put customers first at every step in the home-buying and selling process. Get ready to dive headfirst into our award-winning mobile apps, solving complex business problems in a highly visible, customer-centric way. If you value doing great work in a collaborative environment, join our team!\n\nRedfin is expanding our nearshoring developer program and is currently seeking an Android Mobile Engineer to be based remotely in Latin America. As an Android Mobile Engineer, you'll join a passionate team working to build engaging experiences to make it easy for users to find their next home. We support the infrastructure to ensure our app is fast and stable and build features for our customers that allow them to interact with the home buying experience while on the move.\n\nThe Role\n• Design and implement complex, technical projects that change the way people make one of the biggest decisions of their lives.\n• Collaborate with your teammates by reviewing code, writing documentation, refining best practices, and building maintainable and testable codebases.\n• Work closely with our product and design teams to understand user and business needs.\n• Drive the team forward in Android best practices and design principles, bringing in industry trends where applicable.\n• Using approved AI code generation tools to document, architect, and create code\n\nWho You Are\n• You continually obsess over improving the user experience, whether it's collaborating with product managers and designers to build beautiful products or finding and squashing performance bottlenecks.\n• You have 3+ years of development experience with at least 2 years of native Android experience.\n• You have practical experience building Android applications in Kotlin and Java and a solid understanding of computer science and engineering fundamentals.\n• Effective communication: you can collaborate across distances and experience levels, and you can disagree constructively with respect for everyone’s opinions and ideas.\n• You stay on top of what's happening in the iOS community and are always looking for ways to improve the products you make.\n• You love working with a smart, talented team because you know that makes you better.\n• You have a passion for well-architected, clean, well-written code.\n• You have experience using AI code generation tools tools such as GitHub CoPilot, Anthropic Claude Code, Cursor, or similar\n• Experience with running experiments and experimentation frameworks a plus.\n• You are fluent in English (written and spoken)\n• You have a reliable internet connection where you can connect via VPN and engage in video based conferencing for the entire workday.\n\nRedfin provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination based on race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, and any other characteristic protected by applicable federal, state or local law. If you need accommodation in the application or recruitment process because of a disability or special need, please contact recruitingteam@redfin.com.\n\nRedfin accepts applications on an ongoing basis.\n\nThis offer from \"Redfin\" has been enriched by Jobgether.com and got a 81% flex score.",
+    "job_is_remote": true,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Washington, DC",
+    "job_city": "Washington",
+    "job_state": "District of Columbia",
+    "job_country": "US",
+    "job_latitude": 38.9072873,
+    "job_longitude": -77.0369274,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dq8-FC58E5DeaDtV0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "You continually obsess over improving the user experience, whether it's collaborating with product managers and designers to build beautiful products or finding and squashing performance bottlenecks",
+        "You have 3+ years of development experience with at least 2 years of native Android experience",
+        "You have practical experience building Android applications in Kotlin and Java and a solid understanding of computer science and engineering fundamentals",
+        "Effective communication: you can collaborate across distances and experience levels, and you can disagree constructively with respect for everyone’s opinions and ideas",
+        "You stay on top of what's happening in the iOS community and are always looking for ways to improve the products you make",
+        "You love working with a smart, talented team because you know that makes you better",
+        "You have a passion for well-architected, clean, well-written code",
+        "You have experience using AI code generation tools tools such as GitHub CoPilot, Anthropic Claude Code, Cursor, or similar",
+        "You are fluent in English (written and spoken)",
+        "You have a reliable internet connection where you can connect via VPN and engage in video based conferencing for the entire workday"
+      ],
+      "Responsibilities": [
+        "Design and implement complex, technical projects that change the way people make one of the biggest decisions of their lives",
+        "Collaborate with your teammates by reviewing code, writing documentation, refining best practices, and building maintainable and testable codebases",
+        "Work closely with our product and design teams to understand user and business needs",
+        "Drive the team forward in Android best practices and design principles, bringing in industry trends where applicable",
+        "Using approved AI code generation tools to document, architect, and create code"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "jobgether-com-offer-698e70d90f33c87a10eae4e6-android-mobile-developer-latin-south-america",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "qJIC6J_AWhNiGwlMAAAAAA==",
+    "job_title": "Mobile App Developer / Rideshare Platform Engineer",
+    "employer_name": "LoopRoot Foundation",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPwCMoaX-1j5DSWBuGcrD0GGkJTHDZuWrQOB4U&s=0",
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": null,
+    "job_employment_types": [],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/mobile-app-developer-rideshare-platform-engineer-at-looproot-foundation-4368649728?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/mobile-app-developer-rideshare-platform-engineer-at-looproot-foundation-4368649728?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/d67333f45013dbc62dfc7ad202826481?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/mobile-app-developer-rideshare-platform-engineer-dover-delaware/2585325705-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/looproots-foundation/dover-de/mobile-app-developer/85e550d47b889712074ee1df853fe11c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Crateringsatanasteamland.forum",
+        "apply_link": "http://crateringsatanasteamland.forum/banners/UErHPgsF?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Thetho.forum",
+        "apply_link": "https://thetho.forum/logs/L8IBCbm-8heH9TCS?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Enaticsupersaintexternal.com",
+        "apply_link": "https://enaticsupersaintexternal.com/profiles/mxZ3un9TMVTT7Z_M?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Befiremisconceitblowiness.forum",
+        "apply_link": "https://befiremisconceitblowiness.forum/brands/fPsKrz3D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "The LoopRoots Foundation is a nonprofit, tax-exempt organization dedicated to supporting justice-impacted families through transportation, therapy, and technology-driven programs. Our mission is to remove the physical, financial, and emotional barriers that prevent families from maintaining meaningful connections with incarcerated loved ones, accessing mental health care, or navigating reentry.Founded in 2025, the LoopRoots Foundation operates nationally, with an initial focus on underserved communities in Maryland, Arizona, Pennsylvania, New Mexico, California, and Virginia.\n\nOur key initiatives include\n• LoopConnect A ride credit sponsorship platform that provides free or subsidized rides to prison visitation facilities, allowing families to stay in contact during incarceration.\n• LoopTalk A HIPAA-compliant virtual therapy program offering trauma-informed mental health care to justice-impacted individuals and caregivers, including children.\n• LoopTroop Rideshare Partnership We collaborate with the LoopTroop Rideshare platform to ensure families have access to safe, reliable, and culturally competent transportation services.\n\nThe LoopRoots Foundation is committed to using community-based, technology-enabled tools to restore dignity, promote healing, and reduce generational harm. All of our programs are offered without discrimination to build a truly supportive ecosystem for families across the U.S.\n\n,\n\nOrganization\n\nLoopRoots Foundation\n\nLocation\n\nRemote (U.S.-based preferred)\n\nPosition Type\n\nPart-Time (25–30 hours per week)\n\nVolunteer (with transition to paid role post-launch)\n\nAbout LoopRoots Foundation\n\nLoopRoots Foundation is a nonprofit organization dedicated to supporting justice-impacted individuals and families by removing barriers to access, dignity, and opportunity. Our work focuses on transportation access, essential resources, and technology-driven solutions that strengthen reentry, family connection, and long-term stability.\n\nPosition Summary\n\nWe are seeking a mission-driven Mobile App Developer to support the development of our rideshare and transportation-access mobile application. This role will focus on coding and building the core mobile app functionality that powers rider and driver experiences.\n\nThis position is volunteer-based during development, with the intention to transition into a paid role after product launch and funding activation.\n\nKey Responsibilities\n• Develop and maintain the mobile rideshare application (rider and driver flows)\n• Write and maintain mobile app code for iOS and Android (native or cross-platform)\n• Build core rideshare features such as trip requests, routing, notifications, and in-app communication\n• Integrate APIs, mapping services, and backend systems\n• Collaborate with UI/UX designers and product leads\n• Ensure app performance, security, and scalability\n• Troubleshoot issues and contribute to continuous improvements\n\nRequired Qualifications\n• Experience building mobile applications (React Native, Flutter, Swift, Kotlin, or similar)\n• Familiarity with RESTful APIs and backend integration\n• Experience with geolocation or location-based services\n• Ability to work independently in a remote environment\n• Strong problem-solving and communication skills\n\nPreferred Qualifications\n• Experience with rideshare, logistics, or transportation platforms\n• Familiarity with accessibility best practices\n• Experience with secure authentication and user data protection\n• Interest in social impact or nonprofit technology work\n\nCompensation\n\nThis is a volunteer position during development.\n\nThe role is expected to transition to a paid position after launch, contingent on funding and organizational growth.\n\nTime Commitment\n\n25–30 hours per week with flexible scheduling.\n\nHow to Apply\n\nPlease email your interest, along with links to relevant work (GitHub, portfolio, or past projects), to\n\nm.kirby@looproots.org\n\nQualified applicants will be contacted to schedule an interview.",
+    "job_is_remote": false,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770076800,
+    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+    "job_location": "Dover, DE",
+    "job_city": "Dover",
+    "job_state": "Delaware",
+    "job_country": "US",
+    "job_latitude": 39.158167999999996,
+    "job_longitude": -75.5243682,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqJIC6J_AWhNiGwlMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience building mobile applications (React Native, Flutter, Swift, Kotlin, or similar)",
+        "Familiarity with RESTful APIs and backend integration",
+        "Experience with geolocation or location-based services",
+        "Ability to work independently in a remote environment",
+        "Strong problem-solving and communication skills"
+      ],
+      "Benefits": [
+        "LoopConnect A ride credit sponsorship platform that provides free or subsidized rides to prison visitation facilities, allowing families to stay in contact during incarceration",
+        "Volunteer (with transition to paid role post-launch)",
+        "Compensation",
+        "This is a volunteer position during development",
+        "25–30 hours per week with flexible scheduling"
+      ],
+      "Responsibilities": [
+        "Part-Time (25–30 hours per week)",
+        "We are seeking a mission-driven Mobile App Developer to support the development of our rideshare and transportation-access mobile application",
+        "This role will focus on coding and building the core mobile app functionality that powers rider and driver experiences",
+        "This position is volunteer-based during development, with the intention to transition into a paid role after product launch and funding activation",
+        "Develop and maintain the mobile rideshare application (rider and driver flows)",
+        "Write and maintain mobile app code for iOS and Android (native or cross-platform)",
+        "Build core rideshare features such as trip requests, routing, notifications, and in-app communication",
+        "Integrate APIs, mapping services, and backend systems",
+        "Collaborate with UI/UX designers and product leads",
+        "Ensure app performance, security, and scalability",
+        "Troubleshoot issues and contribute to continuous improvements"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-mobile-app-developer-rideshare-platform-engineer-at-looproot-foundation-4368649728",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "YzD-I-Rorl3jBuLQAAAAAA==",
+    "job_title": "Mobile Software Engineers, iOS or Android",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Mobile-Software-Engineers,-iOS-or-Android/-in-San-Jose,CA?jid=f730be95c36c75fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Mobile-Software-Engineers,-iOS-or-Android/-in-San-Jose,CA?jid=f730be95c36c75fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/2bf65ad502b39d0902f07e7d8b33d106?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-3821-1788cff4f17c852d78dee23989a16e30?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...As part of the Emerging Tech team, you’ll build the mobile foundation for Project Sparky, an AI-powered assistant that helps customers manage everyday shopping through intelligent, context-aware conversations. In this role, you’ll design and scale high-performance iOS and Android systems that integrate deeply with generative and agentic AI while partnering with AI/ML and backend teams to bring next-generation conversational experiences to life for millions of customers.\n• Immigration Sponsorship is not available in this role\n\nAbout Emerging Tech:\nOur Emerging Tech team drives Walmart’s AI transformation by building intelligent systems that influence how millions shop every day across our global retail ecosystem. We develop state-of-the-art generative and conversational AI that powers more proactive, connected, and personalized experiences. At this scale, every innovation you create not only reaches millions of customers worldwide but also comes to life in the very communities where you live, work, and shop.\n\nSoftware Engineering - Mobile team responsibilities:\n• Build and evolve native mobile experiences used by millions of customers every day.\n• Design mobile architectures that balance performance, reliability, and speed so teams can ship value quickly.\n• Partner closely with product, design, and backend teams to deliver polished, intuitive user experiences.\n• Lead discovery, prototyping, and technical direction for new mobile capabilities.\n• Write and maintain production quality code, including debugging, performance tuning, and readiness for release.\n• Mentor teammates and help raise the bar for mobile engineering practices across the organization.\n\nWho we are hiring:\nPrincipal / Distinguished Engineers\nYou’ll bring deep expertise and help shape the future of Walmart’s mobile ecosystem.\n• 10–20+ years of mobile engineering experience.\n• Deep native expertise in Swift/iOS and/or Kotlin/Android with ownership of platform level architecture.\n• Experience leading large, cross functional initiatives with broad technical impact.\n• Proven ability to scale mobile systems, improve performance, and elevate developer workflows.\n\nStaff Engineers\nYou lead through expertise and empower teams to deliver at scale.\n• 7–10+ years of mobile engineering experience with end-to-end feature ownership. (Swift/iOS or Kotlin/Android)\n• Strong understanding of mobile architecture, performance, and CI/CD pipelines.\n• Experience mentoring engineers and influencing technical and design decisions.\n• Comfortable taking features from discovery through production and ongoing iteration.\n\nSoftware Engineer III / Senior Software Engineers\nYou ship high-quality experiences and are ready to grow your impact.\n• 3–7+ years of native mobile development experience. (Swift/iOS or Kotlin/Android)\n• Strong track record of delivering features, debugging complex issues, and improving code quality.\n• Experience integrating backend services and navigating large codebases.\n• Interest in expanding technical leadership and owning larger problem spaces over time.\n\nIf you’re excited about building the future of mobile at Walmart, we encourage you to apply. We’ll review your experience and match you to the level that aligns best with your skills, impact, and career goals.\n\nAbout Walmart Global Tech:\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. Thats what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the worlds leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\nWalmart's culture is a competitive advantage, and its fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nYour Career Journey at Walmart\nAt Walmart, we want to make sure your experience connecting with us is seamless and straightforward. Here’s what to expect when interacting with us as recruiters:\nWe’ll reach out via verified LinkedIn profiles or emails ending in \"@walmart.com.” or “@samsclub.com”. All job opportunities and applications are hosted on our official careers site: http://careers.walmart.com. There is no cost or payment required to apply or be considered for a position.\nIf you have any doubts about a communication, feel free to visit our careers page to verify authenticity. Thank you for exploring opportunities at Walmart!\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\nFor information about PTO, see https://one.walmart.com/notices.\n\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\nFor information about benefits and eligibility, see One.Walmart.\n\nThe annual salary range for this position is $143,000.00 - $286,000.00\n\nAdditional compensation includes annual or quarterly performance bonuses.\n\nAdditional compensation for certain positions may also include :\n\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area.\nOption 2: 7 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1375 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYzD-I-Rorl3jBuLQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 143000,
+    "job_max_salary": 286000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "10–20+ years of mobile engineering experience",
+        "Deep native expertise in Swift/iOS and/or Kotlin/Android with ownership of platform level architecture",
+        "Experience leading large, cross functional initiatives with broad technical impact",
+        "Proven ability to scale mobile systems, improve performance, and elevate developer workflows",
+        "7–10+ years of mobile engineering experience with end-to-end feature ownership. (Swift/iOS or Kotlin/Android)",
+        "Strong understanding of mobile architecture, performance, and CI/CD pipelines",
+        "Experience mentoring engineers and influencing technical and design decisions",
+        "Comfortable taking features from discovery through production and ongoing iteration",
+        "You ship high-quality experiences and are ready to grow your impact",
+        "3–7+ years of native mobile development experience",
+        "(Swift/iOS or Kotlin/Android)",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area",
+        "Option 2: 7 years’ experience in software engineering or related area",
+        "Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $143,000.00 - $286,000.00",
+        "Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
+      ],
+      "Responsibilities": [
+        "What you'll do...As part of the Emerging Tech team, you’ll build the mobile foundation for Project Sparky, an AI-powered assistant that helps customers manage everyday shopping through intelligent, context-aware conversations",
+        "In this role, you’ll design and scale high-performance iOS and Android systems that integrate deeply with generative and agentic AI while partnering with AI/ML and backend teams to bring next-generation conversational experiences to life for millions of customers",
+        "Build and evolve native mobile experiences used by millions of customers every day",
+        "Design mobile architectures that balance performance, reliability, and speed so teams can ship value quickly",
+        "Partner closely with product, design, and backend teams to deliver polished, intuitive user experiences",
+        "Lead discovery, prototyping, and technical direction for new mobile capabilities",
+        "Write and maintain production quality code, including debugging, performance tuning, and readiness for release",
+        "Mentor teammates and help raise the bar for mobile engineering practices across the organization",
+        "You’ll bring deep expertise and help shape the future of Walmart’s mobile ecosystem",
+        "You lead through expertise and empower teams to deliver at scale",
+        "Strong track record of delivering features, debugging complex issues, and improving code quality",
+        "Experience integrating backend services and navigating large codebases",
+        "Interest in expanding technical leadership and owning larger problem spaces over time"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-mobile-software-engineers-ios-or-android-in-san-jose-ca",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "ofka7uMmC1mOQrZBAAAAAA==",
     "job_title": "Senior Mobile Engineer, iOS",
     "employer_name": "Adobe",
@@ -550,292 +836,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "ZWxYNDtebgDQcEcEAAAAAA==",
-    "job_title": "Junior Mobile Developer",
-    "employer_name": "Tech Consulting",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU79DrcmFHX0Q06CKgG4Emnk4WA5_yZmunXspF&s=0",
-    "employer_website": null,
-    "job_publisher": "Digitalhire",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2AfDuWUM15oHL2Fx54m22L?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Digitalhire",
-        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/2AfDuWUM15oHL2Fx54m22L?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Position Overview\n\nJob Title: Jr. Mobile Developer (Urgent hiring). Location: New York, NY. Employment type: Fulltime. Duration: 2 years. Experience: 1-4 years (Entry level). Educational Qualification: Bachelor’s/Master’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field. Are you excited about taking your technical career to new heights with a full-time, W-2 role as a consultant in a dynamic and rapidly growing company? NO SPONSORSHIP applies.\n\nKey Responsibilities\n• 1-4 years of IT developer experience after your degree.\n• Must have basic coding knowledge of frameworks and languages like Java, C#, C, C++, Python, React Native, JavaScript, TypeScript, Flutter, Dart, Kotlin & Java.\n• Basic knowledge of iOS & experience with mobile technologies preferred.\n• Sound understanding of the entire Software Development Lifecycle.\n• Strong knowledge of software design patterns, data structures, and best practices.\n• Hands-on experience in:\n• Developing software with Agile Scrum or Kanban methodologies\n• Interacting with REST Web APIs (JSON/XML) using a VCS like Git or SVN\n• Working with XCode\n• Testing using various testing tools\n• Using software integration tools like JIRA, Jenkins & FastLane\n\nRequired Qualifications\n• Willingness to relocate anywhere in the US on a client project-to-project basis; this is an onsite, in-office position.\n• Strong English communication skills, both written and verbal.\n• Bachelor’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field.\n\nBenefits & Perks\n• Gain valuable, career-enhancing experience working with our Fortune 1,000 clients.\n• Relocation support for training and project assignments, as required.\n• Enjoy comprehensive W-2 employee benefits.\n• Access full coverage medical, dental, and vision insurance.\n• Qualify for 401K eligibility after one year of employment.\n• Benefit from basic life/AD&D and dependent disability (short/long term) coverage.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "New York, NY",
-    "job_city": "New York",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZWxYNDtebgDQcEcEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience: 1-4 years (Entry level)",
-        "Educational Qualification: Bachelor’s/Master’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field",
-        "Must have basic coding knowledge of frameworks and languages like Java, C#, C, C++, Python, React Native, JavaScript, TypeScript, Flutter, Dart, Kotlin & Java",
-        "Strong knowledge of software design patterns, data structures, and best practices",
-        "Hands-on experience in:",
-        "Willingness to relocate anywhere in the US on a client project-to-project basis; this is an onsite, in-office position",
-        "Strong English communication skills, both written and verbal",
-        "Bachelor’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field"
-      ],
-      "Benefits": [
-        "Gain valuable, career-enhancing experience working with our Fortune 1,000 clients",
-        "Relocation support for training and project assignments, as required",
-        "Enjoy comprehensive W-2 employee benefits",
-        "Access full coverage medical, dental, and vision insurance",
-        "Qualify for 401K eligibility after one year of employment",
-        "Benefit from basic life/AD&D and dependent disability (short/long term) coverage"
-      ],
-      "Responsibilities": [
-        "1-4 years of IT developer experience after your degree",
-        "Sound understanding of the entire Software Development Lifecycle",
-        "Developing software with Agile Scrum or Kanban methodologies",
-        "Interacting with REST Web APIs (JSON/XML) using a VCS like Git or SVN",
-        "Working with XCode",
-        "Testing using various testing tools",
-        "Using software integration tools like JIRA, Jenkins & FastLane"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "jobs-digitalhire-com-job-listing-opening-2afduwum15ohl2fx54m22l",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "YzD-I-Rorl3jBuLQAAAAAA==",
-    "job_title": "Mobile Software Engineers, iOS or Android",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Mobile-Software-Engineers,-iOS-or-Android/-in-San-Jose,CA?jid=f730be95c36c75fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Mobile-Software-Engineers,-iOS-or-Android/-in-San-Jose,CA?jid=f730be95c36c75fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/2bf65ad502b39d0902f07e7d8b33d106?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-3821-1788cff4f17c852d78dee23989a16e30?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Summary...\n\nWhat you'll do...As part of the Emerging Tech team, you’ll build the mobile foundation for Project Sparky, an AI-powered assistant that helps customers manage everyday shopping through intelligent, context-aware conversations. In this role, you’ll design and scale high-performance iOS and Android systems that integrate deeply with generative and agentic AI while partnering with AI/ML and backend teams to bring next-generation conversational experiences to life for millions of customers.\n• Immigration Sponsorship is not available in this role\n\nAbout Emerging Tech:\nOur Emerging Tech team drives Walmart’s AI transformation by building intelligent systems that influence how millions shop every day across our global retail ecosystem. We develop state-of-the-art generative and conversational AI that powers more proactive, connected, and personalized experiences. At this scale, every innovation you create not only reaches millions of customers worldwide but also comes to life in the very communities where you live, work, and shop.\n\nSoftware Engineering - Mobile team responsibilities:\n• Build and evolve native mobile experiences used by millions of customers every day.\n• Design mobile architectures that balance performance, reliability, and speed so teams can ship value quickly.\n• Partner closely with product, design, and backend teams to deliver polished, intuitive user experiences.\n• Lead discovery, prototyping, and technical direction for new mobile capabilities.\n• Write and maintain production quality code, including debugging, performance tuning, and readiness for release.\n• Mentor teammates and help raise the bar for mobile engineering practices across the organization.\n\nWho we are hiring:\nPrincipal / Distinguished Engineers\nYou’ll bring deep expertise and help shape the future of Walmart’s mobile ecosystem.\n• 10–20+ years of mobile engineering experience.\n• Deep native expertise in Swift/iOS and/or Kotlin/Android with ownership of platform level architecture.\n• Experience leading large, cross functional initiatives with broad technical impact.\n• Proven ability to scale mobile systems, improve performance, and elevate developer workflows.\n\nStaff Engineers\nYou lead through expertise and empower teams to deliver at scale.\n• 7–10+ years of mobile engineering experience with end-to-end feature ownership. (Swift/iOS or Kotlin/Android)\n• Strong understanding of mobile architecture, performance, and CI/CD pipelines.\n• Experience mentoring engineers and influencing technical and design decisions.\n• Comfortable taking features from discovery through production and ongoing iteration.\n\nSoftware Engineer III / Senior Software Engineers\nYou ship high-quality experiences and are ready to grow your impact.\n• 3–7+ years of native mobile development experience. (Swift/iOS or Kotlin/Android)\n• Strong track record of delivering features, debugging complex issues, and improving code quality.\n• Experience integrating backend services and navigating large codebases.\n• Interest in expanding technical leadership and owning larger problem spaces over time.\n\nIf you’re excited about building the future of mobile at Walmart, we encourage you to apply. We’ll review your experience and match you to the level that aligns best with your skills, impact, and career goals.\n\nAbout Walmart Global Tech:\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. Thats what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the worlds leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\nWalmart's culture is a competitive advantage, and its fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nYour Career Journey at Walmart\nAt Walmart, we want to make sure your experience connecting with us is seamless and straightforward. Here’s what to expect when interacting with us as recruiters:\nWe’ll reach out via verified LinkedIn profiles or emails ending in \"@walmart.com.” or “@samsclub.com”. All job opportunities and applications are hosted on our official careers site: http://careers.walmart.com. There is no cost or payment required to apply or be considered for a position.\nIf you have any doubts about a communication, feel free to visit our careers page to verify authenticity. Thank you for exploring opportunities at Walmart!\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\nFor information about PTO, see https://one.walmart.com/notices.\n\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\nFor information about benefits and eligibility, see One.Walmart.\n\nThe annual salary range for this position is $143,000.00 - $286,000.00\n\nAdditional compensation includes annual or quarterly performance bonuses.\n\nAdditional compensation for certain positions may also include :\n\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area.\nOption 2: 7 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1375 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYzD-I-Rorl3jBuLQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 143000,
-    "job_max_salary": 286000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "10–20+ years of mobile engineering experience",
-        "Deep native expertise in Swift/iOS and/or Kotlin/Android with ownership of platform level architecture",
-        "Experience leading large, cross functional initiatives with broad technical impact",
-        "Proven ability to scale mobile systems, improve performance, and elevate developer workflows",
-        "7–10+ years of mobile engineering experience with end-to-end feature ownership. (Swift/iOS or Kotlin/Android)",
-        "Strong understanding of mobile architecture, performance, and CI/CD pipelines",
-        "Experience mentoring engineers and influencing technical and design decisions",
-        "Comfortable taking features from discovery through production and ongoing iteration",
-        "You ship high-quality experiences and are ready to grow your impact",
-        "3–7+ years of native mobile development experience",
-        "(Swift/iOS or Kotlin/Android)",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area",
-        "Option 2: 7 years’ experience in software engineering or related area",
-        "Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
-        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $143,000.00 - $286,000.00",
-        "Additional compensation includes annual or quarterly performance bonuses",
-        "Additional compensation for certain positions may also include :"
-      ],
-      "Responsibilities": [
-        "What you'll do...As part of the Emerging Tech team, you’ll build the mobile foundation for Project Sparky, an AI-powered assistant that helps customers manage everyday shopping through intelligent, context-aware conversations",
-        "In this role, you’ll design and scale high-performance iOS and Android systems that integrate deeply with generative and agentic AI while partnering with AI/ML and backend teams to bring next-generation conversational experiences to life for millions of customers",
-        "Build and evolve native mobile experiences used by millions of customers every day",
-        "Design mobile architectures that balance performance, reliability, and speed so teams can ship value quickly",
-        "Partner closely with product, design, and backend teams to deliver polished, intuitive user experiences",
-        "Lead discovery, prototyping, and technical direction for new mobile capabilities",
-        "Write and maintain production quality code, including debugging, performance tuning, and readiness for release",
-        "Mentor teammates and help raise the bar for mobile engineering practices across the organization",
-        "You’ll bring deep expertise and help shape the future of Walmart’s mobile ecosystem",
-        "You lead through expertise and empower teams to deliver at scale",
-        "Strong track record of delivering features, debugging complex issues, and improving code quality",
-        "Experience integrating backend services and navigating large codebases",
-        "Interest in expanding technical leadership and owning larger problem spaces over time"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-mobile-software-engineers-ios-or-android-in-san-jose-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "qJIC6J_AWhNiGwlMAAAAAA==",
-    "job_title": "Mobile App Developer / Rideshare Platform Engineer",
-    "employer_name": "LoopRoot Foundation",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPwCMoaX-1j5DSWBuGcrD0GGkJTHDZuWrQOB4U&s=0",
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
-    "job_employment_type": null,
-    "job_employment_types": [],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/mobile-app-developer-rideshare-platform-engineer-at-looproot-foundation-4368649728?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/mobile-app-developer-rideshare-platform-engineer-at-looproot-foundation-4368649728?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/d67333f45013dbc62dfc7ad202826481?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SaluteMyJob",
-        "apply_link": "https://salutemyjob.com/jobs/mobile-app-developer-rideshare-platform-engineer-dover-delaware/2585325705-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/looproots-foundation/dover-de/mobile-app-developer/85e550d47b889712074ee1df853fe11c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Crateringsatanasteamland.forum",
-        "apply_link": "http://crateringsatanasteamland.forum/banners/UErHPgsF?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Thetho.forum",
-        "apply_link": "https://thetho.forum/logs/L8IBCbm-8heH9TCS?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Enaticsupersaintexternal.com",
-        "apply_link": "https://enaticsupersaintexternal.com/profiles/mxZ3un9TMVTT7Z_M?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Befiremisconceitblowiness.forum",
-        "apply_link": "https://befiremisconceitblowiness.forum/brands/fPsKrz3D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "The LoopRoots Foundation is a nonprofit, tax-exempt organization dedicated to supporting justice-impacted families through transportation, therapy, and technology-driven programs. Our mission is to remove the physical, financial, and emotional barriers that prevent families from maintaining meaningful connections with incarcerated loved ones, accessing mental health care, or navigating reentry.Founded in 2025, the LoopRoots Foundation operates nationally, with an initial focus on underserved communities in Maryland, Arizona, Pennsylvania, New Mexico, California, and Virginia.\n\nOur key initiatives include\n• LoopConnect A ride credit sponsorship platform that provides free or subsidized rides to prison visitation facilities, allowing families to stay in contact during incarceration.\n• LoopTalk A HIPAA-compliant virtual therapy program offering trauma-informed mental health care to justice-impacted individuals and caregivers, including children.\n• LoopTroop Rideshare Partnership We collaborate with the LoopTroop Rideshare platform to ensure families have access to safe, reliable, and culturally competent transportation services.\n\nThe LoopRoots Foundation is committed to using community-based, technology-enabled tools to restore dignity, promote healing, and reduce generational harm. All of our programs are offered without discrimination to build a truly supportive ecosystem for families across the U.S.\n\n,\n\nOrganization\n\nLoopRoots Foundation\n\nLocation\n\nRemote (U.S.-based preferred)\n\nPosition Type\n\nPart-Time (25–30 hours per week)\n\nVolunteer (with transition to paid role post-launch)\n\nAbout LoopRoots Foundation\n\nLoopRoots Foundation is a nonprofit organization dedicated to supporting justice-impacted individuals and families by removing barriers to access, dignity, and opportunity. Our work focuses on transportation access, essential resources, and technology-driven solutions that strengthen reentry, family connection, and long-term stability.\n\nPosition Summary\n\nWe are seeking a mission-driven Mobile App Developer to support the development of our rideshare and transportation-access mobile application. This role will focus on coding and building the core mobile app functionality that powers rider and driver experiences.\n\nThis position is volunteer-based during development, with the intention to transition into a paid role after product launch and funding activation.\n\nKey Responsibilities\n• Develop and maintain the mobile rideshare application (rider and driver flows)\n• Write and maintain mobile app code for iOS and Android (native or cross-platform)\n• Build core rideshare features such as trip requests, routing, notifications, and in-app communication\n• Integrate APIs, mapping services, and backend systems\n• Collaborate with UI/UX designers and product leads\n• Ensure app performance, security, and scalability\n• Troubleshoot issues and contribute to continuous improvements\n\nRequired Qualifications\n• Experience building mobile applications (React Native, Flutter, Swift, Kotlin, or similar)\n• Familiarity with RESTful APIs and backend integration\n• Experience with geolocation or location-based services\n• Ability to work independently in a remote environment\n• Strong problem-solving and communication skills\n\nPreferred Qualifications\n• Experience with rideshare, logistics, or transportation platforms\n• Familiarity with accessibility best practices\n• Experience with secure authentication and user data protection\n• Interest in social impact or nonprofit technology work\n\nCompensation\n\nThis is a volunteer position during development.\n\nThe role is expected to transition to a paid position after launch, contingent on funding and organizational growth.\n\nTime Commitment\n\n25–30 hours per week with flexible scheduling.\n\nHow to Apply\n\nPlease email your interest, along with links to relevant work (GitHub, portfolio, or past projects), to\n\nm.kirby@looproots.org\n\nQualified applicants will be contacted to schedule an interview.",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Dover, DE",
-    "job_city": "Dover",
-    "job_state": "Delaware",
-    "job_country": "US",
-    "job_latitude": 39.158167999999996,
-    "job_longitude": -75.5243682,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqJIC6J_AWhNiGwlMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience building mobile applications (React Native, Flutter, Swift, Kotlin, or similar)",
-        "Familiarity with RESTful APIs and backend integration",
-        "Experience with geolocation or location-based services",
-        "Ability to work independently in a remote environment",
-        "Strong problem-solving and communication skills"
-      ],
-      "Benefits": [
-        "LoopConnect A ride credit sponsorship platform that provides free or subsidized rides to prison visitation facilities, allowing families to stay in contact during incarceration",
-        "Volunteer (with transition to paid role post-launch)",
-        "Compensation",
-        "This is a volunteer position during development",
-        "25–30 hours per week with flexible scheduling"
-      ],
-      "Responsibilities": [
-        "Part-Time (25–30 hours per week)",
-        "We are seeking a mission-driven Mobile App Developer to support the development of our rideshare and transportation-access mobile application",
-        "This role will focus on coding and building the core mobile app functionality that powers rider and driver experiences",
-        "This position is volunteer-based during development, with the intention to transition into a paid role after product launch and funding activation",
-        "Develop and maintain the mobile rideshare application (rider and driver flows)",
-        "Write and maintain mobile app code for iOS and Android (native or cross-platform)",
-        "Build core rideshare features such as trip requests, routing, notifications, and in-app communication",
-        "Integrate APIs, mapping services, and backend systems",
-        "Collaborate with UI/UX designers and product leads",
-        "Ensure app performance, security, and scalability",
-        "Troubleshoot issues and contribute to continuous improvements"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-mobile-app-developer-rideshare-platform-engineer-at-looproot-foundation-4368649728",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "n0bgvx5TjG14pguAAAAAAA==",
     "job_title": "Software Engineer III (Mobile - Android)",
     "employer_name": "Walmart",
@@ -867,8 +867,8 @@
     "job_latitude": 37.0854844,
     "job_longitude": -94.5134312,
     "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dn0bgvx5TjG14pguAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1098,9 +1098,9 @@
     "job_latitude": 40.7127753,
     "job_longitude": -74.0059728,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzQzLPq-_VDWUC0qdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1310,62 +1310,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "toCBi6LpGtsBtGuiAAAAAA==",
-    "job_title": "Application Developer - MS Dynamics CRM",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=883875202371&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=883875202371&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for an Application Developer - MS Dynamics CRM Support.\n\nKey Responsibilities\n\nProvide application support for Microsoft Dynamics CRM, including troubleshooting and performance optimization\n\nConfigure and customize Dynamics CRM modules to meet business requirements\n\nDevelop and maintain data integration workflows between Dynamics CRM and other systems\n\nRequired Qualifications\n\nStrong experience in Microsoft Dynamics CRM administration and customization\n\nProficiency in CRM configuration, PowerShell scripting, and SQL Server queries\n\nExperience in creating reports and dashboards within Dynamics CRM\n\nAbility to document processes and collaborate with teams\n\nExperience with job scheduling and workflow automation tools",
-    "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Texas",
-    "job_city": null,
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 31.9685988,
-    "job_longitude": -99.9018131,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DtoCBi6LpGtsBtGuiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Strong experience in Microsoft Dynamics CRM administration and customization",
-        "Proficiency in CRM configuration, PowerShell scripting, and SQL Server queries",
-        "Experience in creating reports and dashboards within Dynamics CRM",
-        "Ability to document processes and collaborate with teams",
-        "Experience with job scheduling and workflow automation tools"
-      ],
-      "Responsibilities": [
-        "Provide application support for Microsoft Dynamics CRM, including troubleshooting and performance optimization",
-        "Configure and customize Dynamics CRM modules to meet business requirements",
-        "Develop and maintain data integration workflows between Dynamics CRM and other systems"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "MdS-OAumpqM4HsYuAAAAAA==",
     "job_title": "Mid-Level iOS Engineer",
     "employer_name": "VirtualVocations",
@@ -1414,6 +1358,62 @@
         "Lead coding efforts for specific modules or features",
         "Troubleshoot and resolve complex software issues",
         "Participate in code reviews and enforce coding standards"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "toCBi6LpGtsBtGuiAAAAAA==",
+    "job_title": "Application Developer - MS Dynamics CRM",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=883875202371&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=883875202371&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for an Application Developer - MS Dynamics CRM Support.\n\nKey Responsibilities\n\nProvide application support for Microsoft Dynamics CRM, including troubleshooting and performance optimization\n\nConfigure and customize Dynamics CRM modules to meet business requirements\n\nDevelop and maintain data integration workflows between Dynamics CRM and other systems\n\nRequired Qualifications\n\nStrong experience in Microsoft Dynamics CRM administration and customization\n\nProficiency in CRM configuration, PowerShell scripting, and SQL Server queries\n\nExperience in creating reports and dashboards within Dynamics CRM\n\nAbility to document processes and collaborate with teams\n\nExperience with job scheduling and workflow automation tools",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Texas",
+    "job_city": null,
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 31.9685988,
+    "job_longitude": -99.9018131,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DtoCBi6LpGtsBtGuiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Strong experience in Microsoft Dynamics CRM administration and customization",
+        "Proficiency in CRM configuration, PowerShell scripting, and SQL Server queries",
+        "Experience in creating reports and dashboards within Dynamics CRM",
+        "Ability to document processes and collaborate with teams",
+        "Experience with job scheduling and workflow automation tools"
+      ],
+      "Responsibilities": [
+        "Provide application support for Microsoft Dynamics CRM, including troubleshooting and performance optimization",
+        "Configure and customize Dynamics CRM modules to meet business requirements",
+        "Develop and maintain data integration workflows between Dynamics CRM and other systems"
       ]
     },
     "job_onet_soc": "15113200",
