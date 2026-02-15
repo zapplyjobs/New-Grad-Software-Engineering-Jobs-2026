@@ -11,7 +11,7 @@
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-6-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
-![Backend](https://img.shields.io/badge/Backend-6-red?style=flat&logo=star)
+![Backend](https://img.shields.io/badge/Backend-5-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -69,16 +69,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>⚙️ <strong>Backend</strong> (6 positions)</h3></summary>
+<summary><h3>⚙️ <strong>Backend</strong> (5 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **BeaconFire Inc.** | Software Engineer-iOS | Rose Hill, Virginia | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-ios-at-beaconfire-inc-4364420355?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Affirm** | Backend Engineer, Credit Decisio... 🏠 | Oklahoma | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-ok-all-cities-backend-engineer-credit-decisioning-remote-37-affirm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Uber** | Software Engineer II: Backend 🏠 | Sunnyvale, California | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.uber.com/global/en/careers/list/154897/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **VirtualVocations** | Junior Backend QA Engineer | Lincoln, Nebraska | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=cc62cd68778b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Rapinno Tech** | Javascript Developer 🏠 | Remote 🏠 | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/7f5e5383e4381f173747dd8413b0261a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Lockheed Martin** | Software Engineer - Early Career 🇺🇸 🏠 | Cape Canaveral, Florida | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.lockheedmartinjobs.com/job/cape-canaveral/software-engineer-early-career/694/91375966448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Netflix** | Solutions Software Engineer 5 | Los Angeles, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://explore.jobs.netflix.net/careers/job/790313777659-solutions-software-engineer-5-los-angeles-california-united-states-of-america?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>🎨 <strong>Frontend</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **Kodelinkers** | Web Developer at Kodelinkers Uni... 🇺🇸 | Mt Tremper, New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://caribbeanregionalmidwivesassociation.com/list/job/web-developer-at-kodelinkers-united-states-ZGFUenVxYWFsRXp1RUMvVTNVdW1LNmZuZ1E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
