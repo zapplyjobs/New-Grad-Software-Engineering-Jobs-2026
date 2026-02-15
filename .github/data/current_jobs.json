@@ -211,6 +211,72 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "QeQRBKFEzjtQUQ3DAAAAAA==",
+    "job_title": "Frontend Developer (React)",
+    "employer_name": "Princeton IT Services, Inc",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0cgA12uqS_O2NfIZvtWsxKI6W4JWC7Rz7y9e_&s=0",
+    "employer_website": "https://princetonits.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-react-at-princeton-it-services-inc-4369775524?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-react-at-princeton-it-services-inc-4369775524?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698624098ca8121a3a684714?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Title: Frontend Developer (React)\n\nLocation: New jersey\n\nEmployment Type: Full-time Contract\n\nJob Description\n\nWe are looking for a skilled Frontend Developer with strong experience in React and modern web technologies to build scalable, high-performance user interfaces. The ideal candidate will collaborate closely with design and backend teams to deliver intuitive, responsive applications aligned with business requirements.\n\nKey Responsibilities\n• Develop and maintain web applications using React and modern JavaScript.\n• Translate Figma designs and Design Systems into high-quality, reusable UI components.\n• Write clean, maintainable code using Core JavaScript, HTML, and CSS.\n• Optimize application performance using Webpack and best frontend practices.\n• Collaborate with backend teams to integrate APIs and services.\n• Ensure cross-browser compatibility and responsive design.\n• Participate in code reviews and follow UI/UX best practices.\n\nRequired Skills\n• Strong experience with React.\n• Solid understanding of Core JavaScript, HTML, and CSS.\n• Hands-on experience with Figma and Design Systems.\n• Experience with Webpack and frontend build tools.\n\nPreferred Skills\n• Experience with Java and Spring Boot.\n• Familiarity with REST APIs and backend integration.\n• Knowledge of modern frontend testing frameworks.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Princeton, NJ",
+    "job_city": "Princeton",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.3503931,
+    "job_longitude": -74.6571416,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQeQRBKFEzjtQUQ3DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "We are looking for a skilled Frontend Developer with strong experience in React and modern web technologies to build scalable, high-performance user interfaces",
+        "The ideal candidate will collaborate closely with design and backend teams to deliver intuitive, responsive applications aligned with business requirements",
+        "Strong experience with React",
+        "Solid understanding of Core JavaScript, HTML, and CSS",
+        "Hands-on experience with Figma and Design Systems",
+        "Experience with Webpack and frontend build tools"
+      ],
+      "Responsibilities": [
+        "Develop and maintain web applications using React and modern JavaScript",
+        "Translate Figma designs and Design Systems into high-quality, reusable UI components",
+        "Write clean, maintainable code using Core JavaScript, HTML, and CSS",
+        "Optimize application performance using Webpack and best frontend practices",
+        "Collaborate with backend teams to integrate APIs and services",
+        "Ensure cross-browser compatibility and responsive design",
+        "Participate in code reviews and follow UI/UX best practices"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-frontend-developer-react-at-princeton-it-services-inc-4369775524",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "ODGw_CN08p68QZZXAAAAAA==",
     "job_title": "Sr. Software Engineer - Javascript, HTML5, CSS, React, AngularJS, Vue",
     "employer_name": "Walmart",
@@ -248,9 +314,9 @@
     "job_latitude": 38.8816208,
     "job_longitude": -77.09098089999999,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DODGw_CN08p68QZZXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
@@ -312,77 +378,6 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-ziprecruiter-com-c-walmart-job-sr-software-engineer-javascript-html5-css-react-angularjs-vue-in-arlington-va",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "QeQRBKFEzjtQUQ3DAAAAAA==",
-    "job_title": "Frontend Developer (React)",
-    "employer_name": "Princeton IT Services, Inc",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0cgA12uqS_O2NfIZvtWsxKI6W4JWC7Rz7y9e_&s=0",
-    "employer_website": "https://princetonits.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-react-at-princeton-it-services-inc-4369775524?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-react-at-princeton-it-services-inc-4369775524?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/e1f693f1-5b1c-4180-b8c7-16887805241a?q=ai+program+manager&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698624098ca8121a3a684714?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Title: Frontend Developer (React)\n\nLocation: New jersey\n\nEmployment Type: Full-time Contract\n\nJob Description\n\nWe are looking for a skilled Frontend Developer with strong experience in React and modern web technologies to build scalable, high-performance user interfaces. The ideal candidate will collaborate closely with design and backend teams to deliver intuitive, responsive applications aligned with business requirements.\n\nKey Responsibilities\n• Develop and maintain web applications using React and modern JavaScript.\n• Translate Figma designs and Design Systems into high-quality, reusable UI components.\n• Write clean, maintainable code using Core JavaScript, HTML, and CSS.\n• Optimize application performance using Webpack and best frontend practices.\n• Collaborate with backend teams to integrate APIs and services.\n• Ensure cross-browser compatibility and responsive design.\n• Participate in code reviews and follow UI/UX best practices.\n\nRequired Skills\n• Strong experience with React.\n• Solid understanding of Core JavaScript, HTML, and CSS.\n• Hands-on experience with Figma and Design Systems.\n• Experience with Webpack and frontend build tools.\n\nPreferred Skills\n• Experience with Java and Spring Boot.\n• Familiarity with REST APIs and backend integration.\n• Knowledge of modern frontend testing frameworks.",
-    "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Princeton, NJ",
-    "job_city": "Princeton",
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 40.3503931,
-    "job_longitude": -74.6571416,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQeQRBKFEzjtQUQ3DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "We are looking for a skilled Frontend Developer with strong experience in React and modern web technologies to build scalable, high-performance user interfaces",
-        "The ideal candidate will collaborate closely with design and backend teams to deliver intuitive, responsive applications aligned with business requirements",
-        "Strong experience with React",
-        "Solid understanding of Core JavaScript, HTML, and CSS",
-        "Hands-on experience with Figma and Design Systems",
-        "Experience with Webpack and frontend build tools"
-      ],
-      "Responsibilities": [
-        "Develop and maintain web applications using React and modern JavaScript",
-        "Translate Figma designs and Design Systems into high-quality, reusable UI components",
-        "Write clean, maintainable code using Core JavaScript, HTML, and CSS",
-        "Optimize application performance using Webpack and best frontend practices",
-        "Collaborate with backend teams to integrate APIs and services",
-        "Ensure cross-browser compatibility and responsive design",
-        "Participate in code reviews and follow UI/UX best practices"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-frontend-developer-react-at-princeton-it-services-inc-4369775524",
     "_source": "new_jobs"
   },
   {
@@ -465,109 +460,6 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-jobtarget-com-jobs-jt-6crkofavyi-react-developer-fairfax-virginia",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "p31PZx2MMWOV3xfKAAAAAA==",
-    "job_title": "Java full stack with React Developer (10+ yrs experience) opportunity in Atlanta, GA",
-    "employer_name": "Capgemini",
-    "employer_logo": null,
-    "employer_website": "https://www.capgemini.com",
-    "job_publisher": "Capgemini",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.capgemini.com/jobs/415313-en_US+sap_btp/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Capgemini",
-        "apply_link": "https://www.capgemini.com/jobs/415313-en_US+sap_btp/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/United-Airlines/Job/Java-full-stack-with-React-Developer-(10+-yrs-experience)-opportunity-in-Atlanta,-GA/-in-Atlanta,GA?jid=a63e4b3a9c4b4015&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/java-full-stack-with-react-developer-atlanta-capgemini-holding-inc-75ffde0366e348fc1ed10d96d15677df?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/java-full-stack-with-react-developer-10-yrs-experience-opportunity-in-atlanta-ga-capgemini-atlanta-ga_85645615?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/java-full-stack-with-react-developer_7ea1aaf484a1ed3817aecd38633b81457eb4e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698ce2880f6f7e7a2ce89467?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5626954862?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/4607576896513769472?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.Onsite Location: Atlanta, GAJob DescriptionHandson experience in Java Node JS React and MSSQL MongoDBGood Problem solving and communication skillsTeam player hardworking and innovative in his approachHaving stretch mindset and eagerness to learnadopt new frameworksExpertise in Java 8 version or laterHands on coding experience in Core Java Java J2eeHands on knowledge in writing unit test cases using java test framework Junits Mockito The base compensation range for this role in the posted location is: $100000 to $130000 / yearlyCapgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws. The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting. This range may be subject to change as permitted by law.The actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction.These may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity.It is not typical for candidates to be hired at or near the top of the posted compensation range.In addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws. Capgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees. In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include: Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick LeaveMedical, dental, and vision coverage (or provincial healthcare coordination in Canada)Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)Life and disability insuranceEmployee assistance programsOther benefits as provided by local policy and eligibilityImportant Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini’s discretion, consistent with applicable laws. The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation. DisclaimersCapgemini is an Equal Opportunity Employer encouraging inclusion in the workplace. Capgemini also participates in the Partnership Accreditation in Indigenous Relations (PAIR) program which supports meaningful engagement with Indigenous communities across Canada by promoting fairness, accessibility, inclusion and respect. We value the rich cultural heritage and contributions of Indigenous Peoples and actively work to create a welcoming and respectful environment. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodation does not pose an undue hardship. Capgemini is committed to providing reasonable accommodation during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.Click the following link for more information on your rights as an Applicant in the United States. http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Atlanta, GA",
-    "job_city": "Atlanta",
-    "job_state": "Georgia",
-    "job_country": "US",
-    "job_latitude": 33.7501275,
-    "job_longitude": -84.3885209,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dp31PZx2MMWOV3xfKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Team player hardworking and innovative in his approach",
-        "Having stretch mindset and eagerness to learnadopt new frameworks",
-        "Expertise in Java 8 version or later"
-      ],
-      "Benefits": [
-        "Hands on coding experience in Core Java Java J2eeHands on knowledge in writing unit test cases using java test framework Junits Mockito The base compensation range for this role in the posted location is: $100000 to $130000 / yearlyCapgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws",
-        "The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting",
-        "The actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction",
-        "These may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity",
-        "It is not typical for candidates to be hired at or near the top of the posted compensation range.In addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws",
-        "Capgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees",
-        "In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include: Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick LeaveMedical, dental, and vision coverage (or provincial healthcare coordination in Canada)Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)Life and disability insurance",
-        "Employee assistance programs",
-        "Other benefits as provided by local policy and eligibility",
-        "Important Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini’s discretion, consistent with applicable laws"
-      ],
-      "Responsibilities": [
-        "Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-capgemini-com-jobs-415313-en_us-sap_btp",
     "_source": "new_jobs"
   },
   {
@@ -706,99 +598,369 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "yfbRiMaJFYtB-z1bAAAAAA==",
-    "job_title": "Frontend Developer (React)",
-    "employer_name": "Princeton IT Services",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSql8xIBl0XxByWOCExVierFaidsjJwfGCpwAFS&s=0",
-    "employer_website": "https://princetonits.com",
-    "job_publisher": "Dice",
-    "job_employment_type": "Contractor",
+    "job_id": "nFB_zyqtOPnPQB2BAAAAAA==",
+    "job_title": "Sr Technical Lead - .Net and React, IT",
+    "employer_name": "United Airlines",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCelw_8boPRpC93HCe5cItal8YXZdKAX0mqRQn&s=0",
+    "employer_website": "https://www.united.com",
+    "job_publisher": "United Airlines Jobs",
+    "job_employment_type": "Full-time",
     "job_employment_types": [
-      "CONTRACTOR"
+      "FULLTIME"
     ],
-    "job_apply_link": "https://www.dice.com/job-detail/e1f693f1-5b1c-4180-b8c7-16887805241a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://careers.united.com/us/en/job/WHQ00025697/Sr-Technical-Lead-Net-and-React-IT?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
+        "publisher": "United Airlines Jobs",
+        "apply_link": "https://careers.united.com/us/en/job/WHQ00025697/Sr-Technical-Lead-Net-and-React-IT?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=535f5c6d2a0f0ce3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/United-Airlines,-Inc./Job/Sr-Technical-Lead-.Net-and-React,-IT/-in-Chicago,IL?jid=69b48d355f633228&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/sr-technical-lead-net-and-react-it-united-airlines-JV_IC1128808_KO0,34_KE35,50.htm?jl=1009890649888&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/e1f693f1-5b1c-4180-b8c7-16887805241a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.dice.com/job-detail/f76ce487-58dc-4a21-b146-ef30c7670649?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/0IQzWt5KrqqRa9r-qkrUZqNGeS2TN4-E3HKWh7MXTOCDCmUh9gxupA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-technical-lead-net-and-react-it-at-united-airlines-4318144652?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Chicago Jobs - Chicago Business",
+        "apply_link": "https://jobs.chicagobusiness.com/job/sr-technical-lead-net-and-react-it/82294895/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Job Title: Frontend Developer (React)\n\nLocation: New jersey\nEmployment Type: Full-time Contract\n\nJob Description:\n\nWe are looking for a skilled Frontend Developer with strong experience in React and modern web technologies to build scalable, high-performance user interfaces. The ideal candidate will collaborate closely with design and backend teams to deliver intuitive, responsive applications aligned with business requirements.\n\nKey Responsibilities:\n• Develop and maintain web applications using React and modern JavaScript.\n• Translate Figma designs and Design Systems into high-quality, reusable UI components.\n• Write clean, maintainable code using Core JavaScript, HTML, and CSS.\n• Optimize application performance using Webpack and best frontend practices.\n• Collaborate with backend teams to integrate APIs and services.\n• Ensure cross-browser compatibility and responsive design.\n• Participate in code reviews and follow UI/UX best practices.\n\nRequired Skills:\n• Strong experience with React.\n• Solid understanding of Core JavaScript, HTML, and CSS.\n• Hands-on experience with Figma and Design Systems.\n• Experience with Webpack and frontend build tools.\n\nPreferred Skills:\n• Experience with Java and Spring Boot.\n• Familiarity with REST APIs and backend integration.\n• Knowledge of modern frontend testing frameworks.",
+    "job_description": "Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.\n\nCome join us to create what’s next. Let’s define tomorrow, together.\n\nDescription\n\nThe job is required to manage and implement the ecommerce payment system for united.com. The role of Senior Technical Lead in Application Development is that he or she is responsible for helping their team members with the technical aspects of their jobs, such as design and programming. They will be expected to explain new projects to their team and work on an overall delivery approach, with appropriate technical measures. The technical lead will be required to identify risks, form contingency plans, and address these with technical solutions as applicable. The Tech lead will also be expected to collaborate with other team members, functional teams to deliver best in class solutions.\n\n· The lead role should be very strong technically, and an expert in e-commerce payment systems, to support the payment solutions. The role will also work with payment services and other backend service teams.\n\n· the technical lead would be required to guide & mentor the direct staff to both technical excellence and for people management. It would be expected to have a strategy for employee training & growth, and to provide the required development opportunities.\n\n· To keep a check on the whole system, conduct the testing and integration testing for the entire system.\n\nThe lead role will have overall technical responsibility and will be required to drive very quality focused & sustainable deliverables. This will include collaboration with various teams, validating any technical challenges and being on the lookout for improvements & enhancements. The role will be required to support testing phases, and ensure that the non-functional requirements are accounted for.\n\n· Lead would be required to assist and guide the Project Lead/PM/BA in project strategy and execution:\n\n1, Requirements Gathering\n\n2.Mapping requirements to technical specifications\n\n3.Technical designs\n\n4. Programming, Code reviews\n\n5. Cutover Strategy\n\n6. Operational Support\n\n· Lead will be the interface between the team and the management. The lead should be able to own the communication between management and team, to effectivity communicate overall progress, risks, mitigations and to be the voice of the technical team. The lead will be required to make decisions to help solve the technical challenges. Technical lead will be expected to solve challenges with technology, but also be able to support the overall program.\nQualifications\n\nMinimum Requirements:\n\n· Bachelor’s degree in computer science or professional Degree\n\n· 4+ years of experience in full-stack development, with expertise in React, TypeScript, C#, and Node.js\n\n· 2+ years of full cycle implementation experience\n\n· Excellent written and verbal communication skills\n\n· Should be able to collaborate with various teams\n\n· Proficient in web development using React, Redux, Redux sagas, ES6, Node.js, HTML5, CSS3\n\n· Experience of various payment gateways and methods (Credit cards, Apple Pay, Paypal, Alipay, Pix, Flexpay and UnionPay)\n\n· Experience with industry standards and regulations for compliance (e.g., PCI DSS)\n\n· Strong experience implementing AWS/cloud technologies\n\n· Hands-on development and proficient excellence in backend API development using C# .Net in cloud\n\n· Strong experience with common front-end development tools such as Babel, Webpack, NPM, etc.\n\n· Strong experience building web applications with Micro frontend architecture\n\n· Strong experience in design patterns and enterprise standards in application design\n\n· Expertise in accessibility standards and implementation\n\n· Experience with unit testing\n\nPreferred:\n\n· Master’s Degree\n\n· AWS or other Cloud Certifications\n\n· Experience in monitoring tools like Quantum Metrics and Dynatrace.\n\nThe base pay range for this role is $109,820.00 to $149,600.00.\nThe base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.\n\nYou may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.\n\nUnited Airlines is an equal opportunity employer. United Airlines recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, gender identity, sexual orientation, physical ability, age, veteran status and other protected status as required by applicable law. Equal Opportunity Employer - Minorities/Women/Veterans/Disabled/LGBT.\n\nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions. Please contact JobAccommodations@united.com to request accommodation.",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Princeton, NJ",
-    "job_city": "Princeton",
-    "job_state": "New Jersey",
+    "job_posted_at": "13 hours ago",
+    "job_posted_at_timestamp": 1771110000,
+    "job_posted_at_datetime_utc": "2026-02-14T23:00:00.000Z",
+    "job_location": "Chicago, IL",
+    "job_city": "Chicago",
+    "job_state": "Illinois",
     "job_country": "US",
-    "job_latitude": 40.3503931,
-    "job_longitude": -74.6571416,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyfbRiMaJFYtB-z1bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 41.88325,
+    "job_longitude": -87.6323879,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnFB_zyqtOPnPQB2BAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "We are looking for a skilled Frontend Developer with strong experience in React and modern web technologies to build scalable, high-performance user interfaces",
-        "The ideal candidate will collaborate closely with design and backend teams to deliver intuitive, responsive applications aligned with business requirements",
-        "Strong experience with React",
-        "Solid understanding of Core JavaScript, HTML, and CSS",
-        "Hands-on experience with Figma and Design Systems",
-        "Experience with Webpack and frontend build tools"
+        "The lead should be able to own the communication between management and team, to effectivity communicate overall progress, risks, mitigations and to be the voice of the technical team",
+        "Bachelor’s degree in computer science or professional Degree",
+        "4+ years of experience in full-stack development, with expertise in React, TypeScript, C#, and Node.js",
+        "2+ years of full cycle implementation experience",
+        "Excellent written and verbal communication skills",
+        "Should be able to collaborate with various teams",
+        "Proficient in web development using React, Redux, Redux sagas, ES6, Node.js, HTML5, CSS3",
+        "Experience of various payment gateways and methods (Credit cards, Apple Pay, Paypal, Alipay, Pix, Flexpay and UnionPay)",
+        "Experience with industry standards and regulations for compliance (e.g., PCI DSS)",
+        "Strong experience implementing AWS/cloud technologies",
+        "Hands-on development and proficient excellence in backend API development using C# .Net in cloud",
+        "Strong experience with common front-end development tools such as Babel, Webpack, NPM, etc",
+        "Strong experience building web applications with Micro frontend architecture",
+        "Strong experience in design patterns and enterprise standards in application design",
+        "Expertise in accessibility standards and implementation",
+        "Experience with unit testing"
+      ],
+      "Benefits": [
+        "The base pay range for this role is $109,820.00 to $149,600.00",
+        "The base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills",
+        "This position is also eligible for bonus and/or long-term incentive compensation awards",
+        "You may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges"
       ],
       "Responsibilities": [
-        "Develop and maintain web applications using React and modern JavaScript",
-        "Translate Figma designs and Design Systems into high-quality, reusable UI components",
-        "Write clean, maintainable code using Core JavaScript, HTML, and CSS",
-        "Optimize application performance using Webpack and best frontend practices",
-        "Collaborate with backend teams to integrate APIs and services",
-        "Ensure cross-browser compatibility and responsive design",
-        "Participate in code reviews and follow UI/UX best practices"
+        "The job is required to manage and implement the ecommerce payment system for united.com",
+        "The role of Senior Technical Lead in Application Development is that he or she is responsible for helping their team members with the technical aspects of their jobs, such as design and programming",
+        "They will be expected to explain new projects to their team and work on an overall delivery approach, with appropriate technical measures",
+        "The technical lead will be required to identify risks, form contingency plans, and address these with technical solutions as applicable",
+        "The Tech lead will also be expected to collaborate with other team members, functional teams to deliver best in class solutions",
+        "The lead role should be very strong technically, and an expert in e-commerce payment systems, to support the payment solutions",
+        "The role will also work with payment services and other backend service teams",
+        "the technical lead would be required to guide & mentor the direct staff to both technical excellence and for people management",
+        "It would be expected to have a strategy for employee training & growth, and to provide the required development opportunities",
+        "To keep a check on the whole system, conduct the testing and integration testing for the entire system",
+        "The lead role will have overall technical responsibility and will be required to drive very quality focused & sustainable deliverables",
+        "This will include collaboration with various teams, validating any technical challenges and being on the lookout for improvements & enhancements",
+        "The role will be required to support testing phases, and ensure that the non-functional requirements are accounted for",
+        "Lead would be required to assist and guide the Project Lead/PM/BA in project strategy and execution:",
+        "Mapping requirements to technical specifications",
+        "Technical designs",
+        "Programming, Code reviews",
+        "Cutover Strategy",
+        "Operational Support",
+        "Lead will be the interface between the team and the management",
+        "The lead will be required to make decisions to help solve the technical challenges",
+        "Technical lead will be expected to solve challenges with technology, but also be able to support the overall program"
       ]
     },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-dice-com-job-detail-e1f693f1-5b1c-4180-b8c7-16887805241a",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "careers-united-com-us-en-job-whq00025697-sr-technical-lead-net-and-react-it",
     "_source": "new_jobs"
   },
   {
-    "job_id": "-ye7Fh7PQ7_2UPfBAAAAAA==",
-    "job_title": "Front End (React) Web Developer",
-    "employer_name": "Schneider Electric",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZQC9HKMfVKYrgcv89slsdRCoUx7SUkp6HocE&s=0",
-    "employer_website": null,
-    "job_publisher": "Talent.com",
+    "job_id": "e5p5R053VNZjNMDGAAAAAA==",
+    "job_title": "React Developer opportunity in Alpharetta, GA",
+    "employer_name": "Capgemini",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPFtqBF6i7gQa9NN0XXf-HcXcPNvyVfEA8WLz&s=0",
+    "employer_website": "https://www.capgemini.com",
+    "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=3e75193202ac&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-opportunity-in-alpharetta-ga-at-capgemini-4369837620?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=3e75193202ac&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/react-developer-opportunity-in-alpharetta-ga-at-capgemini-4369837620?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/6273a8e285e590c02f9e456b2613766b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698691ab0f6f7e7a2ce195d2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5628792819?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Front End (React) Web Developer We are looking for a skilled React Developer to join our team. As a React Developer, you will be responsible for developing and implementing user interface components using React.js concepts. You will also be responsible for profiling and improving front-end performance and documenting our front-end codebase. Key Responsibilities : Develop new user-facing features using React.js Build reusable components and front-end libraries for future use Translate designs and wireframes into high-quality code Optimize components for maximum performance across a vast array of web-capable devices and browsers Collaborate with back-end developers and web designers to improve usability Ensure the technical feasibility of UI / UX designs Stay up-to-date with the latest industry trends and technologies Requirements : Proven experience as a React Developer or similar role Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model Thorough understanding of React.js and its core principles Experience with popular React.js workflows (such as Redux or Flux) Familiarity with RESTful APIs Knowledge of modern authorization mechanisms, such as JSON Web Token Familiarity with modern front-end build pipelines and tools Ability to understand business requirements and translate them into technical requirements A knack for benchmarking and optimization Familiarity with code versioning tools (such as Git Enterprise) A degree in Computer Science or a related field Let us learn about you! Apply today. You must submit an online application to be considered for any position with us. This position will be posted until filled. Looking to make an IMPACT with your career? When you are thinking about joining a new team, culture matters. At Schneider Electric, our values and behaviors are the foundation for creating a great culture to support business success. We believe that our IMPACT values – Inclusion, Mastery, Purpose, Action, Curiosity, Teamwork – starts with us. IMPACT is also your invitation to join Schneider Electric where you can contribute to turning sustainability ambition into actions, no matter what role you play. It is a call to connect your career with the ambition of achieving a more resilient, efficient, and sustainable world. We are looking for IMPACT Makers; exceptional people who turn sustainability ambitions into actions at the intersection of automation, electrification, and digitization. We celebrate IMPACT Makers and believe everyone has the potential to be one. Become an IMPACT Maker with Schneider Electric – apply today! €36 billion global revenue +13% organic growth + employees in + countries #1 on the Global World’s most sustainable corporations You must submit an online application to be considered for any position with us. This position will be posted until filled. Schneider Electric aspires to be the most inclusive and caring company in the world, by providing equitable opportunities to everyone, everywhere, and ensuring all employees feel uniquely valued and safe to contribute their best. We mirror the diversity of the communities in which we operate, and ‘inclusion’ is one of our core values. We believe our differences make us stronger as a company and as individuals and we are committed to championing inclusivity in everything we do. At Schneider Electric, we uphold the highest standards of ethics and compliance, and we believe that trust is a foundational value. Our Trust Charter is our Code of Conduct and demonstrates our commitment to ethics, safety, sustainability, quality and cybersecurity, underpinning every aspect of our business and our willingness to behave and respond respectfully and in good faith to all our stakeholders. You can find out more about our Trust Charter here Schneider Electric is an Equal Opportunity Employer. It is our policy to provide equal employment and advancement opportunities in the areas of recruiting, hiring, training, transferring, and promoting all qualified individuals regardless of race, religion, color, gender, disability, national origin, ancestry, age, military status, sexual orientation, marital status, or any other legally protected characteristic or conduct.",
+    "job_description": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.\n\nOnsite location: Alpharetta, GA\n\nJob Description\n\nREQUIREMENTS\n\nTotal 6 years of Web UI development experience\n\nAt least 3 to 5 years in web development in HTML CSS JavaScript REACT TypeScript\n\nA solid understanding of responsive design development and mobile web best practices\n\nProficient understanding of code versioning tools such as Git and Bitbucket\n\nPractical experience working within the Scrum Framework and Agile methodologies\n\nMust possess strong analytical troubleshooting and problem solving skills\n\nExcellent English verbal and written communication skills\n\nWillingness to occasionally wander into other areas eg backend devops other teams codebase and ship end to end solutions\n\nDesire to learn grow and make things better than you found it\n\nSelf motivated highly organized team player who thrives in a fast paced environment with the ability to learn quickly and work independently\n\nRESPONSIBILITIES\n\nEffectively work with the PMO Development Product Management Business and Technical Operations Systems Engineering Infrastructure Networks and Architecture teams\n\nDesign and develop frontend JavaScript and React based application\n\nPerforms new development maintenance fixes and enhancements to meet business requirements\n\nDraft and review architectural diagrams specifications business requirements as well as various design documents\n\nWork with our existing technology stack Java C++ Linux Unix Open Source Platforms and SOA as well as new technologies for our next generation solutions\n\nDocument technical requirements program and subsystem designs resolutions to system problems project task descriptions effort estimates and unit and integration tests\n\nDESIRED SKILLS\n\nExperience with Java Spring Spring Boot Hibernate UI development\n\nThe base compensation range for this role in the posted location is::$61,087 to $10,4364 / Yearly\n\nCapgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws. The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting. This range may be subject to change as permitted by law.\n\nThe actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction.\n\nThese may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity.\n\nIt is not typical for candidates to be hired at or near the top of the posted compensation range.\n\nIn addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws.\n\nCapgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees. In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include:\n• Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick Leave\n• Medical, dental, and vision coverage (or provincial healthcare coordination in Canada)\n• Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)\n• Life and disability insurance\n• Employee assistance programs\n• Other benefits as provided by local policy and eligibility\n\nImportant Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini’s discretion, consistent with applicable laws. The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation.\n\nDisclaimers\n\nCapgemini is an Equal Opportunity Employer encouraging inclusion in the workplace. Capgemini also participates in the Partnership Accreditation in Indigenous Relations (PAIR) program which supports meaningful engagement with Indigenous communities across Canada by promoting fairness, accessibility, inclusion and respect. We value the rich cultural heritage and contributions of Indigenous Peoples and actively work to create a welcoming and respectful environment. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.\n\nThis is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodation does not pose an undue hardship. Capgemini is committed to providing reasonable accommodation during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.\n\nPlease be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.\n\nClick the following link for more information on your rights as an Applicant in the United States. http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law\n\nCapgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Tennessee",
-    "job_city": null,
-    "job_state": "Tennessee",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Alpharetta, GA",
+    "job_city": "Alpharetta",
+    "job_state": "Georgia",
     "job_country": "US",
-    "job_latitude": 35.517491299999996,
-    "job_longitude": -86.5804473,
+    "job_latitude": 34.0746204,
+    "job_longitude": -84.29228619999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De5p5R053VNZjNMDGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Total 6 years of Web UI development experience",
+        "At least 3 to 5 years in web development in HTML CSS JavaScript REACT TypeScript",
+        "A solid understanding of responsive design development and mobile web best practices",
+        "Proficient understanding of code versioning tools such as Git and Bitbucket",
+        "Practical experience working within the Scrum Framework and Agile methodologies",
+        "Must possess strong analytical troubleshooting and problem solving skills",
+        "Excellent English verbal and written communication skills",
+        "Willingness to occasionally wander into other areas eg backend devops other teams codebase and ship end to end solutions",
+        "Desire to learn grow and make things better than you found it",
+        "Self motivated highly organized team player who thrives in a fast paced environment with the ability to learn quickly and work independently",
+        "Document technical requirements program and subsystem designs resolutions to system problems project task descriptions effort estimates and unit and integration tests",
+        "Experience with Java Spring Spring Boot Hibernate UI development"
+      ],
+      "Benefits": [
+        "The base compensation range for this role in the posted location is::$61,087 to $10,4364 / Yearly",
+        "Capgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws",
+        "The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting",
+        "The actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction",
+        "These may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity",
+        "It is not typical for candidates to be hired at or near the top of the posted compensation range",
+        "In addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws",
+        "Capgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees",
+        "In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include:",
+        "Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick Leave",
+        "Medical, dental, and vision coverage (or provincial healthcare coordination in Canada)",
+        "Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)",
+        "Life and disability insurance",
+        "Employee assistance programs",
+        "Other benefits as provided by local policy and eligibility",
+        "Important Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini’s discretion, consistent with applicable laws",
+        "The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation"
+      ],
+      "Responsibilities": [
+        "Effectively work with the PMO Development Product Management Business and Technical Operations Systems Engineering Infrastructure Networks and Architecture teams",
+        "Design and develop frontend JavaScript and React based application",
+        "Performs new development maintenance fixes and enhancements to meet business requirements",
+        "Draft and review architectural diagrams specifications business requirements as well as various design documents",
+        "Work with our existing technology stack Java C++ Linux Unix Open Source Platforms and SOA as well as new technologies for our next generation solutions"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-react-developer-opportunity-in-alpharetta-ga-at-capgemini-4369837620",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "hZf-QTnrp3yneXt-AAAAAA==",
+    "job_title": "React Developer opportunity in Alpharetta, GA",
+    "employer_name": "Capgemini",
+    "employer_logo": null,
+    "employer_website": "https://www.capgemini.com",
+    "job_publisher": "Capgemini",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.capgemini.com/jobs/412120-en_US_SAPBTP/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Capgemini",
+        "apply_link": "https://www.capgemini.com/jobs/412120-en_US_SAPBTP/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Capgemini/Job/React-Developer-opportunity-in-Alpharetta,-GA/-in-Atlanta,GA?jid=c2fdeb0c6b713420&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/react-developer_7ea1ad17423faa76b44f7ac0cd0fa5bf832a2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=56af29bcb6a69b0a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/react-developer-opportunity-in-alpharetta-ga-at-capgemini-4370122532?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6986c4c98da7a6120461ba74?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/b84d2a1a4f1d6d3a5c8e1d45de59bc44?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5619889694?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.Onsite location: Alpharetta, GAJob DescriptionREQUIREMENTSTotal 6 years of Web UI development experienceAt least 3 to 5 years in web development in HTML CSS JavaScript REACT TypeScriptA solid understanding of responsive design development and mobile web best practicesProficient understanding of code versioning tools such as Git and BitbucketPractical experience working within the Scrum Framework and Agile methodologiesMust possess strong analytical troubleshooting and problem solving skillsExcellent English verbal and written communication skillsWillingness to occasionally wander into other areas eg backend devops other teams codebase and ship end to end solutionsDesire to learn grow and make things better than you found itSelf motivated highly organized team player who thrives in a fast paced environment with the ability to learn quickly and work independently RESPONSIBILITIESEffectively work with the PMO Development Product Management Business and Technical Operations Systems Engineering Infrastructure Networks and Architecture teamsDesign and develop frontend JavaScript and React based applicationPerforms new development maintenance fixes and enhancements to meet business requirementsDraft and review architectural diagrams specifications business requirements as well as various design documentsWork with our existing technology stack Java C++ Linux Unix Open Source Platforms and SOA as well as new technologies for our next generation solutionsDocument technical requirements program and subsystem designs resolutions to system problems project task descriptions effort estimates and unit and integration tests DESIRED SKILLSExperience with Java Spring Spring Boot Hibernate UI developmentThe base compensation range for this role in the posted location is::$61,087 to $10,4364 / YearlyCapgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws. The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting. This range may be subject to change as permitted by law.The actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction.These may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity.It is not typical for candidates to be hired at or near the top of the posted compensation range.In addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws. Capgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees. In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include: Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick LeaveMedical, dental, and vision coverage (or provincial healthcare coordination in Canada)Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)Life and disability insuranceEmployee assistance programsOther benefits as provided by local policy and eligibilityImportant Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini’s discretion, consistent with applicable laws. The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation. DisclaimersCapgemini is an Equal Opportunity Employer encouraging inclusion in the workplace. Capgemini also participates in the Partnership Accreditation in Indigenous Relations (PAIR) program which supports meaningful engagement with Indigenous communities across Canada by promoting fairness, accessibility, inclusion and respect. We value the rich cultural heritage and contributions of Indigenous Peoples and actively work to create a welcoming and respectful environment. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodation does not pose an undue hardship. Capgemini is committed to providing reasonable accommodation during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.Click the following link for more information on your rights as an Applicant in the United States. http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Atlanta, GA",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 33.7501275,
+    "job_longitude": -84.3885209,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhZf-QTnrp3yneXt-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-capgemini-com-jobs-412120-en_us_sapbtp",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "HYFT4WaSCJXgRmsaAAAAAA==",
+    "job_title": "React.js Developer React.js Developer",
+    "employer_name": "Infosys",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLqb-rFsLhWFLTkYho0FBp_JqLcerpRgWA8ZU_&s=0",
+    "employer_website": "https://www.infosys.com",
+    "job_publisher": "Tallo",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://tallo.com/jobs/technology/software-developer-engineer/tx/dallas/react-js-developer-react-js-developer-ec2751fe9bad/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Tallo",
+        "apply_link": "https://tallo.com/jobs/technology/software-developer-engineer/tx/dallas/react-js-developer-react-js-developer-ec2751fe9bad/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "MightyRecruiter",
+        "apply_link": "https://applicant.mightyrecruiter.com/jobs/apply/react-js-developer-at-plexova-in-dallas-tx-3d5665605e8b0ba14bcff33309f06ed0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/247949933024378880?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-tx-dallas-react-js-developer-synechron-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This job listing in Dallas - TX has been recently added. Tallo will add a summary here for this job shortly.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Dallas, TX",
+    "job_city": "Dallas",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 32.7766642,
+    "job_longitude": -96.79698789999999,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-ye7Fh7PQ7_2UPfBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHYFT4WaSCJXgRmsaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -806,7 +968,7 @@
     "job_highlights": {},
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
+    "id": "tallo-com-jobs-technology-software-developer-engineer-tx-dallas-react-js-developer-react-js-developer-ec2751fe9bad",
     "_source": "new_jobs"
   },
   {
@@ -906,62 +1068,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "2IxFlRQZuHGCnX_SAAAAAA==",
-    "job_title": "React Developer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=76d9e86ecddc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=76d9e86ecddc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a React Developer to join their team remotely.\n\nKey Responsibilities\n\nDevelop and maintain user-friendly applications using React.js and related technologies\n\nCollaborate with cross-functional teams to design and implement new features\n\nParticipate in code reviews and ensure adherence to best practices in development\n\nRequired Qualifications\n\n3 to 5 years of real-time experience in React.js and JavaScript development\n\nProficiency in TypeScript, HTML5, CSS3, and Redux\n\nExperience with RESTful APIs and responsive design\n\nFamiliarity with Git, CI / CD pipelines, and Agile methodologies\n\nEligibility for H1B sponsorship for the 2027 quota",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Manassas, VA",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 38.7512726,
-    "job_longitude": -77.4706769,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2IxFlRQZuHGCnX_SAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "3 to 5 years of real-time experience in React.js and JavaScript development",
-        "Proficiency in TypeScript, HTML5, CSS3, and Redux",
-        "Experience with RESTful APIs and responsive design",
-        "Familiarity with Git, CI / CD pipelines, and Agile methodologies",
-        "Eligibility for H1B sponsorship for the 2027 quota"
-      ],
-      "Responsibilities": [
-        "Develop and maintain user-friendly applications using React.js and related technologies",
-        "Collaborate with cross-functional teams to design and implement new features",
-        "Participate in code reviews and ensure adherence to best practices in development"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "uejy12tfirbl_DOiAAAAAA==",
     "job_title": "Sr. React Developer",
     "employer_name": "Charles Schwab",
@@ -1029,8 +1135,8 @@
     "job_longitude": -97.1341783,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Duejy12tfirbl_DOiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 135000,
@@ -1147,6 +1253,62 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "2IxFlRQZuHGCnX_SAAAAAA==",
+    "job_title": "React Developer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=76d9e86ecddc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=76d9e86ecddc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a React Developer to join their team remotely.\n\nKey Responsibilities\n\nDevelop and maintain user-friendly applications using React.js and related technologies\n\nCollaborate with cross-functional teams to design and implement new features\n\nParticipate in code reviews and ensure adherence to best practices in development\n\nRequired Qualifications\n\n3 to 5 years of real-time experience in React.js and JavaScript development\n\nProficiency in TypeScript, HTML5, CSS3, and Redux\n\nExperience with RESTful APIs and responsive design\n\nFamiliarity with Git, CI / CD pipelines, and Agile methodologies\n\nEligibility for H1B sponsorship for the 2027 quota",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Manassas, VA",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_country": "US",
+    "job_latitude": 38.7512726,
+    "job_longitude": -77.4706769,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2IxFlRQZuHGCnX_SAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "3 to 5 years of real-time experience in React.js and JavaScript development",
+        "Proficiency in TypeScript, HTML5, CSS3, and Redux",
+        "Experience with RESTful APIs and responsive design",
+        "Familiarity with Git, CI / CD pipelines, and Agile methodologies",
+        "Eligibility for H1B sponsorship for the 2027 quota"
+      ],
+      "Responsibilities": [
+        "Develop and maintain user-friendly applications using React.js and related technologies",
+        "Collaborate with cross-functional teams to design and implement new features",
+        "Participate in code reviews and ensure adherence to best practices in development"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "2TZqO51sgDhi-5H2AAAAAA==",
     "job_title": "Entry Level Java React Developer Remote 21",
     "employer_name": "Synergisticit",
@@ -1205,124 +1367,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-jobilize-com-job-us-md-all-cities-entry-level-java-react-developer-remote-21-synergisticit",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "CuuLcjUFNRhAnnNYAAAAAA==",
-    "job_title": "Java React Full-Stack developer",
-    "employer_name": "Infosys",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHkU2AeDcAao0KRfUkDsJBaKz3j1FdOqcwaT_c&s=0",
-    "employer_website": "https://www.infosys.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Infosys/Job/Java-React-Full-Stack-developer/-in-Boston,MA?jid=293015f7ae3b89f3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Infosys/Job/Java-React-Full-Stack-developer/-in-Boston,MA?jid=293015f7ae3b89f3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/reactjs-fullstack-developer-boston-infosys-ltd-0b1598d5aea0e94bbb17a4ca364137c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/uGX4HmqIBuby0JDPOKckNc2X6VQuOy-92umxhu7Kjtl24JtzMjVwdw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/java-react-full-stack-developer-infosys-boston-ma_85589849?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "AnitaB.org Job Board",
-        "apply_link": "https://jobs.anitab.org/companies/infosys/jobs/67138744-java-react-full-stack-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/a28ca871a3e3289ce2d327fd51f9cea9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "The Muse",
-        "apply_link": "https://www.themuse.com/jobs/infosys/java-react-fullstack-developer-dd07a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/java-react-full-stack-developer_7ea1ac5ddb0046ea243d3882466fa513252e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description\n\nInfosys is seeking a Java Full Stack and React Developer who can design, develop, and maintain scalable web applications using Java/J2EE, Spring (Spring Boot/MVC), Microservices, and React JS on the front end. The ideal candidate has strong fundamentals in Core Java, experience with databases and PL/SQL, and is comfortable working across the stack-API, services, UI, and DevOps basics (GitHub). In the role of Technology Lead, you will be a technology professional adding value to a gamut of Software Development lifecycle stages. You will create detailed design artifacts like program specifications, test plans; and independently develop and review code and contribute to the go-live plan. You will have the opportunity to collaborate with some of the best talent in the industry to create innovative high quality and defect-free solutions to meet our clients' business needs. You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.\n\nBasic Qualifications:\n• Bachelor's degree or foreign equivalent required. Will also consider three years of relevant work experience in lieu of every year of education\n• At least 4 years of experience with Information Technology\n• Candidate must be located within commuting distance or willing to relocate to Boston, MA or willing to relocate to either of these locations. This position may require travel in the US\n• Candidates authorized to work for any employer in the United States without employer-based visa sponsorship are welcome to apply. Infosys is unable to provide immigration sponsorship for this role at this time.\n• Experience in Core Java (17+) OOP, collections, streams, concurrency, exception handling.\n• Experience in Java/J2EE & Spring, Spring Boot, acceptable/valued for legacy migrations.\n• Microservices: REST API design, inter-service communication, resilience patterns, pagination, error handling.\n• Front-end: React JS (functional components, hooks, basic state management, routing), HTML5/CSS3, JSPs.\n• Database & PL/SQL: Strong SQL; exposure to any one RDBMS is mandatory (Oracle/PostgreSQL/MySQL/SQL Server).\n• Version Control: Git/GitHub-branching strategies, PR reviews, merge conflict resolution.\n• Testing: JUnit/Mockito (or similar), basic API testing (Postman/RestAssured).\n• Experience in GitHub CoPilot\n\nPreferred Qualifications:\n• Apply secure coding practices and compliance standards, especially relevant to banking and financial applications.\n• Work closely with offshore team in global delivery model\n• Experience in banking or financial services, with understanding of Fraud detection and prevention area.\n• Strong analytical, oral, and communication skills.\n• Ability to work in team in diverse/ multiple stakeholder environment\n• Self-learner with effective time management skills.\n• Strong problem-solving skills and the ability to provide effective solutions\n• Experience and desire to work in a Global delivery environment\n\nThe job entails sitting as well as working at a computer for extended periods of time. Should be able to communicate by telephone, email, or face to face. Travel may be required as per the job requirements.\n\nEEO/About Us\n\nBenefits\n\nAlong with competitive pay, as a full-time Infosys employee you are also eligible for the following benefits:\n• Medical/Dental/Vision/Life Insurance\n• Long-term/Short-term Disability\n• Health and Dependent Care Reimbursement Accounts\n• Insurance (Accident, Critical Illness , Hospital Indemnity, Legal)\n• 401(k) plan and contributions dependent on salary level\n• Paid holidays plus Paid Time Off\n\nAbout Us\nInfosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.\n\nEEO\nInfosys provides equal employment opportunities to applicants and employees without regard to race; color; sex; gender identity; sexual orientation; religious practices and observances; national origin; pregnancy, childbirth, or related medical conditions; status as a protected veteran or spouse/family member of a protected veteran; or disability.",
-    "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Boston, MA",
-    "job_city": "Boston",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.355507599999996,
-    "job_longitude": -71.0565364,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCuuLcjUFNRhAnnNYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 78903,
-    "job_max_salary": 102574,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate has strong fundamentals in Core Java, experience with databases and PL/SQL, and is comfortable working across the stack-API, services, UI, and DevOps basics (GitHub)",
-        "Bachelor's degree or foreign equivalent required",
-        "Will also consider three years of relevant work experience in lieu of every year of education",
-        "At least 4 years of experience with Information Technology",
-        "Candidate must be located within commuting distance or willing to relocate to Boston, MA or willing to relocate to either of these locations",
-        "This position may require travel in the US",
-        "Candidates authorized to work for any employer in the United States without employer-based visa sponsorship are welcome to apply",
-        "Experience in Core Java (17+) OOP, collections, streams, concurrency, exception handling",
-        "Experience in Java/J2EE & Spring, Spring Boot, acceptable/valued for legacy migrations",
-        "Front-end: React JS (functional components, hooks, basic state management, routing), HTML5/CSS3, JSPs",
-        "Database & PL/SQL: Strong SQL; exposure to any one RDBMS is mandatory (Oracle/PostgreSQL/MySQL/SQL Server)",
-        "Version Control: Git/GitHub-branching strategies, PR reviews, merge conflict resolution",
-        "Testing: JUnit/Mockito (or similar), basic API testing (Postman/RestAssured)",
-        "Experience in GitHub CoPilot",
-        "The job entails sitting as well as working at a computer for extended periods of time",
-        "Should be able to communicate by telephone, email, or face to face",
-        "Travel may be required as per the job requirements"
-      ],
-      "Benefits": [
-        "Along with competitive pay, as a full-time Infosys employee you are also eligible for the following benefits:",
-        "Medical/Dental/Vision/Life Insurance",
-        "Long-term/Short-term Disability",
-        "Health and Dependent Care Reimbursement Accounts",
-        "Insurance (Accident, Critical Illness , Hospital Indemnity, Legal)",
-        "401(k) plan and contributions dependent on salary level",
-        "Paid holidays plus Paid Time Off"
-      ],
-      "Responsibilities": [
-        "Infosys is seeking a Java Full Stack and React Developer who can design, develop, and maintain scalable web applications using Java/J2EE, Spring (Spring Boot/MVC), Microservices, and React JS on the front end",
-        "In the role of Technology Lead, you will be a technology professional adding value to a gamut of Software Development lifecycle stages",
-        "You will create detailed design artifacts like program specifications, test plans; and independently develop and review code and contribute to the go-live plan",
-        "You will have the opportunity to collaborate with some of the best talent in the industry to create innovative high quality and defect-free solutions to meet our clients' business needs",
-        "You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued",
-        "Microservices: REST API design, inter-service communication, resilience patterns, pagination, error handling"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-infosys-job-java-react-full-stack-developer-in-boston-ma",
     "_source": "new_jobs"
   },
   {
@@ -1729,9 +1773,9 @@
     "job_latitude": 36.6772475,
     "job_longitude": -93.86911479999999,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6KAF0-Cajv9I9-WtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
@@ -1839,9 +1883,9 @@
     "job_latitude": 36.475798,
     "job_longitude": -94.2475489,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5nZTe-VIcJxIGUhAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
@@ -1902,172 +1946,59 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "LrjWq1N9qAf8v4lEAAAAAA==",
-    "job_title": "(USA) Software Engineer III - React/GraphQL development",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
+    "job_id": "goQrfkEfE_8VHsLhAAAAAA==",
+    "job_title": "React Developer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Software-Engineer-III-React-GraphQL-development/-in-Fremont,CA?jid=015d544ccdc6eeca&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
+    "job_apply_link": "https://www.talent.com/view?id=f3b19124e630&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Software-Engineer-III-React-GraphQL-development/-in-Fremont,CA?jid=015d544ccdc6eeca&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=f3b19124e630&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       }
     ],
-    "job_description": "Position Summary...We're looking for a Software Engineer to join International Digital Experiences team. Want to change how different countries shop online? Then keep reading!\n\nWhat you'll do...Position Summary... What you'll do... Position Description Imagine working in an environment where one line of code can make life easier for hundreds of millions of people and put a smile on their face. That’s what we do at Walmart Global Tech. We’re a team of 15,000+ software engineers, data scientists and service professionals within Walmart, the world’s largest retailer, delivering innovations that improve how our customers shop and empower our 2.2 million associates. To others, innovation looks like an app, service or some code, but Walmart has always been about people. People are why we innovate, and people power our innovations. Being human-led is our true disruption. We're looking for a Senior Software Engineer to join International Digital Experiences team. Want to change how different countries shop online? Then keep reading! About You You are a passionate front-end engineer who loves to code. You love to take ideas and build great products with JavaScript, HTML, and CSS. You know JavaScript is imperfect, but you embrace its functional side and genuinely enjoy coding with it. You might like to talk about obscure computer science topics, but really, you just want to write simple code and ship new products and features to customers (or improve existing ones). You have an eye for design and user experience. You care about more than just the code. You care about the customer experience and help our customers make better decisions while shopping. You love learning new things. You love researching new tech and driving forward with the implementation details. Your focus is on frontend JavaScript code, but you can dig in wherever needed. Node.js, GraphQL, NextJS, Nx, build tools, shell scripts, you name it. If you don't already know it, you're ready to learn it. You understand performance, A/B tests, web vitals, front end optimization and can write code to bring them to life too. You love helping others. You love sharing knowledge with the rest of your team, building shared tooling for other engineers, giving back to the open-source community, and directly helping customers. Things You will do Walmart International is a diverse and fast-growing business unit, so you'll get experience on many different projects across the organization. That said, here are some things you'll do: - Build reusable React components with modular CSS, manage data on the client with Redux, use react query, and GraphQL. - Measure and resolve performance bottlenecks, using tools like Chrome DevTools, Lighthouse, WebPagetest, or custom tooling. - Refactor or improve existing code. We constantly find ways to improve all of our JavaScript code and you are all aboard. - Work closely with our product, design, and UX teams to create amazing and intuitive experiences that make it effortless to connect different apps together. - Help put tools, processes, and documentation in place to improve our code quality. - Demonstrate technical expertise in solving challenging programming and design problems - Review code written by other team members or other teams. - Ship to hundreds of thousands of users every day while having lots of autonomy in terms of code and feature ownership. - Help out with our Node-based developer platform. - Share what you know and learn either one-on-one or with lightning talks to the group. - Work boldly with a sense of urgency; embrace mistakes, learn from them, and drive the team toward success Minimum Qualifications\n• 4+ years of experience in object-oriented design and software development\n• 4+ years of experience in building responsive, single page web applications using modern front-end JavaScript technologies like React, Angular, Vue, etc.\n• Thorough understanding of React, Node.JS and its core principles\n• 4+ years of experience in creating and/or consuming RESTful web services\n• Excellent communication skills: Demonstrated ability to explain complex technical issues to both technical and non-technical audiences\n• Expertise with unit testing & Test-Driven Development (TDD)\n• BS/MS in computer science or equivalent work experience\n\nAbout Walmart Global Tech\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. Thats what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the worlds leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\nWalmarts culture is a competitive advantage, and its fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas and opinions while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $117,000.00 - $234,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years’ experience in software engineering or related area.\nOption 2: 4 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nMasters: Computer Science\n\nPrimary Location...\n\n640 W California Avenue, Sunnyvale, CA 94086-4828, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_description": "A company is looking for a React Developer to join their team remotely.\n\nKey Responsibilities\n\nDevelop and maintain user-friendly applications using React.js and related technologies\n\nCollaborate with cross-functional teams to design and implement new features\n\nParticipate in code reviews and ensure adherence to best practices in development\n\nRequired Qualifications\n\n3 to 5 years of real-time experience in React.js and JavaScript development\n\nProficiency in TypeScript, HTML5, CSS3, and Redux\n\nExperience with RESTful APIs and responsive design\n\nFamiliarity with Git, CI / CD pipelines, and Agile methodologies\n\nEligibility for H1B sponsorship for the 2027 quota",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Fremont, CA",
-    "job_city": "Fremont",
-    "job_state": "California",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Lake Charles, LA",
+    "job_city": "Lake Charles",
+    "job_state": "Louisiana",
     "job_country": "US",
-    "job_latitude": 37.5485396,
-    "job_longitude": -121.98858299999999,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLrjWq1N9qAf8v4lEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 117000,
-    "job_max_salary": 234000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "You love to take ideas and build great products with JavaScript, HTML, and CSS",
-        "You know JavaScript is imperfect, but you embrace its functional side and genuinely enjoy coding with it",
-        "You might like to talk about obscure computer science topics, but really, you just want to write simple code and ship new products and features to customers (or improve existing ones)",
-        "You have an eye for design and user experience",
-        "You care about more than just the code",
-        "You care about the customer experience and help our customers make better decisions while shopping",
-        "You love researching new tech and driving forward with the implementation details",
-        "Your focus is on frontend JavaScript code, but you can dig in wherever needed",
-        "If you don't already know it, you're ready to learn it",
-        "You understand performance, A/B tests, web vitals, front end optimization and can write code to bring them to life too",
-        "You love sharing knowledge with the rest of your team, building shared tooling for other engineers, giving back to the open-source community, and directly helping customers",
-        "4+ years of experience in object-oriented design and software development",
-        "4+ years of experience in building responsive, single page web applications using modern front-end JavaScript technologies like React, Angular, Vue, etc",
-        "Thorough understanding of React, Node.JS and its core principles",
-        "4+ years of experience in creating and/or consuming RESTful web services",
-        "Excellent communication skills: Demonstrated ability to explain complex technical issues to both technical and non-technical audiences",
-        "Expertise with unit testing & Test-Driven Development (TDD)",
-        "BS/MS in computer science or equivalent work experience",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years’ experience in software engineering or related area",
-        "Option 2: 4 years’ experience in software engineering or related area",
-        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
-        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $117,000.00 - $234,000.00 Additional compensation includes annual or quarterly performance bonuses"
-      ],
-      "Responsibilities": [
-        "Position Description Imagine working in an environment where one line of code can make life easier for hundreds of millions of people and put a smile on their face",
-        "That said, here are some things you'll do: - Build reusable React components with modular CSS, manage data on the client with Redux, use react query, and GraphQL",
-        "Measure and resolve performance bottlenecks, using tools like Chrome DevTools, Lighthouse, WebPagetest, or custom tooling",
-        "Refactor or improve existing code",
-        "We constantly find ways to improve all of our JavaScript code and you are all aboard",
-        "Work closely with our product, design, and UX teams to create amazing and intuitive experiences that make it effortless to connect different apps together",
-        "Help put tools, processes, and documentation in place to improve our code quality",
-        "Demonstrate technical expertise in solving challenging programming and design problems - Review code written by other team members or other teams",
-        "Ship to hundreds of thousands of users every day while having lots of autonomy in terms of code and feature ownership",
-        "Help out with our Node-based developer platform",
-        "Share what you know and learn either one-on-one or with lightning talks to the group",
-        "Work boldly with a sense of urgency; embrace mistakes, learn from them, and drive the team toward success Minimum Qualifications"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-usa-software-engineer-iii-react-graphql-development-in-fremont-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "TPAB2bdXDdl6jY8fAAAAAA==",
-    "job_title": "C#.NET Full-Stack Developer (React. JS)",
-    "employer_name": "Wipro Limited",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSZhLR1Y-Yl4HY_dHvjIaIzoFQdjmOIOJWmSW&s=0",
-    "employer_website": "https://www.wipro.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Wipro/Job/C-.NET-Full-Stack-Developer-(React.-JS)/-in-Redmond,UT?jid=e04b05f9a171fa92&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Wipro/Job/C-.NET-Full-Stack-Developer-(React.-JS)/-in-Redmond,UT?jid=e04b05f9a171fa92&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Job Title: C#.NET Full-Stack Developer (React. JS)\n\nCity: Redmond\n\nState/Province: Washington\n\nPosting Start Date: 1/27/26\n\nWipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients' most complex digital transformation needs. Leveraging our holistic portfolio of capabilities in consulting, design, engineering, and operations, we help clients realize their boldest ambitions and build future-ready, sustainable businesses. With over 230,000 employees and business partners across 65 countries, we deliver on the promise of helping our customers, colleagues, and communities thrive in an ever-changing world. For additional information, visit us at www.wipro.com.\n\nJob Description:\n\nJob Description\n\nJob Role : Senior Software Engineer (.NET C# Full-Stack Developer)\n\nPrimary Skills: C#, .NET Core, Azure Services (Azure Cloud), Rest API, AKS, Azure Functions, DevOps, YAML, Kusto\n\n͏\n\nRequired Skills ,Qualifications &\n• Hiring for technical & proficient senior engineer with strong experience in C#, .NET Core, microservices, and Azure cloud.\n• Technical expertise in design and build secure REST APIs using .NET and Azure API Management, with deployments running on AKS and App Service.\n• Technical Proficiency in Azure Functions, Key Vault, Event Grid, Service Bus, and end-to-end CI/CD using Azure DevOps and YAML.\n• Proficient in cloud security implementation, SOX/S360 compliance controls, managed identity, and secret governance.\n• Experience building telemetry and monitoring using Kusto, App Insights, and Grafana is required.\n• Strong skills in containerization, DevOps automation, and API performance optimization are essential.\n\nKey Responsibilities:\n• Will integrate services with Power Automate and Cognitive Services for automation and AI-driven workflows.\n• This role includes live-site support, RCA/PIR authoring, and preventive engineering for high-availability systems.\n\nMandatory Skills: Windows Platform Engineering Full Stack.\n\nExperience: 3-5 Years.\n\nThe expected compensation for this role ranges from $45,000 to $110,000 .\n\nFinal compensation will depend on various factors, including your geographical location, minimum wage obligations, skills, and relevant experience. Based on the position, the role is also eligible for Wipro's standard benefits including a full range of medical and dental benefits options, disability insurance, paid time off (inclusive of sick leave), other paid and unpaid leave options.\n\nApplicants are advised that employment in some roles may be conditioned on successful completion of a post-offer drug screening, subject to applicable state law.\n\nWipro provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. Applications from veterans and people with disabilities are explicitly welcome.\n\nReinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA - as the world around us changes, so do we. Join a business powered by purpose and a place that empowers you to design your own reinvention.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Redmond, UT",
-    "job_city": "Redmond",
-    "job_state": "Utah",
-    "job_country": "US",
-    "job_latitude": 39.0060727,
-    "job_longitude": -111.8618705,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTPAB2bdXDdl6jY8fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 30.2265949,
+    "job_longitude": -93.2173758,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgoQrfkEfE_8VHsLhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
-    "job_salary_period": "YEAR",
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Job Role : Senior Software Engineer (.NET C# Full-Stack Developer)",
-        "Primary Skills: C#, .NET Core, Azure Services (Azure Cloud), Rest API, AKS, Azure Functions, DevOps, YAML, Kusto",
-        "Hiring for technical & proficient senior engineer with strong experience in C#, .NET Core, microservices, and Azure cloud",
-        "Technical expertise in design and build secure REST APIs using .NET and Azure API Management, with deployments running on AKS and App Service",
-        "Technical Proficiency in Azure Functions, Key Vault, Event Grid, Service Bus, and end-to-end CI/CD using Azure DevOps and YAML",
-        "Proficient in cloud security implementation, SOX/S360 compliance controls, managed identity, and secret governance",
-        "Experience building telemetry and monitoring using Kusto, App Insights, and Grafana is required",
-        "Strong skills in containerization, DevOps automation, and API performance optimization are essential",
-        "Mandatory Skills: Windows Platform Engineering Full Stack",
-        "Experience: 3-5 Years"
-      ],
-      "Benefits": [
-        "The expected compensation for this role ranges from $45,000 to $110,000 ",
-        "Final compensation will depend on various factors, including your geographical location, minimum wage obligations, skills, and relevant experience",
-        "Based on the position, the role is also eligible for Wipro's standard benefits including a full range of medical and dental benefits options, disability insurance, paid time off (inclusive of sick leave), other paid and unpaid leave options"
+        "3 to 5 years of real-time experience in React.js and JavaScript development",
+        "Proficiency in TypeScript, HTML5, CSS3, and Redux",
+        "Experience with RESTful APIs and responsive design",
+        "Familiarity with Git, CI / CD pipelines, and Agile methodologies",
+        "Eligibility for H1B sponsorship for the 2027 quota"
       ],
       "Responsibilities": [
-        "Will integrate services with Power Automate and Cognitive Services for automation and AI-driven workflows",
-        "This role includes live-site support, RCA/PIR authoring, and preventive engineering for high-availability systems"
+        "Develop and maintain user-friendly applications using React.js and related technologies",
+        "Collaborate with cross-functional teams to design and implement new features",
+        "Participate in code reviews and ensure adherence to best practices in development"
       ]
     },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-wipro-job-c-net-full-stack-developer-react-js-in-redmond-ut",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   }
 ]
