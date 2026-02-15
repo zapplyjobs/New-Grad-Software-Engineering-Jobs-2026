@@ -38,8 +38,8 @@
     "job_longitude": -77.0280731,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPiqRIRDhFKeZwzfSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
@@ -99,111 +99,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-walmart-job-software-engineer-android-in-silver-spring-md",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "NNQNSuBTbU1kjLC0AAAAAA==",
-    "job_title": "Sr. Android Developer I (6381)",
-    "employer_name": "MetroStar",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zJHFnrIX6ibqcXHbUPMeOX8zlAxRfiV3d1nq&s=0",
-    "employer_website": "https://www.metrostar.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=0df78cfa4e4170ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=0df78cfa4e4170ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Clearance Jobs",
-        "apply_link": "https://www.clearancejobs.com/jobs/8729963/sr-mobile-developer-i-6381?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/c056321325a9a2d3e75dbaf38d52aae9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-dc-washington-sr-mobile-developer-i-6381-metrostar-systems-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "As a Sr. Mobile Developer (Cross-Platform), you'll design, build, and sustain secure iOS and Android applications with the goal of delivering mission-critical mobile capabilities across the federal government. Our engineering team is responsible for building and operating high-security mobile solutions for a highly visible government customer, and you'll play a key role in delivering reliable, secure, and scalable applications by contributing immediately within an Agile delivery model, collaborating closely with security and backend teams, and driving disciplined execution in a classified environment.\n\nWe know that you can't have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers.\n\nIf you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below!\n\nWhat you'll do:\n• Use cross-platform mobile frameworks and native iOS/Android technologies to design, develop, test, and maintain secure mobile applications.\n• Apply secure coding practices aligned with RMF, STIGs, and secure SDLC standards.\n• Integrate mobile applications with backend APIs, enterprise services, and identity and access management solutions..\n• Support Mobile Device Management (MDM) integrations, including Samsung Knox and VMware AirWatch.\n• Participate actively in Agile ceremonies and sprint execution to deliver mission-critical capabilities.\n• Communicate progress, risks, and technical decisions clearly to teammates and leadership.\n• Troubleshoot and resolve issues rapidly in high-security environments.\n• Contribute to continuous improvement and technical excellence across the team.\n\nWhat you'll need to succeed:\n• Active Top Secret with SCI eligibility security clearance.\n• Bachelor's degree in a technical field is preferred; relevant experience may be substituted.\n• Certification meeting DoD 8140 (e.g., Security+, or higher).\n• Certification meeting AZ-204 or AWS Developer Associate.\n• 5+ years of professional development of cross-platform mobile applications for both iOS and Android.\n• Experience maintaining, integrating, optimizing, and debugging existing mobile applications in operational environments.\n• Experience implementing secure mobile application architectures, including authentication, authorization, and data protection mechanisms.\n• Experience integrating mobile applications with enterprise services and APIs, including REST-based interfaces.\n• Experience supporting mobile device management and secure enterprise mobile deployments, including Samsung Knox SDK and Knox REST APIs.\n• Ability to contribute immediately with minimal ramp-up in a mission-critical operational environment.\n\nSALARY RANGE: $170,000 - $239,000\n\nThe salary range for this position is determined based on qualifications, skills, and relevant experience. The final salary offered will be determined based on several factors including:\n• The candidate's professional background and relevant work experience\n• The specific responsibilities of the role and organizational needs\n• Internal equity and alignment with current team compensation\n• This role is also eligible for additional compensation, subject to the terms and policies of MetroStar, which may include:\n• * Performance-based bonuses\n• Company-paid training and/or certifications\n• Referral bonuses\n\nTo apply for this position, please submit your resume via the form below or through our careers page: https://www.metrostar.com/jobs/\n\nApplication Deadline: Applications will be accepted on a rolling basis until the position is filled; candidates are encouraged to apply as early as possible for full consideration.\n\nAdditional Compensation: This role may also be eligible for bonuses and/or additional incentives based on individual and company performance.\n\nBenefits: All full-time employees are eligible to participate in our benefits programs:\n• Health, dental, and vision insurance\n• 401(k) retirement plan with company match\n• Paid time off (PTO) and holidays\n• Parental Leave and dependent care\n• Flexible work arrangements\n• Professional development opportunities\n• Employee assistance and wellness programs\n\nLike we said, we are big fans of our people. That's why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades.\n\nCommitment to Non-Discrimination\nAll qualified applicants will receive consideration for employment based on merit and without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, status as a protected veteran, or any other status protected by applicable federal, state, local, or international law.\n\nWhat we want you to know:\n\nIn compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.\n\nNot ready to apply now?\n\nSign up to join our newsletter here.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Washington, DC",
-    "job_city": "Washington",
-    "job_state": "District of Columbia",
-    "job_country": "US",
-    "job_latitude": 38.9072873,
-    "job_longitude": -77.0369274,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNNQNSuBTbU1kjLC0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 170000,
-    "job_max_salary": 239000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Active Top Secret with SCI eligibility security clearance",
-        "Certification meeting DoD 8140 (e.g., Security+, or higher)",
-        "Certification meeting AZ-204 or AWS Developer Associate",
-        "5+ years of professional development of cross-platform mobile applications for both iOS and Android",
-        "Experience maintaining, integrating, optimizing, and debugging existing mobile applications in operational environments",
-        "Experience implementing secure mobile application architectures, including authentication, authorization, and data protection mechanisms",
-        "Experience integrating mobile applications with enterprise services and APIs, including REST-based interfaces",
-        "Experience supporting mobile device management and secure enterprise mobile deployments, including Samsung Knox SDK and Knox REST APIs",
-        "Ability to contribute immediately with minimal ramp-up in a mission-critical operational environment"
-      ],
-      "Benefits": [
-        "SALARY RANGE: $170,000 - $239,000",
-        "The salary range for this position is determined based on qualifications, skills, and relevant experience",
-        "The candidate's professional background and relevant work experience",
-        "Internal equity and alignment with current team compensation",
-        "This role is also eligible for additional compensation, subject to the terms and policies of MetroStar, which may include:",
-        "Performance-based bonuses",
-        "Company-paid training and/or certifications",
-        "Referral bonuses",
-        "Additional Compensation: This role may also be eligible for bonuses and/or additional incentives based on individual and company performance",
-        "Benefits: All full-time employees are eligible to participate in our benefits programs:",
-        "Health, dental, and vision insurance",
-        "401(k) retirement plan with company match",
-        "Paid time off (PTO) and holidays",
-        "Parental Leave and dependent care",
-        "Flexible work arrangements",
-        "Professional development opportunities",
-        "Employee assistance and wellness programs",
-        "Learn more about our company culture code and benefits"
-      ],
-      "Responsibilities": [
-        "Mobile Developer (Cross-Platform), you'll design, build, and sustain secure iOS and Android applications with the goal of delivering mission-critical mobile capabilities across the federal government",
-        "Use cross-platform mobile frameworks and native iOS/Android technologies to design, develop, test, and maintain secure mobile applications",
-        "Apply secure coding practices aligned with RMF, STIGs, and secure SDLC standards",
-        "Integrate mobile applications with backend APIs, enterprise services, and identity and access management solutions.",
-        "Support Mobile Device Management (MDM) integrations, including Samsung Knox and VMware AirWatch",
-        "Participate actively in Agile ceremonies and sprint execution to deliver mission-critical capabilities",
-        "Communicate progress, risks, and technical decisions clearly to teammates and leadership",
-        "Troubleshoot and resolve issues rapidly in high-security environments",
-        "Contribute to continuous improvement and technical excellence across the team",
-        "The specific responsibilities of the role and organizational needs"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-indeed-com-viewjob",
     "_source": "new_jobs"
   },
   {
@@ -308,6 +203,255 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "4RnNmCmm4EQlJ09MAAAAAA==",
+    "job_title": "Sr. Android Developer I (6381)",
+    "employer_name": "MetroStar",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zJHFnrIX6ibqcXHbUPMeOX8zlAxRfiV3d1nq&s=0",
+    "employer_website": "https://www.metrostar.com",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=0df78cfa4e4170ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=0df78cfa4e4170ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/sr-android-developer-i-6381-washington-metrostar-systems-83c3d255fab2830ebdaea3139ae03eab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/sr-android-developer-i-6381-washington-dc-usa-56158953?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-android-developer-i-6381-at-metrostar-4363030898?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Local Job Network",
+        "apply_link": "https://jobs.localjobnetwork.com/job/detail/86232443/Sr-Android-Developer-I-6381?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/Xt2kzEQnVrl_IPIVwkljCgt3Q58uoGtQWmZVHVdaESt-RX3kL7Vnlw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/864928d21670296e6333cd289795d669?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5624327676?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "As a Sr. Mobile Developer (Cross-Platform), you'll design, build, and sustain secure iOS and Android applications with the goal of delivering mission-critical mobile capabilities across the federal government. Our engineering team is responsible for building and operating high-security mobile solutions for a highly visible government customer, and you'll play a key role in delivering reliable, secure, and scalable applications by contributing immediately within an Agile delivery model, collaborating closely with security and backend teams, and driving disciplined execution in a classified environment.\n\nWe know that you can't have great technology services without amazing people. At MetroStar, we are obsessed with our people and have led a two-decade legacy of building the best and brightest teams. Because we know our future relies on our deep understanding and relentless focus on our people, we live by our mission: A passion for our people. Value for our customers.\n\nIf you think you can see yourself delivering our mission and pursuing our goals with us, then check out the job description below!\n\nWhat you'll do:\n• Use cross-platform mobile frameworks and native iOS/Android technologies to design, develop, test, and maintain secure mobile applications.\n• Apply secure coding practices aligned with RMF, STIGs, and secure SDLC standards.\n• Integrate mobile applications with backend APIs, enterprise services, and identity and access management solutions..\n• Support Mobile Device Management (MDM) integrations, including Samsung Knox and VMware AirWatch.\n• Participate actively in Agile ceremonies and sprint execution to deliver mission-critical capabilities.\n• Communicate progress, risks, and technical decisions clearly to teammates and leadership.\n• Troubleshoot and resolve issues rapidly in high-security environments.\n• Contribute to continuous improvement and technical excellence across the team.\n\nWhat you'll need to succeed:\n• Active Top Secret with SCI eligibility security clearance.\n• Bachelor's degree in a technical field is preferred; relevant experience may be substituted.\n• Certification meeting DoD 8140 (e.g., Security+, or higher).\n• Certification meeting AZ-204 or AWS Developer Associate.\n• 5+ years of professional development of cross-platform mobile applications for both iOS and Android.\n• Experience maintaining, integrating, optimizing, and debugging existing mobile applications in operational environments.\n• Experience implementing secure mobile application architectures, including authentication, authorization, and data protection mechanisms.\n• Experience integrating mobile applications with enterprise services and APIs, including REST-based interfaces.\n• Experience supporting mobile device management and secure enterprise mobile deployments, including Samsung Knox SDK and Knox REST APIs.\n• Ability to contribute immediately with minimal ramp-up in a mission-critical operational environment.\n\nSALARY RANGE: $170,000 - $239,000\n\nThe salary range for this position is determined based on qualifications, skills, and relevant experience. The final salary offered will be determined based on several factors including:\n• The candidate's professional background and relevant work experience\n• The specific responsibilities of the role and organizational needs\n• Internal equity and alignment with current team compensation\n• This role is also eligible for additional compensation, subject to the terms and policies of MetroStar, which may include:\n• * Performance-based bonuses\n• Company-paid training and/or certifications\n• Referral bonuses\n\nTo apply for this position, please submit your resume via the form below or through our careers page: https://www.metrostar.com/jobs/\n\nApplication Deadline: Applications will be accepted on a rolling basis until the position is filled; candidates are encouraged to apply as early as possible for full consideration.\n\nAdditional Compensation: This role may also be eligible for bonuses and/or additional incentives based on individual and company performance.\n\nBenefits: All full-time employees are eligible to participate in our benefits programs:\n• Health, dental, and vision insurance\n• 401(k) retirement plan with company match\n• Paid time off (PTO) and holidays\n• Parental Leave and dependent care\n• Flexible work arrangements\n• Professional development opportunities\n• Employee assistance and wellness programs\n\nLike we said, we are big fans of our people. That's why we offer a generous benefits package, professional growth, and valuable time to recharge. Learn more about our company culture code and benefits. Plus, check out our accolades.\n\nCommitment to Non-Discrimination\nAll qualified applicants will receive consideration for employment based on merit and without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, status as a protected veteran, or any other status protected by applicable federal, state, local, or international law.\n\nWhat we want you to know:\n\nIn compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.\n\nNot ready to apply now?\n\nSign up to join our newsletter here.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Washington, DC",
+    "job_city": "Washington",
+    "job_state": "District of Columbia",
+    "job_country": "US",
+    "job_latitude": 38.9072873,
+    "job_longitude": -77.0369274,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4RnNmCmm4EQlJ09MAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 170000,
+    "job_max_salary": 239000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Active Top Secret with SCI eligibility security clearance",
+        "Certification meeting DoD 8140 (e.g., Security+, or higher)",
+        "Certification meeting AZ-204 or AWS Developer Associate",
+        "5+ years of professional development of cross-platform mobile applications for both iOS and Android",
+        "Experience maintaining, integrating, optimizing, and debugging existing mobile applications in operational environments",
+        "Experience implementing secure mobile application architectures, including authentication, authorization, and data protection mechanisms",
+        "Experience integrating mobile applications with enterprise services and APIs, including REST-based interfaces",
+        "Experience supporting mobile device management and secure enterprise mobile deployments, including Samsung Knox SDK and Knox REST APIs",
+        "Ability to contribute immediately with minimal ramp-up in a mission-critical operational environment"
+      ],
+      "Benefits": [
+        "SALARY RANGE: $170,000 - $239,000",
+        "The salary range for this position is determined based on qualifications, skills, and relevant experience",
+        "The candidate's professional background and relevant work experience",
+        "Internal equity and alignment with current team compensation",
+        "This role is also eligible for additional compensation, subject to the terms and policies of MetroStar, which may include:",
+        "Performance-based bonuses",
+        "Company-paid training and/or certifications",
+        "Referral bonuses",
+        "Additional Compensation: This role may also be eligible for bonuses and/or additional incentives based on individual and company performance",
+        "Benefits: All full-time employees are eligible to participate in our benefits programs:",
+        "Health, dental, and vision insurance",
+        "401(k) retirement plan with company match",
+        "Paid time off (PTO) and holidays",
+        "Parental Leave and dependent care",
+        "Flexible work arrangements",
+        "Professional development opportunities",
+        "Employee assistance and wellness programs",
+        "Learn more about our company culture code and benefits"
+      ],
+      "Responsibilities": [
+        "Mobile Developer (Cross-Platform), you'll design, build, and sustain secure iOS and Android applications with the goal of delivering mission-critical mobile capabilities across the federal government",
+        "Use cross-platform mobile frameworks and native iOS/Android technologies to design, develop, test, and maintain secure mobile applications",
+        "Apply secure coding practices aligned with RMF, STIGs, and secure SDLC standards",
+        "Integrate mobile applications with backend APIs, enterprise services, and identity and access management solutions.",
+        "Support Mobile Device Management (MDM) integrations, including Samsung Knox and VMware AirWatch",
+        "Participate actively in Agile ceremonies and sprint execution to deliver mission-critical capabilities",
+        "Communicate progress, risks, and technical decisions clearly to teammates and leadership",
+        "Troubleshoot and resolve issues rapidly in high-security environments",
+        "Contribute to continuous improvement and technical excellence across the team",
+        "The specific responsibilities of the role and organizational needs"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "p4KpTxRKMuO0m8g7AAAAAA==",
+    "job_title": "Android Developer",
+    "employer_name": "Charles Schwab",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLZJv0c4eUiAPTL24rSh52v-541rhsjwKrZ1E&s=0",
+    "employer_website": "https://www.schwab.com",
+    "job_publisher": "Schwab Jobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.schwabjobs.com/job/austin/android-developer/33727/91423604080?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Schwab Jobs",
+        "apply_link": "https://www.schwabjobs.com/job/austin/android-developer/33727/91423604080?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Jobsbridge/Job/Android-Developer/-in-Southlake,TX?jid=08363784b288c52f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Smart Recruiters Jobs",
+        "apply_link": "https://jobs.smartrecruiters.com/Jobsbridge1/89837379-android-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/885963bae121a6fd9d24fd0465f03656?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/android-developer-at-charles-schwab-4364489123?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/jobsbridge/android-developer-40766688/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/android-developer--southlake--ecf2d346b0de24687bb39cc86282ece05?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/southlake/texas/software_development/4860533465/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Your opportunity\n\nAt Schwab, you’re empowered to make an impact on your career. Here, innovative thought meets creative problem solving, helping us “challenge the status quo” and transform the finance industry together.\n\nWe believe in the importance of in-office collaboration and fully intend for the selected candidate for this role to work on site in the specified location(s).\n\nSchwab Technology Services enables the future of how clients manage their money by providing innovative and reliable technology products and services as part of our ongoing commitment to democratize access to investing and financial planning.\n\nSchwab has been doing in-house, native mobile development for several years but every business channel in Schwab is increasing their presence on the mobile platform. We are looking to grow a high performing, engaged mobile development team that is passionate about delivering an excellent mobile experience for our users, from checking account balances to complex trading, Schwab’s ever growing mobile user base is asking for more features and more and interesting visualizations and interactions. Come join the team and make your mark on a highly distributed, visible and valued product.\n\nWe are seeking a Mid-Level Android Engineer to build and maintain features for our mobile applications. In this role, you will implement technical solutions, collaborate with cross-functional teams, and contribute to code quality through thoughtful design and testing. You will work alongside senior engineers to deliver high-quality mobile experiences while growing your technical skills. This position requires solid Android development experience, strong coding fundamentals, and the ability to work effectively in an Agile environment.\n\nKey Responsibilities\n\nApplication Development\n• Design, develop, and maintain Android application features using Kotlin and modern Android frameworks\n• Write clean, maintainable, and testable code following established coding standards and best practices\n• Implement UI components using Jetpack Compose and/or XML layouts that deliver excellent user experiences\n• Integrate with RESTful APIs and backend services to enable application functionality\n• Debug and resolve application issues, crashes, and performance bottlenecks\n\nCode Quality & Testing\n• Write unit tests and UI tests to ensure code reliability and maintainability\n• Participate in code reviews, providing constructive feedback to peers\n• Ensure code follows architectural patterns and design principles\n• Optimize application performance, memory usage, and battery consumption\n• Address security vulnerabilities and follow secure coding practices\n\nRelease & Deployment\n• Support the release process by ensuring features are production-ready\n• Monitor application performance and stability post-deployment\n• Respond to production issues and contribute to incident resolution\n• Participate in on-call rotation to support application availability (if applicable)\nWhat you have\n\nRequired Qualifications\n\nEducation & Experience\n• Bachelor's degree in Computer Science, Information Systems, or related field (or equivalent work experience)\n• 3-5 years of experience developing Android applications\n• At least 2 years of hands-on experience with Kotlin for Android development\n\nTechnical Skills - Core\n• Strong proficiency in Kotlin and Android SDK\n• Experience with dependency injection frameworks (Dagger 2, Hilt, or Koin)\n• Solid understanding of REST API integration and network communication\n• Experience writing unit tests and UI tests (JUnit, Espresso, or similar)\n• Familiarity with version control systems (Git) and code review practices\n• Experience with CI/CD pipelines and debugging production issues\n\nTechnical Skills - Desired\n• Experience with reactive programming (RxJava or Coroutines/Flow)\n• Knowledge of MVI, MVVM, or Clean Architecture patterns\n• Experience with Jetpack Compose\n• Understanding of accessibility features (TalkBack, Dynamic Type)\n• Experience debugging memory and performance issues\n• Familiarity with Android native modules and multi-SDK support\n\nPreferred Qualifications\n• Experience with Github Copilot/Cursor for coding, PR etc\n• Experience with MCP server\n• Experience with performance analysis and optimization tools\n• Knowledge of mobile security best practices\n• Understanding of CI/CD tools (Jenkins, Bamboo, or similar)\n• Financial services or regulated industry experience\n\n'In addition to the salary range, this role is also eligible for bonus or incentive opportunities.'\n\nWhat’s in it for you\n\nAt Schwab, you’re empowered to shape your future. We champion your growth through meaningful work, continuous learning, and a culture of trust and collaboration—so you can build the skills to make a lasting impact. Our Hybrid Work and Flexibility approach balances our ongoing commitment to workplace flexibility, serving our clients, and our strong belief in the value of being together in person on a regular basis.\n\nWe offer a competitive benefits package that takes care of the whole you – both today and in the future:\n• 401(k) with company match and Employee stock purchase plan\n• Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions\n• Paid parental leave and family building benefits\n• Tuition reimbursement\n• Health, dental, and vision insurance",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Southlake, TX",
+    "job_city": "Southlake",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 32.9412363,
+    "job_longitude": -97.1341783,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dp4KpTxRKMuO0m8g7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 115000,
+    "job_max_salary": 130000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "This position requires solid Android development experience, strong coding fundamentals, and the ability to work effectively in an Agile environment",
+        "Bachelor's degree in Computer Science, Information Systems, or related field (or equivalent work experience)",
+        "3-5 years of experience developing Android applications",
+        "At least 2 years of hands-on experience with Kotlin for Android development",
+        "Technical Skills - Core",
+        "Strong proficiency in Kotlin and Android SDK",
+        "Experience with dependency injection frameworks (Dagger 2, Hilt, or Koin)",
+        "Solid understanding of REST API integration and network communication",
+        "Experience writing unit tests and UI tests (JUnit, Espresso, or similar)",
+        "Familiarity with version control systems (Git) and code review practices",
+        "Experience with CI/CD pipelines and debugging production issues"
+      ],
+      "Benefits": [
+        "'In addition to the salary range, this role is also eligible for bonus or incentive opportunities.'",
+        "We offer a competitive benefits package that takes care of the whole you – both today and in the future:",
+        "401(k) with company match and Employee stock purchase plan",
+        "Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions",
+        "Paid parental leave and family building benefits",
+        "Tuition reimbursement",
+        "Health, dental, and vision insurance"
+      ],
+      "Responsibilities": [
+        "In this role, you will implement technical solutions, collaborate with cross-functional teams, and contribute to code quality through thoughtful design and testing",
+        "You will work alongside senior engineers to deliver high-quality mobile experiences while growing your technical skills",
+        "Design, develop, and maintain Android application features using Kotlin and modern Android frameworks",
+        "Write clean, maintainable, and testable code following established coding standards and best practices",
+        "Implement UI components using Jetpack Compose and/or XML layouts that deliver excellent user experiences",
+        "Integrate with RESTful APIs and backend services to enable application functionality",
+        "Debug and resolve application issues, crashes, and performance bottlenecks",
+        "Code Quality & Testing",
+        "Write unit tests and UI tests to ensure code reliability and maintainability",
+        "Participate in code reviews, providing constructive feedback to peers",
+        "Ensure code follows architectural patterns and design principles",
+        "Optimize application performance, memory usage, and battery consumption",
+        "Address security vulnerabilities and follow secure coding practices",
+        "Release & Deployment",
+        "Support the release process by ensuring features are production-ready",
+        "Monitor application performance and stability post-deployment",
+        "Respond to production issues and contribute to incident resolution",
+        "Participate in on-call rotation to support application availability (if applicable)"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-schwabjobs-com-job-austin-android-developer-33727-91423604080",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "ioQJqZth8vQ3AyuFAAAAAA==",
     "job_title": "Senior Android Developer (Remote)",
     "employer_name": "Cognizant",
@@ -392,77 +536,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "XiQL02fLr8y5nYhcAAAAAA==",
-    "job_title": "Android Developer | Newport, KY, USA",
-    "employer_name": "Deloitte",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpfyMirvNi5TRaVUf-2yu9LkR97n96y3gzSstM&s=0",
-    "employer_website": "https://www.deloitte.com",
-    "job_publisher": "EFinancialCareers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-KY-Newport-Android_Developer.id23836179?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "EFinancialCareers",
-        "apply_link": "https://www.efinancialcareers.com/jobs-USA-KY-Newport-Android_Developer.id23836179?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Android Developer\n\nAre you an experienced, passionate pioneer in technology who wants to work in a collaborative environment? As an experienced Android Developer , you will have the ability to share new ideas and collaborate on projects as a consultant without the extensive demands of travel. If so, consider an opportunity with Deloitte under our Project Delivery Talent Model. Project Delivery Model (PDM) is a talent model that is tailored specifically for long-term, onsite client service delivery.\n\nWork you'll do/Responsibilities\n• Develop and maintain custom Android code for ordering capabilities within the In Stock application\n• Build and enhance mobile ordering workflows that allow users to update existing orders and place additional orders\n• Collaborate with backend and product teams to integrate APIs and ensure end-to-end functionality and data consistency\n• Troubleshoot, debug, and resolve mobile defects; improve performance, stability, and usability\n• Follow mobile engineering best practices for code quality, testing, and maintainability\n• Contribute to technical documentation and support release readiness activities as needed\n• Communicate regularly with Engagement Managers (Directors), project team members, and representatives from various functional and / or technical teams, including escalating any matters that require additional attention and consideration from engagement management\n• Independently and collaboratively lead client engagement workstreams focused on improvement, optimization, and transformation of processes including implementing leading practice workflows, addressing deficits in quality, and driving operational outcomes The Team\n\nAI & Engineering leverages cutting-edge engineering capabilities to build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These solutions are powered by engineering for business advantage, transforming mission-critical operations. We enable clients to stay ahead with the latest advancements by transforming engineering teams and modernizing technology & data platforms. Our delivery models are tailored to meet each client's unique requirements.\n\nEngineering as a Service provides complete design, implementation, and technology operations, leveraging our core engineering expertise. We transform engineering teams, modernize technology, and deliver complex programs with a product engineering approach. Our flexible delivery models-traditional teams, pools, or pods-are tailored to each client's needs, offering engineering-led advisory, implementation, and operational capabilities to accelerate innovation.\n\nQualifications\n\nRequired\n• Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience\n• 6+ years of proven Android development experience\n• Experience developing and supporting custom enterprise applications, ideally in ordering, inventory, or retail operations domains\n• Strong knowledge of architecture design patterns and software design patterns with practical implementation experience\n• Demonstrated experience with code inspection/review techniques (peer review, static analysis, quality gates)\n• Solid database design skills (relational modeling, indexing, query optimization, transactional considerations)\n• Hands-on experience with application observability (monitoring, logging, metrics, alerting; tracing a plus)\n• Proven ability to provide technical guidance (mentoring, review leadership, and solution direction) within a delivery team\n• Ability to provide technical guidance (mentoring, code reviews, solution direction) within a delivery team\n• Demonstrated technical leadership across teams and stakeholders\n• Limited immigration sponsorship may be available\n• Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve Information for applicants with a need for accommodation: https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html\n\nDeloitte is committed to providing reasonable accommodations for people with disabilities. If you require a reasonable accommodation to participate in the recruiting process, please direct your inquiries to the Global Call Center (GCC) at USTalentCICInbox@deloitte.com.\n\nRecruiting tips\n\nFrom developing a stand out resume to putting your best foot forward in the interview, we want you to feel prepared and confident as you explore opportunities at Deloitte. Check out recruiting tips from Deloitte recruiters.\n\nBenefits\n\nAt Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits. Learn more about what working at Deloitte can mean for you.\n\nOur people and culture\n\nOur inclusive culture empowers our people to be who they are, contribute their unique perspectives, and make a difference individually and collectively. It enables us to leverage different ways of thinking, ideas, and perspectives, and bring more creativity and innovation to help solve our clients' most complex challenges. This makes Deloitte one of the most rewarding places to work.\n\nOur purpose\n\nDeloitte's purpose is to make an impact that matters for our people, clients, and communities. At Deloitte, purpose is synonymous with how we work every day. It defines who we are. Our purpose comes through in our work with clients that enables impact and value in their organizations, as well as through our own investments, commitments, and actions across areas that help drive positive outcomes for our communities. Learn more.\n\nProfessional development\n\nFrom entry-level employees to senior leaders, we believe there's always room to learn. We offer opportunities to build new skills, take on leadership opportunities and connect and grow through mentorship. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career.\n\nAs used in this posting, \"Deloitte\" means Deloitte Consulting LLP, a subsidiary of Deloitte LLP. Please see https://www.deloitte.com/us/about for a detailed description of the legal structure of Deloitte LLP and its subsidiaries.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.\n\nRequisition code: 323872\n\nJob ID 323872",
-    "job_is_remote": false,
-    "job_posted_at": "4 hours ago",
-    "job_posted_at_timestamp": 1771138800,
-    "job_posted_at_datetime_utc": "2026-02-15T07:00:00.000Z",
-    "job_location": "Newport, KY",
-    "job_city": "Newport",
-    "job_state": "Kentucky",
-    "job_country": "US",
-    "job_latitude": 39.091449,
-    "job_longitude": -84.4957757,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXiQL02fLr8y5nYhcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience",
-        "6+ years of proven Android development experience",
-        "Experience developing and supporting custom enterprise applications, ideally in ordering, inventory, or retail operations domains",
-        "Strong knowledge of architecture design patterns and software design patterns with practical implementation experience",
-        "Demonstrated experience with code inspection/review techniques (peer review, static analysis, quality gates)",
-        "Solid database design skills (relational modeling, indexing, query optimization, transactional considerations)",
-        "Proven ability to provide technical guidance (mentoring, review leadership, and solution direction) within a delivery team",
-        "Ability to provide technical guidance (mentoring, code reviews, solution direction) within a delivery team",
-        "Demonstrated technical leadership across teams and stakeholders",
-        "Limited immigration sponsorship may be available",
-        "Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve Information for applicants with a need for accommodation: https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html"
-      ],
-      "Responsibilities": [
-        "Work you'll do/Responsibilities",
-        "Develop and maintain custom Android code for ordering capabilities within the In Stock application",
-        "Build and enhance mobile ordering workflows that allow users to update existing orders and place additional orders",
-        "Collaborate with backend and product teams to integrate APIs and ensure end-to-end functionality and data consistency",
-        "Troubleshoot, debug, and resolve mobile defects; improve performance, stability, and usability",
-        "Follow mobile engineering best practices for code quality, testing, and maintainability",
-        "Contribute to technical documentation and support release readiness activities as needed",
-        "Communicate regularly with Engagement Managers (Directors), project team members, and representatives from various functional and / or technical teams, including escalating any matters that require additional attention and consideration from engagement management",
-        "Independently and collaboratively lead client engagement workstreams focused on improvement, optimization, and transformation of processes including implementing leading practice workflows, addressing deficits in quality, and driving operational outcomes The Team",
-        "AI & Engineering leverages cutting-edge engineering capabilities to build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure",
-        "We enable clients to stay ahead with the latest advancements by transforming engineering teams and modernizing technology & data platforms",
-        "Our flexible delivery models-traditional teams, pools, or pods-are tailored to each client's needs, offering engineering-led advisory, implementation, and operational capabilities to accelerate innovation"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-efinancialcareers-com-jobs-usa-ky-newport-android_developer-id23836179",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "4jg_rPH6A5BLUMQPAAAAAA==",
     "job_title": "Lead Android Developer (Remote)",
     "employer_name": "Cognizant",
@@ -529,9 +602,9 @@
     "job_latitude": 38.9072873,
     "job_longitude": -77.0369274,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4jg_rPH6A5BLUMQPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -571,6 +644,113 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "virtualjobs-usnlx-com-washington-dc-lead-android-developer-remote-9b59a39d4dfd4bd8b6f9ef4580a41e3f-job",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "FIQX3Dy7ca08CiHbAAAAAA==",
+    "job_title": "Mobile Software Engineer Co-op",
+    "employer_name": "Bose Corporation",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZdpd5Kl-4kc6Z2xrOT0aOYmkjxJb2mZ59bXsp&s=0",
+    "employer_website": "https://www.bose.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/mobile-software-engineer-co-op-at-bose-corporation-4364113358?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/mobile-software-engineer-co-op-at-bose-corporation-4364113358?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Bose/Job/Embedded-Software-Engineer-Co-op/-in-Framingham,MA?jid=44c0b8a160af26fe&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In Boston",
+        "apply_link": "https://www.builtinboston.com/job/mobile-software-engineer-co-op/8484100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/27954d5e4f8b90d4f1af8b2416f4373c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/mobile-software-engineer-co-op/8484100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/bose-corporation/software-engineer-co-op-39082959/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "EQuest Jobs",
+        "apply_link": "https://jobs.equest.com/jobs/MA/bose-corporation/embedded-software-engineer-co-op-444050490.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698e77d7f64d441a1650bb76?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.\n\nToday, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation.\n\nJob Description\n\nABOUT THE CO-OP PROGRAM\n\nBose Corporation is seeking students to participate in our Co-op Program who share our belief that sound is power. During the six-month co-op, students will have the chance to apply classroom learning in a hands-on work environment. Co-op participants will network across the business to gain diverse perspectives within Bose Corporation. Additionally, co-ops will connect with other students and colleagues, building valuable professional relationships for the future.\n\nFall Co-op: Candidates must be available to work full-time (40 hours per week) in a hybrid, in-office format from July 13 through December 18, 2026. No relocation assistance is available.\n\nBeing currently authorized to work in the U.S. is a precondition of employment for this position.\n\nTHE ROLE\n\nWe're looking for a Mobile Software Engineer Co-Op to join the Mobile App Group and to work with a mobile team on a fun and challenging project. In this role you will...\n• Explore and design a solution to a use case\n• Create a rapid prototype(s)\n• Document and present your solution\n\nJob Responsibilities will include, but not be limited to...\n• Join a talented and diverse mobile applications team\n• Exciting projects using innovative technologies\n• Motivated teams with opportunities to make an impact\n• Work culture based on learning and collaboration\n• Opportunities to advance your skills in Kotlin or Swift\n• Work with Swift Concurrency/Kotlin Coroutines/MVVM and other app development tools and technologies\n• Projects that Integrate with both cloud and hardware\n\nRequirements\n• Degree path in engineering, computer science or a related technical field\n• Experience in mobile application design and development for the iOS or Android platform\n• Experience in Swift or Kotlin coding\n• Effective communication skills at building relationships across teams\n• Taking initiative and self-starter, as part of a team\n• Good Computer Science fundamentals in object-oriented design and data structures\n\nAt Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $29.00-$37.25 per hour.The hiring range for other Bose work locations may vary. In addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.\n\n‎\n\nBose is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. The EEOC’s “Know Your Rights: Workplace discrimination is illegal” Poster is available here: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf. Bose is committed to providing reasonable accommodations to individuals with disabilities. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to applicant_disability_accommodationrequest@bose.com. Please include \"Application Accommodation Request\" in the subject of the email.\n\n‎\n\nOur goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Framingham, MA",
+    "job_city": "Framingham",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.279286,
+    "job_longitude": -71.4161565,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFIQX3Dy7ca08CiHbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 29,
+    "job_max_salary": 37.25,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Exciting projects using innovative technologies",
+        "Degree path in engineering, computer science or a related technical field",
+        "Experience in mobile application design and development for the iOS or Android platform",
+        "Experience in Swift or Kotlin coding",
+        "Effective communication skills at building relationships across teams",
+        "Taking initiative and self-starter, as part of a team",
+        "Good Computer Science fundamentals in object-oriented design and data structures"
+      ],
+      "Benefits": [
+        "At Bose, you're inspired to be and do your best and are rewarded for your unique talents!",
+        "Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary",
+        "The hiring range for this position in the primary work location of Framingham, Massachusetts is: $29.00-$37.25 per hour",
+        "In addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences"
+      ],
+      "Responsibilities": [
+        "Explore and design a solution to a use case",
+        "Create a rapid prototype(s)",
+        "Document and present your solution",
+        "Join a talented and diverse mobile applications team",
+        "Motivated teams with opportunities to make an impact",
+        "Work culture based on learning and collaboration",
+        "Opportunities to advance your skills in Kotlin or Swift",
+        "Work with Swift Concurrency/Kotlin Coroutines/MVVM and other app development tools and technologies",
+        "Projects that Integrate with both cloud and hardware"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-mobile-software-engineer-co-op-at-bose-corporation-4364113358",
     "_source": "new_jobs"
   },
   {
@@ -782,113 +962,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "FIQX3Dy7ca08CiHbAAAAAA==",
-    "job_title": "Mobile Software Engineer Co-op",
-    "employer_name": "Bose Corporation",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZdpd5Kl-4kc6Z2xrOT0aOYmkjxJb2mZ59bXsp&s=0",
-    "employer_website": "https://www.bose.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/mobile-software-engineer-co-op-at-bose-corporation-4364113358?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/mobile-software-engineer-co-op-at-bose-corporation-4364113358?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Bose/Job/Embedded-Software-Engineer-Co-op/-in-Framingham,MA?jid=44c0b8a160af26fe&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Built In Boston",
-        "apply_link": "https://www.builtinboston.com/job/mobile-software-engineer-co-op/8484100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/27954d5e4f8b90d4f1af8b2416f4373c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/mobile-software-engineer-co-op/8484100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talents By Vaia",
-        "apply_link": "https://talents.vaia.com/companies/bose-corporation/software-engineer-co-op-39082959/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "EQuest Jobs",
-        "apply_link": "https://jobs.equest.com/jobs/MA/bose-corporation/embedded-software-engineer-co-op-444050490.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698e77d7f64d441a1650bb76?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound.\n\nToday, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation.\n\nJob Description\n\nABOUT THE CO-OP PROGRAM\n\nBose Corporation is seeking students to participate in our Co-op Program who share our belief that sound is power. During the six-month co-op, students will have the chance to apply classroom learning in a hands-on work environment. Co-op participants will network across the business to gain diverse perspectives within Bose Corporation. Additionally, co-ops will connect with other students and colleagues, building valuable professional relationships for the future.\n\nFall Co-op: Candidates must be available to work full-time (40 hours per week) in a hybrid, in-office format from July 13 through December 18, 2026. No relocation assistance is available.\n\nBeing currently authorized to work in the U.S. is a precondition of employment for this position.\n\nTHE ROLE\n\nWe're looking for a Mobile Software Engineer Co-Op to join the Mobile App Group and to work with a mobile team on a fun and challenging project. In this role you will...\n• Explore and design a solution to a use case\n• Create a rapid prototype(s)\n• Document and present your solution\n\nJob Responsibilities will include, but not be limited to...\n• Join a talented and diverse mobile applications team\n• Exciting projects using innovative technologies\n• Motivated teams with opportunities to make an impact\n• Work culture based on learning and collaboration\n• Opportunities to advance your skills in Kotlin or Swift\n• Work with Swift Concurrency/Kotlin Coroutines/MVVM and other app development tools and technologies\n• Projects that Integrate with both cloud and hardware\n\nRequirements\n• Degree path in engineering, computer science or a related technical field\n• Experience in mobile application design and development for the iOS or Android platform\n• Experience in Swift or Kotlin coding\n• Effective communication skills at building relationships across teams\n• Taking initiative and self-starter, as part of a team\n• Good Computer Science fundamentals in object-oriented design and data structures\n\nAt Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $29.00-$37.25 per hour.The hiring range for other Bose work locations may vary. In addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves.\n\n‎\n\nBose is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. The EEOC’s “Know Your Rights: Workplace discrimination is illegal” Poster is available here: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf. Bose is committed to providing reasonable accommodations to individuals with disabilities. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to applicant_disability_accommodationrequest@bose.com. Please include \"Application Accommodation Request\" in the subject of the email.\n\n‎\n\nOur goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Framingham, MA",
-    "job_city": "Framingham",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.279286,
-    "job_longitude": -71.4161565,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFIQX3Dy7ca08CiHbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 29,
-    "job_max_salary": 37.25,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "Exciting projects using innovative technologies",
-        "Degree path in engineering, computer science or a related technical field",
-        "Experience in mobile application design and development for the iOS or Android platform",
-        "Experience in Swift or Kotlin coding",
-        "Effective communication skills at building relationships across teams",
-        "Taking initiative and self-starter, as part of a team",
-        "Good Computer Science fundamentals in object-oriented design and data structures"
-      ],
-      "Benefits": [
-        "At Bose, you're inspired to be and do your best and are rewarded for your unique talents!",
-        "Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary",
-        "The hiring range for this position in the primary work location of Framingham, Massachusetts is: $29.00-$37.25 per hour",
-        "In addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences"
-      ],
-      "Responsibilities": [
-        "Explore and design a solution to a use case",
-        "Create a rapid prototype(s)",
-        "Document and present your solution",
-        "Join a talented and diverse mobile applications team",
-        "Motivated teams with opportunities to make an impact",
-        "Work culture based on learning and collaboration",
-        "Opportunities to advance your skills in Kotlin or Swift",
-        "Work with Swift Concurrency/Kotlin Coroutines/MVVM and other app development tools and technologies",
-        "Projects that Integrate with both cloud and hardware"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-mobile-software-engineer-co-op-at-bose-corporation-4364113358",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "j-IZ7W0csCtoCHTnAAAAAA==",
     "job_title": "Principal Engineer – Android POS Developer",
     "employer_name": "Bank of America",
@@ -914,7 +987,7 @@
       },
       {
         "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/165a9d016a823aa00043710447c4c86b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://us.bebee.com/job/2a61b5abaa8149e3e4ce85ffc66ee9c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
@@ -1188,8 +1261,8 @@
     "job_longitude": -76.8867008,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dg3eIXZxKVafTcX5DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1239,7 +1312,7 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "-aldVRTdi8gJEUPDAAAAAA==",
+    "job_id": "kd7v1_mcH_mD0NRDAAAAAA==",
     "job_title": "Senior Android Developer (Remote)",
     "employer_name": "Cognizant",
     "employer_logo": null,
@@ -1249,12 +1322,17 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobs.vetjobs.org/providence-ri/senior-android-developer-remote/6EA2C8203B6D4E888D5394D65400C522/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobs.vetjobs.org/lansing-mi/senior-android-developer-remote/6D614ECDC46F424D939FDBF6F3012FC5/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Jobs | VetJobs",
-        "apply_link": "https://jobs.vetjobs.org/providence-ri/senior-android-developer-remote/6EA2C8203B6D4E888D5394D65400C522/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://jobs.vetjobs.org/lansing-mi/senior-android-developer-remote/6D614ECDC46F424D939FDBF6F3012FC5/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/ios-development?id=2460541766&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -1263,18 +1341,18 @@
     "job_posted_at": "4 days ago",
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Providence, RI",
-    "job_city": "Providence",
-    "job_state": "Rhode Island",
+    "job_location": "Lansing, MI",
+    "job_city": "Lansing",
+    "job_state": "Michigan",
     "job_country": "US",
-    "job_latitude": 41.8244836,
-    "job_longitude": -71.4127462,
+    "job_latitude": 42.733599299999995,
+    "job_longitude": -84.55386639999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-aldVRTdi8gJEUPDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dkd7v1_mcH_mD0NRDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -1309,7 +1387,7 @@
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "jobs-vetjobs-org-providence-ri-senior-android-developer-remote-6ea2c8203b6d4e888d5394d65400c522-job",
+    "id": "jobs-vetjobs-org-lansing-mi-senior-android-developer-remote-6d614ecdc46f424d939fdbf6f3012fc5-job",
     "_source": "new_jobs"
   },
   {
@@ -1350,9 +1428,9 @@
     "job_latitude": 37.6687665,
     "job_longitude": -122.08099639999999,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DtnuT69oV9MlfWmbJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 143000,
@@ -1416,8 +1494,8 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "kd7v1_mcH_mD0NRDAAAAAA==",
-    "job_title": "Senior Android Developer (Remote)",
+    "job_id": "z7chO2YeYGqrb_0bAAAAAA==",
+    "job_title": "Lead Android Developer (Remote)",
     "employer_name": "Cognizant",
     "employer_logo": null,
     "employer_website": "https://www.cognizant.com",
@@ -1426,37 +1504,37 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobs.vetjobs.org/lansing-mi/senior-android-developer-remote/6D614ECDC46F424D939FDBF6F3012FC5/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobs.vetjobs.org/saint-paul-mn/lead-android-developer-remote/2F929CD5C3314A67B36B619672BE25A7/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Jobs | VetJobs",
-        "apply_link": "https://jobs.vetjobs.org/lansing-mi/senior-android-developer-remote/6D614ECDC46F424D939FDBF6F3012FC5/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://jobs.vetjobs.org/saint-paul-mn/lead-android-developer-remote/2F929CD5C3314A67B36B619672BE25A7/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/ios-development?id=2460541766&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.whatjobs.com/jobs/application-development?id=2461090165&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Description - External\n\nCognizant’s Digital Engineering practice is seeking a highly qualified Senior Android Enginee r with experience developing and building high-performing, scalable, enterprise applications. You will be part of a digital software team that works on high-demand applications. Our engineers have a passion for high-quality, reliable and maintainable code. You will work side by side with product managers, designers, and clients, making decisions together in order to quickly deliver valuable working software to clients and their users. Our engineers are agile and retrospective, and not afraid to identify what we’re doing wrong, so we can fix it, and what we’re doing right, so we can improve on it. Above all, we judge success by the success of our team and the happiness of our customers.\n\nCognizant Digital Engineering If you’re like us, you’ve got big ideas. At Cognizant, we’re exploring new ideas every day. We help industry leading companies reinvent their business models and innovate products that create new value—by connecting people with things, insights and experiences. Cognizant digital engineering designs, engineers and delivers digital products and experiences that drive digital-first business models. We offer the most comprehensive digital engineering expertise and client-centric methodology for sustainable innovation.\n\nLocation : Englewood, CO or Remote\n\nYou must be legally authorized to work in United States without the need for employer sponsorship, now or at any time in the future.\n\nCognizant will not sponsor work authorization for this role.\n\nResponsibilities\n\nDesign, code, and test rich, interactive customer experiences.\n\nCollaborate with cross-functional teams to gather and refine software requirements.\n\nLead coding efforts for specific modules or features.\n\nTroubleshoot and resolve complex software issues.\n\nParticipate in code reviews and enforce coding standards.\n\nContribute to architectural decisions and design discussions\n\nQualifications\n\n4+ years of experience in native iOS and/or Android development.\n\nProficiency in native iOS and/or Android programming languages (Objective-C, Swift, Java, Kotlin).\n\nStrong understanding of mobile development methodologies and best practices.\n\nProblem-solving, debugging, and troubleshooting skills.\n\nExcellent teamwork and communication abilities.\n\nBenefits: Cognizant offers the following benefits for this position, subject to applicable eligibility requirements:\n\n· Medical/Dental/Vision/Life Insurance\n\n· Paid holidays plus Paid Time Off\n\n· Long-term/Short-term Disability\n\n· Paid Parental Leave\n\n· Employee Stock Purchase Plan\n\nDisclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable law.\n\nTravel: 0-5%\n\nWhy Choose Cognizant?\n\nIt takes a lot to succeed in today’s fast-paced market, and Cognizant Technology Solutions has become a leader in the industry. We love big ideas and even bigger dreams! We stand out because we put human experiences at the core. Our associates enjoy robust benefits and training opportunities from our industry-recognized, award-winning Academy team. You will have access to hundreds of technical trainings to keep your skillsets fresh and have opportunities to acquire certifications on the newest technologies.\n\nEverything we do at Cognizant we do with passion—for our clients (fortune 100 companies), our communities, and our organization. It’s the defining attribute that we look for in our people.\n\nIf you love ambiguity, excited by change, and excel through autonomy, we’d love to hear from you!\n\nCognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.",
+    "job_description": "Cognizant’s Digital Engineering practice is seeking a highly qualified Senior Android Enginee r with experience developing and building high-performing, scalable, enterprise applications. You will be part of a digital software team that works on high-demand applications. Our engineers have a passion for high-quality, reliable and maintainable code. You will work side by side with product managers, designers, and clients, making decisions together in order to quickly deliver valuable working software to clients and their users. Our engineers are agile and retrospective, and not afraid to identify what we’re doing wrong, so we can fix it, and what we’re doing right, so we can improve on it. Above all, we judge success by the success of our team and the happiness of our customers.\n\nCognizant Digital Engineering If you’re like us, you’ve got big ideas. At Cognizant, we’re exploring new ideas every day. We help industry leading companies reinvent their business models and innovate products that create new value—by connecting people with things, insights and experiences. Cognizant digital engineering designs, engineers and delivers digital products and experiences that drive digital-first business models. We offer the most comprehensive digital engineering expertise and client-centric methodology for sustainable innovation.\n\nLocation : Englewood, CO or Remote\n\nYou must be legally authorized to work in United States without the need for employer sponsorship, now or at any time in the future.\n\nCognizant will not sponsor work authorization for this role.\n\nResponsibilities\n\nDesign, code, and test rich, interactive customer experiences.\n\nCollaborate with cross-functional teams to gather and refine software requirements.\n\nLead coding efforts for specific modules or features.\n\nTroubleshoot and resolve complex software issues.\n\nParticipate in code reviews and enforce coding standards.\n\nContribute to architectural decisions and design discussions\n\nQualifications\n\n7+ years of experience in native iOS and/or Android development.\n\nProficiency in native iOS and/or Android programming languages (Objective-C, Swift, Java, Kotlin).\n\nStrong understanding of mobile development methodologies and best practices.\n\nProblem-solving, debugging, and troubleshooting skills.\n\nExcellent teamwork and communication abilities.\n\nBenefits: Cognizant offers the following benefits for this position, subject to applicable eligibility requirements:\n\n· Medical/Dental/Vision/Life Insurance\n\n· Paid holidays plus Paid Time Off\n\n· Long-term/Short-term Disability\n\n· Paid Parental Leave\n\n· Employee Stock Purchase Plan\n\nDisclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable law.\n\nTravel: 0-5%\n\nWhy Choose Cognizant?\n\nIt takes a lot to succeed in today’s fast-paced market, and Cognizant Technology Solutions has become a leader in the industry. We love big ideas and even bigger dreams! We stand out because we put human experiences at the core. Our associates enjoy robust benefits and training opportunities from our industry-recognized, award-winning Academy team. You will have access to hundreds of technical trainings to keep your skillsets fresh and have opportunities to acquire certifications on the newest technologies.\n\nEverything we do at Cognizant we do with passion—for our clients (fortune 100 companies), our communities, and our organization. It’s the defining attribute that we look for in our people.\n\nIf you love ambiguity, excited by change, and excel through autonomy, we’d love to hear from you!\n\nAbout Cognizant Digital Engineering\n\nWell-designed software transcends digital technology, going beyond the fulfillment of basic requirements to focus instead on human needs. Within Cognizant Digital Engineering, we help clients develop software products that transform human insights into tangible, production-ready digital solutions. We also work with our clients to scale their native cloud applications. Using insights from the lived experiences of our consumers, we seamlessly replace traditional service strategies with engaging, precise, and direct digital applications. Designing phenomenal software is vital to success in the digital economy—and we understand that a human-centric approach is key to this design.\n\nwww.cognizant.com\n\nNASDAQ: CTSH\n\n#LI-VB1\n\nCognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.",
     "job_is_remote": false,
     "job_posted_at": "4 days ago",
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Lansing, MI",
-    "job_city": "Lansing",
-    "job_state": "Michigan",
+    "job_location": "St Paul, MN",
+    "job_city": "St Paul",
+    "job_state": "Minnesota",
     "job_country": "US",
-    "job_latitude": 42.733599299999995,
-    "job_longitude": -84.55386639999999,
+    "job_latitude": 44.953702899999996,
+    "job_longitude": -93.0899578,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dkd7v1_mcH_mD0NRDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dz7chO2YeYGqrb_0bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -1464,11 +1542,12 @@
     "job_highlights": {
       "Qualifications": [
         "You must be legally authorized to work in United States without the need for employer sponsorship, now or at any time in the future",
-        "4+ years of experience in native iOS and/or Android development",
+        "7+ years of experience in native iOS and/or Android development",
         "Proficiency in native iOS and/or Android programming languages (Objective-C, Swift, Java, Kotlin)",
         "Strong understanding of mobile development methodologies and best practices",
         "Problem-solving, debugging, and troubleshooting skills",
-        "Excellent teamwork and communication abilities"
+        "Excellent teamwork and communication abilities",
+        "Designing phenomenal software is vital to success in the digital economy—and we understand that a human-centric approach is key to this design"
       ],
       "Benefits": [
         "Medical/Dental/Vision/Life Insurance",
@@ -1486,12 +1565,13 @@
         "Lead coding efforts for specific modules or features",
         "Troubleshoot and resolve complex software issues",
         "Participate in code reviews and enforce coding standards",
-        "Contribute to architectural decisions and design discussions"
+        "Contribute to architectural decisions and design discussions",
+        "Cognizant reserves the right to modify this information at any time, subject to applicable law"
       ]
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "jobs-vetjobs-org-lansing-mi-senior-android-developer-remote-6d614ecdc46f424d939fdbf6f3012fc5-job",
+    "id": "jobs-vetjobs-org-saint-paul-mn-lead-android-developer-remote-2f929cd5c3314a67b36b619672be25a7-job",
     "_source": "new_jobs"
   },
   {
@@ -1585,22 +1665,22 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "z7chO2YeYGqrb_0bAAAAAA==",
+    "job_id": "PpHuH_rd-YiDXqiOAAAAAA==",
     "job_title": "Lead Android Developer (Remote)",
     "employer_name": "Cognizant",
     "employer_logo": null,
     "employer_website": "https://www.cognizant.com",
-    "job_publisher": "Jobs | VetJobs",
+    "job_publisher": "| USNLX Veterans Jobs - National Labor Exchange",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobs.vetjobs.org/saint-paul-mn/lead-android-developer-remote/2F929CD5C3314A67B36B619672BE25A7/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://veterans.usnlx.com/salem-or/lead-android-developer-remote/10CEF092482544EAABB9BFC409A8E819/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Jobs | VetJobs",
-        "apply_link": "https://jobs.vetjobs.org/saint-paul-mn/lead-android-developer-remote/2F929CD5C3314A67B36B619672BE25A7/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "| USNLX Veterans Jobs - National Labor Exchange",
+        "apply_link": "https://veterans.usnlx.com/salem-or/lead-android-developer-remote/10CEF092482544EAABB9BFC409A8E819/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -1609,18 +1689,18 @@
     "job_posted_at": "4 days ago",
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "St Paul, MN",
-    "job_city": "St Paul",
-    "job_state": "Minnesota",
+    "job_location": "Salem, OR",
+    "job_city": "Salem",
+    "job_state": "Oregon",
     "job_country": "US",
-    "job_latitude": 44.953702899999996,
-    "job_longitude": -93.0899578,
+    "job_latitude": 44.9362411,
+    "job_longitude": -123.0407496,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dz7chO2YeYGqrb_0bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPpHuH_rd-YiDXqiOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -1657,7 +1737,105 @@
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "jobs-vetjobs-org-saint-paul-mn-lead-android-developer-remote-2f929cd5c3314a67b36b619672be25a7-job",
+    "id": "veterans-usnlx-com-salem-or-lead-android-developer-remote-10cef092482544eaabb9bfc409a8e819-job",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "smqicOtU5Im09KU3AAAAAA==",
+    "job_title": "Senior Software Engineer- Android (Kotlin, MVVM)",
+    "employer_name": "Walmart",
+    "employer_logo": null,
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior-Software-Engineer-Android-(Kotlin,-MVVM)/-in-Cupertino,CA?jid=f60df3f133105fbb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior-Software-Engineer-Android-(Kotlin,-MVVM)/-in-Cupertino,CA?jid=f60df3f133105fbb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...About Team On the Membership Experience Engineering team at Walmart, we provide technology to power shopping journeys that help hundreds of millions of customers live better – be it busy families getting groceries easily, new parents welcoming a new baby, organizing a new home or anyone planning a fun party. We strive to create the best shopping experience anywhere anytime, meeting customers’ evolving needs and expectations.\n\nWalmart+ is pioneering the way people experience online and in-store shopping. We are looking for an experienced engineering leader to help us design and improve customer membership experience and build scalable platforms on mobile devices. We are just getting started on membership experience and this is a very critical role to shape the face of Walmart+.\n\nWhat You'll Do:\n• Troubleshoot business and production issues for mobile devices by reviewing and analyzing information (for example, issue, impact, criticality, possible root cause, etc.); then engaging support teams to assist in the resolution of found issues. Upon issue resolution, perform a root cause analysis across multiple mobile devices to prevent future occurrence.\n• Develop innovative mobile technology solutions and strategies to support business objectives by collaborating with cross-functional business partners; developing assessments of key opportunities; benchmarking and analyzing industry best practices; forecasting for future technologies; driving high-priority initiatives; identifying and implementing solutions; communicating with and influencing decision-makers and executives within the organization; influencing the industry to adopt sustainable solutions; and defining software development guidelines, standards, and processes.\n• Collaborate with cross-functional teams to determine project requirements; translating requirements into mobile solutions for multiple operating systems (for example, iPhone, Android); gathering requested information (for example, design documents, product requirements, wire frames); writing and developing code (for example, Java/Kotlin) that can be applied to multiple types of mobile devices; developing user interface solutions; conducting testing to ensure solution is functional; communicating project status and roadblocks to team members and stakeholders; determining solutions to issues; enhancing design to prevent reoccurrence of defects across multiple devices; ensuring on-time delivery; and collaborating with project managers to provide guidance on project implementation plan.\n• Remove barriers and obstacles that impact performance; providing resources; identifying performance standards; measuring progress and adjusting performance; developing contingency plans; and demonstrating adaptability and supporting continuous learning.\n• Promote and supports company policies, procedures, mission, values, and standards of ethics and integrity by training and providing direction to others in their use and application; ensuring compliance with them; and utilizing and supporting the Open-Door Policy.\n• Ensure business needs are being met by evaluating the ongoing effectiveness of current plans, programs, and initiatives; consulting with business partners, managers, co-workers, or other key stakeholders; soliciting, evaluating, and applying suggestions for improving efficiency and cost- effectiveness; and participating in and supporting community outreach events.\n\nRequirements\n• BS/MS degree in Computer Science, Engineering or a related subject\n• 6+ years of professional experience in various elements of software development – native mobile, web front end, back end, and hands-on coding experience in the past\n• Experience with a consumer facing app and ecommerce or retail shopping\n• Hands-on experience building scalable backend systems and platforms\n• Previous knowledge of Designing and developing advanced applications for the Android platform\n• Collaborate with cross-functional teams to define, design, and ship new features\n• Proven software development experience and Android skills development\n• Experience translating wireframes into pixel-perfect views\n• Knowledgeable about animation and screen transitions\n• Have published at least one original Android app\n• Experience with Android SDK, Services, and various methods of background processing\n• Experience working with remote data via REST, JSON, Google Cloud Messaging, and the HTTP protocol\n• Experience with Google Play APIs: Maps, Location, and Cloud Messaging\n• Experience with third-party libraries and APIs\n• Experience with analysis of memory issues such as memory leaks using memory analyzers tools (DDMS, MAT)\n• Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies\n• Solid understanding of the full mobile development life cycle and writing readable, maintainable, performant object-oriented code\n• Experience working with Kotlin, Coroutines, MVVM, MVVM Clean, View Models, Repository Design pattern, and other architectures\n• Experience working with an orchestration Layer and GraphQL\nAbout Walmart Global Tech\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. That’s what we do at Walmart Global Tech. We’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing - unique styles, experiences, identities, ideas and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $117,000.00 - $234,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1345 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Cupertino, CA",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.322997799999996,
+    "job_longitude": -122.03218229999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsmqicOtU5Im09KU3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 117000,
+    "job_max_salary": 234000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "BS/MS degree in Computer Science, Engineering or a related subject",
+        "6+ years of professional experience in various elements of software development – native mobile, web front end, back end, and hands-on coding experience in the past",
+        "Experience with a consumer facing app and ecommerce or retail shopping",
+        "Hands-on experience building scalable backend systems and platforms",
+        "Previous knowledge of Designing and developing advanced applications for the Android platform",
+        "Proven software development experience and Android skills development",
+        "Experience translating wireframes into pixel-perfect views",
+        "Knowledgeable about animation and screen transitions",
+        "Have published at least one original Android app",
+        "Experience with Android SDK, Services, and various methods of background processing",
+        "Experience working with remote data via REST, JSON, Google Cloud Messaging, and the HTTP protocol",
+        "Experience with Google Play APIs: Maps, Location, and Cloud Messaging",
+        "Experience with third-party libraries and APIs",
+        "Experience with analysis of memory issues such as memory leaks using memory analyzers tools (DDMS, MAT)",
+        "Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies",
+        "Solid understanding of the full mobile development life cycle and writing readable, maintainable, performant object-oriented code",
+        "Experience working with Kotlin, Coroutines, MVVM, MVVM Clean, View Models, Repository Design pattern, and other architectures",
+        "Experience working with an orchestration Layer and GraphQL",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
+        "Option 2: 5 years’ experience in software engineering or related area",
+        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $117,000.00 - $234,000.00 Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
+      ],
+      "Responsibilities": [
+        "Troubleshoot business and production issues for mobile devices by reviewing and analyzing information (for example, issue, impact, criticality, possible root cause, etc.); then engaging support teams to assist in the resolution of found issues",
+        "Upon issue resolution, perform a root cause analysis across multiple mobile devices to prevent future occurrence",
+        "Develop innovative mobile technology solutions and strategies to support business objectives by collaborating with cross-functional business partners; developing assessments of key opportunities; benchmarking and analyzing industry best practices; forecasting for future technologies; driving high-priority initiatives; identifying and implementing solutions; communicating with and influencing decision-makers and executives within the organization; influencing the industry to adopt sustainable solutions; and defining software development guidelines, standards, and processes",
+        "Collaborate with cross-functional teams to determine project requirements; translating requirements into mobile solutions for multiple operating systems (for example, iPhone, Android); gathering requested information (for example, design documents, product requirements, wire frames); writing and developing code (for example, Java/Kotlin) that can be applied to multiple types of mobile devices; developing user interface solutions; conducting testing to ensure solution is functional; communicating project status and roadblocks to team members and stakeholders; determining solutions to issues; enhancing design to prevent reoccurrence of defects across multiple devices; ensuring on-time delivery; and collaborating with project managers to provide guidance on project implementation plan",
+        "Remove barriers and obstacles that impact performance; providing resources; identifying performance standards; measuring progress and adjusting performance; developing contingency plans; and demonstrating adaptability and supporting continuous learning",
+        "Promote and supports company policies, procedures, mission, values, and standards of ethics and integrity by training and providing direction to others in their use and application; ensuring compliance with them; and utilizing and supporting the Open-Door Policy",
+        "Ensure business needs are being met by evaluating the ongoing effectiveness of current plans, programs, and initiatives; consulting with business partners, managers, co-workers, or other key stakeholders; soliciting, evaluating, and applying suggestions for improving efficiency and cost- effectiveness; and participating in and supporting community outreach events",
+        "Collaborate with cross-functional teams to define, design, and ship new features"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-senior-software-engineer-android-kotlin-mvvm-in-cupertino-ca",
     "_source": "new_jobs"
   },
   {
@@ -1692,9 +1870,9 @@
     "job_latitude": 37.4323341,
     "job_longitude": -121.8995741,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDE5O_oE_gUy_sm8IAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 117000,
@@ -2018,8 +2196,8 @@
     "job_latitude": 37.322997799999996,
     "job_longitude": -122.03218229999999,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4uMYYzcRy5SeFdN4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -2076,92 +2254,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-walmart-job-senior-software-engineer-android-in-cupertino-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "gJ5EWpGPjLdLLaf-AAAAAA==",
-    "job_title": "Android Developer at TrueSkilla Washington DC",
-    "employer_name": "TrueSkilla",
-    "employer_logo": null,
-    "employer_website": "https://trueskilla.com",
-    "job_publisher": "Aeh.ma",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://aeh.ma/list/job/android-developer-at-trueskilla-washington-dc-eDgxeis0S2dEZFg2bGF4cERGK01telU2Y2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Aeh.ma",
-        "apply_link": "https://aeh.ma/list/job/android-developer-at-trueskilla-washington-dc-eDgxeis0S2dEZFg2bGF4cERGK01telU2Y2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Selfbuild Live - Selfbuild.ie",
-        "apply_link": "https://live.selfbuild.ie/career/job/drupal-developer-at-conviso-inc-washington-dc-TDU3RndSQUFBNE4yakNSZytvL1BpUWtvT1E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lindependentraval.cat",
-        "apply_link": "https://lindependentraval.cat/vacancy/job/drupal-developer-at-conviso-inc-washington-dc-NCtMM3ZFQzgrdHhMcjhlU2U4eUYza1A5OHc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "The Avon Inn",
-        "apply_link": "https://avoninnny.com/list/job/front-end-developer-at-dexian-washington-dc-SnVQNHRZOXo4RytPTTd2dWtJNkhRR2ZLMWc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Labroche Funeraire",
-        "apply_link": "https://labroche-funeraire.fr/job-listing/job/unity-developer-at-qualitest-acq-washington-dc-VjJISUxPYnFHMEVTNVpUbFYyMUhnZGh2emc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Keith A Brown Consulting",
-        "apply_link": "https://keithabrownconsulting.com/joblib/job/drupal-developer-at-metaphase-consulting-washington-dc-eUxmS1FrbU9xQlYxdkdMbC9MY1QwdWEwVXc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Thrife",
-        "apply_link": "https://thrife.com/jobs/job/sharepoint-developer-at-prisminccom-washington-dc-YjJ6bEFPZXpYQnlkMG9RVVBTVEtYdGpBR2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Cadde Marina",
-        "apply_link": "https://www.caddemarina.nl/job-listing/job/entry-level-java-developer-at-jobrightai-washington-dc-blZWVFd6SU5IWFZSVE42VTVnRkxSa25KK2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Android Developer job at TrueSkilla. Washington DC.\n\nAndroid Developer\n\nLocation: Redmond, WA (100% onsite)\n\nHands-on candidates who are comfortable taking a coding test.\n\nWork Auth: GC or USC only\n\nJob Description\n\nBASIC QUALIFICATIONS\n\n• 4+ years experience in professional, non-internship software development\n\n• Android mobile application development experience in Kotlin\n\n• Experience in full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience\n\nPREFERRED QUALIFICATIONS\n\n• Bachelor's degree in computer science or equivalent\n\n• Experience in Compose Multiplatform or other cross-platform mobile development\n\n• iOS mobile application development experience in Swift\n\n• Experience with deployments to the Play Store",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "District of Columbia",
-    "job_city": "Washington",
-    "job_state": "District of Columbia",
-    "job_country": "US",
-    "job_latitude": 38.9072873,
-    "job_longitude": -77.0369274,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgJ5EWpGPjLdLLaf-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Hands-on candidates who are comfortable taking a coding test",
-        "Work Auth: GC or USC only",
-        "4+ years experience in professional, non-internship software development",
-        "Android mobile application development experience in Kotlin",
-        "Experience in full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "aeh-ma-list-job-android-developer-at-trueskilla-washington-dc-edgxeis0s2dezfg2bgf4cergk01telu2y2c9pq",
     "_source": "new_jobs"
   }
 ]
