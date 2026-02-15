@@ -1,124 +1,5 @@
 [
   {
-    "job_id": "khB7u81dzoTHJY5pAAAAAA==",
-    "job_title": "Frontend Engineer — Design Systems (Remote)",
-    "employer_name": "WebstaurantStore",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fX0ybzHsaGrEbDYQDPnWdL8ZMM3V2VyoYcDo&s=0",
-    "employer_website": "https://www.webstaurantstore.com",
-    "job_publisher": "Webstaurant Store",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.webstaurantstore.com/careers/department/development/47121/99730/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Webstaurant Store",
-        "apply_link": "https://www.webstaurantstore.com/careers/department/development/47121/99730/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Ascend.mysmartpros",
-        "apply_link": "https://ascend.mysmartpros.com/job/1279389?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jooble",
-        "apply_link": "https://jooble.org/jdp/-5192799062071088221?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/e0d48a6951e7167520bb8e01ee2157dc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Remotejob",
-        "apply_link": "https://remotejob.bsebexam.org.in/frontend-engineer-design-systems-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Remotely WFH Jobs",
-        "apply_link": "https://wfhsync.web1337.net/frontend-engineer-design-systems-remote/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WFH Jobs In USA",
-        "apply_link": "https://remotehiring.my-style.in/job/frontend-engineer-design-systems-remote/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Current Affairs Adda -",
-        "apply_link": "https://jobnews.currentaffairsadda22.com/frontend-engineer-design-systems-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Summary\n\nWe're looking for an experienced Design Systems Frontend Engineer who gets it. You have a deep understanding of design system philosophy and systematic approaches. You know what works, what doesn't, and why. You care about the craft of UI engineering, the difference between something that works and something that feels polished.\n\nYou'll combine deep technical expertise with a passion for enabling others through well-crafted tools and systems. You'll build components that other engineers love using, establish patterns that scale across our codebase, and drive technical direction in UI architecture. You'll collaborate with cross-functional teams to ensure our components don't just work; they feel right. And you'll build relationships and help drive adoption through tools, documentation, and collaboration.\nRemote Work Qualifications\n• Access to a reliable and secure high-speed internet connection. Cable or fiber internet connections (at least 75mbps download/10mbps upload) are preferred, as satellite connections often cannot support the technologies used to perform day-to-day tasks.\n• Access to a home router and modem.\n• A dedicated home office space that is noise- and distraction-free. The space should have strong wireless connection or a wired Ethernet connection (wired connection is preferred, if possible).\n• A valid, physical address (apartment, suite, etc.). PO Boxes are not supported, as a physical address is required for you to receive your computer equipment.\n• The desire and ability to work and communicate with other team members via chat, webcam, etc.\n• Legal residents of one of the following states: (AK, AL, AR, AZ, CT, DE, FL, GA, IA, ID, IN, KS, KY, LA, MD, ME, MI, MN, MO, MS, NC, ND, NH, NM, NV, OH, OK, PA, SC, SD, TN, TX, UT, VA, VT, WI, WV, and WY).\n\nWe only accept W-2 candidates, H-1B sponsorship is not available.\nResponsibilities\n• Build and maintain our design system: Drive technical implementation of component APIs, accessibility standards, and architectural patterns that scale across our codebase with exceptional developer experience.\n• Implement design token architecture: Establish and maintain design token systems across platforms and codebases for consistency and scalability.\n• Create comprehensive developer resources: Develop component documentation, developer tooling, and Storybook resources that enable effective team adoption.\n• Partner with design and product teams: Collaborate cross-functionally to ensure components meet requirements while building strong relationships and understanding workflows.\n• Represent technical excellence: Maintain attention to detail in implementations, advocate for quality standards, and notice when designs or code need refinement.\n• Drive adoption and stakeholder communication: Lead technical discussions and presentations across the organization while providing ongoing support to consuming teams.\nPhysical Requirements\n• Work is performed while sitting/standing and interfacing with a personal computer.\n• Requires the ability to communicate effectively using speech, vision, and hearing.\n• Requires the regular use of hands for simple grasping and fine manipulations.\n• Requires occasional bending, squatting, crawling, climbing, and reaching.\n• Requires the ability to occasionally lift, carry, push, or pull medium weights, up to 50lbs.\nQualifications\nExperience\n• 5+ years' experience: Demonstrated experience building and maintaining design system components in production environments.\n• Component API expertise: Strong understanding of systematic approaches to component architecture, composition patterns, and well-crafted APIs.\n• Frontend proficiency: Deep experience with React, TypeScript, HTML/CSS, design tokens, cross-platform theming systems, and related technologies.\n• Design collaboration experience: Proven experience working with design teams using Figma workflows and design-to-development processes.\n• Documentation and communication: Ability to write clear documentation and effectively communicate technical concepts across teams.\n• Accessibility standards: Experience with WCAG/ARIA standards and building accessible components\n• Modern development tooling: Comfortable with testing frameworks, Storybook or similar documentation tools, and contemporary frontend build processes.\nEducation\n\nThis role does not require a degree. We value relevant skills and experience and alignment with our core values above all else.\nDesired Traits & Skills\n• Active engagement with design system community and industry best practices.\n• Familiarity with Tailwind CSS (used in surrounding codebase).\n• Experience with React Native or cross-platform design systems.\n• Contributions to open-source design systems or component libraries.\n• Experience building internal tooling for design-to-code workflows.\n• Knowledge of animation and micro-interaction implementation.\n\nOne Part of the Bigger Picture\n\nWebstaurantStore’s parent company, Clark Associates, has made the Central Penn Business Journal’s list of “Top 50 Fastest Growing Companies” in Pennsylvania for 9 years in a row. The base of Clark’s success comes from four key directives: Hiring great people, creating value for customers, and investing in employees and their communities. These pillars drive each of Clark Associates’ multi-million-dollar businesses forward, including WebstaurantStore and other industry-leading names like 11400, Clark Food Service Equipment, The Restaurant Store, and Clark National Accounts.\n\nAre You Ready?\n\nEntrepreneurial Spirit is the driving force behind WebstaurantStore’s work environment. Making things better for our customers is our goal every single day. Achieving that goal means taking risks, accepting failure, and learning from our mistakes. If that sounds like a mission you’re ready to be a part of, we’d love to discuss this role with you further, and we’re excited to meet you!\n\nNever heard of us? That’s okay! We love sharing our stories.\n• WebstaurantStore | About Us\n• Video Message from Leadership\n• Clark Associates Timeline [Parent Company]\n\nCheck us out on:\n• LinkedIn\n• Instagram\n• Facebook\n• YouTube\n• TikTok\n• Pinterest\n• X/Twitter",
-    "job_is_remote": true,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Lititz, PA",
-    "job_city": "Lititz",
-    "job_state": "Pennsylvania",
-    "job_country": "US",
-    "job_latitude": 40.1573169,
-    "job_longitude": -76.3069014,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkhB7u81dzoTHJY5pAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "You have a deep understanding of design system philosophy and systematic approaches",
-        "You care about the craft of UI engineering, the difference between something that works and something that feels polished",
-        "Access to a reliable and secure high-speed internet connection",
-        "PO Boxes are not supported, as a physical address is required for you to receive your computer equipment",
-        "The desire and ability to work and communicate with other team members via chat, webcam, etc",
-        "Legal residents of one of the following states: (AK, AL, AR, AZ, CT, DE, FL, GA, IA, ID, IN, KS, KY, LA, MD, ME, MI, MN, MO, MS, NC, ND, NH, NM, NV, OH, OK, PA, SC, SD, TN, TX, UT, VA, VT, WI, WV, and WY)",
-        "We only accept W-2 candidates, H-1B sponsorship is not available",
-        "Work is performed while sitting/standing and interfacing with a personal computer",
-        "Requires the ability to communicate effectively using speech, vision, and hearing",
-        "Requires the regular use of hands for simple grasping and fine manipulations",
-        "Requires occasional bending, squatting, crawling, climbing, and reaching",
-        "Requires the ability to occasionally lift, carry, push, or pull medium weights, up to 50lbs",
-        "5+ years' experience: Demonstrated experience building and maintaining design system components in production environments",
-        "Component API expertise: Strong understanding of systematic approaches to component architecture, composition patterns, and well-crafted APIs",
-        "Frontend proficiency: Deep experience with React, TypeScript, HTML/CSS, design tokens, cross-platform theming systems, and related technologies",
-        "Design collaboration experience: Proven experience working with design teams using Figma workflows and design-to-development processes",
-        "Documentation and communication: Ability to write clear documentation and effectively communicate technical concepts across teams",
-        "Accessibility standards: Experience with WCAG/ARIA standards and building accessible components",
-        "Modern development tooling: Comfortable with testing frameworks, Storybook or similar documentation tools, and contemporary frontend build processes",
-        "This role does not require a degree",
-        "We value relevant skills and experience and alignment with our core values above all else"
-      ],
-      "Benefits": [
-        "Video Message from Leadership",
-        "Clark Associates Timeline [Parent Company]"
-      ],
-      "Responsibilities": [
-        "You'll combine deep technical expertise with a passion for enabling others through well-crafted tools and systems",
-        "You'll build components that other engineers love using, establish patterns that scale across our codebase, and drive technical direction in UI architecture",
-        "You'll collaborate with cross-functional teams to ensure our components don't just work; they feel right",
-        "And you'll build relationships and help drive adoption through tools, documentation, and collaboration",
-        "Access to a home router and modem",
-        "Build and maintain our design system: Drive technical implementation of component APIs, accessibility standards, and architectural patterns that scale across our codebase with exceptional developer experience",
-        "Implement design token architecture: Establish and maintain design token systems across platforms and codebases for consistency and scalability",
-        "Create comprehensive developer resources: Develop component documentation, developer tooling, and Storybook resources that enable effective team adoption",
-        "Partner with design and product teams: Collaborate cross-functionally to ensure components meet requirements while building strong relationships and understanding workflows",
-        "Represent technical excellence: Maintain attention to detail in implementations, advocate for quality standards, and notice when designs or code need refinement",
-        "Drive adoption and stakeholder communication: Lead technical discussions and presentations across the organization while providing ongoing support to consuming teams"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-webstaurantstore-com-careers-department-development-47121-99730",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "PtQbdcY0X44HyyEHAAAAAA==",
     "job_title": "Front End Software Engineer - Senior Level",
     "employer_name": "Walmart",
@@ -146,9 +27,9 @@
     ],
     "job_description": "Position Summary...\n\nWhat you'll do... As a part of Walmart Global Tech, you’ll build industry defining reusable customer and partner facing services and products to lead differentiated experiences and revenue. You will be in the unique position to be of service to both our customers (1P as well as 3P) and our associates as a member of this organization supporting all segments of Walmart. If you are the type of person who feels a personal stake in everything that you work on, has a love for data, enjoys solving complex problems, has a passion for privacy, knows how to foster strong relationships and build trust, and works for the success of the entire team.\n\nAbout Team:\nOur team works closely with our US stores and eCommerce business to better serve customers by empowering team members, stores, and merchants with technological innovation. From groceries and entertainment to sporting goods and crafts, Walmart U.S. offers an extensive selection that our customers value, whether they shop online at Walmart.com, through one of our mobile apps, or in-store. Focus areas include customers, stores and employees, in-store service, merchant tools, merchant data science, and search and personalization.\n\nWhat you'll do:\n• Design, build, and maintain high-performance front-end applications for our 1P and 3P customers.\n• Develop robust, maintainable, reusable code for managing functionality, configuration, deployment, monitoring, performance, scalability, availability, security, and alerting for software test, integration, and production environments.\n• Plan and implement a series of steps which potentially includes reconfiguration, integration, removal, or addition of application components to enhance the application's functionality, resiliency, usability, and security.\n• Understand the Business/Stakeholder/Technical requirements and assist in analyzing the existing solutions to address the needs. Assist in creation of simple, modular, extensible functional design for the product/solution in adherence to the requirements.\n• Assess gaps/ updates/ modifications between the customer/business expectations and the existing product/solutions.\n• Analyze defects from past projects/solutions to avoid recurrence of similar defects.\n• Analyze system performance impacting the complete product for non-functional requirements like reliability, operability, performance efficiency and security. Troubleshoot performance and availability bottlenecks for the application.\n• Develop, maintain, and enhance automated test cases (adopting Shift Left practice) and deployment procedures.\n• Follow coding and design best practices developed by the teams and contribute towards their continuous improvement.\n• Plan Hardware Capacity for high traffic business Events.\n• Design Build and maintain Observability aspects of application.\n• Review Peer Code and help create a culture of continuous improvements on the architecture.\n• Work with relevant stakeholders on launching AB tests for different functionalities getting rolled out.\n\nWhat you'll bring:\n• Experience in creating user interfaces using appropriate and relevant technologies (e.g., HTML 5 coding, CSS (Cascading Style Sheets) libraries like Bootstrap, etc.) using best practices and appropriate design patterns.\n• Relevant front end programming experience in relevant languages and frameworks (e.g., Java, Python, JavaScript, Spring, Node, React, Angular etc.)\n• Experience integrating with scalable back-end services (e.g., REST / graph-QL).\n• Experience in functional, integration and E2E (End 2 End) testing tools and practices.\n• Experience with code repositories and version control practices.\n• Experience with CI/CD pipelines and best practices. Automated deployment experience is a plus.\n• Experience in software quality and operational excellence practices.\n• Experience in agile development methodology.\n• Good analytical and problem-solving skills.\n\nAbout Walmart Global Tech\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. That’s what we do at Walmart Global Tech. We’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart an illustrious career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\n\nFlexible, hybrid work:\nWe use a hybrid way of working that is primarily in the office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.\n#WGTMPQ4\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\n‎\n\n‎\n\n‎\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\n‎\n\nFor information about PTO, see https://one.walmart.com/notices.\n\n‎\n\n‎\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\n‎\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\n‎\n\nFor information about benefits and eligibility, see One.Walmart.\n\n‎\nThe annual salary range for this position is $108,000.00-$216,000.00\n\n‎\nAdditional compensation includes annual or quarterly performance bonuses.\n\n‎\nAdditional compensation for certain positions may also include:\n\n‎\n\n‎\n- Stock\n\n‎\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.Option 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n10790 Parkridge Dr. Suite 200, Reston, VA 20191, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
     "job_is_remote": false,
-    "job_posted_at": "19 hours ago",
-    "job_posted_at_timestamp": 1771063200,
-    "job_posted_at_datetime_utc": "2026-02-14T10:00:00.000Z",
+    "job_posted_at": "20 hours ago",
+    "job_posted_at_timestamp": 1771059600,
+    "job_posted_at_datetime_utc": "2026-02-14T09:00:00.000Z",
     "job_location": "Silver Spring, MD",
     "job_city": "Silver Spring",
     "job_state": "Maryland",
@@ -346,6 +227,125 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "khB7u81dzoTHJY5pAAAAAA==",
+    "job_title": "Frontend Engineer — Design Systems (Remote)",
+    "employer_name": "WebstaurantStore",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fX0ybzHsaGrEbDYQDPnWdL8ZMM3V2VyoYcDo&s=0",
+    "employer_website": "https://www.webstaurantstore.com",
+    "job_publisher": "Webstaurant Store",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.webstaurantstore.com/careers/department/development/47121/99730/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Webstaurant Store",
+        "apply_link": "https://www.webstaurantstore.com/careers/department/development/47121/99730/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Ascend.mysmartpros",
+        "apply_link": "https://ascend.mysmartpros.com/job/1279389?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jooble",
+        "apply_link": "https://jooble.org/jdp/-5192799062071088221?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/e0d48a6951e7167520bb8e01ee2157dc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Remotejob",
+        "apply_link": "https://remotejob.bsebexam.org.in/frontend-engineer-design-systems-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Remotely WFH Jobs",
+        "apply_link": "https://wfhsync.web1337.net/frontend-engineer-design-systems-remote/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WFH Jobs In USA",
+        "apply_link": "https://remotehiring.my-style.in/job/frontend-engineer-design-systems-remote/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Current Affairs Adda -",
+        "apply_link": "https://jobnews.currentaffairsadda22.com/frontend-engineer-design-systems-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Summary\n\nWe're looking for an experienced Design Systems Frontend Engineer who gets it. You have a deep understanding of design system philosophy and systematic approaches. You know what works, what doesn't, and why. You care about the craft of UI engineering, the difference between something that works and something that feels polished.\n\nYou'll combine deep technical expertise with a passion for enabling others through well-crafted tools and systems. You'll build components that other engineers love using, establish patterns that scale across our codebase, and drive technical direction in UI architecture. You'll collaborate with cross-functional teams to ensure our components don't just work; they feel right. And you'll build relationships and help drive adoption through tools, documentation, and collaboration.\nRemote Work Qualifications\n• Access to a reliable and secure high-speed internet connection. Cable or fiber internet connections (at least 75mbps download/10mbps upload) are preferred, as satellite connections often cannot support the technologies used to perform day-to-day tasks.\n• Access to a home router and modem.\n• A dedicated home office space that is noise- and distraction-free. The space should have strong wireless connection or a wired Ethernet connection (wired connection is preferred, if possible).\n• A valid, physical address (apartment, suite, etc.). PO Boxes are not supported, as a physical address is required for you to receive your computer equipment.\n• The desire and ability to work and communicate with other team members via chat, webcam, etc.\n• Legal residents of one of the following states: (AK, AL, AR, AZ, CT, DE, FL, GA, IA, ID, IN, KS, KY, LA, MD, ME, MI, MN, MO, MS, NC, ND, NH, NM, NV, OH, OK, PA, SC, SD, TN, TX, UT, VA, VT, WI, WV, and WY).\n\nWe only accept W-2 candidates, H-1B sponsorship is not available.\nResponsibilities\n• Build and maintain our design system: Drive technical implementation of component APIs, accessibility standards, and architectural patterns that scale across our codebase with exceptional developer experience.\n• Implement design token architecture: Establish and maintain design token systems across platforms and codebases for consistency and scalability.\n• Create comprehensive developer resources: Develop component documentation, developer tooling, and Storybook resources that enable effective team adoption.\n• Partner with design and product teams: Collaborate cross-functionally to ensure components meet requirements while building strong relationships and understanding workflows.\n• Represent technical excellence: Maintain attention to detail in implementations, advocate for quality standards, and notice when designs or code need refinement.\n• Drive adoption and stakeholder communication: Lead technical discussions and presentations across the organization while providing ongoing support to consuming teams.\nPhysical Requirements\n• Work is performed while sitting/standing and interfacing with a personal computer.\n• Requires the ability to communicate effectively using speech, vision, and hearing.\n• Requires the regular use of hands for simple grasping and fine manipulations.\n• Requires occasional bending, squatting, crawling, climbing, and reaching.\n• Requires the ability to occasionally lift, carry, push, or pull medium weights, up to 50lbs.\nQualifications\nExperience\n• 5+ years' experience: Demonstrated experience building and maintaining design system components in production environments.\n• Component API expertise: Strong understanding of systematic approaches to component architecture, composition patterns, and well-crafted APIs.\n• Frontend proficiency: Deep experience with React, TypeScript, HTML/CSS, design tokens, cross-platform theming systems, and related technologies.\n• Design collaboration experience: Proven experience working with design teams using Figma workflows and design-to-development processes.\n• Documentation and communication: Ability to write clear documentation and effectively communicate technical concepts across teams.\n• Accessibility standards: Experience with WCAG/ARIA standards and building accessible components\n• Modern development tooling: Comfortable with testing frameworks, Storybook or similar documentation tools, and contemporary frontend build processes.\nEducation\n\nThis role does not require a degree. We value relevant skills and experience and alignment with our core values above all else.\nDesired Traits & Skills\n• Active engagement with design system community and industry best practices.\n• Familiarity with Tailwind CSS (used in surrounding codebase).\n• Experience with React Native or cross-platform design systems.\n• Contributions to open-source design systems or component libraries.\n• Experience building internal tooling for design-to-code workflows.\n• Knowledge of animation and micro-interaction implementation.\n\nOne Part of the Bigger Picture\n\nWebstaurantStore’s parent company, Clark Associates, has made the Central Penn Business Journal’s list of “Top 50 Fastest Growing Companies” in Pennsylvania for 9 years in a row. The base of Clark’s success comes from four key directives: Hiring great people, creating value for customers, and investing in employees and their communities. These pillars drive each of Clark Associates’ multi-million-dollar businesses forward, including WebstaurantStore and other industry-leading names like 11400, Clark Food Service Equipment, The Restaurant Store, and Clark National Accounts.\n\nAre You Ready?\n\nEntrepreneurial Spirit is the driving force behind WebstaurantStore’s work environment. Making things better for our customers is our goal every single day. Achieving that goal means taking risks, accepting failure, and learning from our mistakes. If that sounds like a mission you’re ready to be a part of, we’d love to discuss this role with you further, and we’re excited to meet you!\n\nNever heard of us? That’s okay! We love sharing our stories.\n• WebstaurantStore | About Us\n• Video Message from Leadership\n• Clark Associates Timeline [Parent Company]\n\nCheck us out on:\n• LinkedIn\n• Instagram\n• Facebook\n• YouTube\n• TikTok\n• Pinterest\n• X/Twitter",
+    "job_is_remote": true,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Lititz, PA",
+    "job_city": "Lititz",
+    "job_state": "Pennsylvania",
+    "job_country": "US",
+    "job_latitude": 40.1573169,
+    "job_longitude": -76.3069014,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkhB7u81dzoTHJY5pAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "You have a deep understanding of design system philosophy and systematic approaches",
+        "You care about the craft of UI engineering, the difference between something that works and something that feels polished",
+        "Access to a reliable and secure high-speed internet connection",
+        "PO Boxes are not supported, as a physical address is required for you to receive your computer equipment",
+        "The desire and ability to work and communicate with other team members via chat, webcam, etc",
+        "Legal residents of one of the following states: (AK, AL, AR, AZ, CT, DE, FL, GA, IA, ID, IN, KS, KY, LA, MD, ME, MI, MN, MO, MS, NC, ND, NH, NM, NV, OH, OK, PA, SC, SD, TN, TX, UT, VA, VT, WI, WV, and WY)",
+        "We only accept W-2 candidates, H-1B sponsorship is not available",
+        "Work is performed while sitting/standing and interfacing with a personal computer",
+        "Requires the ability to communicate effectively using speech, vision, and hearing",
+        "Requires the regular use of hands for simple grasping and fine manipulations",
+        "Requires occasional bending, squatting, crawling, climbing, and reaching",
+        "Requires the ability to occasionally lift, carry, push, or pull medium weights, up to 50lbs",
+        "5+ years' experience: Demonstrated experience building and maintaining design system components in production environments",
+        "Component API expertise: Strong understanding of systematic approaches to component architecture, composition patterns, and well-crafted APIs",
+        "Frontend proficiency: Deep experience with React, TypeScript, HTML/CSS, design tokens, cross-platform theming systems, and related technologies",
+        "Design collaboration experience: Proven experience working with design teams using Figma workflows and design-to-development processes",
+        "Documentation and communication: Ability to write clear documentation and effectively communicate technical concepts across teams",
+        "Accessibility standards: Experience with WCAG/ARIA standards and building accessible components",
+        "Modern development tooling: Comfortable with testing frameworks, Storybook or similar documentation tools, and contemporary frontend build processes",
+        "This role does not require a degree",
+        "We value relevant skills and experience and alignment with our core values above all else"
+      ],
+      "Benefits": [
+        "Video Message from Leadership",
+        "Clark Associates Timeline [Parent Company]"
+      ],
+      "Responsibilities": [
+        "You'll combine deep technical expertise with a passion for enabling others through well-crafted tools and systems",
+        "You'll build components that other engineers love using, establish patterns that scale across our codebase, and drive technical direction in UI architecture",
+        "You'll collaborate with cross-functional teams to ensure our components don't just work; they feel right",
+        "And you'll build relationships and help drive adoption through tools, documentation, and collaboration",
+        "Access to a home router and modem",
+        "Build and maintain our design system: Drive technical implementation of component APIs, accessibility standards, and architectural patterns that scale across our codebase with exceptional developer experience",
+        "Implement design token architecture: Establish and maintain design token systems across platforms and codebases for consistency and scalability",
+        "Create comprehensive developer resources: Develop component documentation, developer tooling, and Storybook resources that enable effective team adoption",
+        "Partner with design and product teams: Collaborate cross-functionally to ensure components meet requirements while building strong relationships and understanding workflows",
+        "Represent technical excellence: Maintain attention to detail in implementations, advocate for quality standards, and notice when designs or code need refinement",
+        "Drive adoption and stakeholder communication: Lead technical discussions and presentations across the organization while providing ongoing support to consuming teams"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-webstaurantstore-com-careers-department-development-47121-99730",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "Se1slHeX9lcao7yZAAAAAA==",
     "job_title": "Principal Front End Engineer",
     "employer_name": "Fidelity Investments Careers",
@@ -478,8 +478,8 @@
     "job_latitude": 37.322997799999996,
     "job_longitude": -122.03218229999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeoAtAp0WDXhzLST0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -540,7 +540,7 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "kTMBrHusmUN3x0EHAAAAAA==",
+    "job_id": "KqUn80MI0P8kKrb9AAAAAA==",
     "job_title": "Senior, Software Engineer (Front End)",
     "employer_name": "Walmart",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
@@ -550,12 +550,47 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior,-Software-Engineer-(Front-End)/-in-Hayward,CA?jid=a062b77fbbffc3b1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior,-Software-Engineer-(Front-End)/-in-Sunnyvale,CA?jid=ad8b0a3b672f6d04&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": true,
     "apply_options": [
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior,-Software-Engineer-(Front-End)/-in-Hayward,CA?jid=a062b77fbbffc3b1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior,-Software-Engineer-(Front-End)/-in-Sunnyvale,CA?jid=ad8b0a3b672f6d04&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-software-engineer-front-end-walmart-JV_IC1147442_KO0,34_KE35,42.htm?jl=1009859669033&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=a7b09e181e9fb7da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "EarnBetter",
+        "apply_link": "https://earnbetter.com/app/job/01KA00RNE6XEK7H3P7WFPX03RG/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-software-engineer-front-end-at-walmart-4337460176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/23ba4347-2f92-42df-b949-ba3f323efee6?page=8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs",
+        "apply_link": "https://walmart.dejobs.org/sunnyvale-ca/senior-software-engineer-front-end/E8CFAC77078E4DD5A1D3ECA46D1019CA/job/?vs=0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs2Careers",
+        "apply_link": "https://www.jobs2careers.com/r/job/34828984496?c1=108&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       }
     ],
@@ -564,18 +599,18 @@
     "job_posted_at": "4 days ago",
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Hayward, CA",
-    "job_city": "Hayward",
+    "job_location": "Sunnyvale, CA",
+    "job_city": "Sunnyvale",
     "job_state": "California",
     "job_country": "US",
-    "job_latitude": 37.6687665,
-    "job_longitude": -122.08099639999999,
+    "job_latitude": 37.368829999999996,
+    "job_longitude": -122.0363496,
     "job_benefits": [
       "health_insurance",
       "dental_coverage",
       "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkTMBrHusmUN3x0EHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKqUn80MI0P8kKrb9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 117000,
     "job_max_salary": 234000,
     "job_salary_period": "YEAR",
@@ -656,111 +691,110 @@
     },
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-walmart-job-senior-software-engineer-front-end-in-hayward-ca",
+    "id": "www-ziprecruiter-com-c-walmart-job-senior-software-engineer-front-end-in-sunnyvale-ca",
     "_source": "new_jobs"
   },
   {
-    "job_id": "U9nmryLSJAR0Vjk1AAAAAA==",
-    "job_title": "Front End Engineer - US - San Francisco (Hybrid)",
-    "employer_name": "HomeVision",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIjq9CDWY9nrZtAP5quY-ILIT6BRd8NHnEAWu&s=0",
-    "employer_website": "https://homevision.co",
-    "job_publisher": "Built In San Francisco",
+    "job_id": "4qz3kHih5rcw4UQDAAAAAA==",
+    "job_title": "Senior Software Engineer, Front End",
+    "employer_name": "Capital One",
+    "employer_logo": null,
+    "employer_website": "https://www.capitalone.com",
+    "job_publisher": "Built In Chicago",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.builtinsf.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.builtinchicago.org/job/senior-software-engineer-front-end/8415674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Built In San Francisco",
-        "apply_link": "https://www.builtinsf.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Built In Chicago",
+        "apply_link": "https://www.builtinchicago.org/job/senior-software-engineer-front-end/8415674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/HomeVision/Job/Front-End-Engineer-US-San-Francisco-(Hybrid)/-in-San-Francisco,CA?jid=76984ccb2665aa3c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/lead-software-engineer-front-end-bangkok-based-relocation-provided-at-agoda-4299773447?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Experteer",
+        "apply_link": "https://www.experteer.es/career/view-jobs/senior-software-engineer-front-end-chicago-il-usa-56046542?signup_hook=lo_job_title&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "JobzMall",
-        "apply_link": "https://www.jobzmall.com/salesforce/job/lead-software-engineer-front-end-infrastructure?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.jobzmall.com/capital-one/job/senior-software-engineer-front-end-angular?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-software-engineer-front-end-at-capital-one-4369634702?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/front-end-engineer-us-san-francisco-hybrid_f160af4d-8407-4de5-a3c4-1fd78c785936?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.tealhq.com/job/senior-software-engineer-front-end_d54d563b-4a86-4cee-aeaa-0e57bac0dcba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/0a09497d1362ddb5c7378f715c0da2a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/68c3f8e214bb275ce0190379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://jobright.ai/jobs/info/6984eac68da7a612045f35d1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/web-development?id=2455131335&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.whatjobs.com/jobs/software-engineer?id=2446522767&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "At HomeVision, we’re enabling the home valuation and appraisal industry to efficiently value a $40 trillion asset class, bringing equity and transparency to the US housing market. We’re funded by Initialized Capital and seeing good traction and revenue growth. We are looking for a talented Frontend Engineer to help evolve our products and delight our customers.\n\nStrong empathy for our end users and an ability to think holistically about the product are essential to succeed in this role.\n\nWhat you’ll do:\n\nYou’ll work on a modern React/Typescript and Golang stack, building workflow automation products for our core user base of home appraisal professionals.\n\nHomeVision engineers are empowered to work on the entire product, not just a specific layer of the stack. This could range from productionizing a valuation model to optimizing customer onboarding to building frontend data visualizations that communicate results in a humane, intuitive way.\n\nWhat you’ll bring:\n• Strong experience in full-stack development on both backend and frontend systems and frameworks.\n• Proven working experience in Unix/Linux environments and on distributed systems\n• Ability to learn and master new programming languages and technologies.\n\nBonus points:\n• Experience in one or more of the following technologies: Go, Python, React/Typescript, Elasticsearch, and Docker.\n• Experience in scientific and numerical computing (e.g., numpy, scipy, scikit-learn, tensorflow, pytorch, jupyter) considered a plus.\n\nWhat we'll offer you:\n• A competitive salary and a meaningful equity package\n• Medical, Dental, and Vision coverage\n• 401k\n• Paternity/maternity leave\n• Flexible vacation policy\n• A high degree of autonomy and ownership of your work\n• Support for your professional goals and learning within and beyond the company, through your manager and peers",
+    "job_description": "Senior Software Engineer, Front End\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Front End Software Engineers who are passionate about using cutting-edge open source frameworks with emerging technologies. As a Capital One Software Engineer, you'll have the opportunity to be on the forefront of driving a major transformation within Capital One.\nWhat You'll Do:\n• Work with a team of developers with deep experience in distributed microservices and full stack systems\n• Perform software development on Front End Applications leveraging a test-driven development pattern\n• Own the technical design and development of cross-functional, multi-platform application systems\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, and mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like JavaScript (Angular, React, Node), HTML/CSS, TypeScript and Java, open source frameworks, RESTful web services, and work on cross-browser and cross-device development\n\nBasic Qualifications:\n• Bachelor's Degree\n• At least 3 years of professional software engineering experience (Internship experience does not apply)\n\nPreferred Qualifications:\n• 5+ years of experience in at least one of the following: JavaScript, React, Angular, Node, TypeScript, or Java\n• 1+ years of experience with AWS, GCP, Azure, or another cloud service\n• 3+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-2, E-3, L-1 and O-1, or any EADs or other forms of work authorization that require immigration support from an employer).\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\nChicago, IL: $147,100 - $167,900 for Senior Software Engineer\nMcLean, VA: $161,800 - $184,600 for Senior Software Engineer\nRichmond, VA: $147,100 - $167,900 for Senior Software Engineer\nRiverwoods, IL: $147,100 - $167,900 for Senior Software Engineer\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate's offer letter.\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\nThis role is expected to accept applications for a minimum of 5 business days.\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City's Fair Chance Act; Philadelphia's Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "San Francisco, CA",
-    "job_city": "San Francisco",
-    "job_state": "California",
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "McLean, VA",
+    "job_city": "McLean",
+    "job_state": "Virginia",
     "job_country": "US",
-    "job_latitude": 37.7749295,
-    "job_longitude": -122.4194155,
+    "job_latitude": 38.9338676,
+    "job_longitude": -77.1772604,
     "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DU9nmryLSJAR0Vjk1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4qz3kHih5rcw4UQDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 147000,
+    "job_max_salary": 185000,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Strong empathy for our end users and an ability to think holistically about the product are essential to succeed in this role",
-        "Strong experience in full-stack development on both backend and frontend systems and frameworks",
-        "Proven working experience in Unix/Linux environments and on distributed systems",
-        "Ability to learn and master new programming languages and technologies",
-        "Experience in one or more of the following technologies: Go, Python, React/Typescript, Elasticsearch, and Docker"
+        "Bachelor's Degree",
+        "At least 3 years of professional software engineering experience (Internship experience does not apply)",
+        "At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-2, E-3, L-1 and O-1, or any EADs or other forms of work authorization that require immigration support from an employer)",
+        "McLean, VA: $161,800 - $184,600 for Senior Software Engineer"
       ],
       "Benefits": [
-        "A competitive salary and a meaningful equity package",
-        "Medical, Dental, and Vision coverage",
-        "401k",
-        "Paternity/maternity leave",
-        "Flexible vacation policy",
-        "A high degree of autonomy and ownership of your work",
-        "Support for your professional goals and learning within and beyond the company, through your manager and peers"
+        "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+        "Chicago, IL: $147,100 - $167,900 for Senior Software Engineer",
+        "Richmond, VA: $147,100 - $167,900 for Senior Software Engineer",
+        "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate's offer letter",
+        "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+        "Incentives could be discretionary or non discretionary depending on the plan",
+        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
       ],
       "Responsibilities": [
-        "You’ll work on a modern React/Typescript and Golang stack, building workflow automation products for our core user base of home appraisal professionals",
-        "HomeVision engineers are empowered to work on the entire product, not just a specific layer of the stack",
-        "This could range from productionizing a valuation model to optimizing customer onboarding to building frontend data visualizations that communicate results in a humane, intuitive way"
+        "Work with a team of developers with deep experience in distributed microservices and full stack systems",
+        "Perform software development on Front End Applications leveraging a test-driven development pattern",
+        "Own the technical design and development of cross-functional, multi-platform application systems",
+        "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, and mentoring other members of the engineering community",
+        "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
+        "Utilize programming languages like JavaScript (Angular, React, Node), HTML/CSS, TypeScript and Java, open source frameworks, RESTful web services, and work on cross-browser and cross-device development"
       ]
     },
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
-    "id": "www-builtinsf-com-job-front-end-engineer-us-san-francisco-hybrid-7284394",
+    "id": "www-builtinchicago-org-job-senior-software-engineer-front-end-8415674",
     "_source": "new_jobs"
   },
   {
@@ -877,59 +911,107 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "9rrZqz54iysjaW7mAAAAAA==",
-    "job_title": "Frontend Engineer - Social Experience",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
+    "job_id": "U9nmryLSJAR0Vjk1AAAAAA==",
+    "job_title": "Front End Engineer - US - San Francisco (Hybrid)",
+    "employer_name": "HomeVision",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIjq9CDWY9nrZtAP5quY-ILIT6BRd8NHnEAWu&s=0",
+    "employer_website": "https://homevision.co",
+    "job_publisher": "Built In San Francisco",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=ab2e9d38f8d0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.builtinsf.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=ab2e9d38f8d0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Built In San Francisco",
+        "apply_link": "https://www.builtinsf.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/HomeVision/Job/Front-End-Engineer-US-San-Francisco-(Hybrid)/-in-San-Francisco,CA?jid=76984ccb2665aa3c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/lead-software-engineer-front-end-bangkok-based-relocation-provided-at-agoda-4299773447?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobzMall",
+        "apply_link": "https://www.jobzmall.com/salesforce/job/lead-software-engineer-front-end-infrastructure?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/front-end-engineer-us-san-francisco-hybrid_f160af4d-8407-4de5-a3c4-1fd78c785936?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/68c3f8e214bb275ce0190379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/web-development?id=2455131335&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A company is looking for an Engineer II - Social Experience.\n\nKey Responsibilities\n\nDevelop, implement, and maintain new features within the client using Unity / C#\n\nEnhance social systems and build UI / UX for community interaction features\n\nCollaborate with product managers and designers to translate vision into functional code\n\nRequired Qualifications\n\n2-5+ years of professional software development experience, preferably in game development or social platforms\n\nProficiency in C# and strong knowledge of the Unity game engine\n\nExperience with client-side development for social features or consumer-facing applications\n\nSolid understanding of object-oriented programming principles and software design patterns\n\nFamiliarity with version control systems (e.g., Git)",
+    "job_description": "At HomeVision, we’re enabling the home valuation and appraisal industry to efficiently value a $40 trillion asset class, bringing equity and transparency to the US housing market. We’re funded by Initialized Capital and seeing good traction and revenue growth. We are looking for a talented Frontend Engineer to help evolve our products and delight our customers.\n\nStrong empathy for our end users and an ability to think holistically about the product are essential to succeed in this role.\n\nWhat you’ll do:\n\nYou’ll work on a modern React/Typescript and Golang stack, building workflow automation products for our core user base of home appraisal professionals.\n\nHomeVision engineers are empowered to work on the entire product, not just a specific layer of the stack. This could range from productionizing a valuation model to optimizing customer onboarding to building frontend data visualizations that communicate results in a humane, intuitive way.\n\nWhat you’ll bring:\n• Strong experience in full-stack development on both backend and frontend systems and frameworks.\n• Proven working experience in Unix/Linux environments and on distributed systems\n• Ability to learn and master new programming languages and technologies.\n\nBonus points:\n• Experience in one or more of the following technologies: Go, Python, React/Typescript, Elasticsearch, and Docker.\n• Experience in scientific and numerical computing (e.g., numpy, scipy, scikit-learn, tensorflow, pytorch, jupyter) considered a plus.\n\nWhat we'll offer you:\n• A competitive salary and a meaningful equity package\n• Medical, Dental, and Vision coverage\n• 401k\n• Paternity/maternity leave\n• Flexible vacation policy\n• A high degree of autonomy and ownership of your work\n• Support for your professional goals and learning within and beyond the company, through your manager and peers",
     "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Sugar Land, TX",
-    "job_city": "Sugar Land",
-    "job_state": "Texas",
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "San Francisco, CA",
+    "job_city": "San Francisco",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 29.598443399999997,
-    "job_longitude": -95.6225521,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9rrZqz54iysjaW7mAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 37.7749295,
+    "job_longitude": -122.4194155,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DU9nmryLSJAR0Vjk1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "2-5+ years of professional software development experience, preferably in game development or social platforms",
-        "Proficiency in C# and strong knowledge of the Unity game engine",
-        "Experience with client-side development for social features or consumer-facing applications",
-        "Solid understanding of object-oriented programming principles and software design patterns",
-        "Familiarity with version control systems (e.g., Git)"
+        "Strong empathy for our end users and an ability to think holistically about the product are essential to succeed in this role",
+        "Strong experience in full-stack development on both backend and frontend systems and frameworks",
+        "Proven working experience in Unix/Linux environments and on distributed systems",
+        "Ability to learn and master new programming languages and technologies",
+        "Experience in one or more of the following technologies: Go, Python, React/Typescript, Elasticsearch, and Docker"
+      ],
+      "Benefits": [
+        "A competitive salary and a meaningful equity package",
+        "Medical, Dental, and Vision coverage",
+        "401k",
+        "Paternity/maternity leave",
+        "Flexible vacation policy",
+        "A high degree of autonomy and ownership of your work",
+        "Support for your professional goals and learning within and beyond the company, through your manager and peers"
       ],
       "Responsibilities": [
-        "Develop, implement, and maintain new features within the client using Unity / C#",
-        "Enhance social systems and build UI / UX for community interaction features",
-        "Collaborate with product managers and designers to translate vision into functional code"
+        "You’ll work on a modern React/Typescript and Golang stack, building workflow automation products for our core user base of home appraisal professionals",
+        "HomeVision engineers are empowered to work on the entire product, not just a specific layer of the stack",
+        "This could range from productionizing a valuation model to optimizing customer onboarding to building frontend data visualizations that communicate results in a humane, intuitive way"
       ]
     },
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
+    "id": "www-builtinsf-com-job-front-end-engineer-us-san-francisco-hybrid-7284394",
     "_source": "new_jobs"
   },
   {
@@ -1161,109 +1243,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "4qz3kHih5rcw4UQDAAAAAA==",
-    "job_title": "Senior Software Engineer, Front End",
-    "employer_name": "Capital One",
-    "employer_logo": null,
-    "employer_website": "https://www.capitalone.com",
-    "job_publisher": "Built In Chicago",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.builtinchicago.org/job/senior-software-engineer-front-end/8415674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Built In Chicago",
-        "apply_link": "https://www.builtinchicago.org/job/senior-software-engineer-front-end/8415674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Experteer",
-        "apply_link": "https://www.experteer.es/career/view-jobs/senior-software-engineer-front-end-chicago-il-usa-56046542?signup_hook=lo_job_title&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JobzMall",
-        "apply_link": "https://www.jobzmall.com/capital-one/job/senior-software-engineer-front-end-angular?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-software-engineer-front-end-at-capital-one-4369634702?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/senior-software-engineer-front-end_d54d563b-4a86-4cee-aeaa-0e57bac0dcba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/0a09497d1362ddb5c7378f715c0da2a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6984eac68da7a612045f35d1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/software-engineer?id=2446522767&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Senior Software Engineer, Front End\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Front End Software Engineers who are passionate about using cutting-edge open source frameworks with emerging technologies. As a Capital One Software Engineer, you'll have the opportunity to be on the forefront of driving a major transformation within Capital One.\nWhat You'll Do:\n• Work with a team of developers with deep experience in distributed microservices and full stack systems\n• Perform software development on Front End Applications leveraging a test-driven development pattern\n• Own the technical design and development of cross-functional, multi-platform application systems\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, and mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like JavaScript (Angular, React, Node), HTML/CSS, TypeScript and Java, open source frameworks, RESTful web services, and work on cross-browser and cross-device development\n\nBasic Qualifications:\n• Bachelor's Degree\n• At least 3 years of professional software engineering experience (Internship experience does not apply)\n\nPreferred Qualifications:\n• 5+ years of experience in at least one of the following: JavaScript, React, Angular, Node, TypeScript, or Java\n• 1+ years of experience with AWS, GCP, Azure, or another cloud service\n• 3+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-2, E-3, L-1 and O-1, or any EADs or other forms of work authorization that require immigration support from an employer).\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\nChicago, IL: $147,100 - $167,900 for Senior Software Engineer\nMcLean, VA: $161,800 - $184,600 for Senior Software Engineer\nRichmond, VA: $147,100 - $167,900 for Senior Software Engineer\nRiverwoods, IL: $147,100 - $167,900 for Senior Software Engineer\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate's offer letter.\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\nThis role is expected to accept applications for a minimum of 5 business days.\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City's Fair Chance Act; Philadelphia's Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
-    "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "McLean, VA",
-    "job_city": "McLean",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 38.9338676,
-    "job_longitude": -77.1772604,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4qz3kHih5rcw4UQDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 147000,
-    "job_max_salary": 185000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's Degree",
-        "At least 3 years of professional software engineering experience (Internship experience does not apply)",
-        "At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-2, E-3, L-1 and O-1, or any EADs or other forms of work authorization that require immigration support from an employer)",
-        "McLean, VA: $161,800 - $184,600 for Senior Software Engineer"
-      ],
-      "Benefits": [
-        "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
-        "Chicago, IL: $147,100 - $167,900 for Senior Software Engineer",
-        "Richmond, VA: $147,100 - $167,900 for Senior Software Engineer",
-        "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate's offer letter",
-        "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
-        "Incentives could be discretionary or non discretionary depending on the plan",
-        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
-      ],
-      "Responsibilities": [
-        "Work with a team of developers with deep experience in distributed microservices and full stack systems",
-        "Perform software development on Front End Applications leveraging a test-driven development pattern",
-        "Own the technical design and development of cross-functional, multi-platform application systems",
-        "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, and mentoring other members of the engineering community",
-        "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
-        "Utilize programming languages like JavaScript (Angular, React, Node), HTML/CSS, TypeScript and Java, open source frameworks, RESTful web services, and work on cross-browser and cross-device development"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-builtinchicago-org-job-senior-software-engineer-front-end-8415674",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "n0A6sgsp_ebUTJEPAAAAAA==",
     "job_title": "(Senior) Front-End Engineer (m/f/x)",
     "employer_name": "K15t",
@@ -1475,9 +1454,9 @@
     "job_latitude": 45.253783,
     "job_longitude": -69.4454689,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSA87imlhAXnxK35XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1595,8 +1574,8 @@
     "job_latitude": 38.794595199999996,
     "job_longitude": -106.5348379,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzW5QiUNEGLucIA41AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1716,123 +1695,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "5BJfVXZ_PJYwEIgbAAAAAA==",
-    "job_title": "Full-Stack (Front-End Focused) Software Engineer (Level 3 or 4)",
-    "employer_name": "Northrop Grumman",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0guZ8n1kKZ_nu4eaicJ4PROiwjA-BfwwxOY7w&s=0",
-    "employer_website": "https://www.northropgrumman.com",
-    "job_publisher": "Jobs At Northrop Grumman",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.northropgrumman.com/careers/job/1340069554507-full-stack-front-end-focused-software-engineer-level-3-or-4--united-states-california-manhattan-beach?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobs At Northrop Grumman",
-        "apply_link": "https://jobs.northropgrumman.com/careers/job/1340069554507-full-stack-front-end-focused-software-engineer-level-3-or-4--united-states-california-manhattan-beach?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=dbd67867a26ca97c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/full-stack-front-end-focused-software-engineer-level-3-or-4-northrop-grumman-JV_IC1163714_KO0,59_KE60,76.htm?jl=1010022107430&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs | Northrop Grumman",
-        "apply_link": "https://northropgrumman.jobs/manhattan-beach-ca/full-stack-front-end-focused-software-engineer-level-3-or-4/D0308A36889E48FB877CF5A8FA3529FD/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Northrop-Grumman/Job/Full-Stack-(Front-End-Focused)-Software-Engineer-(Level-3-or-4)/-in-Manhattan-Beach,CA?jid=0a8f226736b2cc23&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Space Crew",
-        "apply_link": "https://spacecrew.com/space-jobs/ml6a31i3-northrop-grumman-full-stack-front-end-focused-software-engineer-level-3-or-4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ClearedJobs.Net",
-        "apply_link": "https://clearedjobs.net/job/full-stack-front-end-focused-software-engineer-level-3-or-4-manhattan-beach-california-1851548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Hispanic Today",
-        "apply_link": "https://hispanic-today.com/manhattan-beach-ca/full-stack-front-end-focused-software-engineer-level-3-or-4/D0308A36889E48FB877CF5A8FA3529FD/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "RELOCATION ASSISTANCE: Relocation assistance may be available\n\nCLEARANCE TYPE: Top Secret\n\nTRAVEL: Yes, 10% of the Time\n\nDescription\n\nAt Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.\n\nExpand your horizons, advance your career, and contribute to a secure future for generations. Northrop Grumman’s Space Sector invites you to bring your pioneering spirit to our collaborative teams. As a Full-Stack (Front-End Focused) Software Engineer (Level 3 or 4) located in Manhattan Beach, CA, you’ll be a linchpin in missions of paramount importance, defining the art of the possible from day one.\n\nThe Western Region Software Engineering organization comprises over 600 highly skilled professionals, including Software Engineers, DevOps Engineers, Database Administrators, and Network Engineers, at all levels—ranging from early-career engineers to senior chief engineers and architects. This engineering organization supports numerous programs, and we have plenty of opportunities for career advancement into higher level technical roles or leadership positions. Our culture promotes cross-program collaboration, continuous professional development, and a strong sense of community. We offer a variety of engagement opportunities such as lunch-and-learns, career development events, and networking mixers to grow your career while fostering inclusion and teamwork.\n\nThe Full-Stack (Front-End Focused) Software Engineer will support a critical national security mission involving both development and operational components. The team is composed of software developers organized into Agile Scrum teams led by Product Owners and Scrum Masters. Many of our programs are agile, fast-paced, high-performing, proactive, and collaborative, fostering an environment that welcomes new ideas, technologies, and tools to benefit the mission, increase productivity, or enhance product quality.\n\nThe selected candidate will be responsible for identifying and proposing improvement ideas related to technology, processes, architecture, or tooling. Ideal candidates are fast learners who can quickly familiarize themselves with existing codebases. Additionally, the Full-Stack Software Engineer will provide support for integration, testing, deployment, and operations and maintenance (O&M) defect resolution in a secure facility on a part-time basis. This ensures that all team members gain insight into the entire software lifecycle and develop a deep understanding of the full program mission.\n\nBasic Qualifications – Principal Full-Stack Software Engineer:\n• Bachelor’s degree in a STEM (Science, Technology, Engineering, and Mathematics) discipline with 5+ years of software development experience; Master's degree in a STEM discipline with 3+ years of experience; or Ph.D. with 1+ years of experience\n• Active DoD Top Secret clearance required at the time of application, with the ability and willingness to obtain and maintain an SCI access and Counterintelligence Polygraph (CI-Poly)\n• Experience with Agile principles, processes, and tools\n• Hands-on experience developing front-end applications using two or more of the following: TypeScript, React, Lit, Node.js, or Angular\n• Strong proficiency in developing object-oriented applications in Java\n• Proven experience developing applications in a containerized architecture utilizing Docker and Kubernetes\n• Experience developing applications on a Linux/Unix operating system\n\nBasic Qualifications – Sr. Principal Full-Stack Software Engineer:\n• Bachelor’s degree in a STEM (Science, Technology, Engineering, and Mathematics) discipline with 8+ years of software development experience; Master's degree in a STEM discipline with 6+ years of experience; or Ph.D. with 4+ years of experience\n• Active DoD Top Secret clearance required at the time of application, with the ability and willingness to obtain and maintain an SCI access and Counterintelligence Polygraph (CI-Poly)\n• Experience with Agile principles, processes, and tools\n• Hands-on experience developing front-end applications using two or more of the following: TypeScript, React, Lit, Node.js, or Angular\n• Strong proficiency in developing object-oriented applications in Java\n• Proven experience developing applications in a containerized architecture utilizing Docker and Kubernetes\n• Experience developing applications on a Linux/Unix operating system\n\nPreferred Qualifications:\n• Bachelor’s degree in Computer Science or Software Engineering.\n• Active SCI access and previously completed Counterintelligence Polygraph (CI-Poly).\n• Previous engineering or software development experience in the space industry.\n• Strong ability to effectively communicate and present technical concepts to program management and customers.\n• Proven ability to write clear, detailed, and effective technical documentation.\n• Experience sharing knowledge, providing mentorship, and working in a collaborative team environment.\n• A minimum of 3 years of experience developing applications on Linux/Unix operating systems, including proficiency with OS commands and shell scripting.\n• Expertise in designing, analyzing, and troubleshooting large-scale distributed software systems.\n• Demonstrated ability to debug, optimize code, and automate routine tasks.\n• Active Security+ certification (or equivalent)\n\n#LI-DB1\n\nPrimary Level Salary Range: $114,000.00 - $171,000.00\n\nSecondary Level Salary Range: $142,200.00 - $213,400.00\n\nThe above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.\n\nDepending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.\n\nThe application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.\n\nNorthrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1769990400,
-    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
-    "job_location": "Manhattan Beach, CA",
-    "job_city": "Manhattan Beach",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 33.8881489,
-    "job_longitude": -118.4092903,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5BJfVXZ_PJYwEIgbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor’s degree in a STEM (Science, Technology, Engineering, and Mathematics) discipline with 5+ years of software development experience; Master's degree in a STEM discipline with 3+ years of experience; or Ph.D. with 1+ years of experience",
-        "Active DoD Top Secret clearance required at the time of application, with the ability and willingness to obtain and maintain an SCI access and Counterintelligence Polygraph (CI-Poly)",
-        "Experience with Agile principles, processes, and tools",
-        "Hands-on experience developing front-end applications using two or more of the following: TypeScript, React, Lit, Node.js, or Angular",
-        "Strong proficiency in developing object-oriented applications in Java",
-        "Proven experience developing applications in a containerized architecture utilizing Docker and Kubernetes",
-        "Experience developing applications on a Linux/Unix operating system",
-        "Basic Qualifications – Sr",
-        "Bachelor’s degree in a STEM (Science, Technology, Engineering, and Mathematics) discipline with 8+ years of software development experience; Master's degree in a STEM discipline with 6+ years of experience; or Ph.D. with 4+ years of experience",
-        "Active DoD Top Secret clearance required at the time of application, with the ability and willingness to obtain and maintain an SCI access and Counterintelligence Polygraph (CI-Poly)",
-        "Experience with Agile principles, processes, and tools",
-        "Hands-on experience developing front-end applications using two or more of the following: TypeScript, React, Lit, Node.js, or Angular",
-        "Strong proficiency in developing object-oriented applications in Java",
-        "Proven experience developing applications in a containerized architecture utilizing Docker and Kubernetes",
-        "Experience developing applications on a Linux/Unix operating system"
-      ],
-      "Benefits": [
-        "Primary Level Salary Range: $114,000.00 - $171,000.00",
-        "Secondary Level Salary Range: $142,200.00 - $213,400.00",
-        "The above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions",
-        "Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay",
-        "Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results",
-        "Employees in Vice President or Director positions may be eligible for Long Term Incentives",
-        "In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business"
-      ],
-      "Responsibilities": [
-        "TRAVEL: Yes, 10% of the Time",
-        "The Full-Stack (Front-End Focused) Software Engineer will support a critical national security mission involving both development and operational components",
-        "The selected candidate will be responsible for identifying and proposing improvement ideas related to technology, processes, architecture, or tooling",
-        "Ideal candidates are fast learners who can quickly familiarize themselves with existing codebases",
-        "Additionally, the Full-Stack Software Engineer will provide support for integration, testing, deployment, and operations and maintenance (O&M) defect resolution in a secure facility on a part-time basis",
-        "This ensures that all team members gain insight into the entire software lifecycle and develop a deep understanding of the full program mission"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "jobs-northropgrumman-com-careers-job-1340069554507-full-stack-front-end-focused-software-engineer-level-3-or-4-united-states-california-manhattan-beach",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "_jNjH0m8HPj6rm0eAAAAAA==",
     "job_title": "Senior Frontend Engineer (Discovery Applications), React",
     "employer_name": "Scribd",
@@ -1889,8 +1751,8 @@
     "job_latitude": 40.7605601,
     "job_longitude": -111.8881397,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_jNjH0m8HPj6rm0eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 146000,
@@ -1964,6 +1826,123 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "5BJfVXZ_PJYwEIgbAAAAAA==",
+    "job_title": "Full-Stack (Front-End Focused) Software Engineer (Level 3 or 4)",
+    "employer_name": "Northrop Grumman",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0guZ8n1kKZ_nu4eaicJ4PROiwjA-BfwwxOY7w&s=0",
+    "employer_website": "https://www.northropgrumman.com",
+    "job_publisher": "Jobs At Northrop Grumman",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.northropgrumman.com/careers/job/1340069554507-full-stack-front-end-focused-software-engineer-level-3-or-4--united-states-california-manhattan-beach?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobs At Northrop Grumman",
+        "apply_link": "https://jobs.northropgrumman.com/careers/job/1340069554507-full-stack-front-end-focused-software-engineer-level-3-or-4--united-states-california-manhattan-beach?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=dbd67867a26ca97c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/full-stack-front-end-focused-software-engineer-level-3-or-4-northrop-grumman-JV_IC1163714_KO0,59_KE60,76.htm?jl=1010022107430&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs | Northrop Grumman",
+        "apply_link": "https://northropgrumman.jobs/manhattan-beach-ca/full-stack-front-end-focused-software-engineer-level-3-or-4/D0308A36889E48FB877CF5A8FA3529FD/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Northrop-Grumman/Job/Full-Stack-(Front-End-Focused)-Software-Engineer-(Level-3-or-4)/-in-Manhattan-Beach,CA?jid=0a8f226736b2cc23&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Space Crew",
+        "apply_link": "https://spacecrew.com/space-jobs/ml6a31i3-northrop-grumman-full-stack-front-end-focused-software-engineer-level-3-or-4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ClearedJobs.Net",
+        "apply_link": "https://clearedjobs.net/job/full-stack-front-end-focused-software-engineer-level-3-or-4-manhattan-beach-california-1851548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hispanic Today",
+        "apply_link": "https://hispanic-today.com/manhattan-beach-ca/full-stack-front-end-focused-software-engineer-level-3-or-4/D0308A36889E48FB877CF5A8FA3529FD/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "RELOCATION ASSISTANCE: Relocation assistance may be available\n\nCLEARANCE TYPE: Top Secret\n\nTRAVEL: Yes, 10% of the Time\n\nDescription\n\nAt Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.\n\nExpand your horizons, advance your career, and contribute to a secure future for generations. Northrop Grumman’s Space Sector invites you to bring your pioneering spirit to our collaborative teams. As a Full-Stack (Front-End Focused) Software Engineer (Level 3 or 4) located in Manhattan Beach, CA, you’ll be a linchpin in missions of paramount importance, defining the art of the possible from day one.\n\nThe Western Region Software Engineering organization comprises over 600 highly skilled professionals, including Software Engineers, DevOps Engineers, Database Administrators, and Network Engineers, at all levels—ranging from early-career engineers to senior chief engineers and architects. This engineering organization supports numerous programs, and we have plenty of opportunities for career advancement into higher level technical roles or leadership positions. Our culture promotes cross-program collaboration, continuous professional development, and a strong sense of community. We offer a variety of engagement opportunities such as lunch-and-learns, career development events, and networking mixers to grow your career while fostering inclusion and teamwork.\n\nThe Full-Stack (Front-End Focused) Software Engineer will support a critical national security mission involving both development and operational components. The team is composed of software developers organized into Agile Scrum teams led by Product Owners and Scrum Masters. Many of our programs are agile, fast-paced, high-performing, proactive, and collaborative, fostering an environment that welcomes new ideas, technologies, and tools to benefit the mission, increase productivity, or enhance product quality.\n\nThe selected candidate will be responsible for identifying and proposing improvement ideas related to technology, processes, architecture, or tooling. Ideal candidates are fast learners who can quickly familiarize themselves with existing codebases. Additionally, the Full-Stack Software Engineer will provide support for integration, testing, deployment, and operations and maintenance (O&M) defect resolution in a secure facility on a part-time basis. This ensures that all team members gain insight into the entire software lifecycle and develop a deep understanding of the full program mission.\n\nBasic Qualifications – Principal Full-Stack Software Engineer:\n• Bachelor’s degree in a STEM (Science, Technology, Engineering, and Mathematics) discipline with 5+ years of software development experience; Master's degree in a STEM discipline with 3+ years of experience; or Ph.D. with 1+ years of experience\n• Active DoD Top Secret clearance required at the time of application, with the ability and willingness to obtain and maintain an SCI access and Counterintelligence Polygraph (CI-Poly)\n• Experience with Agile principles, processes, and tools\n• Hands-on experience developing front-end applications using two or more of the following: TypeScript, React, Lit, Node.js, or Angular\n• Strong proficiency in developing object-oriented applications in Java\n• Proven experience developing applications in a containerized architecture utilizing Docker and Kubernetes\n• Experience developing applications on a Linux/Unix operating system\n\nBasic Qualifications – Sr. Principal Full-Stack Software Engineer:\n• Bachelor’s degree in a STEM (Science, Technology, Engineering, and Mathematics) discipline with 8+ years of software development experience; Master's degree in a STEM discipline with 6+ years of experience; or Ph.D. with 4+ years of experience\n• Active DoD Top Secret clearance required at the time of application, with the ability and willingness to obtain and maintain an SCI access and Counterintelligence Polygraph (CI-Poly)\n• Experience with Agile principles, processes, and tools\n• Hands-on experience developing front-end applications using two or more of the following: TypeScript, React, Lit, Node.js, or Angular\n• Strong proficiency in developing object-oriented applications in Java\n• Proven experience developing applications in a containerized architecture utilizing Docker and Kubernetes\n• Experience developing applications on a Linux/Unix operating system\n\nPreferred Qualifications:\n• Bachelor’s degree in Computer Science or Software Engineering.\n• Active SCI access and previously completed Counterintelligence Polygraph (CI-Poly).\n• Previous engineering or software development experience in the space industry.\n• Strong ability to effectively communicate and present technical concepts to program management and customers.\n• Proven ability to write clear, detailed, and effective technical documentation.\n• Experience sharing knowledge, providing mentorship, and working in a collaborative team environment.\n• A minimum of 3 years of experience developing applications on Linux/Unix operating systems, including proficiency with OS commands and shell scripting.\n• Expertise in designing, analyzing, and troubleshooting large-scale distributed software systems.\n• Demonstrated ability to debug, optimize code, and automate routine tasks.\n• Active Security+ certification (or equivalent)\n\n#LI-DB1\n\nPrimary Level Salary Range: $114,000.00 - $171,000.00\n\nSecondary Level Salary Range: $142,200.00 - $213,400.00\n\nThe above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.\n\nDepending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.\n\nThe application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.\n\nNorthrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1769990400,
+    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
+    "job_location": "Manhattan Beach, CA",
+    "job_city": "Manhattan Beach",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 33.8881489,
+    "job_longitude": -118.4092903,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5BJfVXZ_PJYwEIgbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s degree in a STEM (Science, Technology, Engineering, and Mathematics) discipline with 5+ years of software development experience; Master's degree in a STEM discipline with 3+ years of experience; or Ph.D. with 1+ years of experience",
+        "Active DoD Top Secret clearance required at the time of application, with the ability and willingness to obtain and maintain an SCI access and Counterintelligence Polygraph (CI-Poly)",
+        "Experience with Agile principles, processes, and tools",
+        "Hands-on experience developing front-end applications using two or more of the following: TypeScript, React, Lit, Node.js, or Angular",
+        "Strong proficiency in developing object-oriented applications in Java",
+        "Proven experience developing applications in a containerized architecture utilizing Docker and Kubernetes",
+        "Experience developing applications on a Linux/Unix operating system",
+        "Basic Qualifications – Sr",
+        "Bachelor’s degree in a STEM (Science, Technology, Engineering, and Mathematics) discipline with 8+ years of software development experience; Master's degree in a STEM discipline with 6+ years of experience; or Ph.D. with 4+ years of experience",
+        "Active DoD Top Secret clearance required at the time of application, with the ability and willingness to obtain and maintain an SCI access and Counterintelligence Polygraph (CI-Poly)",
+        "Experience with Agile principles, processes, and tools",
+        "Hands-on experience developing front-end applications using two or more of the following: TypeScript, React, Lit, Node.js, or Angular",
+        "Strong proficiency in developing object-oriented applications in Java",
+        "Proven experience developing applications in a containerized architecture utilizing Docker and Kubernetes",
+        "Experience developing applications on a Linux/Unix operating system"
+      ],
+      "Benefits": [
+        "Primary Level Salary Range: $114,000.00 - $171,000.00",
+        "Secondary Level Salary Range: $142,200.00 - $213,400.00",
+        "The above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions",
+        "Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay",
+        "Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results",
+        "Employees in Vice President or Director positions may be eligible for Long Term Incentives",
+        "In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business"
+      ],
+      "Responsibilities": [
+        "TRAVEL: Yes, 10% of the Time",
+        "The Full-Stack (Front-End Focused) Software Engineer will support a critical national security mission involving both development and operational components",
+        "The selected candidate will be responsible for identifying and proposing improvement ideas related to technology, processes, architecture, or tooling",
+        "Ideal candidates are fast learners who can quickly familiarize themselves with existing codebases",
+        "Additionally, the Full-Stack Software Engineer will provide support for integration, testing, deployment, and operations and maintenance (O&M) defect resolution in a secure facility on a part-time basis",
+        "This ensures that all team members gain insight into the entire software lifecycle and develop a deep understanding of the full program mission"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "jobs-northropgrumman-com-careers-job-1340069554507-full-stack-front-end-focused-software-engineer-level-3-or-4-united-states-california-manhattan-beach",
     "_source": "new_jobs"
   },
   {
@@ -2176,8 +2155,8 @@
     "job_latitude": 47.6061389,
     "job_longitude": -122.33284809999999,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYB5iNUA5MrwGWMNeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -2348,8 +2327,8 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1-Yb4WJT_EmG2fJHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
