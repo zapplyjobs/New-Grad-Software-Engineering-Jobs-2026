@@ -222,9 +222,9 @@
     "job_latitude": 37.5407246,
     "job_longitude": -77.4360481,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Da4lPNfkyS3BWJVCqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -302,8 +302,8 @@
     "job_latitude": 36.174524399999996,
     "job_longitude": -94.13901369999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwNrchFY97489xYOiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -674,8 +674,8 @@
     "job_longitude": -122.03218229999999,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5fXZIcGBU5dCBFrrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 117000,
@@ -944,8 +944,8 @@
     "job_latitude": 42.4072107,
     "job_longitude": -71.3824374,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlEEV21NRzfnxBiIhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -991,7 +991,7 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "F6HYy1EItyrR1hQIAAAAAA==",
+    "job_id": "EXJqxF5Em5rIOhBSAAAAAA==",
     "job_title": "Senior iOS Developer",
     "employer_name": "Cognizant",
     "employer_logo": null,
@@ -1001,32 +1001,32 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/senior-ios-developer?id=2460757424&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.whatjobs.com/jobs/senior-ios-developer?id=2460991717&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/senior-ios-developer?id=2460757424&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.whatjobs.com/jobs/senior-ios-developer?id=2460991717&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
     "job_description": "**Senior iOS Developer - Description**\n• *About the Role**\nAs a **Senior iOS Developer** , you will play a key role in designing and delivering high‑quality, intuitive, and secure iOS mobile experiences. You will serve as a technical leader within the engineering team and collaborate closely with product partners, designers, and fellow developers to build scalable, user‑centric applications. Your expertise will help guide architectural decisions and elevate engineering best practices.\n• *In This Role, You Will:**\n+ Design, build, and test rich, interactive features for native iOS applications.\n+ Collaborate with cross‑functional teams to gather, clarify, and refine software requirements.\n+ **Lead development efforts** for complex components or features, ensuring quality, performance, and consistency.\n+ Troubleshoot and resolve advanced software issues throughout the development lifecycle.\n+ Participate in and often drive code reviews, upholding coding standards and best practices.\n+ **Contribute to and influence architectural discussions** and technical decision‑making.\n• *Work Model**\nWe strive to provide flexibility wherever possible. Based on this role's business requirements, this is a **remote position open to qualified applicants in Englewood, Colorado** . Regardless of your working arrangement, we promote a healthy work‑life balance through our wellbeing programs. Working arrangements are accurate as of the posting date and may change based on business, project, or team requirements. Any changes will be communicated transparently.\n• *Candidate must be legally authorized to work in the United States without the need for employer sponsorship, now or in the future.**\n• *Required Qualifications**\n+ **4+ years of experience in native iOS development** .\n+ Proficiency with **Swift and Objective‑C** .\n+ Strong debugging and problem‑solving capabilities.\n+ Excellent communication and collaboration skills.\n• *Preferred Qualifications (Nice to Have)**\n+ Experience building features for large‑scale or enterprise iOS applications.\n+ Strong understanding of iOS frameworks, UIKit/SwiftUI, mobile architecture patterns, and development best practices.\n+ Ability to contribute to technical design and **mentor junior developers** .\n• *Salary and Compensation**\nApplications will be accepted until **February 27, 2026** .\nThe annual salary for this position is **$65,000-$94,500** , depending on experience and qualifications. This position is also eligible for **Cognizant's discretionary annual incentive program** , based on performance and subject to applicable plan terms.\n• *Benefits**\n+ Medical, Dental, Vision, and Life Insurance\n+ Paid Holidays + Paid Time Off\n+ 401(k) Plan with Contributions\n+ Long‑term/Short‑term Disability\n+ Paid Parental Leave\n+ Employee Stock Purchase Plan\n• *Disclaimer**\nThe salary, compensation, and benefits information is accurate as of the posting date. Cognizant reserves the right to modify this information at any time, subject to applicable laws.\nCognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.",
     "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Albany, NY",
-    "job_city": "Albany",
-    "job_state": "New York",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Jefferson City, MO",
+    "job_city": "Jefferson City",
+    "job_state": "Missouri",
     "job_country": "US",
-    "job_latitude": 42.6518095,
-    "job_longitude": -73.7544707,
+    "job_latitude": 38.5767017,
+    "job_longitude": -92.1735164,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DF6HYy1EItyrR1hQIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEXJqxF5Em5rIOhBSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -1154,9 +1154,9 @@
     "job_latitude": 37.322997799999996,
     "job_longitude": -122.03218229999999,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpY5l4pQoFAuzRJkDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 143000,
@@ -1251,9 +1251,9 @@
     "job_latitude": 46.8041643,
     "job_longitude": -100.7877616,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLKHKuzFieaQPbhn4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1499,9 +1499,9 @@
     "job_latitude": 36.8652322,
     "job_longitude": -121.7349491,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DONaM3HOSWHCCsl6CAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1663,58 +1663,78 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "6TEg1DxzR9zLDdH4AAAAAA==",
-    "job_title": "Lead Mobile iOS Developer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
+    "job_id": "EFwdbRqcKyMoDZCeAAAAAA==",
+    "job_title": "Ios developer",
+    "employer_name": "Altro",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPilAHoufqJZIeXTTzrd3Rtz6D_xINE4KOZL7&s=0",
+    "employer_website": "https://www.altro.com",
+    "job_publisher": "Recruit.net",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=7040c4a3c355&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.recruit.net/job/ios-developer-jobs/CA9F83D6AF8E9956?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=7040c4a3c355&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Recruit.net",
+        "apply_link": "https://www.recruit.net/job/ios-developer-jobs/CA9F83D6AF8E9956?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A company is looking for a Lead Mobile (iOS) Developer (Remote).\n\nKey Responsibilities\n\nDesign, develop, review, deploy, and maintain iOS applications focusing on performance, security, and user experience\n\nMentor and lead a team of off-shore iOS and Android developers\n\nCollaborate with cross-functional teams to conceptualize, scope, and deliver new features and enhancements\n\nRequired Qualifications\n\nBachelor's degree in Computer Science, Software Engineering, or related field\n\nMinimum of 5 years of relevant experience in mobile application development\n\nStrong proficiency in Swift with experience in UIKit, SwiftUI, Core Data, and Combine frameworks\n\nExperience with Android development preferred, including Kotlin and Android SDK\n\nFamiliarity with Xcode, Interface Builder, and app lifecycle management",
+    "job_description": "OverviewWe’re looking for an innovative i OS Developer to join our team in Milan. You'd work with Developers and Designers to build advanced native applications for the Apple platforms, implement new features, set up web services and secure connections, and transform requirements into usable, media-rich experiences on i OS and Mac OS devices. Other tasks include developing tests, writing technical documents, and contributing new ideas for the products and the apps' user experiences.\nResponsibilitiesBuild advanced native applications for Apple platforms (i OS and mac OS).\nImplement new features and set up web services and secure connections.\nTransform requirements into usable, media-rich experiences.\nDevelop tests and write technical documents.\nContribute new ideas for products and user experiences.\nQualificationsAt least 4 years of work experience in i OS development.\nSolid understanding of the full mobile development life cycle.\nExcellent knowledge of Swift 6.1.\nProficiency in Swift UI.\nKnowledge of Combine framework.\nFamiliarity with mac OS development.\nKnowledge of SOLID principles and Design patterns.\nPrevious experience in TDD and animations is a plus.\nFluency in English (written and spoken).\nWho you arePassionate about web and mobile technology.\nEnthusiastic, fast learner, and a talented problem solver.\nAble to work on multiple projects, remotely and under pressure.\nExcellent communicator with good relational skills.\nBenefitsLearning Friday: training budget for books, online courses, or other materials.\nSmart Working: option to work from home to reduce commuting.\nSalary is based on experience, with bonuses; compensation reviewed as you contribute.\nWe offer a competitive salary, as well as an opportunity to receive company equity. The typical salary for this role ranges between €40,000 and €50,000. As you gain experience and contribute more to the business, your compensation will be reviewed to match your impact.\nAbout DomynDomyn is a company specializing in the research and development of Responsible AI for regulated industries, including financial services, government, and heavy industry. It supports enterprises with proprietary, fully governable solutions based on a composable AI architecture — including LLMs, AI agents, and one of the world's largest supercomputers. At the core of Domyn's product offer is a chip-to-frontend architecture that allows organizations to control the entire AI stack — from hardware to application — ensuring isolation, security, and governance throughout the AI lifecycle. Its foundational LLMs, Domyn Large and Domyn Small, are designed for advanced reasoning and optimized to understand each business's language, logic, and context. Provided under an open-enterprise license, these models can be fully transferred and owned by clients. Once deployed, they enable customizable agents that operate on proprietary data to solve complex, domain-specific problems. All solutions are managed via a unified platform with native tools for access management, traceability, and security. Powering it all, Colosseum — a supercomputer in development using NVIDIA Grace Blackwell Superchips — will train next-gen models exceeding 1 T parameters. Domyn partners with Microsoft, NVIDIA, and G42. Clients include Allianz, Intesa Sanpaolo, and Fincantieri.\nFor more information, please review our Privacy Policy here XAy1gj.\nSeniority levelMid-Senior level\nEmployment typeFull-time\nJob functionOther\nIndustriesIT Services and IT Consulting",
     "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Sarasota, FL",
-    "job_city": "Sarasota",
-    "job_state": "Florida",
+    "job_posted_at": "11 hours ago",
+    "job_posted_at_timestamp": 1771110000,
+    "job_posted_at_datetime_utc": "2026-02-14T23:00:00.000Z",
+    "job_location": "Milan, GA",
+    "job_city": "Milan",
+    "job_state": "Georgia",
     "job_country": "US",
-    "job_latitude": 27.336465,
-    "job_longitude": -82.5310117,
+    "job_latitude": 32.0173996,
+    "job_longitude": -83.0626489,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6TEg1DxzR9zLDdH4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEFwdbRqcKyMoDZCeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Bachelor's degree in Computer Science, Software Engineering, or related field",
-        "Minimum of 5 years of relevant experience in mobile application development",
-        "Strong proficiency in Swift with experience in UIKit, SwiftUI, Core Data, and Combine frameworks",
-        "Familiarity with Xcode, Interface Builder, and app lifecycle management"
+        "QualificationsAt least 4 years of work experience in i OS development",
+        "Solid understanding of the full mobile development life cycle",
+        "Excellent knowledge of Swift 6.1",
+        "Proficiency in Swift UI",
+        "Knowledge of Combine framework",
+        "Familiarity with mac OS development",
+        "Knowledge of SOLID principles and Design patterns",
+        "Fluency in English (written and spoken)",
+        "Passionate about web and mobile technology",
+        "Enthusiastic, fast learner, and a talented problem solver",
+        "Able to work on multiple projects, remotely and under pressure",
+        "Excellent communicator with good relational skills",
+        "BenefitsLearning Friday: training budget for books, online courses, or other materials"
+      ],
+      "Benefits": [
+        "Smart Working: option to work from home to reduce commuting",
+        "Salary is based on experience, with bonuses; compensation reviewed as you contribute",
+        "We offer a competitive salary, as well as an opportunity to receive company equity",
+        "The typical salary for this role ranges between €40,000 and €50,000",
+        "As you gain experience and contribute more to the business, your compensation will be reviewed to match your impact"
       ],
       "Responsibilities": [
-        "Design, develop, review, deploy, and maintain iOS applications focusing on performance, security, and user experience",
-        "Mentor and lead a team of off-shore iOS and Android developers",
-        "Collaborate with cross-functional teams to conceptualize, scope, and deliver new features and enhancements"
+        "You'd work with Developers and Designers to build advanced native applications for the Apple platforms, implement new features, set up web services and secure connections, and transform requirements into usable, media-rich experiences on i OS and Mac OS devices",
+        "Other tasks include developing tests, writing technical documents, and contributing new ideas for the products and the apps' user experiences",
+        "ResponsibilitiesBuild advanced native applications for Apple platforms (i OS and mac OS)",
+        "Implement new features and set up web services and secure connections",
+        "Transform requirements into usable, media-rich experiences",
+        "Develop tests and write technical documents",
+        "Contribute new ideas for products and user experiences"
       ]
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
+    "id": "www-recruit-net-job-ios-developer-jobs-ca9f83d6af8e9956",
     "_source": "new_jobs"
   }
 ]
