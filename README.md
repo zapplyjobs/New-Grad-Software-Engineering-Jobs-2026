@@ -9,16 +9,16 @@
 
 # Software Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building)
-![Mobile Developm](https://img.shields.io/badge/Mobile_Development-1-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-5-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
+![Backend](https://img.shields.io/badge/Backend-5-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 1+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 1+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 5+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 5+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,11 +69,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>📱 <strong>Mobile Development</strong> (1 positions)</h3></summary>
+<summary><h3>⚙️ <strong>Backend</strong> (5 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **TrueSkilla** | Android Developer at TrueSkilla ... | Washington, District of Columbia | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://aeh.ma/list/job/android-developer-at-trueskilla-washington-dc-eDgxeis0S2dEZFg2bGF4cERGK01telU2Y2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Tech3pillars Technologies** | React Developer at Tech3pillars ... | Massachusetts | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://live.selfbuild.ie/career/job/react-developer-at-tech3pillars-technologies-massachusetts-TDUvSHdoWUlCSVp4alNWcy9vTEloZ0VuT0E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **My3Tech** | ReactJS Developer | San Lorenzo, California | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.adzuna.com/details/5624937825?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Princeton IT Services** | Frontend Developer (React) | Princeton, New Jersey | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.dice.com/job-detail/e1f693f1-5b1c-4180-b8c7-16887805241a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Ringy** | Full-Stack React/Node.js Develop... | Denver, Colorado | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/full-stack-react-node-js-developer-on-site-at-ringy-4370454978?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Princeton IT Services, Inc** | Frontend Developer (React) | Princeton, New Jersey | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/frontend-developer-react-at-princeton-it-services-inc-4369775524?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -134,16 +138,23 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 0 positions
-- **🏢 Companies**: 1 companies
-- **🏷️ Top Category**: Software Engineering
+- **📁 Total Jobs**: 1 positions
+- **🏢 Companies**: 5 companies
+- **🏷️ Top Category**: Backend
+
+<details>
+<summary><h3>⚙️ <strong>Backend</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **OCIO Front Office** | Node-React Full Stack Web Applic... | Woodlawn, Maryland | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tech.usajobs.gov/job/855341900?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+
 
 </details>
 
@@ -153,7 +164,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1 current opportunities from 1 companies**
+**🎯 5 current opportunities from 5 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
