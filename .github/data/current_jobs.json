@@ -37,8 +37,8 @@
     "job_latitude": 38.9960671,
     "job_longitude": -77.0280731,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPiqRIRDhFKeZwzfSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -148,9 +148,9 @@
     "job_latitude": 38.9072873,
     "job_longitude": -77.0369274,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNNQNSuBTbU1kjLC0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 170000,
@@ -350,8 +350,8 @@
     "job_longitude": -77.0369274,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DioQJqZth8vQ3AyuFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -529,9 +529,9 @@
     "job_latitude": 38.9072873,
     "job_longitude": -77.0369274,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4jg_rPH6A5BLUMQPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -634,88 +634,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "jobgether-com-offer-698e70d90f33c87a10eae4e6-android-mobile-developer-latin-south-america",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "zLukbgeThHniZyzIAAAAAA==",
-    "job_title": "Android Application Developer - Profile & Device Management & Digital Key",
-    "employer_name": "Ford Global Career Site",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Oracle",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/59105/?trk=public_post_main-feed-card_reshare-text&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Oracle",
-        "apply_link": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/59105/?trk=public_post_main-feed-card_reshare-text&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=7d88c3c8ce617baf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Ford/Job/Android-Application-Developer-Profile-&-Device-Management-&-Digital-Key/-in-Palo-Alto,CA?jid=522cf5ea0d513d2b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/android-application-developer-profile-device-management-digital-key-at-ford-motor-company-4371664046?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SHPE Career Center",
-        "apply_link": "https://careercenter.shpe.org/job/android-application-developer-profile-device-management-digital-key/82457506/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/android-application-developer_7ea1a71e694101a7d27476a3afdd8bbb0739f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/a1WrhNP4_FYJYD2lPcRq9Cu6S4sd9jdeOpjFDvvFP-QXjn2TQlLjtQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698d44d50f6f7e7a2ce9174f?utm_source=1008&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "We are the movers of the world and the makers of the future. We get up every day, roll up our sleeves and build a better world -- together. At Ford, we’re all a part of something bigger than ourselves. Are you ready to change the way the world moves?\n\nFord’s Electric Vehicles, Digital and Design (EVDD) team is charged with delivering the company’s vision of a fully electric transportation future. EVDD is customer-obsessed, entrepreneurial, and data-driven and is dedicated to delivering industry-leading customer experience for electric vehicle buyers and owners. You’ll join an agile team of doers pioneering our EV future by working collaboratively, staying focused on only what matters, and delivering excellence day in and day out. Join us to make positive change by helping build a better world where every person is free to move and pursue their dreams.\n\nIn this position...\n\nThis position will focus on designing and implementing core components of the Android framework, enhancing the performance, reliability, and security of our IVI platform. The ideal candidate will possess a deep understanding of Android's architecture and will thrive in a collaborative environment.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Palo Alto, CA",
-    "job_city": "Palo Alto",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.4418834,
-    "job_longitude": -122.1430195,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzLukbgeThHniZyzIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate will possess a deep understanding of Android's architecture and will thrive in a collaborative environment"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "efds-fa-em5-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-job-59105",
     "_source": "new_jobs"
   },
   {
@@ -848,8 +766,8 @@
     "job_latitude": 42.279286,
     "job_longitude": -71.4161565,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFIQX3Dy7ca08CiHbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 29,
@@ -1187,8 +1105,8 @@
     "job_latitude": 40.2731911,
     "job_longitude": -76.8867008,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dg3eIXZxKVafTcX5DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1239,6 +1157,78 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "lsILcgciJt9oNXGnAAAAAA==",
+    "job_title": "Android Developer USC and GC's",
+    "employer_name": "Hudson Manpower",
+    "employer_logo": null,
+    "employer_website": "https://hudsonmanpower.com",
+    "job_publisher": "Learn4Good",
+    "job_employment_type": "Full-time and Contractor",
+    "job_employment_types": [
+      "FULLTIME",
+      "CONTRACTOR"
+    ],
+    "job_apply_link": "https://www.learn4good.com/jobs/anchorage/alaska/software_development/4871628459/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/anchorage/alaska/software_development/4871628459/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position: Android Developer (8-10 years of exp) - USC and GC's\n\nAndroid Developer\n\nLocation:\n\nUnited States (Relocate Anywhere—Willing)\n\nEmployment Type:\n\nContract / Contract to Hire / Full Time (W-2)\n\nExperience:\n\n8 to 10 years Citizenship: US Citizen / Green Card Only (No sponsorship)\nAbout the Role\n\nWe are seeking a passionate Android Developer to design, develop, test, and maintain mobile applications on the Android platform. You’ll collaborate with product owners and designers to build performant, user-friendly apps using modern Android technologies and best practices.\nKey Responsibilities\n• Build and maintain Android apps using Kotlin (Java where needed)\n• Collaborate cross-functionally with UX/UI, backend, QA, and product teams\n• Write clean, maintainable, and testable code\n• Contribute to architectural decisions and feature planning\n• Implement responsive UI based on design mockups\n• Debug and fix issues, optimize performance\n• Integrate REST APIs and third-party SDKs\n• Support app deployment and maintenance (Play Store)\n• Maintain documentation & adhere to SDLC standards\n• Stay updated on Android trends & best practices\nSkills & Qualifications Must-Have\n• 8-10 years Android development experience\n• Solid Kotlin skills (Java a plus)\n• Android Jetpack (View Model, Live Data, Navigation, Room, Work Manager)\n• REST APIs, JSON parsing\n• UI layouts with XML\n• Familiarity with Git\n• Good problem-solving & communication skills\nNice-to-Have\n• Experience with MVVM\n, Coroutines\n, Flow\n• Unit & UI testing (JUnit, Espresso)\n• CI/CD (Git Hub Actions, Bitrise, Circle\n\nCI)\n• Familiarity with agile workflows\n#J-18808-Ljbffr",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Anchorage, AK",
+    "job_city": "Anchorage",
+    "job_state": "Alaska",
+    "job_country": "US",
+    "job_latitude": 61.2175758,
+    "job_longitude": -149.8996784,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlsILcgciJt9oNXGnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 80000,
+    "job_max_salary": 100000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Position: Android Developer (8-10 years of exp) - USC and GC's",
+        "8 to 10 years Citizenship: US Citizen / Green Card Only (No sponsorship)",
+        "We are seeking a passionate Android Developer to design, develop, test, and maintain mobile applications on the Android platform",
+        "8-10 years Android development experience",
+        "Android Jetpack (View Model, Live Data, Navigation, Room, Work Manager)",
+        "REST APIs, JSON parsing",
+        "UI layouts with XML",
+        "Familiarity with Git",
+        "Good problem-solving & communication skills",
+        "Experience with MVVM",
+        "Familiarity with agile workflows"
+      ],
+      "Responsibilities": [
+        "You’ll collaborate with product owners and designers to build performant, user-friendly apps using modern Android technologies and best practices",
+        "Build and maintain Android apps using Kotlin (Java where needed)",
+        "Collaborate cross-functionally with UX/UI, backend, QA, and product teams",
+        "Write clean, maintainable, and testable code",
+        "Contribute to architectural decisions and feature planning",
+        "Implement responsive UI based on design mockups",
+        "Debug and fix issues, optimize performance",
+        "Integrate REST APIs and third-party SDKs",
+        "Support app deployment and maintenance (Play Store)",
+        "Maintain documentation & adhere to SDLC standards",
+        "Stay updated on Android trends & best practices",
+        "Unit & UI testing (JUnit, Espresso)",
+        "CI/CD (Git Hub Actions, Bitrise, Circle"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-learn4good-com-jobs-anchorage-alaska-software_development-4871628459-e",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "tnuT69oV9MlfWmbJAAAAAA==",
     "job_title": "Mobile Software Engineers, iOS or Android",
     "employer_name": "Walmart",
@@ -1276,9 +1266,9 @@
     "job_latitude": 37.6687665,
     "job_longitude": -122.08099639999999,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DtnuT69oV9MlfWmbJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 143000,
@@ -1339,92 +1329,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-walmart-job-mobile-software-engineers-ios-or-android-in-hayward-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "gJ5EWpGPjLdLLaf-AAAAAA==",
-    "job_title": "Android Developer at TrueSkilla Washington DC",
-    "employer_name": "TrueSkilla",
-    "employer_logo": null,
-    "employer_website": "https://trueskilla.com",
-    "job_publisher": "Aeh.ma",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://aeh.ma/list/job/android-developer-at-trueskilla-washington-dc-eDgxeis0S2dEZFg2bGF4cERGK01telU2Y2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Aeh.ma",
-        "apply_link": "https://aeh.ma/list/job/android-developer-at-trueskilla-washington-dc-eDgxeis0S2dEZFg2bGF4cERGK01telU2Y2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Selfbuild Live - Selfbuild.ie",
-        "apply_link": "https://live.selfbuild.ie/career/job/drupal-developer-at-conviso-inc-washington-dc-TDU3RndSQUFBNE4yakNSZytvL1BpUWtvT1E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lindependentraval.cat",
-        "apply_link": "https://lindependentraval.cat/vacancy/job/drupal-developer-at-conviso-inc-washington-dc-NCtMM3ZFQzgrdHhMcjhlU2U4eUYza1A5OHc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "The Avon Inn",
-        "apply_link": "https://avoninnny.com/list/job/front-end-developer-at-dexian-washington-dc-SnVQNHRZOXo4RytPTTd2dWtJNkhRR2ZLMWc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Labroche Funeraire",
-        "apply_link": "https://labroche-funeraire.fr/job-listing/job/unity-developer-at-qualitest-acq-washington-dc-VjJISUxPYnFHMEVTNVpUbFYyMUhnZGh2emc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Keith A Brown Consulting",
-        "apply_link": "https://keithabrownconsulting.com/joblib/job/drupal-developer-at-metaphase-consulting-washington-dc-eUxmS1FrbU9xQlYxdkdMbC9MY1QwdWEwVXc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Thrife",
-        "apply_link": "https://thrife.com/jobs/job/sharepoint-developer-at-prisminccom-washington-dc-YjJ6bEFPZXpYQnlkMG9RVVBTVEtYdGpBR2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Cadde Marina",
-        "apply_link": "https://www.caddemarina.nl/job-listing/job/entry-level-java-developer-at-jobrightai-washington-dc-blZWVFd6SU5IWFZSVE42VTVnRkxSa25KK2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Android Developer job at TrueSkilla. Washington DC.\n\nAndroid Developer\n\nLocation: Redmond, WA (100% onsite)\n\nHands-on candidates who are comfortable taking a coding test.\n\nWork Auth: GC or USC only\n\nJob Description\n\nBASIC QUALIFICATIONS\n\n• 4+ years experience in professional, non-internship software development\n\n• Android mobile application development experience in Kotlin\n\n• Experience in full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience\n\nPREFERRED QUALIFICATIONS\n\n• Bachelor's degree in computer science or equivalent\n\n• Experience in Compose Multiplatform or other cross-platform mobile development\n\n• iOS mobile application development experience in Swift\n\n• Experience with deployments to the Play Store",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "District of Columbia",
-    "job_city": "Washington",
-    "job_state": "District of Columbia",
-    "job_country": "US",
-    "job_latitude": 38.9072873,
-    "job_longitude": -77.0369274,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgJ5EWpGPjLdLLaf-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Hands-on candidates who are comfortable taking a coding test",
-        "Work Auth: GC or USC only",
-        "4+ years experience in professional, non-internship software development",
-        "Android mobile application development experience in Kotlin",
-        "Experience in full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "aeh-ma-list-job-android-developer-at-trueskilla-washington-dc-edgxeis0s2dezfg2bgf4cergk01telu2y2c9pq",
     "_source": "new_jobs"
   },
   {
@@ -1535,99 +1439,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "SVASrMRAf_0jDwzlAAAAAA==",
-    "job_title": "Lead Android Developer - Remote",
-    "employer_name": "Cognizant",
-    "employer_logo": null,
-    "employer_website": "https://www.cognizant.com",
-    "job_publisher": "USNLX STEM | USNLX STEM - National Labor Exchange",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://stem.usnlx.com/atlanta-ga/lead-android-developer-remote/A9BC00C2E6CA40DE9D96BB8F3BF57887/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "USNLX STEM | USNLX STEM - National Labor Exchange",
-        "apply_link": "https://stem.usnlx.com/atlanta-ga/lead-android-developer-remote/A9BC00C2E6CA40DE9D96BB8F3BF57887/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Iitjobs",
-        "apply_link": "https://www.iitjobs.com/job/lead-developer-android-atlanta-ga-usa-photon-interactive-uk-limited-23616?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/application-development?id=2461013206&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Lead Android Engineer- Remote\n\nWe are seeking a Lead Android Engineer who will lead the design, development, and delivery of key mobile application features for Empower Retirement. This role is fully remote, requires strong technical leadership, and involves collaboration with cross‑functional teams to drive architectural improvements and deliver high‑quality mobile solutions.\n\nResponsibilities:\n• Lead the design and development of advanced mobile application features and projects.\n• Mentor junior and mid-level engineers and provide technical guidance.\n• Collaborate with cross-functional teams to refine, plan, and prioritize requirements.\n• Participate in code reviews and ensure high-quality development standards.\n• Troubleshoot complex technical issues and performance bottlenecks.\n• Enhance the scalability, performance, and architecture of mobile applications.\n• Work closely with other teams to debug, test, and improve product functionality.\n• Produce clear documentation, maintain clean code, and demonstrate solutions effectively.\n• Continuously stay updated with modern mobile technologies and best practices.\n\nRequired Qualifications:\n• 6+ years of professional experience in native Android and/or iOS development.\n• 1+ published native Android and/or iOS applications.\n• Proficiency in Java, Kotlin, Objective‑C, and/or Swift.\n• Strong understanding of mobile architecture and design patterns.\n• Excellent problem-solving and debugging skills.\n• Effective leadership, communication, and influencing abilities.\n• Experience working in full-stack environments.\n\nWork Model: Remote within the U.S.\n\nCandidate must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.\n\nSalary Range: $70,000 – $117,000 annually\n\nApplication Deadline: 3/10/2026\n\nCompensation & Benefits: This position is eligible for Cognizant’s discretionary annual incentive program, based on performance and subject to applicable plans.\n\nBenefits include:\n• Medical, Dental, Vision, and Life Insurance\n• Paid Holidays and Paid Time Off\n• 401(k) plan with contributions\n• Long-term and Short-term Disability\n• Paid Parental Leave\n• Employee Stock Purchase Plan\n\nDisclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable law.\n\nCognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Atlanta, GA",
-    "job_city": "Atlanta",
-    "job_state": "Georgia",
-    "job_country": "US",
-    "job_latitude": 33.7501275,
-    "job_longitude": -84.3885209,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSVASrMRAf_0jDwzlAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "6+ years of professional experience in native Android and/or iOS development",
-        "1+ published native Android and/or iOS applications",
-        "Proficiency in Java, Kotlin, Objective‑C, and/or Swift",
-        "Strong understanding of mobile architecture and design patterns",
-        "Excellent problem-solving and debugging skills",
-        "Effective leadership, communication, and influencing abilities",
-        "Experience working in full-stack environments",
-        "Work Model: Remote within the U.S",
-        "Candidate must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future"
-      ],
-      "Benefits": [
-        "Salary Range: $70,000 – $117,000 annually",
-        "Compensation & Benefits: This position is eligible for Cognizant’s discretionary annual incentive program, based on performance and subject to applicable plans",
-        "Medical, Dental, Vision, and Life Insurance",
-        "Paid Holidays and Paid Time Off",
-        "401(k) plan with contributions",
-        "Long-term and Short-term Disability",
-        "Paid Parental Leave",
-        "Employee Stock Purchase Plan",
-        "Disclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting"
-      ],
-      "Responsibilities": [
-        "We are seeking a Lead Android Engineer who will lead the design, development, and delivery of key mobile application features for Empower Retirement",
-        "This role is fully remote, requires strong technical leadership, and involves collaboration with cross‑functional teams to drive architectural improvements and deliver high‑quality mobile solutions",
-        "Lead the design and development of advanced mobile application features and projects",
-        "Mentor junior and mid-level engineers and provide technical guidance",
-        "Collaborate with cross-functional teams to refine, plan, and prioritize requirements",
-        "Participate in code reviews and ensure high-quality development standards",
-        "Troubleshoot complex technical issues and performance bottlenecks",
-        "Enhance the scalability, performance, and architecture of mobile applications",
-        "Work closely with other teams to debug, test, and improve product functionality",
-        "Produce clear documentation, maintain clean code, and demonstrate solutions effectively",
-        "Continuously stay updated with modern mobile technologies and best practices"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "stem-usnlx-com-atlanta-ga-lead-android-developer-remote-a9bc00c2e6ca40de9d96bb8f3bf57887-job",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "LoUGBKy0IbcrjJ7AAAAAAA==",
     "job_title": "Senior, Software Engineer - Android",
     "employer_name": "Walmart",
@@ -1723,68 +1534,89 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "9UDTWR-i2R0NkiAAAAAAAA==",
-    "job_title": "Android Developer ( Java & Kotlin Developer )",
-    "employer_name": "Thales",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-dxRO3OaS3KedQjeGQ8Q8Z47rOtXGJi2lUx1&s=0",
-    "employer_website": "https://www.thalesgroup.com",
-    "job_publisher": "Talent.com",
+    "job_id": "gJ5EWpGPjLdLLaf-AAAAAA==",
+    "job_title": "Android Developer at TrueSkilla Washington DC",
+    "employer_name": "TrueSkilla",
+    "employer_logo": null,
+    "employer_website": "https://trueskilla.com",
+    "job_publisher": "Aeh.ma",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=fbbb517427d2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://aeh.ma/list/job/android-developer-at-trueskilla-washington-dc-eDgxeis0S2dEZFg2bGF4cERGK01telU2Y2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=fbbb517427d2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Aeh.ma",
+        "apply_link": "https://aeh.ma/list/job/android-developer-at-trueskilla-washington-dc-eDgxeis0S2dEZFg2bGF4cERGK01telU2Y2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Selfbuild Live - Selfbuild.ie",
+        "apply_link": "https://live.selfbuild.ie/career/job/drupal-developer-at-conviso-inc-washington-dc-TDU3RndSQUFBNE4yakNSZytvL1BpUWtvT1E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lindependentraval.cat",
+        "apply_link": "https://lindependentraval.cat/vacancy/job/drupal-developer-at-conviso-inc-washington-dc-NCtMM3ZFQzgrdHhMcjhlU2U4eUYza1A5OHc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "The Avon Inn",
+        "apply_link": "https://avoninnny.com/list/job/front-end-developer-at-dexian-washington-dc-SnVQNHRZOXo4RytPTTd2dWtJNkhRR2ZLMWc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Labroche Funeraire",
+        "apply_link": "https://labroche-funeraire.fr/job-listing/job/unity-developer-at-qualitest-acq-washington-dc-VjJISUxPYnFHMEVTNVpUbFYyMUhnZGh2emc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Keith A Brown Consulting",
+        "apply_link": "https://keithabrownconsulting.com/joblib/job/drupal-developer-at-metaphase-consulting-washington-dc-eUxmS1FrbU9xQlYxdkdMbC9MY1QwdWEwVXc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Thrife",
+        "apply_link": "https://thrife.com/jobs/job/sharepoint-developer-at-prisminccom-washington-dc-YjJ6bEFPZXpYQnlkMG9RVVBTVEtYdGpBR2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Cadde Marina",
+        "apply_link": "https://www.caddemarina.nl/job-listing/job/entry-level-java-developer-at-jobrightai-washington-dc-blZWVFd6SU5IWFZSVE42VTVnRkxSa25KK2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Location : Noida Berger Tower, India\n\nThales is a global technology leader trusted by governments, institutions, and enterprises to tackle their most demanding challenges. From quantum applications and artificial intelligence to cybersecurity and 6G innovation, our solutions empower critical decisions rooted in human intelligence. Operating at the forefront of aerospace and space, cybersecurity and digital identity, we’re driven by a mission to build a future we can all trust.\n\nPresent in India since 1953, Thales is headquartered in Noida and has other operational offices and sites spread across Delhi, Gurugram, Bengaluru and Mumbai, among others. Over 2200 employees are working with Thales and its joint ventures in India. Since the beginning, Thales has been playing an essential role in India’s growth story by sharing its technologies and expertise in Defence, Aerospace and Cyber & Digital sectors. Thales has two engineering competence centres in India - one in Noida focused on Cyber & Digital business, while the one in Bengaluru focuses on hardware, software and systems engineering capabilities for both the civil and defence sectors, serving global needs. The Group has also established an MRO (Maintenance, Repair & Overhaul) facility in Gurugram to provide comprehensive avionics maintenance and repair services to Indian airlines and support the growth of the local aviation industry.\n\nExperience Range- 9-14 Yrs.\n\nKey Responsibilities :\n• Develop and maintain high-quality Android Software Development Kits in both Java and Kotlin languages.\n• Put security at the centre of the development process, making sure the output abides by Thales Security requirements.\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Write clean, maintainable and secure code and participate in code reviews.\n• Debug and resolve issues in existing applications.\n• Stay updated on the latest Android development trends and technologies.\n• Optimize application performance and scalability.\n• Understand and implement the updates on different standards related to Digital and Physical Documents.\n\nRequirements :\n• Bachelor’s degree in computer science or related field.\n• Proven experience as an Android Developer or similar role.\n• Proficient in Java / Kotlin and Android SDK.\n• Familiarity with RESTful APIs to connect applications to back-end services.\n• Experience with version control systems, such as Git and Continuous Integration platforms.\n• Strong problem-solving and analytical skills.\n• Excellent communication and teamwork abilities.\n• Knowledge of Cryptography and Security.\n\nAt Thales, we’re committed to fostering a workplace where respect, trust, collaboration, and passion drive everything we do. Here, you’ll feel empowered to bring your best self, thrive in a supportive culture, and love the work you do. Join us, and be part of a team reimagining technology to create solutions that truly make a difference – for a safer, greener, and more inclusive world.",
+    "job_description": "Android Developer job at TrueSkilla. Washington DC.\n\nAndroid Developer\n\nLocation: Redmond, WA (100% onsite)\n\nHands-on candidates who are comfortable taking a coding test.\n\nWork Auth: GC or USC only\n\nJob Description\n\nBASIC QUALIFICATIONS\n\n• 4+ years experience in professional, non-internship software development\n\n• Android mobile application development experience in Kotlin\n\n• Experience in full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience\n\nPREFERRED QUALIFICATIONS\n\n• Bachelor's degree in computer science or equivalent\n\n• Experience in Compose Multiplatform or other cross-platform mobile development\n\n• iOS mobile application development experience in Swift\n\n• Experience with deployments to the Play Store",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Plymouth, IN",
-    "job_city": "Plymouth",
-    "job_state": "Indiana",
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "District of Columbia",
+    "job_city": "Washington",
+    "job_state": "District of Columbia",
     "job_country": "US",
-    "job_latitude": 41.343655399999996,
-    "job_longitude": -86.30972779999999,
+    "job_latitude": 38.9072873,
+    "job_longitude": -77.0369274,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9UDTWR-i2R0NkiAAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgJ5EWpGPjLdLLaf-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Experience Range- 9-14 Yrs",
-        "Bachelor’s degree in computer science or related field",
-        "Proven experience as an Android Developer or similar role",
-        "Proficient in Java / Kotlin and Android SDK",
-        "Familiarity with RESTful APIs to connect applications to back-end services",
-        "Experience with version control systems, such as Git and Continuous Integration platforms",
-        "Strong problem-solving and analytical skills",
-        "Excellent communication and teamwork abilities",
-        "Knowledge of Cryptography and Security"
-      ],
-      "Responsibilities": [
-        "Develop and maintain high-quality Android Software Development Kits in both Java and Kotlin languages",
-        "Put security at the centre of the development process, making sure the output abides by Thales Security requirements",
-        "Collaborate with cross-functional teams to define, design, and ship new features",
-        "Write clean, maintainable and secure code and participate in code reviews",
-        "Debug and resolve issues in existing applications",
-        "Stay updated on the latest Android development trends and technologies",
-        "Optimize application performance and scalability",
-        "Understand and implement the updates on different standards related to Digital and Physical Documents"
+        "Hands-on candidates who are comfortable taking a coding test",
+        "Work Auth: GC or USC only",
+        "4+ years experience in professional, non-internship software development",
+        "Android mobile application development experience in Kotlin",
+        "Experience in full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience"
       ]
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
+    "id": "aeh-ma-list-job-android-developer-at-trueskilla-washington-dc-edgxeis0s2dezfg2bgf4cergk01telu2y2c9pq",
     "_source": "new_jobs"
   },
   {
@@ -1819,9 +1651,9 @@
     "job_latitude": 37.4323341,
     "job_longitude": -121.8995741,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDE5O_oE_gUy_sm8IAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 117000,
@@ -1884,6 +1716,199 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-walmart-job-usa-software-engineer-iii-android-in-milpitas-ca",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "JYzesUCBIcHA5h14AAAAAA==",
+    "job_title": "Senior Software Engineer- Android (Kotlin, MVVM)",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior-Software-Engineer-Android-(Kotlin,-MVVM)/-in-Sunnyvale,CA?jid=def3de7f30298d5c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior-Software-Engineer-Android-(Kotlin,-MVVM)/-in-Sunnyvale,CA?jid=def3de7f30298d5c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-software-engineer-android-kotlin-mvvm-walmart-JV_IC1147442_KO0,44_KE45,52.htm?jl=1009915878398&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/e427e11f-7f19-4a6f-b66d-402080aa9ba3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=568f80f63a84eaea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-software-engineer-android-kotlin-mvvm-at-walmart-4332695727?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/0PUWAefimekmwHandQIb5EhwWPbS5BVfXHb8a3lzl774EUsCk9APVg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1178411178?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...About Team On the Membership Experience Engineering team at Walmart, we provide technology to power shopping journeys that help hundreds of millions of customers live better – be it busy families getting groceries easily, new parents welcoming a new baby, organizing a new home or anyone planning a fun party. We strive to create the best shopping experience anywhere anytime, meeting customers’ evolving needs and expectations.\n\nWalmart+ is pioneering the way people experience online and in-store shopping. We are looking for an experienced engineering leader to help us design and improve customer membership experience and build scalable platforms on mobile devices. We are just getting started on membership experience and this is a very critical role to shape the face of Walmart+.\n\nWhat You'll Do:\n• Troubleshoot business and production issues for mobile devices by reviewing and analyzing information (for example, issue, impact, criticality, possible root cause, etc.); then engaging support teams to assist in the resolution of found issues. Upon issue resolution, perform a root cause analysis across multiple mobile devices to prevent future occurrence.\n• Develop innovative mobile technology solutions and strategies to support business objectives by collaborating with cross-functional business partners; developing assessments of key opportunities; benchmarking and analyzing industry best practices; forecasting for future technologies; driving high-priority initiatives; identifying and implementing solutions; communicating with and influencing decision-makers and executives within the organization; influencing the industry to adopt sustainable solutions; and defining software development guidelines, standards, and processes.\n• Collaborate with cross-functional teams to determine project requirements; translating requirements into mobile solutions for multiple operating systems (for example, iPhone, Android); gathering requested information (for example, design documents, product requirements, wire frames); writing and developing code (for example, Java/Kotlin) that can be applied to multiple types of mobile devices; developing user interface solutions; conducting testing to ensure solution is functional; communicating project status and roadblocks to team members and stakeholders; determining solutions to issues; enhancing design to prevent reoccurrence of defects across multiple devices; ensuring on-time delivery; and collaborating with project managers to provide guidance on project implementation plan.\n• Remove barriers and obstacles that impact performance; providing resources; identifying performance standards; measuring progress and adjusting performance; developing contingency plans; and demonstrating adaptability and supporting continuous learning.\n• Promote and supports company policies, procedures, mission, values, and standards of ethics and integrity by training and providing direction to others in their use and application; ensuring compliance with them; and utilizing and supporting the Open-Door Policy.\n• Ensure business needs are being met by evaluating the ongoing effectiveness of current plans, programs, and initiatives; consulting with business partners, managers, co-workers, or other key stakeholders; soliciting, evaluating, and applying suggestions for improving efficiency and cost- effectiveness; and participating in and supporting community outreach events.\n\nRequirements\n• BS/MS degree in Computer Science, Engineering or a related subject\n• 6+ years of professional experience in various elements of software development – native mobile, web front end, back end, and hands-on coding experience in the past\n• Experience with a consumer facing app and ecommerce or retail shopping\n• Hands-on experience building scalable backend systems and platforms\n• Previous knowledge of Designing and developing advanced applications for the Android platform\n• Collaborate with cross-functional teams to define, design, and ship new features\n• Proven software development experience and Android skills development\n• Experience translating wireframes into pixel-perfect views\n• Knowledgeable about animation and screen transitions\n• Have published at least one original Android app\n• Experience with Android SDK, Services, and various methods of background processing\n• Experience working with remote data via REST, JSON, Google Cloud Messaging, and the HTTP protocol\n• Experience with Google Play APIs: Maps, Location, and Cloud Messaging\n• Experience with third-party libraries and APIs\n• Experience with analysis of memory issues such as memory leaks using memory analyzers tools (DDMS, MAT)\n• Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies\n• Solid understanding of the full mobile development life cycle and writing readable, maintainable, performant object-oriented code\n• Experience working with Kotlin, Coroutines, MVVM, MVVM Clean, View Models, Repository Design pattern, and other architectures\n• Experience working with an orchestration Layer and GraphQL\nAbout Walmart Global Tech\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. That’s what we do at Walmart Global Tech. We’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing - unique styles, experiences, identities, ideas and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $117,000.00 - $234,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1345 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Sunnyvale, CA",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.368829999999996,
+    "job_longitude": -122.0363496,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJYzesUCBIcHA5h14AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 117000,
+    "job_max_salary": 234000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "BS/MS degree in Computer Science, Engineering or a related subject",
+        "6+ years of professional experience in various elements of software development – native mobile, web front end, back end, and hands-on coding experience in the past",
+        "Experience with a consumer facing app and ecommerce or retail shopping",
+        "Hands-on experience building scalable backend systems and platforms",
+        "Previous knowledge of Designing and developing advanced applications for the Android platform",
+        "Proven software development experience and Android skills development",
+        "Experience translating wireframes into pixel-perfect views",
+        "Knowledgeable about animation and screen transitions",
+        "Have published at least one original Android app",
+        "Experience with Android SDK, Services, and various methods of background processing",
+        "Experience working with remote data via REST, JSON, Google Cloud Messaging, and the HTTP protocol",
+        "Experience with Google Play APIs: Maps, Location, and Cloud Messaging",
+        "Experience with third-party libraries and APIs",
+        "Experience with analysis of memory issues such as memory leaks using memory analyzers tools (DDMS, MAT)",
+        "Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies",
+        "Solid understanding of the full mobile development life cycle and writing readable, maintainable, performant object-oriented code",
+        "Experience working with Kotlin, Coroutines, MVVM, MVVM Clean, View Models, Repository Design pattern, and other architectures",
+        "Experience working with an orchestration Layer and GraphQL",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
+        "Option 2: 5 years’ experience in software engineering or related area",
+        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $117,000.00 - $234,000.00 Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
+      ],
+      "Responsibilities": [
+        "Troubleshoot business and production issues for mobile devices by reviewing and analyzing information (for example, issue, impact, criticality, possible root cause, etc.); then engaging support teams to assist in the resolution of found issues",
+        "Upon issue resolution, perform a root cause analysis across multiple mobile devices to prevent future occurrence",
+        "Develop innovative mobile technology solutions and strategies to support business objectives by collaborating with cross-functional business partners; developing assessments of key opportunities; benchmarking and analyzing industry best practices; forecasting for future technologies; driving high-priority initiatives; identifying and implementing solutions; communicating with and influencing decision-makers and executives within the organization; influencing the industry to adopt sustainable solutions; and defining software development guidelines, standards, and processes",
+        "Collaborate with cross-functional teams to determine project requirements; translating requirements into mobile solutions for multiple operating systems (for example, iPhone, Android); gathering requested information (for example, design documents, product requirements, wire frames); writing and developing code (for example, Java/Kotlin) that can be applied to multiple types of mobile devices; developing user interface solutions; conducting testing to ensure solution is functional; communicating project status and roadblocks to team members and stakeholders; determining solutions to issues; enhancing design to prevent reoccurrence of defects across multiple devices; ensuring on-time delivery; and collaborating with project managers to provide guidance on project implementation plan",
+        "Remove barriers and obstacles that impact performance; providing resources; identifying performance standards; measuring progress and adjusting performance; developing contingency plans; and demonstrating adaptability and supporting continuous learning",
+        "Promote and supports company policies, procedures, mission, values, and standards of ethics and integrity by training and providing direction to others in their use and application; ensuring compliance with them; and utilizing and supporting the Open-Door Policy",
+        "Ensure business needs are being met by evaluating the ongoing effectiveness of current plans, programs, and initiatives; consulting with business partners, managers, co-workers, or other key stakeholders; soliciting, evaluating, and applying suggestions for improving efficiency and cost- effectiveness; and participating in and supporting community outreach events",
+        "Collaborate with cross-functional teams to define, design, and ship new features"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-senior-software-engineer-android-kotlin-mvvm-in-sunnyvale-ca",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "9UDTWR-i2R0NkiAAAAAAAA==",
+    "job_title": "Android Developer ( Java & Kotlin Developer )",
+    "employer_name": "Thales",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-dxRO3OaS3KedQjeGQ8Q8Z47rOtXGJi2lUx1&s=0",
+    "employer_website": "https://www.thalesgroup.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=fbbb517427d2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=fbbb517427d2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Location : Noida Berger Tower, India\n\nThales is a global technology leader trusted by governments, institutions, and enterprises to tackle their most demanding challenges. From quantum applications and artificial intelligence to cybersecurity and 6G innovation, our solutions empower critical decisions rooted in human intelligence. Operating at the forefront of aerospace and space, cybersecurity and digital identity, we’re driven by a mission to build a future we can all trust.\n\nPresent in India since 1953, Thales is headquartered in Noida and has other operational offices and sites spread across Delhi, Gurugram, Bengaluru and Mumbai, among others. Over 2200 employees are working with Thales and its joint ventures in India. Since the beginning, Thales has been playing an essential role in India’s growth story by sharing its technologies and expertise in Defence, Aerospace and Cyber & Digital sectors. Thales has two engineering competence centres in India - one in Noida focused on Cyber & Digital business, while the one in Bengaluru focuses on hardware, software and systems engineering capabilities for both the civil and defence sectors, serving global needs. The Group has also established an MRO (Maintenance, Repair & Overhaul) facility in Gurugram to provide comprehensive avionics maintenance and repair services to Indian airlines and support the growth of the local aviation industry.\n\nExperience Range- 9-14 Yrs.\n\nKey Responsibilities :\n• Develop and maintain high-quality Android Software Development Kits in both Java and Kotlin languages.\n• Put security at the centre of the development process, making sure the output abides by Thales Security requirements.\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Write clean, maintainable and secure code and participate in code reviews.\n• Debug and resolve issues in existing applications.\n• Stay updated on the latest Android development trends and technologies.\n• Optimize application performance and scalability.\n• Understand and implement the updates on different standards related to Digital and Physical Documents.\n\nRequirements :\n• Bachelor’s degree in computer science or related field.\n• Proven experience as an Android Developer or similar role.\n• Proficient in Java / Kotlin and Android SDK.\n• Familiarity with RESTful APIs to connect applications to back-end services.\n• Experience with version control systems, such as Git and Continuous Integration platforms.\n• Strong problem-solving and analytical skills.\n• Excellent communication and teamwork abilities.\n• Knowledge of Cryptography and Security.\n\nAt Thales, we’re committed to fostering a workplace where respect, trust, collaboration, and passion drive everything we do. Here, you’ll feel empowered to bring your best self, thrive in a supportive culture, and love the work you do. Join us, and be part of a team reimagining technology to create solutions that truly make a difference – for a safer, greener, and more inclusive world.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Plymouth, IN",
+    "job_city": "Plymouth",
+    "job_state": "Indiana",
+    "job_country": "US",
+    "job_latitude": 41.343655399999996,
+    "job_longitude": -86.30972779999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9UDTWR-i2R0NkiAAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience Range- 9-14 Yrs",
+        "Bachelor’s degree in computer science or related field",
+        "Proven experience as an Android Developer or similar role",
+        "Proficient in Java / Kotlin and Android SDK",
+        "Familiarity with RESTful APIs to connect applications to back-end services",
+        "Experience with version control systems, such as Git and Continuous Integration platforms",
+        "Strong problem-solving and analytical skills",
+        "Excellent communication and teamwork abilities",
+        "Knowledge of Cryptography and Security"
+      ],
+      "Responsibilities": [
+        "Develop and maintain high-quality Android Software Development Kits in both Java and Kotlin languages",
+        "Put security at the centre of the development process, making sure the output abides by Thales Security requirements",
+        "Collaborate with cross-functional teams to define, design, and ship new features",
+        "Write clean, maintainable and secure code and participate in code reviews",
+        "Debug and resolve issues in existing applications",
+        "Stay updated on the latest Android development trends and technologies",
+        "Optimize application performance and scalability",
+        "Understand and implement the updates on different standards related to Digital and Physical Documents"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
