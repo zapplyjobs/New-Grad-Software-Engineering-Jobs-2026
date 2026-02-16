@@ -42,9 +42,9 @@
     "job_latitude": 38.804693,
     "job_longitude": -77.0435257,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De0k-lK6t1CnrMfi7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
@@ -670,104 +670,218 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "HeTUXoQpcGqaKmlMAAAAAA==",
-    "job_title": "Java Full Stack Engineer",
-    "employer_name": "Cohere Technology Group LLC",
+    "job_id": "UfkKbjypkbT-aSHDAAAAAA==",
+    "job_title": "Sr. Lead java Developer - Full-time / Part-time",
+    "employer_name": "Twenty First Systems Inc.",
     "employer_logo": null,
-    "employer_website": "https://coheretechnology.us",
-    "job_publisher": "Cohere Technology Group LLC - Career Page - JazzHR",
-    "job_employment_type": "Full-time",
+    "employer_website": null,
+    "job_publisher": "Snagajob",
+    "job_employment_type": "Full-time and Part-time",
     "job_employment_types": [
-      "FULLTIME"
+      "FULLTIME",
+      "PARTTIME"
     ],
-    "job_apply_link": "https://coheretechnology.applytojob.com/apply/Q8fi70hlPt/Java-Full-Stack-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.snagajob.com/jobs/1170237927?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Cohere Technology Group LLC - Career Page - JazzHR",
-        "apply_link": "https://coheretechnology.applytojob.com/apply/Q8fi70hlPt/Java-Full-Stack-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Cohere-Technology-Group-LLC/Job/Java-Full-Stack-Engineer/-in-Chantilly,VA?jid=5a48adc2fce3664e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Iitjobs",
-        "apply_link": "https://www.iitjobs.com/job/full-stack-developer-python-chantilly-va-usa-144558?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/22d3d405e878a07990c314f04310aaa7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-pinnacle-government-solutions-4369334308?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5614726850?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/full-stack-engineer-mid-ui-abbtechprofessionaesinclresourc-chantilly-va_83997018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jooble",
-        "apply_link": "https://jooble.org/jdp/-3805860576213887874?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1170237927?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "We are looking for Java Full Stack Development Engineers to join our team. Our teams are currently working in an Agile environment using some of the latest technologies. You will work in small teams to design and develop secure Cloud-Agnostic applications using React, Spring Boot, AWS Lambda, and microservices. Deployment targets include AWS (EC2s) and Tanzu. Help design storage solutions using MongoDB, DynamoDB, and Oracle RDS. If this sounds interesting, give us a call.\n\nAre you fascinated by space? Do you like working on mission critical fielded systems? How about a fast-paced feature rich project? Give us a call. We have an exciting opportunity to work as a full stack Java developer with amazing engineers.\n\nClearance:\n\nWe mainly seek individuals with a TS/SCI, or a TS/SCI + CI Poly, or a TS/SCI + FSP\n\nCompensation:\n\nCohere knows that our employees are our most valuable assets. Cohere offers competitive pay, commensurate with experience, labor categories, and current market demands.\n\nFULLY PAID health care premiums for medical with PPO and HSA options\n\nFULLY PAID dental, vision, and life insurance\n\nEarn 240 hours PTO / year (30 days, accrued at 20 hours/month)\n\n401k plan with matching employer contributions and profit sharing\n\nExtremely lucrative referral programs\n\nMonthly billable incentive rewards\n\nYearly training allowance for self-development\n\nFlexible schedules\n\nAbout Cohere:\n\nCohere was founded in 2015 by seasoned intelligence community engineers to unify and streamline both cyber and kinetic workflows for the Intelligence Community and the Department of Defense.\n\nWe are looking for candidates to join our team as we grow our cyber development department. This is an opportunity to join a close-knit team of engineers who are passionate about learning from each other and developing next-generation capabilities supporting our stakeholders’ operations. Your work will contribute directly to securing infrastructure from malicious cyber actors.\n\nWe invest in our people, offering tailored training and mentorship as we grow our engineers. We believe that providing opportunities to learn fuels individual and organizational success. At Cohere, not only will you take your technical skills to the next level, but if desired, you can learn the processes and skills necessary to launch your own company too. We offer mentoring opportunities to learn from experienced leaders on creating and growing your own contracting business.\n\nIf you have a background in coding and computer security and want to take your career to the next level, with the ability to learn from senior engineers invested in your success, apply today!",
+    "job_description": "Location: Arlington,VA,United States\n\nJOB TITLE – Sr. Lead java developer/Architect\n\nReports to: Program Manager\n\nLocation: Arlington, VA; Bethesda, MD\n\nTravel: < 5%\n\nStart Date: Immediately\n\nClearance Requirement: Public Trust\n\nTAX TERM:- C2C, W2\n\nProject Duration:-1 Year+\n\nHourly Rate-90$ Negotiable\n\nWork Visa Status:- Must be a U.S. Citizen or U.S. Legal Permanent Resident(GC)\n\nJob Summary: The Senior Associate, Technology is a member of the project team who takes responsibility for implementing parts of the system architecture using best practices. This will include coding, unit testing, using design patterns, learning new technologies, and becoming an expert in one part of the system. The candidate will also be expected to provide technical leadership, architectural support, and advice with system security.\n\nQualified applicants must be detail-oriented, result-driven individuals who work well within team environments and have good interpersonal skills, as well as good client interaction skills.\n\nResponsibilities:\n• Ability to lead a small team of 4-6 individuals.\n• Demonstrates ability to work with system owners, business owners, technical teams, and functional teams to design, implement, test, and validate a system.\n• Meet with business and system owners to understand and document desired system requirements.\n• Work with business users to gather requirements, write functional and technical specifications\n• Work with business users and analysts to define use cases\n• Design and develop new code and/or support operations, maintenance, and enhancements of existing code.\n• Develop conceptual and technical design including use of OOA and OOD techniques.\n• Conduct multiple levels of testing including unit, system, integration and performance.\n• Effectively model organization business processes and integrate them with existing Enterprise systems and capabilities.\n• Estimate and plan iterative / agile releases\n• Mentor junior team members\n• Work closely with technical project leadership and client to plan, develop, and deliver system modernization, enhancement, and operations and maintenance capabilities.\n\nExperience Guidelines:\n• At least 10+ years of relevant work experience.\n• Strong problem identification and analytical skills\n• Ability to plan and manage time and resources, establish priorities and meet goals\n• Must be detail-oriented and proactive about communicating status and progress.\n• Possession of excellent oral and written communication skills including the ability to create and deliverclear reports and documentation.\n• Experience working in small to medium-sized teams\n• Experience developing software in Java (including JSP and servlets) and JavaScript.\n• Experience working in a Unix or Linux environment.\n• Experience developing software involving database queries, e.g. SQL.\n• Desired but not required experience includes proficiency with Python, Perl, shell scripting (e.g. Bash),distributed computing (e.g., Hadoop), and information retrieval, text mining, or other analytical\n\nRequired Skills:\n• Java, J2EE, Maven, Jenkins, SVN, Shell Scripting, POM files, and eclipse with various plug-in required\n• Proficient in Spring MVC, Spring Core, Hibernate, JSP, JSF, JQuery, Java Script\n• Experience with Amazon Web Services(AWS)\n• Implementing Database Change processe\n• Linux, Jboss, Tomcat, Mark Logic, Oracle\n\nEducation:\nBachelor’s Degree required from college or University\n\nAbout Our Client:-\n\nOur client is a leading provider of consult¬ing, technology, and marketing services to a wide array of U.S. governmental agencies. Focused on driving long-term change and transforming the citizen experience, we use technology to help agencies become more accessible and transparent. With a track record of delivering mission-critical solutions and the ability to leverage commercial best practices, they serve as trusted advisers to government agencies such as the Federal Bureau of Investigation, Library of Congress, National Institutes of Health, United States Department of Health and Human Services, and United States Department of Homeland Security.\n\nSapient is a registered service mark of Sapient Corporation.\n• Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this role, which include hearing, speaking, typing, and occasionally moving and/or lifting up to 15 pounds.\n\nOur client is an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, orientation, national origin, disability, or protected veteran status.\n\nLocation: Arlington,VA,United States\n\nJOB TITLE – Sr. Lead java developer/Architect\n\nReports to: Program Manager\n\nLocation: Arlington, VA; Bethesda, MD\n\nTravel: < 5%\n\nStart Date: Immediately\n\nClearance Requirement: Public Trust\n\nTAX TERM:- C2C, W2\n\nProject Duration:-1 Year+\n\nHourly Rate-90$ Negotiable\n\nWork Visa Status:- Must be a U.S. Citizen or U.S. Legal Permanent Resident(GC)\n\nJob Summary: The Senior Associate, Technology is a member of the project team who takes responsibility for implementing parts of the system architecture using best practices. This will include coding, unit testing, using design patterns, learning new technologies, and becoming an expert in one part of the system. The candidate will also be expected to provide technical leadership, architectural support, and advice with system security.\n\nQualified applicants must be detail-oriented, result-driven individuals who work well within team environments and have good interpersonal skills, as well as good client interaction skills.\n\nResponsibilities:\n• Ability to lead a small team of 4-6 individuals.\n• Demonstrates ability to work with system owners, business owners, technical teams, and functional teams to design, implement, test, and validate a system.\n• Meet with business and system owners to understand and document desired system requirements.\n• Work with business users to gather requirements, write functional and technical specifications\n• Work with business users and analysts to define use cases\n• Design and develop new code and/or support operations, maintenance, and enhancements of existing code.\n• Develop conceptual and technical design including use of OOA and OOD techniques.\n• Conduct multiple levels of testing including unit, system, integration and performance.\n• Effectively model organization business processes and integrate them with existing Enterprise systems and capabilities.\n• Estimate and plan iterative / agile releases\n• Mentor junior team members\n• Work closely with technical project leadership and client to plan, develop, and deliver system modernization, enhancement, and operations and maintenance capabilities.\n\nExperience Guidelines:\n• At least 10+ years of relevant work experience.\n• Strong problem identification and analytical skills\n• Ability to plan and manage time and resources, establish priorities and meet goals\n• Must be detail-oriented and proactive about communicating status and progress.\n• Possession of excellent oral and written communication skills including the ability to create and deliverclear reports and documentation.\n• Experience working in small to medium-sized teams\n• Experience developing software in Java (including JSP and servlets) and JavaScript.\n• Experience working in a Unix or Linux environment.\n• Experience developing software involving database queries, e.g. SQL.\n• Desired but not required experience includes proficiency with Python, Perl, shell scripting (e.g. Bash),distributed computing (e.g., Hadoop), and information retrieval, text mining, or other analytical\n\nRequired Skills:\n• Java, J2EE, Maven, Jenkins, SVN, Shell Scripting, POM files, and eclipse with various plug-in required\n• Proficient in Spring MVC, Spring Core, Hibernate, JSP, JSF, JQuery, Java Script\n• Experience with Amazon Web Services(AWS)\n• Implementing Database Change processe\n• Linux, Jboss, Tomcat, Mark Logic, Oracle\n\nEducation:\nBachelor’s Degree required from college or University\n\nAbout Our Client:-\n\nOur client is a leading provider of consult¬ing, technology, and marketing services to a wide array of U.S. governmental agencies. Focused on driving long-term change and transforming the citizen experience, we use technology to help agencies become more accessible and transparent. With a track record of delivering mission-critical solutions and the ability to leverage commercial best practices, they serve as trusted advisers to government agencies such as the Federal Bureau of Investigation, Library of Congress, National Institutes of Health, United States Department of Health and Human Services, and United States Department of Homeland Security.\n\nSapient is a registered service mark of Sapient Corporation.\n• Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this role, which include hearing, speaking, typing, and occasionally moving and/or lifting up to 15 pounds.\n\nOur client is an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, orientation, national origin, disability, or protected veteran status.",
     "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Chantilly, VA",
-    "job_city": "Chantilly",
-    "job_state": "Virginia",
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Arlington, MD",
+    "job_city": "Baltimore",
+    "job_state": "Maryland",
     "job_country": "US",
-    "job_latitude": 38.886981899999995,
-    "job_longitude": -77.4390375,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHeTUXoQpcGqaKmlMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
+    "job_latitude": 39.3481987,
+    "job_longitude": -76.6815487,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUfkKbjypkbT-aSHDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
     "job_max_salary": null,
-    "job_salary_period": null,
+    "job_salary_period": "HOUR",
     "job_highlights": {
       "Qualifications": [
-        "We mainly seek individuals with a TS/SCI, or a TS/SCI + CI Poly, or a TS/SCI + FSP"
+        "Work Visa Status:- Must be a U.S. Citizen or U.S. Legal Permanent Resident(GC)",
+        "Qualified applicants must be detail-oriented, result-driven individuals who work well within team environments and have good interpersonal skills, as well as good client interaction skills",
+        "At least 10+ years of relevant work experience",
+        "Strong problem identification and analytical skills",
+        "Ability to plan and manage time and resources, establish priorities and meet goals",
+        "Must be detail-oriented and proactive about communicating status and progress",
+        "Possession of excellent oral and written communication skills including the ability to create and deliverclear reports and documentation",
+        "Experience working in small to medium-sized teams",
+        "Experience developing software in Java (including JSP and servlets) and JavaScript",
+        "Experience working in a Unix or Linux environment",
+        "Experience developing software involving database queries, e.g. SQL",
+        "Java, J2EE, Maven, Jenkins, SVN, Shell Scripting, POM files, and eclipse with various plug-in required",
+        "Proficient in Spring MVC, Spring Core, Hibernate, JSP, JSF, JQuery, Java Script",
+        "Experience with Amazon Web Services(AWS)",
+        "Implementing Database Change processe",
+        "Linux, Jboss, Tomcat, Mark Logic, Oracle",
+        "Bachelor’s Degree required from college or University",
+        "Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this role, which include hearing, speaking, typing, and occasionally moving and/or lifting up to 15 pounds",
+        "Clearance Requirement: Public Trust",
+        "Work Visa Status:- Must be a U.S. Citizen or U.S. Legal Permanent Resident(GC)",
+        "Job Summary: The Senior Associate, Technology is a member of the project team who takes responsibility for implementing parts of the system architecture using best practices",
+        "Qualified applicants must be detail-oriented, result-driven individuals who work well within team environments and have good interpersonal skills, as well as good client interaction skills",
+        "At least 10+ years of relevant work experience",
+        "Strong problem identification and analytical skills",
+        "Ability to plan and manage time and resources, establish priorities and meet goals",
+        "Must be detail-oriented and proactive about communicating status and progress",
+        "Possession of excellent oral and written communication skills including the ability to create and deliverclear reports and documentation",
+        "Experience working in small to medium-sized teams",
+        "Experience developing software in Java (including JSP and servlets) and JavaScript",
+        "Experience working in a Unix or Linux environment",
+        "Experience developing software involving database queries, e.g. SQL",
+        "Java, J2EE, Maven, Jenkins, SVN, Shell Scripting, POM files, and eclipse with various plug-in required",
+        "Proficient in Spring MVC, Spring Core, Hibernate, JSP, JSF, JQuery, Java Script",
+        "Experience with Amazon Web Services(AWS)",
+        "Implementing Database Change processe",
+        "Linux, Jboss, Tomcat, Mark Logic, Oracle",
+        "Bachelor’s Degree required from college or University"
       ],
       "Benefits": [
-        "Cohere offers competitive pay, commensurate with experience, labor categories, and current market demands",
-        "FULLY PAID health care premiums for medical with PPO and HSA options",
-        "FULLY PAID dental, vision, and life insurance",
-        "Earn 240 hours PTO / year (30 days, accrued at 20 hours/month)",
-        "401k plan with matching employer contributions and profit sharing",
-        "Extremely lucrative referral programs",
-        "Monthly billable incentive rewards",
-        "Yearly training allowance for self-development",
-        "Flexible schedules"
+        "Hourly Rate-90$ Negotiable",
+        "Hourly Rate-90$ Negotiable"
       ],
       "Responsibilities": [
-        "You will work in small teams to design and develop secure Cloud-Agnostic applications using React, Spring Boot, AWS Lambda, and microservices",
-        "Deployment targets include AWS (EC2s) and Tanzu"
+        "Reports to: Program Manager",
+        "This will include coding, unit testing, using design patterns, learning new technologies, and becoming an expert in one part of the system",
+        "The candidate will also be expected to provide technical leadership, architectural support, and advice with system security",
+        "Ability to lead a small team of 4-6 individuals",
+        "Demonstrates ability to work with system owners, business owners, technical teams, and functional teams to design, implement, test, and validate a system",
+        "Meet with business and system owners to understand and document desired system requirements",
+        "Work with business users to gather requirements, write functional and technical specifications",
+        "Work with business users and analysts to define use cases",
+        "Design and develop new code and/or support operations, maintenance, and enhancements of existing code",
+        "Develop conceptual and technical design including use of OOA and OOD techniques",
+        "Conduct multiple levels of testing including unit, system, integration and performance",
+        "Effectively model organization business processes and integrate them with existing Enterprise systems and capabilities",
+        "Estimate and plan iterative / agile releases",
+        "Mentor junior team members",
+        "Work closely with technical project leadership and client to plan, develop, and deliver system modernization, enhancement, and operations and maintenance capabilities",
+        "Reports to: Program Manager",
+        "This will include coding, unit testing, using design patterns, learning new technologies, and becoming an expert in one part of the system",
+        "The candidate will also be expected to provide technical leadership, architectural support, and advice with system security",
+        "Ability to lead a small team of 4-6 individuals",
+        "Demonstrates ability to work with system owners, business owners, technical teams, and functional teams to design, implement, test, and validate a system",
+        "Meet with business and system owners to understand and document desired system requirements",
+        "Work with business users to gather requirements, write functional and technical specifications",
+        "Work with business users and analysts to define use cases",
+        "Design and develop new code and/or support operations, maintenance, and enhancements of existing code",
+        "Develop conceptual and technical design including use of OOA and OOD techniques",
+        "Conduct multiple levels of testing including unit, system, integration and performance",
+        "Effectively model organization business processes and integrate them with existing Enterprise systems and capabilities",
+        "Estimate and plan iterative / agile releases",
+        "Mentor junior team members",
+        "Work closely with technical project leadership and client to plan, develop, and deliver system modernization, enhancement, and operations and maintenance capabilities"
       ]
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "coheretechnology-applytojob-com-apply-q8fi70hlpt-java-full-stack-engineer",
+    "id": "www-snagajob-com-jobs-1170237927",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "QiIcdXunr9k14ynrAAAAAA==",
+    "job_title": "Mid-Level java developer",
+    "employer_name": "Twenty First Systems Inc.",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Snagajob",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.snagajob.com/jobs/1170611696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1170611696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Location: Arlington,VA,United States\n\nJOB TITLE – Mid-Level Java developer\n\nLocation: Arlington, VA; Bethesda, MD\n\nTravel: < 5%\n\nStart Date: Immediately\n\nClearance Requirement: Public Trust\n\nTAX TERM:- C2C, W2\n\nProject Duration:-1 Year+\n\nHourly Rate-70$\n\nVisa Status:- Must be a U.S. Citizen or U.S. Legal Permanent Resident(GC/EAD)\n\nJob Summary: The Senior Associate, Technology is a member of the project team who takes responsibility that will include coding, unit testing, using design patterns, learning new technologies, and becoming an expert in one part of the system.\n\nQualified applicants must be detail-oriented, result-driven individuals who work well within team environments and have good interpersonal skills, as well as good client interaction skills.\n\nResponsibilities:\n• Design and develop new code and/or support operations, maintenance, and enhancements of existing code.\n• Develop conceptual and technical design including use of OOA and OOD techniques.\n• Conduct multiple levels of testing including unit, system, integration and performance.\n\nExperience Guidelines:\n• At least 5+ years of relevant work experience.\n• Strong problem identification and analytical skills\n• Ability to plan and manage time and resources, establish priorities and meet goals\n• Must be detail-oriented and proactive about communicating status and progress.\n• Possession of excellent oral and written communication skills including the ability to create and deliverclear reports and documentation.\n• Experience working in small to medium-sized teams\n• Experience developing software in Java (including JSP and servlets) and JavaScript.\n• Experience working in a Unix or Linux environment.\n• Experience developing software involving database queries, e.g. SQL.\n• Desired but not required experience includes proficiency with Python, Perl, shell scripting (e.g. Bash),distributed computing (e.g., Hadoop), and information retrieval, text mining, or other analytical\n\nRequired Skills:\n• Java, J2EE, Maven, Jenkins, SVN, Shell Scripting, POM files, and eclipse with various plug-in required\n• Proficient in Spring MVC, Spring Core, Hibernate, JSP, JSF, JQuery, Java Script\n• Experience with Amazon Web Services(AWS)\n• Implementing Database Change processes\n• Linux, Jboss, Tomcat, Mark Logic, Oracle\n\nEducation:\nBachelor’s Degree required from college or University\n\nAbout Our Client:-\n\nOur client is a leading provider of consult¬ing, technology, and marketing services to a wide array of U.S. governmental agencies. Focused on driving long-term change and transforming the citizen experience, we use technology to help agencies become more accessible and transparent. With a track record of delivering mission-critical solutions and the ability to leverage commercial best practices, they serve as trusted advisers to government agencies such as the Federal Bureau of Investigation, Library of Congress, National Institutes of Health, United States Department of Health and Human Services, and United States Department of Homeland Security.\n\nSapient is a registered service mark of Sapient Corporation.\n• Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this role, which include hearing, speaking, typing, and occasionally moving and/or lifting up to 15 pounds.\n\nOur client is an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, orientation, national origin, disability, or protected veteran status.\n\nLocation: Arlington,VA,United States\n\nJOB TITLE – Mid-Level Java developer\n\nLocation: Arlington, VA; Bethesda, MD\n\nTravel: < 5%\n\nStart Date: Immediately\n\nClearance Requirement: Public Trust\n\nTAX TERM:- C2C, W2\n\nProject Duration:-1 Year+\n\nHourly Rate-70$\n\nVisa Status:- Must be a U.S. Citizen or U.S. Legal Permanent Resident(GC/EAD)\n\nJob Summary: The Senior Associate, Technology is a member of the project team who takes responsibility that will include coding, unit testing, using design patterns, learning new technologies, and becoming an expert in one part of the system.\n\nQualified applicants must be detail-oriented, result-driven individuals who work well within team environments and have good interpersonal skills, as well as good client interaction skills.\n\nResponsibilities:\n• Design and develop new code and/or support operations, maintenance, and enhancements of existing code.\n• Develop conceptual and technical design including use of OOA and OOD techniques.\n• Conduct multiple levels of testing including unit, system, integration and performance.\n\nExperience Guidelines:\n• At least 5+ years of relevant work experience.\n• Strong problem identification and analytical skills\n• Ability to plan and manage time and resources, establish priorities and meet goals\n• Must be detail-oriented and proactive about communicating status and progress.\n• Possession of excellent oral and written communication skills including the ability to create and deliverclear reports and documentation.\n• Experience working in small to medium-sized teams\n• Experience developing software in Java (including JSP and servlets) and JavaScript.\n• Experience working in a Unix or Linux environment.\n• Experience developing software involving database queries, e.g. SQL.\n• Desired but not required experience includes proficiency with Python, Perl, shell scripting (e.g. Bash),distributed computing (e.g., Hadoop), and information retrieval, text mining, or other analytical\n\nRequired Skills:\n• Java, J2EE, Maven, Jenkins, SVN, Shell Scripting, POM files, and eclipse with various plug-in required\n• Proficient in Spring MVC, Spring Core, Hibernate, JSP, JSF, JQuery, Java Script\n• Experience with Amazon Web Services(AWS)\n• Implementing Database Change processes\n• Linux, Jboss, Tomcat, Mark Logic, Oracle\n\nEducation:\nBachelor’s Degree required from college or University\n\nAbout Our Client:-\n\nOur client is a leading provider of consult¬ing, technology, and marketing services to a wide array of U.S. governmental agencies. Focused on driving long-term change and transforming the citizen experience, we use technology to help agencies become more accessible and transparent. With a track record of delivering mission-critical solutions and the ability to leverage commercial best practices, they serve as trusted advisers to government agencies such as the Federal Bureau of Investigation, Library of Congress, National Institutes of Health, United States Department of Health and Human Services, and United States Department of Homeland Security.\n\nSapient is a registered service mark of Sapient Corporation.\n• Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this role, which include hearing, speaking, typing, and occasionally moving and/or lifting up to 15 pounds.\n\nOur client is an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, orientation, national origin, disability, or protected veteran status.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Arlington, MD",
+    "job_city": "Baltimore",
+    "job_state": "Maryland",
+    "job_country": "US",
+    "job_latitude": 39.3481987,
+    "job_longitude": -76.6815487,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQiIcdXunr9k14ynrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Visa Status:- Must be a U.S. Citizen or U.S. Legal Permanent Resident(GC/EAD)",
+        "Job Summary: The Senior Associate, Technology is a member of the project team who takes responsibility that will include coding, unit testing, using design patterns, learning new technologies, and becoming an expert in one part of the system",
+        "Qualified applicants must be detail-oriented, result-driven individuals who work well within team environments and have good interpersonal skills, as well as good client interaction skills",
+        "At least 5+ years of relevant work experience",
+        "Strong problem identification and analytical skills",
+        "Ability to plan and manage time and resources, establish priorities and meet goals",
+        "Must be detail-oriented and proactive about communicating status and progress",
+        "Possession of excellent oral and written communication skills including the ability to create and deliverclear reports and documentation",
+        "Experience working in small to medium-sized teams",
+        "Experience developing software in Java (including JSP and servlets) and JavaScript",
+        "Experience working in a Unix or Linux environment",
+        "Experience developing software involving database queries, e.g. SQL",
+        "Java, J2EE, Maven, Jenkins, SVN, Shell Scripting, POM files, and eclipse with various plug-in required",
+        "Proficient in Spring MVC, Spring Core, Hibernate, JSP, JSF, JQuery, Java Script",
+        "Experience with Amazon Web Services(AWS)",
+        "Implementing Database Change processes",
+        "Linux, Jboss, Tomcat, Mark Logic, Oracle",
+        "Bachelor’s Degree required from college or University",
+        "Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this role, which include hearing, speaking, typing, and occasionally moving and/or lifting up to 15 pounds",
+        "Clearance Requirement: Public Trust",
+        "Visa Status:- Must be a U.S. Citizen or U.S. Legal Permanent Resident(GC/EAD)",
+        "Job Summary: The Senior Associate, Technology is a member of the project team who takes responsibility that will include coding, unit testing, using design patterns, learning new technologies, and becoming an expert in one part of the system",
+        "Qualified applicants must be detail-oriented, result-driven individuals who work well within team environments and have good interpersonal skills, as well as good client interaction skills",
+        "At least 5+ years of relevant work experience",
+        "Strong problem identification and analytical skills",
+        "Ability to plan and manage time and resources, establish priorities and meet goals",
+        "Must be detail-oriented and proactive about communicating status and progress",
+        "Possession of excellent oral and written communication skills including the ability to create and deliverclear reports and documentation",
+        "Experience working in small to medium-sized teams",
+        "Experience developing software in Java (including JSP and servlets) and JavaScript",
+        "Experience working in a Unix or Linux environment",
+        "Experience developing software involving database queries, e.g. SQL",
+        "Java, J2EE, Maven, Jenkins, SVN, Shell Scripting, POM files, and eclipse with various plug-in required",
+        "Proficient in Spring MVC, Spring Core, Hibernate, JSP, JSF, JQuery, Java Script",
+        "Experience with Amazon Web Services(AWS)",
+        "Implementing Database Change processes",
+        "Linux, Jboss, Tomcat, Mark Logic, Oracle",
+        "Bachelor’s Degree required from college or University"
+      ],
+      "Benefits": [
+        "Hourly Rate-70$",
+        "Hourly Rate-70$"
+      ],
+      "Responsibilities": [
+        "Design and develop new code and/or support operations, maintenance, and enhancements of existing code",
+        "Develop conceptual and technical design including use of OOA and OOD techniques",
+        "Conduct multiple levels of testing including unit, system, integration and performance",
+        "Design and develop new code and/or support operations, maintenance, and enhancements of existing code",
+        "Develop conceptual and technical design including use of OOA and OOD techniques",
+        "Conduct multiple levels of testing including unit, system, integration and performance"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-snagajob-com-jobs-1170611696",
     "_source": "new_jobs"
   },
   {
@@ -837,9 +951,9 @@
     "job_latitude": 32.9412363,
     "job_longitude": -97.1341783,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DraGNAITkw8TogP8NAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 132000,
@@ -1105,8 +1219,8 @@
     "job_longitude": -94.1629938,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCyeJ3-dz1DwxWq8-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
@@ -1227,9 +1341,9 @@
     "job_latitude": 36.9484528,
     "job_longitude": -81.084811,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJ0_W6Go6c2QdyyxBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 105716,
@@ -1396,8 +1510,8 @@
     "job_longitude": -80.3341312,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD-16unI8UMwUwyThAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1536,116 +1650,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "pLjpGx04r40mCFU1AAAAAA==",
-    "job_title": "Backend Java, Spring, Springboot, Hibernate, Rest/Soap Engineer",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Milpitas,CA?jid=e22f7a35286c1584&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Milpitas,CA?jid=e22f7a35286c1584&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Jobs.appcast.io",
-        "apply_link": "https://jobs.appcast.io/walmart/backend-java-spring-springboot-hibernate-rest-soap-engineer/51766736259?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobcase",
-        "apply_link": "https://www.jobcase.com/jobs/view/n/U-123395498606?jlsrc=3&utm_term=Backend+Java,+Spring,+Springboot,+Hibernate,+Rest/Soap+Engineer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Summary...\n\nWhat you'll do...\n\nOn the Membership Experience Engineering team at Walmart, we provide technology to power shopping journeys that help hundreds of millions of customers live better – be it busy families getting groceries easily, new parents welcoming a new baby, organizing a new home or anyone planning a fun party. We strive to create the best shopping experience anywhere, anytime, meeting customers' evolving needs and expectations.\n\nWalmart+ is pioneering the way people experience online and in-store shopping. We are looking for an experienced engineer to help us design and improve customer membership experience and build a scalable platform.\n\nAbout Team:\nOur team works closely with our US stores and eCommerce business to better serve customers by empowering team members, stores, and merchants with technological innovation. From groceries and entertainment to sporting goods and crafts, Walmart U.S. offers an extensive selection that our customers value, whether they shop online at Walmart.com, through one of our mobile apps, or in-store. Focus areas include customers, stores and employees, in-store service, merchant tools, merchant data science, and search and personalization.\n\nWhat you'll do:\n• Help build the next generation of platform supporting Walmart plus, create applications that serve over 100 million customers, and build high-volume servers to support business.\n• Harness passion for technology and advanced-level knowledge, and help build highly-scalable performant solutions.\n• Make use of advanced-level knowledge of algorithms, Walmart's tech ecosystem, core computer science concepts and ability to apply knowledge to real world systems.\n• Without direct assistance, make the most of ability to recognize and match patterns from different areas of computer science in production systems and hone skill in making architectural decisions.\n• Employ deep knowledge across several of these areas: data processing, programming languages, databases, networking and operating systems.\n• Design and implement efficient monitoring systems for cloud services in a production environment.\n• Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on service operations and quality.\n• Develop tools and/or contribute to automation of repetitive tasks to improve productivity and reduce errors/incidents.\n• 5% travel to various unanticipated domestic/international locations\n• Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity by incorporating these into the development and implementation of business plans; using the Open Door Policy; and demonstrating and assisting others with how to apply these in executing business processes and practices.\n• Troubleshoot production issues for BE services of W+ platform by reviewing, analyzing information impact, and work on the resolution.\n• Design, develop Open Observe (SQL like), Prometheus or similar telemetry dashboards to monitor the W+ platform\n• Collaborate with cross-functional teams to define, design, and ship new features\n\nWhat you'll bring:\n• Experience designing and implementing RESTful microservices and stream processing services using Java 17/21, Spring Boot, Maven, and Tomcat 9.\n• Deep knowledge in using Java, ensuring high performance and reliability.\n• Expertise in creating and optimizing database schemas, utilizing best practices and software design patterns.\n• Writing comprehensive unit and functional test cases using JUnit and Mockito framework.\n• Experience in utilizing RDBMS, distributed, and in-memory cache for application development.\n• Knowledge in designing and developing ecommerce web-based applications and features such as profile membership, add to cart, shipping, payment, and order management.\n• Ability to implement event-driven architecture using Kafka streaming platform for application development.\n• Expertise at managing source code using Git and deploy applications using cloud services.\n• Deploy and manage containerized workloads in Kubernetes across public and private clouds in a large-scale enterprise environment.\n• Configure APM dashboards, set up alerting, and monitor applications using Grafana and Prometheus.\n• Experience debugging and troubleshooting distributed applications in production environments.\n• Working knowledge of private and public cloud technologies.\n• Being a team player, critical thinker, and exhibiting problem-solving skills\n• Having optimal time-management skills and interpersonal and communication skills\n\nAbout Walmart Global Tech\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. That’s what we do at Walmart Global Tech. We’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\n\nWalmart’s culture is a competitive advantage, and it’s fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\n‎\n\n‎\n\n‎\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\n‎\n\nFor information about PTO, see https://one.walmart.com/notices.\n\n‎\n\n‎\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\n‎\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\n‎\n\nFor information about benefits and eligibility, see One.Walmart.\n\n‎\nThe annual salary range for this position is $117,000.00-$234,000.00\n\n‎\nAdditional compensation includes annual or quarterly performance bonuses.\n\n‎\nAdditional compensation for certain positions may also include:\n\n‎\n\n‎\n- Stock\n\n‎\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.Option 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1345 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Milpitas, CA",
-    "job_city": "Milpitas",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.4323341,
-    "job_longitude": -121.8995741,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpLjpGx04r40mCFU1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 117000,
-    "job_max_salary": 234000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Experience designing and implementing RESTful microservices and stream processing services using Java 17/21, Spring Boot, Maven, and Tomcat 9",
-        "Deep knowledge in using Java, ensuring high performance and reliability",
-        "Expertise in creating and optimizing database schemas, utilizing best practices and software design patterns",
-        "Writing comprehensive unit and functional test cases using JUnit and Mockito framework",
-        "Experience in utilizing RDBMS, distributed, and in-memory cache for application development",
-        "Knowledge in designing and developing ecommerce web-based applications and features such as profile membership, add to cart, shipping, payment, and order management",
-        "Ability to implement event-driven architecture using Kafka streaming platform for application development",
-        "Expertise at managing source code using Git and deploy applications using cloud services",
-        "Working knowledge of private and public cloud technologies",
-        "Being a team player, critical thinker, and exhibiting problem-solving skills",
-        "Having optimal time-management skills and interpersonal and communication skills",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
-        "Option 2: 5 years’ experience in software engineering or related area",
-        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
-        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $117,000.00-$234,000.00",
-        "Additional compensation includes annual or quarterly performance bonuses"
-      ],
-      "Responsibilities": [
-        "Help build the next generation of platform supporting Walmart plus, create applications that serve over 100 million customers, and build high-volume servers to support business",
-        "Harness passion for technology and advanced-level knowledge, and help build highly-scalable performant solutions",
-        "Make use of advanced-level knowledge of algorithms, Walmart's tech ecosystem, core computer science concepts and ability to apply knowledge to real world systems",
-        "Without direct assistance, make the most of ability to recognize and match patterns from different areas of computer science in production systems and hone skill in making architectural decisions",
-        "Employ deep knowledge across several of these areas: data processing, programming languages, databases, networking and operating systems",
-        "Design and implement efficient monitoring systems for cloud services in a production environment",
-        "Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on service operations and quality",
-        "Develop tools and/or contribute to automation of repetitive tasks to improve productivity and reduce errors/incidents",
-        "5% travel to various unanticipated domestic/international locations",
-        "Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity by incorporating these into the development and implementation of business plans; using the Open Door Policy; and demonstrating and assisting others with how to apply these in executing business processes and practices",
-        "Troubleshoot production issues for BE services of W+ platform by reviewing, analyzing information impact, and work on the resolution",
-        "Design, develop Open Observe (SQL like), Prometheus or similar telemetry dashboards to monitor the W+ platform",
-        "Collaborate with cross-functional teams to define, design, and ship new features",
-        "Deploy and manage containerized workloads in Kubernetes across public and private clouds in a large-scale enterprise environment",
-        "Configure APM dashboards, set up alerting, and monitor applications using Grafana and Prometheus",
-        "Experience debugging and troubleshooting distributed applications in production environments"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-backend-java-spring-springboot-hibernate-rest-soap-engineer-in-milpitas-ca",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "uUaNpfFBFVqRsfLuAAAAAA==",
     "job_title": "Java Developer III",
     "employer_name": "Old Dominion Freight Line, Inc.",
@@ -1747,6 +1751,71 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-old-dominion-freight-line-job-java-developer-iii-in-glenville-ny",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "YAuVytGwV7vFHw5UAAAAAA==",
+    "job_title": "Entry Level Java/C++ Developer",
+    "employer_name": "SynergisticIT",
+    "employer_logo": null,
+    "employer_website": "https://www.synergisticit.com",
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/java-developer?id=2454058985&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/java-developer?id=2454058985&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "SYNERGISTICIT knows the job market is tough, with nearly 600,000 tech layoffs in the past two years. This has flooded the market with many laid-off tech workers competing with current jobseekers. For entry-level jobseekers to get interviews and jobs, they need to stand out by having strong skills and knowledge of the latest technologies.\nSince 2010, we've helped jobseekers stand out by preparing them with the skills and experience needed to excel in interviews and at work. At SynergisticIT, we don't just help you find a job-we help you build a career.\nOpen Positions We welcome candidates with all types of visas and U.S. citizens to apply.\nWe match clients with candidates who are ready to perform from day one. In today's economy, clients don't want to spend time and resources on training entry-level hires. That's why many experienced and new tech workers remain unemployed.\nWith remote work becoming common, clients can hire talent from anywhere. This makes it even more important for jobseekers to improve their skills and meet client expectations.\nWe understand the gap between what employers need and what jobseekers can offer. That's why we've helped thousands of candidates secure jobs with top companies like Apple, Google, PayPal, Western Union, Client, Visa, Walmart Labs, and more.\nWho Should Apply? Recent graduates in Computer Science, Engineering, Mathematics, or Statistics who want a career in IT.\nIf you get emails from our skill enhancement team and are not interested, please ask to be removed from their list. Their database is shared with the client servicing team.\n\nplease check the below links to see success outcomes of our candidates\nSynergisticit Pics /Salaries of Successful Candidates\n\nSynergisticit at Oracle Cloudworld 2023\n\nSynergisticit at Gartner Data & Analytics summit\n\nWhy do Tech Companies not Hire recent Computer Science Graduates | SynergisticIT\n\nTechnical Skills or Experience? | Which one is important to get a Job? | SynergisticIT\n\nIf you have the right skills and industry experience, please apply!\nInterview Preparation Visit this link to prepare for interviews:\nRequired Skills for Java/Software Programmers\nBachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, IT, or Information Systems. Highly motivated, eager to learn, and curious about technology. Experience with Java programming and understanding of the software development life cycle. Project experience with the required skills. Knowledge of Core Java, JavaScript, C++, or software programming. Familiarity with Spring Boot, Microservices, Docker, Jenkins, and REST APIs. Strong written and verbal communication skills. Required Skills for Data Science/Machine Learning Bachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, IT, or Information Systems. Project experience with relevant technologies. Highly motivated, eager to learn, and curious about technology. Experience with Java programming and understanding of the software development life cycle. Knowledge of Statistics, SAS, Python, Computer Vision, and data visualization tools. Strong written and verbal communication skills. Preferred Skills For Data Science/Machine Learning roles: NLP, Text Mining, Tableau, Power BI, and Time Series Analysis.\nImportant Note Clients require real-world experience and relevant skills, even for junior or entry-level positions. Additional skills and hands-on project work with clients are crucial for being selected. If you lack the necessary skills or project experience, you can opt for skill enhancement programs to improve your qualifications. No third-party candidates or c2c candidates, please. Apply only through the job posting. If you receive emails from our skill enhancement team and are not interested, please ask them to remove you from their list. Their database is shared with the client servicing team.",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Stockton, CA",
+    "job_city": "Stockton",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.9575104,
+    "job_longitude": -121.29247369999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYAuVytGwV7vFHw5UAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Required Skills for Java/Software Programmers",
+        "Bachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, IT, or Information Systems",
+        "Highly motivated, eager to learn, and curious about technology",
+        "Experience with Java programming and understanding of the software development life cycle",
+        "Project experience with the required skills",
+        "Knowledge of Core Java, JavaScript, C++, or software programming",
+        "Familiarity with Spring Boot, Microservices, Docker, Jenkins, and REST APIs",
+        "Strong written and verbal communication skills",
+        "Required Skills for Data Science/Machine Learning Bachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, IT, or Information Systems",
+        "Project experience with relevant technologies",
+        "Highly motivated, eager to learn, and curious about technology",
+        "Experience with Java programming and understanding of the software development life cycle",
+        "Knowledge of Statistics, SAS, Python, Computer Vision, and data visualization tools",
+        "Strong written and verbal communication skills",
+        "Important Note Clients require real-world experience and relevant skills, even for junior or entry-level positions",
+        "Additional skills and hands-on project work with clients are crucial for being selected"
+      ],
+      "Benefits": [
+        "Synergisticit at Oracle Cloudworld 2023"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-whatjobs-com-jobs-java-developer",
     "_source": "new_jobs"
   },
   {
@@ -1884,188 +1953,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "_E5RfTDLO_6taZaBAAAAAA==",
-    "job_title": "Java Software Engineer",
-    "employer_name": "Charles Schwab",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLZJv0c4eUiAPTL24rSh52v-541rhsjwKrZ1E&s=0",
-    "employer_website": "https://www.schwab.com",
-    "job_publisher": "Schwab Jobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.schwabjobs.com/job/southlake/java-software-engineer/33727/88802726288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Schwab Jobs",
-        "apply_link": "https://www.schwabjobs.com/job/southlake/java-software-engineer/33727/88802726288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Charles-Schwab/Job/Java-Software-Engineer/-in-Southlake,TX?jid=876615227e103943&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=14988fb678bad08b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "The Muse",
-        "apply_link": "https://www.themuse.com/jobs/charlesschwab/java-software-engineer-adb2a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/043121f6e55862ee72f79b30129283e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/java-software-engineer-at-charles-schwab-4361075568?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Experteer",
-        "apply_link": "https://us.experteer.com/career/view-jobs/java-software-engineer-southlake-tx-usa-55082136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/267645c7-b381-4406-8761-51a95bce4c94?q=Information+Engineering&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Your opportunity\n\nAt Schwab, you’re empowered to make an impact on your career. Here, innovative thought meets creative problem solving, helping us “challenge the status quo” and transform the finance industry together.\n\nWe believe in the importance of in-office collaboration and fully intend for the selected candidate for this role to work on site in the specified location.\n\nSchwab Technology Services enables the future of how clients manage their money by providing innovative and reliable technology products and services as a part of our ongoing commitment to democratize access to investing and financial planning.\n\nWealth and Advice Solutions Technology (WAS Tech) is an organization within Schwab Technology Services aligned to support the technology needs of Wealth and Advice Solutions (WAS) business which is a growth area for Schwab.\n\nThis newly created role will support the future growth of the WAS business. As a Java Software Engineer, you will enable WAS Tech to achieve consistent, predictable, high-quality delivery by implementing best practices, tools, metrics, automation frameworks, and provide oversight in the areas of software development and testing. You’ll serve as a strong and versatile hands-on technical engineer. You will deliver high-quality solutions that meet business objectives in a flexible, collaborative, and rapidly changing environment.\n\nYou will play a critical role in supporting key stakeholders across the WAS organization which is focused on high-net worth and ultra-high net worth retail investors. Supported business functions span Schwab’s Wealth and Investment Solutions including Schwab Wealth Advisory. You will be working with a team of talented and highly motivated technologists that strive to make technology a strategic differentiator for Schwab’s WAS business and their clients.\nWhat you have\n\n• BA/BS degree in Computer Science or equivalent.\n\n• 6+ years of hands-on software development experience.\n\n• Solid understanding of core Computer Science concepts, including data structures, algorithms, design\n\npatterns, and object-oriented design principles.\n\n• Strong experience developing RESTful APIs with Java and Spring Boot.\n\n• Experience working with relational databases (such as SQL Server or PostgreSQL) and proficiency in SQL for\n\ndata modeling and querying.\n\n• Application development utilizing Test-Driven Development (TDD) practices, including unit testing.\n\n• Experience writing unit and integration tests.\n\n• Understanding of Agile software development principles and experience working as part of a Scrum-based\n\ndelivery team.\n\n• Experience with version control and CI/CD tools (such as GitHub).\n\n• Exposure to cloud-native enterprise applications deployed in PCF, AWS, GCP, or Azure.\n\n• Ability to troubleshoot and resolve issues affecting production applications.\n\n• Good communication skills and ability to collaborate with team members.\n\n• Effective time management skills in a fast-paced environment.\n\nPreferred Qualifications:\n\n• Master’s degree in Computer Science or equivalent.\n\n• Experience in Wealth Management and/or Financial Services industry.\n\nIn addition to the salary range, this role is also eligible for bonus or incentive opportunities\n\nWhat’s in it for you\n\nAt Schwab, you’re empowered to shape your future. We champion your growth through meaningful work, continuous learning, and a culture of trust and collaboration—so you can build the skills to make a lasting impact. Our Hybrid Work and Flexibility approach balances our ongoing commitment to workplace flexibility, serving our clients, and our strong belief in the value of being together in person on a regular basis.\n\nWe offer a competitive benefits package that takes care of the whole you – both today and in the future:\n• 401(k) with company match and Employee stock purchase plan\n• Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions\n• Paid parental leave and family building benefits\n• Tuition reimbursement\n• Health, dental, and vision insurance",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Southlake, TX",
-    "job_city": "Southlake",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 32.9412363,
-    "job_longitude": -97.1341783,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_E5RfTDLO_6taZaBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 57.69,
-    "job_max_salary": 67.31,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "BA/BS degree in Computer Science or equivalent",
-        "6+ years of hands-on software development experience",
-        "Solid understanding of core Computer Science concepts, including data structures, algorithms, design",
-        "patterns, and object-oriented design principles",
-        "Strong experience developing RESTful APIs with Java and Spring Boot",
-        "Experience working with relational databases (such as SQL Server or PostgreSQL) and proficiency in SQL for",
-        "data modeling and querying",
-        "Experience writing unit and integration tests",
-        "Understanding of Agile software development principles and experience working as part of a Scrum-based",
-        "delivery team",
-        "Experience with version control and CI/CD tools (such as GitHub)",
-        "Exposure to cloud-native enterprise applications deployed in PCF, AWS, GCP, or Azure",
-        "Ability to troubleshoot and resolve issues affecting production applications",
-        "Good communication skills and ability to collaborate with team members",
-        "Effective time management skills in a fast-paced environment"
-      ],
-      "Benefits": [
-        "In addition to the salary range, this role is also eligible for bonus or incentive opportunities",
-        "We offer a competitive benefits package that takes care of the whole you – both today and in the future:",
-        "401(k) with company match and Employee stock purchase plan",
-        "Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions",
-        "Paid parental leave and family building benefits",
-        "Tuition reimbursement",
-        "Health, dental, and vision insurance"
-      ],
-      "Responsibilities": [
-        "As a Java Software Engineer, you will enable WAS Tech to achieve consistent, predictable, high-quality delivery by implementing best practices, tools, metrics, automation frameworks, and provide oversight in the areas of software development and testing",
-        "You’ll serve as a strong and versatile hands-on technical engineer",
-        "You will deliver high-quality solutions that meet business objectives in a flexible, collaborative, and rapidly changing environment",
-        "You will play a critical role in supporting key stakeholders across the WAS organization which is focused on high-net worth and ultra-high net worth retail investors",
-        "Supported business functions span Schwab’s Wealth and Investment Solutions including Schwab Wealth Advisory",
-        "You will be working with a team of talented and highly motivated technologists that strive to make technology a strategic differentiator for Schwab’s WAS business and their clients",
-        "Application development utilizing Test-Driven Development (TDD) practices, including unit testing"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-schwabjobs-com-job-southlake-java-software-engineer-33727-88802726288",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "YAuVytGwV7vFHw5UAAAAAA==",
-    "job_title": "Entry Level Java/C++ Developer",
-    "employer_name": "SynergisticIT",
-    "employer_logo": null,
-    "employer_website": "https://www.synergisticit.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/java-developer?id=2454058985&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/java-developer?id=2454058985&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "SYNERGISTICIT knows the job market is tough, with nearly 600,000 tech layoffs in the past two years. This has flooded the market with many laid-off tech workers competing with current jobseekers. For entry-level jobseekers to get interviews and jobs, they need to stand out by having strong skills and knowledge of the latest technologies.\nSince 2010, we've helped jobseekers stand out by preparing them with the skills and experience needed to excel in interviews and at work. At SynergisticIT, we don't just help you find a job-we help you build a career.\nOpen Positions We welcome candidates with all types of visas and U.S. citizens to apply.\nWe match clients with candidates who are ready to perform from day one. In today's economy, clients don't want to spend time and resources on training entry-level hires. That's why many experienced and new tech workers remain unemployed.\nWith remote work becoming common, clients can hire talent from anywhere. This makes it even more important for jobseekers to improve their skills and meet client expectations.\nWe understand the gap between what employers need and what jobseekers can offer. That's why we've helped thousands of candidates secure jobs with top companies like Apple, Google, PayPal, Western Union, Client, Visa, Walmart Labs, and more.\nWho Should Apply? Recent graduates in Computer Science, Engineering, Mathematics, or Statistics who want a career in IT.\nIf you get emails from our skill enhancement team and are not interested, please ask to be removed from their list. Their database is shared with the client servicing team.\n\nplease check the below links to see success outcomes of our candidates\nSynergisticit Pics /Salaries of Successful Candidates\n\nSynergisticit at Oracle Cloudworld 2023\n\nSynergisticit at Gartner Data & Analytics summit\n\nWhy do Tech Companies not Hire recent Computer Science Graduates | SynergisticIT\n\nTechnical Skills or Experience? | Which one is important to get a Job? | SynergisticIT\n\nIf you have the right skills and industry experience, please apply!\nInterview Preparation Visit this link to prepare for interviews:\nRequired Skills for Java/Software Programmers\nBachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, IT, or Information Systems. Highly motivated, eager to learn, and curious about technology. Experience with Java programming and understanding of the software development life cycle. Project experience with the required skills. Knowledge of Core Java, JavaScript, C++, or software programming. Familiarity with Spring Boot, Microservices, Docker, Jenkins, and REST APIs. Strong written and verbal communication skills. Required Skills for Data Science/Machine Learning Bachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, IT, or Information Systems. Project experience with relevant technologies. Highly motivated, eager to learn, and curious about technology. Experience with Java programming and understanding of the software development life cycle. Knowledge of Statistics, SAS, Python, Computer Vision, and data visualization tools. Strong written and verbal communication skills. Preferred Skills For Data Science/Machine Learning roles: NLP, Text Mining, Tableau, Power BI, and Time Series Analysis.\nImportant Note Clients require real-world experience and relevant skills, even for junior or entry-level positions. Additional skills and hands-on project work with clients are crucial for being selected. If you lack the necessary skills or project experience, you can opt for skill enhancement programs to improve your qualifications. No third-party candidates or c2c candidates, please. Apply only through the job posting. If you receive emails from our skill enhancement team and are not interested, please ask them to remove you from their list. Their database is shared with the client servicing team.",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Stockton, CA",
-    "job_city": "Stockton",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.9575104,
-    "job_longitude": -121.29247369999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYAuVytGwV7vFHw5UAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Required Skills for Java/Software Programmers",
-        "Bachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, IT, or Information Systems",
-        "Highly motivated, eager to learn, and curious about technology",
-        "Experience with Java programming and understanding of the software development life cycle",
-        "Project experience with the required skills",
-        "Knowledge of Core Java, JavaScript, C++, or software programming",
-        "Familiarity with Spring Boot, Microservices, Docker, Jenkins, and REST APIs",
-        "Strong written and verbal communication skills",
-        "Required Skills for Data Science/Machine Learning Bachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, IT, or Information Systems",
-        "Project experience with relevant technologies",
-        "Highly motivated, eager to learn, and curious about technology",
-        "Experience with Java programming and understanding of the software development life cycle",
-        "Knowledge of Statistics, SAS, Python, Computer Vision, and data visualization tools",
-        "Strong written and verbal communication skills",
-        "Important Note Clients require real-world experience and relevant skills, even for junior or entry-level positions",
-        "Additional skills and hands-on project work with clients are crucial for being selected"
-      ],
-      "Benefits": [
-        "Synergisticit at Oracle Cloudworld 2023"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-java-developer",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "UELl-TsZGdZ6hJqiAAAAAA==",
     "job_title": "Staff, Software Engineer - Backend Java Associate Well Being",
     "employer_name": "Walmart",
@@ -2098,9 +1985,9 @@
     "job_latitude": 36.100950499999996,
     "job_longitude": -93.9914302,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUELl-TsZGdZ6hJqiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 110000,
@@ -2218,8 +2105,8 @@
     "job_longitude": -81.5607464,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_BsEZpG4pD5yLQImAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 105716,
@@ -2282,6 +2169,138 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-old-dominion-freight-line-job-java-developer-iii-in-parkersburg-wv",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "9K9fbG2saBggamCHAAAAAA==",
+    "job_title": "Software Engineer III- Java Developer",
+    "employer_name": "Truist",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGOSlEACS2k1d_EiPShO2gSxsH1EPnhrD9f_P&s=0",
+    "employer_website": "https://www.truist.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Truist/Job/Software-Engineer-III-Java-Developer/-in-Raleigh,NC?jid=7dda4a2c202b30a3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Truist/Job/Software-Engineer-III-Java-Developer/-in-Raleigh,NC?jid=7dda4a2c202b30a3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=5c22fcdee9005811&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/nuU2Z_NmKv4MnNzNURf2PrYK_MS4vlkVAd6UZff63ep8v5ArYqm2oQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-iii-java-developer-at-truist-4366289986?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/software-engineer-iii-java-developer_42709c66-19f8-4516-b5bb-01934c36ceef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "| USNLX Veterans Jobs - National Labor Exchange",
+        "apply_link": "https://veterans.usnlx.com/raleigh-nc/software-engineer-iii-java-developer/9026A2EC576C4D85A827A5534A2BA740/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/69788e8939f7f96cc6d10126?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Sonara",
+        "apply_link": "https://www.sonara.ai/job-details/software-engineer-iii--java-developer-at-truist-financial-corporation-a525b18f-9eb6-233a-41ab-0cbcbcc9b85d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communications. If you already have a profile with us, you can log in to check status.\n\nNeed Help?\n\nIf you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email to Accessibility (accommodation requests only; other inquiries won't receive a response).\n\nRegular or Temporary:\nRegular\n\nLanguage Fluency: English (Required)\n\nWork Shift:\n1st shift (United States of America)\n\nPlease review the following job description:\n\nDeliver technically complex solutions. Perform system integration support for all project work. Consult and partner with the business product owners to understand the end goal and offer solutions and recommendations during the design.\n\nESSENTIAL DUTIES AND RESPONSIBILITIES\nFollowing is a summary of the essential functions for this job. Other duties may be performed, both major and minor, which are not mentioned below. Specific activities may change from time to time.\n\n1.Support on-premises vendor developed/supported applications, software integration, perform analysis, configure solutions, using tools specific to the project or the area. Includes standard care/maintenance/updates on Vendor supported applications.\n2. Participate in testing, implementation, maintenance, and escalated support of Truist's most complex solutions.\n3. Lead and participate in applying vendor upgrades/patches, server/DB upgrades, Security remediations, testing, implementation, maintenance, and support of highly complex solutions in adherence to company standards, including robust unit testing and support for subsequent release testing.\n4. Build non-functional monitoring capabilities and provide escalated support for highly complex applications in production.\n5. Responsible for providing warranty support and providing knowledge transfer to production support\n6. Build in and maintain security controls and monitoring in support of company standards.\n7. Typically lead moderately complex projects and participate in larger, more complex initiatives.\n8. Solve complex technical and operational problems. Act as a resource for teammates with less experience\n9. Support Distributed application vulnerability remediation, defined by working with internal groups, and vendor (as needed) Development includes but is not limited to customization, software integration, analysis, configuring solutions, or use tools pertinent to the area, project, or system to configure or generate a solution.\n10. May oversee the work of a small team.\n11. In an Agile environment: Responsible for delivering high quality working software and automating manual/reusable tasks working directly, and engage with, the business from the beginning of the design work. Leverage continuous engineering practices to deliver business value regarding effectiveness of the design. Actively participate in refining user stories. Responsible for design, developing, and maintaining automated unit testing, and supporting integration and functional testing. Responsible for providing automated monitoring capabilities, providing warranty support, and providing knowledge transfer to production support. Develop code in accordance with the acceptance criteria established by the Product Owner.\n\nQUALIFICATIONS\nRequired Qualifications\nThe requirements listed below are representative of the knowledge, skill and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.\n1.Bachelor's Degree and six to ten years of experience or equivalent education and software engineering training or experience\n\n2.In-depth knowledge in information systems and ability to identify, apply, and implement best practices\n3. Understanding of key business processes and competitive strategies related to the IT function\n4.Ability to plan and manage projects and solve complex problems by applying best practices\n5.Ability to provide direction and mentor less experienced teammates. Ability to interpret and convey complex, difficult, or sensitive information\n\nPreferred Qualifications\nDemonstrated experience with the following:\n\n6-10 years of experience with Java, WebSphere, MQ, AIX, and production support\n\nVB.Net, (working knowledge)\nLinux (RHEL)\n\nWindows\nSQL/DB2 database\nTCP IP, TLS (Transport Layer Security), HTTPs\nShell Script/Bash\nGitlab/Github\n\nSmalltalk\n\nOTHER JOB REQUIREMENTS / WORKING CONDITIONS\n\nSitting\nConstantly (More than 50% of the time)\nStanding\nFrequently (25% - 50% of the time)\nWalking\nFrequently (25% - 50% of the time)\nVisual / Audio / Speaking\nAble to access and interpret client information received from the computer and able to hear and speak with individuals in person and on the phone.\nManual Dexterity / Keyboarding\nAble to work standard office equipment, including PC keyboard and mouse, copy/fax machines, and printers.\nAvailability\nAble to work all hours scheduled, including overtime as directed by manager/supervisor and required by business need.\nTravel\nMinimal and up to 10%\n\nGeneral Description of Available Benefits for Eligible Employees of Truist Financial Corporation: All regular teammates (not temporary or contingent workers) working 20 hours or more per week are eligible for benefits, though eligibility for specific benefits may be determined by the division of Truist offering the position.Truist offers medical, dental, vision, life insurance, disability, accidental death and dismemberment, tax-preferred savings accounts, and a 401k plan to teammates. Teammates also receive no less than 10 days of vacation (prorated based on date of hire and by full-time or part-time status) during their first year of employment, along with 10 sick days (also prorated), and paid holidays. For more details on Truist's generous benefit plans, please visit our Benefits site. Depending on the position and division, this job may also be eligible for Truist's defined benefit pension plan, restricted stock units, and/or a deferred compensation plan. As you advance through the hiring process, you will also learn more about the specific benefits available for any non-temporary position for which you apply, based on full-time or part-time status, position, and division of work.\n\nTruist is an Equal Opportunity Employer that does not discriminate on the basis of race, gender, color, religion, citizenship or national origin, age, sexual orientation, gender identity, disability, veteran status, or other classification protected by law. Truist is a Drug Free Workplace.\n\nEEO is the Law E-Verify IER Right to Work",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Raleigh, NC",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_country": "US",
+    "job_latitude": 35.779589699999995,
+    "job_longitude": -78.6381787,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9K9fbG2saBggamCHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Language Fluency: English (Required)",
+        "Support Distributed application vulnerability remediation, defined by working with internal groups, and vendor (as needed) Development includes but is not limited to customization, software integration, analysis, configuring solutions, or use tools pertinent to the area, project, or system to configure or generate a solution",
+        "The requirements listed below are representative of the knowledge, skill and/or ability required",
+        "Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions",
+        "Bachelor's Degree and six to ten years of experience or equivalent education and software engineering training or experience",
+        "In-depth knowledge in information systems and ability to identify, apply, and implement best practices",
+        "Understanding of key business processes and competitive strategies related to the IT function",
+        "Ability to provide direction and mentor less experienced teammates",
+        "Ability to interpret and convey complex, difficult, or sensitive information",
+        "6-10 years of experience with Java, WebSphere, MQ, AIX, and production support",
+        "VB.Net, (working knowledge)",
+        "Frequently (25% - 50% of the time)",
+        "Able to access and interpret client information received from the computer and able to hear and speak with individuals in person and on the phone",
+        "Manual Dexterity / Keyboarding",
+        "Able to work standard office equipment, including PC keyboard and mouse, copy/fax machines, and printers",
+        "Able to work all hours scheduled, including overtime as directed by manager/supervisor and required by business need"
+      ],
+      "Benefits": [
+        "General Description of Available Benefits for Eligible Employees of Truist Financial Corporation: All regular teammates (not temporary or contingent workers) working 20 hours or more per week are eligible for benefits, though eligibility for specific benefits may be determined by the division of Truist offering the position",
+        "Truist offers medical, dental, vision, life insurance, disability, accidental death and dismemberment, tax-preferred savings accounts, and a 401k plan to teammates",
+        "Teammates also receive no less than 10 days of vacation (prorated based on date of hire and by full-time or part-time status) during their first year of employment, along with 10 sick days (also prorated), and paid holidays",
+        "For more details on Truist's generous benefit plans, please visit our Benefits site",
+        "Depending on the position and division, this job may also be eligible for Truist's defined benefit pension plan, restricted stock units, and/or a deferred compensation plan"
+      ],
+      "Responsibilities": [
+        "Deliver technically complex solutions",
+        "Perform system integration support for all project work",
+        "Consult and partner with the business product owners to understand the end goal and offer solutions and recommendations during the design",
+        "Support on-premises vendor developed/supported applications, software integration, perform analysis, configure solutions, using tools specific to the project or the area",
+        "Includes standard care/maintenance/updates on Vendor supported applications",
+        "Participate in testing, implementation, maintenance, and escalated support of Truist's most complex solutions",
+        "Lead and participate in applying vendor upgrades/patches, server/DB upgrades, Security remediations, testing, implementation, maintenance, and support of highly complex solutions in adherence to company standards, including robust unit testing and support for subsequent release testing",
+        "Build non-functional monitoring capabilities and provide escalated support for highly complex applications in production",
+        "Responsible for providing warranty support and providing knowledge transfer to production support",
+        "Build in and maintain security controls and monitoring in support of company standards",
+        "Typically lead moderately complex projects and participate in larger, more complex initiatives",
+        "Solve complex technical and operational problems",
+        "Act as a resource for teammates with less experience",
+        "May oversee the work of a small team",
+        "In an Agile environment: Responsible for delivering high quality working software and automating manual/reusable tasks working directly, and engage with, the business from the beginning of the design work",
+        "Leverage continuous engineering practices to deliver business value regarding effectiveness of the design",
+        "Actively participate in refining user stories",
+        "Responsible for design, developing, and maintaining automated unit testing, and supporting integration and functional testing",
+        "Responsible for providing automated monitoring capabilities, providing warranty support, and providing knowledge transfer to production support",
+        "Develop code in accordance with the acceptance criteria established by the Product Owner",
+        "Ability to plan and manage projects and solve complex problems by applying best practices",
+        "Frequently (25% - 50% of the time)"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-truist-job-software-engineer-iii-java-developer-in-raleigh-nc",
     "_source": "new_jobs"
   }
 ]
