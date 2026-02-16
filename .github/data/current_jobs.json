@@ -56,9 +56,9 @@
     "job_latitude": 41.88325,
     "job_longitude": -87.6323879,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8zWD0FV_9giZtFbZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -159,9 +159,9 @@
     "job_latitude": 38.9960671,
     "job_longitude": -77.0280731,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DC9PR12-IQ8yQ-VS8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
@@ -393,9 +393,9 @@
     "job_latitude": 36.475798,
     "job_longitude": -94.2475489,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dy9LeS63sObaulzUtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
@@ -550,147 +550,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "FyDyb9XgtqdDtC6OAAAAAA==",
-    "job_title": "NodeJS Senior Software Engineer",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/NodeJS-Senior-Software-Engineer/-in-Fayetteville,AR?jid=6d5082e41f254231&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/NodeJS-Senior-Software-Engineer/-in-Fayetteville,AR?jid=6d5082e41f254231&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Jobs.appcast.io",
-        "apply_link": "https://jobs.appcast.io/walmart/nodejs-senior-software-engineer/54461486132?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Summary...\n\nWhat you'll do...Join Walmart Global Tech as a Senior Software Engineer, Backend, where you will build and enhance scalable systems that power seamless digital experiences for millions of customers worldwide. You will work across diverse systems and domains, contributing to the design and development of critical backend services that support Walmart’s digital ecosystem—from checkout and fulfillment to user engagement journeys. About the Team Our team partners closely with our U.S. Stores and Walmart Health & Wellness businesses to better serve customers by empowering associates, pharmacies, and clinics through technological innovation. Whether customers engage with clinicians online via Walmart.com, through our mobile apps, or in-store, Walmart Health & Wellness delivers an extensive suite of services that customers and patients value. What You'll Do\n• Architect, design, and develop scalable backend services and APIs that support complex digital experiences.\n• Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey.\n• Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements.\n• Optimize application performance while ensuring high code quality.\n• Mentor junior engineers and promote knowledge sharing within the team.\n• Advocate for best practices in service architecture, security, and testing.\n• Build and maintain secure, high-performance, fault-tolerant distributed systems.\n• Develop reusable frameworks and components for backend service integrations.\n• Maintain code quality through automated testing, continuous integration, and thorough code reviews.\n• Troubleshoot and resolve production issues across complex system components.\n• Build scalable, reliable systems capable of handling large volumes of traffic and data.\n• Write clean, efficient, maintainable code aligned with engineering best practices.\n• Debug and troubleshoot issues within distributed systems across multiple environments.\n• Contribute to performance optimization, security enhancements, and system resilience.\n• Participate in code reviews and provide constructive feedback to peers.\nWhat You’ll Bring\n• 6–9 years of total experience, including 5+ years in backend engineering and platform development.\n• 5+ years of experience with Java technologies, distributed systems, and large-scale application design and development.\n• Hands-on experience with Spring Boot, REST, Kafka, and Cassandra.\n• Experience with containerization technologies and microservices architecture.\n• Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools.\n• Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications.\n• Strong adherence to SDLC processes and Scrum/Agile methodologies.\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n2501 Se J St, Ste A, Bentonville, AR 72716-3724, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Fayetteville, AR",
-    "job_city": "Fayetteville",
-    "job_state": "Arkansas",
-    "job_country": "US",
-    "job_latitude": 36.0618562,
-    "job_longitude": -94.1579584,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFyDyb9XgtqdDtC6OAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 90000,
-    "job_max_salary": 180000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "6–9 years of total experience, including 5+ years in backend engineering and platform development",
-        "5+ years of experience with Java technologies, distributed systems, and large-scale application design and development",
-        "Hands-on experience with Spring Boot, REST, Kafka, and Cassandra",
-        "Experience with containerization technologies and microservices architecture",
-        "Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools",
-        "Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications",
-        "Strong adherence to SDLC processes and Scrum/Agile methodologies",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
-        "Option 2: 5 years’ experience in software engineering or related area",
-        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses",
-        "Additional compensation for certain positions may also include :"
-      ],
-      "Responsibilities": [
-        "Architect, design, and develop scalable backend services and APIs that support complex digital experiences",
-        "Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey",
-        "Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements",
-        "Optimize application performance while ensuring high code quality",
-        "Mentor junior engineers and promote knowledge sharing within the team",
-        "Advocate for best practices in service architecture, security, and testing",
-        "Build and maintain secure, high-performance, fault-tolerant distributed systems",
-        "Develop reusable frameworks and components for backend service integrations",
-        "Maintain code quality through automated testing, continuous integration, and thorough code reviews",
-        "Troubleshoot and resolve production issues across complex system components",
-        "Build scalable, reliable systems capable of handling large volumes of traffic and data",
-        "Write clean, efficient, maintainable code aligned with engineering best practices",
-        "Debug and troubleshoot issues within distributed systems across multiple environments",
-        "Contribute to performance optimization, security enhancements, and system resilience",
-        "Participate in code reviews and provide constructive feedback to peers"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-walmart-job-nodejs-senior-software-engineer-in-fayetteville-ar",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "gm-WJyJ48Zv7Q_qKAAAAAA==",
-    "job_title": "Senior Software Engineer - Java and NodeJS",
-    "employer_name": "SuperMom",
-    "employer_logo": null,
-    "employer_website": "https://thesupermomcompany.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/stack-developer?id=2455040679&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/stack-developer?id=2455040679&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Senior Software Engineer page is loaded## Senior Software Engineerlocations: SSC Irving TXtime type: Full timeposted on: Posted Todayjob requisition id: R25_ **Who we are**With more than 13,000 stores in the U.S. and 84,500 stores globally, it is no wonder has been named an iconic brand. In addition to 7-Eleven stores, 7-Eleven, Inc. also operates and franchises Speedway, Stripes, Laredo Taco Company and Raise the Roost locations.Since inventing the convenience industry in 1927, 7-Eleven has built a rich 96-year history filled with beloved products like Slurpee, Big Gulp and Big Bite, and fan-favorite holidays like Slurpee Day and Bring Your Own Cup Day. Now, 7-Eleven is on a mission to contemporize the brand and redefine convenience and we need your help. **About This Opportunity**The Backend Developer will be part of the Digital Technology Team. They are responsible for design, implementation and on-going enhancements of digital products and enhancing digital experience. The developer must have a strong and continuously evolving technical mastery of RESTful API development focused on Java Spring Boot / Node JS. This includes hands-on programming, participating in design sessions, code reviews, system testing during various phases of development, follow best industry practices and publish API documentations.**About you:*** ## Looking for a Senior Backend Services / API Developer skilled in programming server-side.* ## JavaScript running on Nodejs Runtime and Experienced in Java / Spring Boot Technologies.* ## Experience in AWS Cloud ecosystem and worked with services like Lambda, API Gateway, CloudWatch, S3, ECS etc.* ## Backend services developers with programming experience such as Java, C# and Python are welcome to apply as long as the candidate is fluent enough to code in JavaScript and work with MongoDB / No SQL Database.* ## Full-stack developers (UI + Services) fluent in JavaScript are also welcome to apply.## **Key Responsibilities and Duties:*** ## Design APIs, develop shippable code, documentation and unit test new features for digital products.* ## Works with fellow API Developers, Team Leads, Architects to deliver features through the creation of re-usable RESTful APIs.* ## Collaborate with Quality, Product and Cloud Engineering teams to keep digital assets fully functional, secure and up to date with business needs.* ## Perform pair programming, effectively communicate ideas with the team, assist in systems integration, performance testing and product releases.* ## Implement policies, roles, data access controls, monitoring events, resolve system and data issues for continuous functioning of APIs.## ## **Must have Skills:*** ## Bachelors/ masters degree in computer science or equivalent.* ## Must have 8+ years of API / Server-side development experience (Programmer, Backend Services developers, Middleware developers, JavaScript(must), NodeJS, Java (Must), C#, Backend Services Developer, AWS, Lambda, ECS, Serverless, MongoDB, Document Storage modeling, RDBMS Storage modeling.).* ## Must have 4 years of experience in cloud platforms (preferable AWS: both traditional EC2 and serverless Lambda), developing micro-services, CI/CD solutions (including Docker), message queue systems and background task management.* ## Must have 4 years of experience in developing NoSQL databases, designing data models and proficient in querying document stores (preferably MongoDB).* ## Knowledge in API security frameworks, token management and user access control including OAuth, JWT, Open API, etc.* ## Must demonstrate strong programming skills in JavaScript and Java.* ## Experience working with API Gateway, CDNs, API Performance testing, CI/CD pipelines and monitoring tools.* ## Ability to work in an Agile / SCRUM environment.* ## Self-directed with a start-up/entrepreneur mindset.* ## Ravenous about learning technology and problem solving.* ## Strong writing and communication skills.## *Position not eligible for sponsorship#LI-PG1*If an hourly or salary range is included in this ad it represents the range 7-Eleven in good faith believes is the range of compensation for this role at the time of this posting. The Company may ultimately pay more or less than the posted range. This range is only applicable for jobs to be performed in this state. This range may be modified in the future. No amount is considered to be wages or compensation until such amount is earned, vested, and determinable under the terms and conditions of the applicable policies and plans. The amount and availability of any bonus, commission, long-term incentive compensation, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Companys sole discretion, consistent with the law.**For a general description of all benefits 7-Eleven is offering in the US for the position, please visit this* *.*locations: SSC Irving TXtime type: Full timeposted on: Posted 13 Days Agotime left to apply: End Date: January 30, 2026 (Less than 1 hour left to apply)As proud founders of the worlds first convenience store, 7?Elevens top priority has always been to give customers the most convenient experience possible to consistently meet their needs. 7?Eleven aims to be a one-stop shop for consumers a place people can always rely on to deliver what they want, when, where and how they want it. This goal continues to shape 7?Elevens ethos, driving 7?Elevens expansion into operating Speedway, Stripes, Laredo Taco Company and Raise the Roost Chicken and Biscuits, with locations, as well as proprietary products and services including 7NOW, 7Rewards, Speedy Rewards and 7?Eleven Fleet, throughout the U.S.\n\n#J-18808-Ljbffr",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Van Alstyne, TX",
-    "job_city": "Van Alstyne",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 33.421499499999996,
-    "job_longitude": -96.5772109,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dgm-WJyJ48Zv7Q_qKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-stack-developer",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "axLN33Wv7WrNwRnaAAAAAA==",
     "job_title": "Senior NodeJS Developer",
     "employer_name": "Supersourcing",
@@ -748,6 +607,100 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "us-bebee-com-job-b79425da520acbb0c4f19c7e460c88ae",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "gm-WJyJ48Zv7Q_qKAAAAAA==",
+    "job_title": "Senior Software Engineer - Java and NodeJS",
+    "employer_name": "SuperMom",
+    "employer_logo": null,
+    "employer_website": "https://thesupermomcompany.com",
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/stack-developer?id=2455040679&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/stack-developer?id=2455040679&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Senior Software Engineer page is loaded## Senior Software Engineerlocations: SSC Irving TXtime type: Full timeposted on: Posted Todayjob requisition id: R25_ **Who we are**With more than 13,000 stores in the U.S. and 84,500 stores globally, it is no wonder has been named an iconic brand. In addition to 7-Eleven stores, 7-Eleven, Inc. also operates and franchises Speedway, Stripes, Laredo Taco Company and Raise the Roost locations.Since inventing the convenience industry in 1927, 7-Eleven has built a rich 96-year history filled with beloved products like Slurpee, Big Gulp and Big Bite, and fan-favorite holidays like Slurpee Day and Bring Your Own Cup Day. Now, 7-Eleven is on a mission to contemporize the brand and redefine convenience and we need your help. **About This Opportunity**The Backend Developer will be part of the Digital Technology Team. They are responsible for design, implementation and on-going enhancements of digital products and enhancing digital experience. The developer must have a strong and continuously evolving technical mastery of RESTful API development focused on Java Spring Boot / Node JS. This includes hands-on programming, participating in design sessions, code reviews, system testing during various phases of development, follow best industry practices and publish API documentations.**About you:*** ## Looking for a Senior Backend Services / API Developer skilled in programming server-side.* ## JavaScript running on Nodejs Runtime and Experienced in Java / Spring Boot Technologies.* ## Experience in AWS Cloud ecosystem and worked with services like Lambda, API Gateway, CloudWatch, S3, ECS etc.* ## Backend services developers with programming experience such as Java, C# and Python are welcome to apply as long as the candidate is fluent enough to code in JavaScript and work with MongoDB / No SQL Database.* ## Full-stack developers (UI + Services) fluent in JavaScript are also welcome to apply.## **Key Responsibilities and Duties:*** ## Design APIs, develop shippable code, documentation and unit test new features for digital products.* ## Works with fellow API Developers, Team Leads, Architects to deliver features through the creation of re-usable RESTful APIs.* ## Collaborate with Quality, Product and Cloud Engineering teams to keep digital assets fully functional, secure and up to date with business needs.* ## Perform pair programming, effectively communicate ideas with the team, assist in systems integration, performance testing and product releases.* ## Implement policies, roles, data access controls, monitoring events, resolve system and data issues for continuous functioning of APIs.## ## **Must have Skills:*** ## Bachelors/ masters degree in computer science or equivalent.* ## Must have 8+ years of API / Server-side development experience (Programmer, Backend Services developers, Middleware developers, JavaScript(must), NodeJS, Java (Must), C#, Backend Services Developer, AWS, Lambda, ECS, Serverless, MongoDB, Document Storage modeling, RDBMS Storage modeling.).* ## Must have 4 years of experience in cloud platforms (preferable AWS: both traditional EC2 and serverless Lambda), developing micro-services, CI/CD solutions (including Docker), message queue systems and background task management.* ## Must have 4 years of experience in developing NoSQL databases, designing data models and proficient in querying document stores (preferably MongoDB).* ## Knowledge in API security frameworks, token management and user access control including OAuth, JWT, Open API, etc.* ## Must demonstrate strong programming skills in JavaScript and Java.* ## Experience working with API Gateway, CDNs, API Performance testing, CI/CD pipelines and monitoring tools.* ## Ability to work in an Agile / SCRUM environment.* ## Self-directed with a start-up/entrepreneur mindset.* ## Ravenous about learning technology and problem solving.* ## Strong writing and communication skills.## *Position not eligible for sponsorship#LI-PG1*If an hourly or salary range is included in this ad it represents the range 7-Eleven in good faith believes is the range of compensation for this role at the time of this posting. The Company may ultimately pay more or less than the posted range. This range is only applicable for jobs to be performed in this state. This range may be modified in the future. No amount is considered to be wages or compensation until such amount is earned, vested, and determinable under the terms and conditions of the applicable policies and plans. The amount and availability of any bonus, commission, long-term incentive compensation, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Companys sole discretion, consistent with the law.**For a general description of all benefits 7-Eleven is offering in the US for the position, please visit this* *.*locations: SSC Irving TXtime type: Full timeposted on: Posted 13 Days Agotime left to apply: End Date: January 30, 2026 (Less than 1 hour left to apply)As proud founders of the worlds first convenience store, 7?Elevens top priority has always been to give customers the most convenient experience possible to consistently meet their needs. 7?Eleven aims to be a one-stop shop for consumers a place people can always rely on to deliver what they want, when, where and how they want it. This goal continues to shape 7?Elevens ethos, driving 7?Elevens expansion into operating Speedway, Stripes, Laredo Taco Company and Raise the Roost Chicken and Biscuits, with locations, as well as proprietary products and services including 7NOW, 7Rewards, Speedy Rewards and 7?Eleven Fleet, throughout the U.S.\n\n#J-18808-Ljbffr",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Van Alstyne, TX",
+    "job_city": "Van Alstyne",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 33.421499499999996,
+    "job_longitude": -96.5772109,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dgm-WJyJ48Zv7Q_qKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-whatjobs-com-jobs-stack-developer",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "hA5r4y_0BhSYv44NAAAAAA==",
+    "job_title": "Java Full stack Developer with NodeJS",
+    "employer_name": "Rapinno Tech",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMv3jdMs0WRKekAKyQzuBfLhsVpdgaU64lgEeX&s=0",
+    "employer_website": "https://rapinnotech.com",
+    "job_publisher": "BeBee",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://us.bebee.com/job/34d941746eb2e350d91a30524fc8f853?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/34d941746eb2e350d91a30524fc8f853?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position:\nJava Fullstack Developer with NodeJS at Basking ridge NJ\n\nHybrid Job :\nOnsite 3 days.\n\nOnly Local Needed.\n\nRequired Skills:\nJava 8, Spring, Spring Boot, Microservices, REST/ RESTful APIs, NodeJS.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Ridgewood, NJ",
+    "job_city": "Ridgewood",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.9786143,
+    "job_longitude": -74.11321149999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhA5r4y_0BhSYv44NAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Only Local Needed",
+        "Java 8, Spring, Spring Boot, Microservices, REST/ RESTful APIs, NodeJS"
+      ],
+      "Responsibilities": [
+        "Onsite 3 days"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "us-bebee-com-job-34d941746eb2e350d91a30524fc8f853",
     "_source": "new_jobs"
   },
   {
@@ -839,9 +792,9 @@
     "job_latitude": 38.794595199999996,
     "job_longitude": -106.5348379,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_vzL6mKYy8OvFptRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 40000,
@@ -883,124 +836,8 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "hA5r4y_0BhSYv44NAAAAAA==",
-    "job_title": "Java Full stack Developer with NodeJS",
-    "employer_name": "Rapinno Tech",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMv3jdMs0WRKekAKyQzuBfLhsVpdgaU64lgEeX&s=0",
-    "employer_website": "https://rapinnotech.com",
-    "job_publisher": "BeBee",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://us.bebee.com/job/34d941746eb2e350d91a30524fc8f853?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/34d941746eb2e350d91a30524fc8f853?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position:\nJava Fullstack Developer with NodeJS at Basking ridge NJ\n\nHybrid Job :\nOnsite 3 days.\n\nOnly Local Needed.\n\nRequired Skills:\nJava 8, Spring, Spring Boot, Microservices, REST/ RESTful APIs, NodeJS.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Ridgewood, NJ",
-    "job_city": "Ridgewood",
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 40.9786143,
-    "job_longitude": -74.11321149999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhA5r4y_0BhSYv44NAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Only Local Needed",
-        "Java 8, Spring, Spring Boot, Microservices, REST/ RESTful APIs, NodeJS"
-      ],
-      "Responsibilities": [
-        "Onsite 3 days"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "us-bebee-com-job-34d941746eb2e350d91a30524fc8f853",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "5JGd-pi4eCL26XdCAAAAAA==",
-    "job_title": "Senior Fullstack Typescript Engineer (React.js Next.js)",
-    "employer_name": "Whitespectre",
-    "employer_logo": null,
-    "employer_website": "https://www.whitespectre.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/frontend-development?id=2453435719&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/frontend-development?id=2453435719&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WKRN Jobs",
-        "apply_link": "https://jobs.wkrn.com/jobs/senior-fullstack-typescript-engineer-react.js-next.js-dallas-texas/2618379782-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/6885785192791801856?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Texas Careers",
-        "apply_link": "https://texas.topstatecareers.com/jobs/senior-fullstack-typescript-engineer-react.js-next.js-dallas-texas/2618379782-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-tx-dallas-senior-fullstack-typescript-engineer-react-js-next-whitespectre?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "divh2Whitespectre Job Opportunity/h2pAt Whitespectre we are always looking for great talent! We want to be ready and able to find the best candidate in our Talent Pool when the time comes. HELLO. Were Whitespectre. Technologists who create exceptional software. The technology we build fuels growth for our client partners - from ambitious scale-ups to industry leaders - and touches millions of users every day. Our partnerships last for years, built on outstanding results, quality, and long-term success: principal client engagements last more than five years, and our senior team members have been with us for an average of seven years!/ppProudly remote-first for over 10 years, we work in fast-moving, cross-functional agile pods to solve interesting technical challenges and deliver products that drive real impact./ph3Why Whitespectre?/h3pWe are proud to have an outstanding rating of 4.8 on Glassdoor. This high rating reflects our commitment to creating a positive and supportive work environment where our team members can thrive. We take great pride in knowing that our people truly enjoy working and growing with us, and we continuously strive to maintain and enhance this positive workplace experience./ph3The Role/h3pSenior Engineers at Whitespectre are sharp technical experts who can think like product owners. Theyre a driving force within our multidisciplinary teams, collaborating with product managers designers. They follow our agile 2-week sprint methodology incrementally build and release new functionality while maintaining close alignment with all stakeholders. They stay up to date with the latest technology trends as part of the collective. The majority of our projects involve building greenfield applications and our delivery teams typically own products end to end - your thinking and contribution make a big impact!/ppYou can read more about life in our JavaScript engineering team in the posts by our Senior Engineer, Eneko./ph3Key Responsibilities/h3ulliWork with senior technical stakeholders to design and implement robust backend and frontend solutions./liliAdvocate for code quality and rapid business value, while creating exceptional software and user experiences/liliDrive architecture and implementation decisions, getting hands-on with code to bring features to life, squash bugs, while consistently keeping tech debt in check./liliMentor and guide other engineers to develop grow./liliGo outside core expertise, strengthen skills with other technologies and learn more by solving problems that AI coding tools dont immediately solve./liliWork with CI/CD, AWS, and Github workflows for automated and efficient releases./liliDemonstrate excellent written and verbal communications skills to guide stakeholders through architecture decisions and demonstrate the value of the technical work thats been completed by the team./liliWork with a significant crossover with our core hours: 11am - 7pm Central European Time./li/ulh3Tech Stack for this project/h3ulliBackend: Node.js, Next.js, Nest.js/liliFrontend: React.js, TypeScript/liliAPIs: REST, GraphQL/liliTools: CI/CD, AWS, Github workflows/li/ulh3Technical experience for this position/h3ulli7+ years of experience with TypeScript/JavaScript/lili4+ years with React.js/lili2+ years with Node.js/ Next.js/ Nest.js/li/ulh3Benefits of working at Whitespectre/h3pWe foster an inclusive working environment that provides:/pulliCompetitive salaries, with payment in USD/lili20 Days PTO 3 Charity Days annually/liliFunded face-to-face meet ups in Barcelona, as well as South America and Asia/liliAssisted Relocation package/liliGenerous Employee Referral Plan/liliTeam Fitness and Charity Initiatives/li/ulh3Build your career with us/h3ulliWork with your Capability Lead to shape your development with our unique, tailored career paths. Your 1-1 on the job coaching is supplemented with regular internal events including 1-1s, cross-team knowledge sharing, bag brown sessions, and code challenge tasks. Enjoy access to company-paid tech and language courses./liliBenefit from our annual performance and pay reviews, designed to support your career progression by providing regular feedback and identifying opportunities for advancement. Our structured approach ensures you receive the recognition and development you deserve./liliWe value our engineers and work to identify future roles for growth. Our Internal Mobility Program facilitates project changes as needed, helping you excel professionally and fulfill your potential./liliWe prioritize work-life balance to ensure your well-being and productivity with flexible hours and a 100% remote environment. This approach promotes a healthier, more balanced lifestyle, keeping you motivated, engaged, and performing at your best./li/ululliInterested in being considered for future Fullstack positions?/liulliApply to our Fullstack Talent Pool by completing the form below and well reach out to you as soon as we have an open position./li/ul/ul/div",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Dallas, TX",
-    "job_city": "Dallas",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 32.7766642,
-    "job_longitude": -96.79698789999999,
-    "job_benefits": [
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5JGd-pi4eCL26XdCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-frontend-development",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "24p5kmvaiUqqwTJZAAAAAA==",
-    "job_title": "Fullstack Software Engineer",
+    "job_id": "j7ObuSclWUet9QhLAAAAAA==",
+    "job_title": "Mid Level Node Engineer",
     "employer_name": "VirtualVocations",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
     "employer_website": "https://www.virtualvocations.com",
@@ -1009,53 +846,48 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=19e0658dfedb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=a69558865f82&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=19e0658dfedb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Allenby.com",
-        "apply_link": "http://allenby.com/.business/job/software-engineer-at-specialty-systems-inc-toms-river-nj-08755-UDhtSElCcjZiQXJLdXM1cGJETlBWUT09?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=a69558865f82&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A company is looking for a Fullstack Software Engineer specializing in Node.js and Next.js.\n\nKey Responsibilities\n\nDevelop and maintain scalable full-stack applications using Node.js and Next.js\n\nLead technical design and deployment processes while ensuring high code quality standards\n\nCollaborate with cross-functional teams to enhance AI tools and campaign automation\n\nRequired Qualifications\n\nExpertise in full-stack development with Node.js and Next.js\n\nHands-on experience with AI tools and agents\n\nStrong understanding of API architecture and database optimization\n\nFamiliarity with cloud infrastructure and container tools\n\nExperience in technical leadership and project ownership",
+    "job_description": "A company is looking for a Node Engineer - Mid Level.\n\nKey Responsibilities\n\nDevelop and maintain server-side applications using NodeJS, Express, and MongoDB\n\nCreate clean, modern, testable, and well-documented code\n\nCollaborate with a team on innovative digital products for enterprise clients\n\nRequired Qualifications\n\n3+ years of professional experience in software development\n\nProficient in Javascript, NodeJS, Express, and MongoDB\n\nExperience with serverless architecture using AWS Lambda or Azure Functions\n\nAbility to work effectively in a remote team environment\n\nMust be based in regions that align with Pacific, Central, or Eastern U.S. time zones",
     "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Toms River, NJ",
-    "job_city": "Toms River",
-    "job_state": "New Jersey",
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Norfolk, VA",
+    "job_city": "Norfolk",
+    "job_state": "Virginia",
     "job_country": "US",
-    "job_latitude": 39.963417799999995,
-    "job_longitude": -74.18733859999999,
+    "job_latitude": 36.8507689,
+    "job_longitude": -76.28587259999999,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D24p5kmvaiUqqwTJZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dj7ObuSclWUet9QhLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Expertise in full-stack development with Node.js and Next.js",
-        "Hands-on experience with AI tools and agents",
-        "Strong understanding of API architecture and database optimization",
-        "Familiarity with cloud infrastructure and container tools",
-        "Experience in technical leadership and project ownership"
+        "3+ years of professional experience in software development",
+        "Proficient in Javascript, NodeJS, Express, and MongoDB",
+        "Experience with serverless architecture using AWS Lambda or Azure Functions",
+        "Ability to work effectively in a remote team environment",
+        "Must be based in regions that align with Pacific, Central, or Eastern U.S. time zones"
       ],
       "Responsibilities": [
-        "Develop and maintain scalable full-stack applications using Node.js and Next.js",
-        "Lead technical design and deployment processes while ensuring high code quality standards",
-        "Collaborate with cross-functional teams to enhance AI tools and campaign automation"
+        "Develop and maintain server-side applications using NodeJS, Express, and MongoDB",
+        "Create clean, modern, testable, and well-documented code",
+        "Collaborate with a team on innovative digital products for enterprise clients"
       ]
     },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
     "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
@@ -1141,153 +973,52 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "uuffHPR6RAUYKSwAAAAAAA==",
-    "job_title": "Node Engineer Tech Lead",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
+    "job_id": "wlpaVOiK8ng3trS6AAAAAA==",
+    "job_title": "Backend Engineer: ColdFusion & Node API Expert",
+    "employer_name": "aXcelerate",
+    "employer_logo": null,
+    "employer_website": "https://www.axcelerate.com.au",
+    "job_publisher": "JobLeads",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=3af4012357de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.jobleads.com/us/job/backend-engineer-coldfusion-node-api-expert--united-states--efbc22cf69343458d8ca38933699a74b1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=3af4012357de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/backend-engineer-coldfusion-node-api-expert--united-states--efbc22cf69343458d8ca38933699a74b1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A company is looking for a Node Engineer - Tech Lead.\n\nKey Responsibilities\n\nLead and manage a team of developers in creating innovative digital products\n\nDevelop clean, modern, testable, and well-documented code using Javascript, NodeJS, and Express\n\nImplement serverless solutions using AWS Lambda or Azure Functions\n\nRequired Qualifications\n\n10+ years of professional experience in software development\n\nExtensive experience with Javascript, NodeJS, Express, and MongoDB\n\nProven track record in team management\n\nExperience in logistics, FinTech, or other complex multifactor industries is preferred\n\nAdvanced English fluency",
+    "job_description": "A leading SaaS provider in Australia seeks a Backend Software Engineer skilled in ColdFusion and Node.js to join their engineering team. Responsibilities include developing robust APIs, enhancing system performance, and collaborating on scalable solutions. The ideal candidate has over 5 years of experience and relevant qualifications. The company offers a supportive culture with a focus on professional development, flexible working conditions, and opportunities for career advancement.",
     "job_is_remote": false,
     "job_posted_at": "5 days ago",
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Los Angeles, CA",
-    "job_city": "Los Angeles",
-    "job_state": "California",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
     "job_country": "US",
-    "job_latitude": 34.0549076,
-    "job_longitude": -118.242643,
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuuffHPR6RAUYKSwAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwlpaVOiK8ng3trS6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
     "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "10+ years of professional experience in software development",
-        "Extensive experience with Javascript, NodeJS, Express, and MongoDB",
-        "Proven track record in team management",
-        "Advanced English fluency"
-      ],
-      "Responsibilities": [
-        "Lead and manage a team of developers in creating innovative digital products",
-        "Develop clean, modern, testable, and well-documented code using Javascript, NodeJS, and Express",
-        "Implement serverless solutions using AWS Lambda or Azure Functions"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "FnyIbOo7sv59pikyAAAAAA==",
-    "job_title": "Senior Software Developer - Frontend, Backend, Stack, or Mobile",
-    "employer_name": "Walmart",
-    "employer_logo": null,
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior-Software-Developer-Frontend,-Backend,-Stack,-or-Mobile/-in-Elkins,AR?jid=758c3e8ef153b1ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior-Software-Developer-Frontend,-Backend,-Stack,-or-Mobile/-in-Elkins,AR?jid=758c3e8ef153b1ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Position Summary...We are seeking a highly skilled and passionate React Native Developer to join our team and help build world-class mobile applications. The ideal candidate will have deep expertise in React Native, a solid understanding of native mobile development, and hands-on experience with the full app lifecycle—from development to publishing on the App Store and Google Play.\n\nWhat you'll do...\n\nKey Responsibilities\n• Design, develop, and maintain high-performance mobile applications using React Native.\n• Own the end-to-end app lifecycle, including publishing, updates, and store compliance (App Store & Play Store).\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Integrate third-party APIs, libraries, and native modules as needed.\n• Implement and monitor analytics, Crashlytics, and performance metrics (CPU, battery usage).\n• Build and maintain functional automation tests using Appium or similar frameworks.\n• Ensure code quality through unit testing, code reviews, and CI/CD pipelines.\n• Create clear and functional technical documentation and charts to communicate architecture and workflows.\n• Stay up-to-date with emerging mobile technologies and trends.\n\nRequired Qualifications\n• 3–5 years of experience in mobile and desktop user experience development.\n• Strong expertise in React Native, with recent hands-on experience.\n• Solid understanding of native mobile development (iOS/Android) and ability to bridge native modules.\n• Experience in publishing apps to App Store and Play Store, including handling store requirements and updates.\n• Proficiency in ReactJS, Redux, and GraphQL.\n• Familiarity with front-end design patterns, data structures, and algorithms.\n• Experience with Appium or other open-source automation frameworks.\n• Clear and effective communication skills, both verbal and written.\n• Ability to multitask and manage multiple features and requirements concurrently.\n• Experience with cloud-native technologies, CI/CD pipelines, and DevOps practices.\n• Strong analytical and problem-solving skills.\n• A genuine passion for technology and continuous learning.\n\nNice to Have\n• Backend development experience in Java or Node.js.\n• Experience with native mobile development (Swift, Kotlin, Objective-C) is a plus.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\n‎\n\n‎\n\n‎\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\n‎\n\nFor information about PTO, see https://one.walmart.com/notices.\n\n‎\n\n‎\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\n‎\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\n‎\n\nFor information about benefits and eligibility, see One.Walmart.\n\n‎\nThe annual salary range for this position is $90,000.00-$180,000.00\n\n‎\nAdditional compensation includes annual or quarterly performance bonuses.\n\n‎\nAdditional compensation for certain positions may also include:\n\n‎\n\n‎\n- Stock\n\n‎\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n805 Se Moberly Ln, Bentonville, AR 72712, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Elkins, AR",
-    "job_city": "Elkins",
-    "job_state": "Arkansas",
-    "job_country": "US",
-    "job_latitude": 36.000651399999995,
-    "job_longitude": -94.0088348,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFnyIbOo7sv59pikyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 90000,
-    "job_max_salary": 180000,
     "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "The ideal candidate will have deep expertise in React Native, a solid understanding of native mobile development, and hands-on experience with the full app lifecycle—from development to publishing on the App Store and Google Play",
-        "3–5 years of experience in mobile and desktop user experience development",
-        "Strong expertise in React Native, with recent hands-on experience",
-        "Solid understanding of native mobile development (iOS/Android) and ability to bridge native modules",
-        "Experience in publishing apps to App Store and Play Store, including handling store requirements and updates",
-        "Proficiency in ReactJS, Redux, and GraphQL",
-        "Familiarity with front-end design patterns, data structures, and algorithms",
-        "Experience with Appium or other open-source automation frameworks",
-        "Clear and effective communication skills, both verbal and written",
-        "Ability to multitask and manage multiple features and requirements concurrently",
-        "Experience with cloud-native technologies, CI/CD pipelines, and DevOps practices",
-        "Strong analytical and problem-solving skills",
-        "A genuine passion for technology and continuous learning",
-        "Backend development experience in Java or Node.js",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
-        "Option 2: 5 years’ experience in software engineering or related area",
-        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $90,000.00-$180,000.00",
-        "Additional compensation includes annual or quarterly performance bonuses"
+        "The ideal candidate has over 5 years of experience and relevant qualifications"
       ],
       "Responsibilities": [
-        "Design, develop, and maintain high-performance mobile applications using React Native",
-        "Own the end-to-end app lifecycle, including publishing, updates, and store compliance (App Store & Play Store)",
-        "Collaborate with cross-functional teams to define, design, and ship new features",
-        "Integrate third-party APIs, libraries, and native modules as needed",
-        "Implement and monitor analytics, Crashlytics, and performance metrics (CPU, battery usage)",
-        "Build and maintain functional automation tests using Appium or similar frameworks",
-        "Ensure code quality through unit testing, code reviews, and CI/CD pipelines",
-        "Create clear and functional technical documentation and charts to communicate architecture and workflows",
-        "Stay up-to-date with emerging mobile technologies and trends"
+        "Responsibilities include developing robust APIs, enhancing system performance, and collaborating on scalable solutions"
       ]
     },
-    "job_onet_soc": "15113300",
+    "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-senior-software-developer-frontend-backend-stack-or-mobile-in-elkins-ar",
+    "id": "www-jobleads-com-us-job-backend-engineer-coldfusion-node-api-expert-united-states-efbc22cf69343458d8ca38933699a74b1",
     "_source": "new_jobs"
   },
   {
@@ -1340,6 +1071,61 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "www-learn4good-com-jobs-louisville-kentucky-software_development-4865919347-e",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "uuffHPR6RAUYKSwAAAAAAA==",
+    "job_title": "Node Engineer Tech Lead",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=3af4012357de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=3af4012357de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Node Engineer - Tech Lead.\n\nKey Responsibilities\n\nLead and manage a team of developers in creating innovative digital products\n\nDevelop clean, modern, testable, and well-documented code using Javascript, NodeJS, and Express\n\nImplement serverless solutions using AWS Lambda or Azure Functions\n\nRequired Qualifications\n\n10+ years of professional experience in software development\n\nExtensive experience with Javascript, NodeJS, Express, and MongoDB\n\nProven track record in team management\n\nExperience in logistics, FinTech, or other complex multifactor industries is preferred\n\nAdvanced English fluency",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Los Angeles, CA",
+    "job_city": "Los Angeles",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 34.0549076,
+    "job_longitude": -118.242643,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuuffHPR6RAUYKSwAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "10+ years of professional experience in software development",
+        "Extensive experience with Javascript, NodeJS, Express, and MongoDB",
+        "Proven track record in team management",
+        "Advanced English fluency"
+      ],
+      "Responsibilities": [
+        "Lead and manage a team of developers in creating innovative digital products",
+        "Develop clean, modern, testable, and well-documented code using Javascript, NodeJS, and Express",
+        "Implement serverless solutions using AWS Lambda or Azure Functions"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   }
 ]
