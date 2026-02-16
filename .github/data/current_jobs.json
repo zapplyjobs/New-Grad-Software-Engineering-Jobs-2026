@@ -159,8 +159,8 @@
     "job_latitude": 36.3723561,
     "job_longitude": -94.2102141,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwQJHP_oRaM4QSS2ZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -415,9 +415,9 @@
     "job_latitude": 32.9483335,
     "job_longitude": -96.7298519,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdngkhverHQvDnnQoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 118000,
@@ -492,11 +492,6 @@
       {
         "publisher": "WhatJobs",
         "apply_link": "https://www.whatjobs.com/jobs/mobile-application-developer?id=2439717119&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-va-falls-church-mobile-application-developer-ampcus-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -605,11 +600,11 @@
     "job_posted_at_timestamp": 1770595200,
     "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
     "job_location": "New York, NY",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
     "job_benefits": [
       "dental_coverage",
       "health_insurance"
@@ -685,8 +680,8 @@
     "job_latitude": 37.0854844,
     "job_longitude": -94.5134312,
     "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dn0bgvx5TjG14pguAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
