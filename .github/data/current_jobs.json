@@ -32,9 +32,9 @@
     "job_latitude": 38.804693,
     "job_longitude": -77.0435257,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnS3ly-CembdIho-XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
@@ -92,6 +92,62 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-walmart-job-software-engineer-iii-backend-in-alexandria-va",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "7og5ZsjRuglOlJCXAAAAAA==",
+    "job_title": "Middle Backend Developer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=a6204218dd69&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=a6204218dd69&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Middle Backend Developer, API Team (GO / Python).\n\nKey Responsibilities\n\nDevelop and support high-load API services\n\nParticipate in designing architecture and making technical decisions\n\nTake full ownership of 1-2 team services from design to production\n\nRequired Qualifications\n\n4+ years of commercial backend development experience\n\nExperience working with high-load systems\n\nExperience in designing and developing APIs\n\nExperience in Agile / Scrum teams\n\nProficiency in Go (Golang) and Python",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Washington, DC",
+    "job_city": "Washington",
+    "job_state": "District of Columbia",
+    "job_country": "US",
+    "job_latitude": 38.9072873,
+    "job_longitude": -77.0369274,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7og5ZsjRuglOlJCXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "4+ years of commercial backend development experience",
+        "Experience working with high-load systems",
+        "Experience in designing and developing APIs",
+        "Experience in Agile / Scrum teams",
+        "Proficiency in Go (Golang) and Python"
+      ],
+      "Responsibilities": [
+        "Develop and support high-load API services",
+        "Participate in designing architecture and making technical decisions",
+        "Take full ownership of 1-2 team services from design to production"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -260,8 +316,8 @@
     "job_latitude": 41.88325,
     "job_longitude": -87.6323879,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPNo3qs4ZOSjrZhlWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -307,62 +363,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "careers-united-com-us-en-job-whq00025948-sr-backend-developer-tech-lead-iot",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "7og5ZsjRuglOlJCXAAAAAA==",
-    "job_title": "Middle Backend Developer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=a6204218dd69&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=a6204218dd69&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Middle Backend Developer, API Team (GO / Python).\n\nKey Responsibilities\n\nDevelop and support high-load API services\n\nParticipate in designing architecture and making technical decisions\n\nTake full ownership of 1-2 team services from design to production\n\nRequired Qualifications\n\n4+ years of commercial backend development experience\n\nExperience working with high-load systems\n\nExperience in designing and developing APIs\n\nExperience in Agile / Scrum teams\n\nProficiency in Go (Golang) and Python",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Washington, DC",
-    "job_city": "Washington",
-    "job_state": "District of Columbia",
-    "job_country": "US",
-    "job_latitude": 38.9072873,
-    "job_longitude": -77.0369274,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7og5ZsjRuglOlJCXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "4+ years of commercial backend development experience",
-        "Experience working with high-load systems",
-        "Experience in designing and developing APIs",
-        "Experience in Agile / Scrum teams",
-        "Proficiency in Go (Golang) and Python"
-      ],
-      "Responsibilities": [
-        "Develop and support high-load API services",
-        "Participate in designing architecture and making technical decisions",
-        "Take full ownership of 1-2 team services from design to production"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -459,9 +459,9 @@
     "job_latitude": 38.9072873,
     "job_longitude": -77.0369274,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVae4dyxAeA1pbpZVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -515,199 +515,6 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-pwc-job-us-tech-backend-developer-manager-in-washington-dc",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "cCEmB_UtZnVbMQWgAAAAAA==",
-    "job_title": "Backend Java Developer",
-    "employer_name": "Oshkosh Corporation",
-    "employer_logo": null,
-    "employer_website": "https://www.oshkoshcorp.com",
-    "job_publisher": "Careers At Oshkosh Corporation",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.oshkoshcorp.com/us/en/job/R42683/Backend-Java-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Careers At Oshkosh Corporation",
-        "apply_link": "https://careers.oshkoshcorp.com/us/en/job/R42683/Backend-Java-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=97c353eec4eb9942&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/backend-java-developer-jlg-JV_IC1153716_KO0,22_KE23,26.htm?jl=1009944534391&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "USNLX Ability Jobs - National Labor Exchange",
-        "apply_link": "https://ability.usnlx.com/hagerstown-md/backend-java-developer/C59A422F6A9C4E21A4CD7C60E258333A/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talentify",
-        "apply_link": "https://www.talentify.io/job/backend-jave-developer-hagerstown-maryland-us-oshkosh-r42683?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/hagerstown/maryland/software_development/4825445537/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-md-maryland-hagerstown-backend-java-developer-oshkosh-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Expertini",
-        "apply_link": "https://hagerstown.us.expertini.com/job/backend-java-developer-hagerstown-oshkosh-corporation-c59a422f6a9c4e21a4cd7c60e258333a105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "About JLG, an Oshkosh company\n\nJLG began in 1969, when our founder, John L. Grove set out to resolve growing safety concerns in the construction industry. Since then we have been committed to understanding the challenges and delivering innovative solutions to the access market. We partner with customers to provide quality equipment, training opportunities and trusted support within the access industry. We are a global company, and our products—including mobile elevating work platforms, telehandlers, utility vehicles and accessories—can be found all over the world.\n\nThe team member will work within the Connected Solutions engineering group to design, implement and test cloud-based applications to enable enhanced levels of machine connectivity and control. The team member will play a crucial role of developing and maintaining applications which manage the consumption and egress of data within the cloud infrastructure. This role is within the Global Product Development team.\n\nYour Impact:\n• Evaluate new Internet of Things (IoT) products and practices, and identify software system designs and solutions\n• Plan, develop, and implement improvements and changes to existing architecture and applications\n• Coordinate system development and execution in a team environment\n• Provide direction and technical counsel to lower-level developers and software engineers\n• Research, study, and propose use of new software/technologies to be used in the development of new and improved products and features\n• Prepare technical solution design proposals and presentations\n\nMinimum Qualifications:\n• Bachelor’s degree in Computer Engineering, Computer Science, or equivalent\n• 8-plus years related experience\n• Proficiency in Java programming language\n• Proficiency in Spring Boot or Quarkus web frameworks\n• Knowledge of Contexts and Dependency Injection (CDI) in Java\n• Experience w/ one or more major cloud platforms (e.g. Azure/AWS/Vercel)\n• Experience w/ SQL (e.g., Azure SQL Server) and NoSQL databases (e.g., MongoDB)\n• Experience w/ CI/CD tools and test automation.\n• Experience w/ DevOps tools and principles\n• Experience w/ Agile development methodology and tools (e.g. Jira)\n\nStandout Qualifications:\n• Experience w/ C#, Python, JavaScript, Go, or similar programming language(s).\n• Experience w/ web-based applications to store and access complex “big” data\n• Experience w/ Azure Data Explorer or Log Analytics and the Kusto Query Language\n• Understanding of common IoT architectures and tools\n• Understanding of microservice architecture and scalability\n• Experience w/ system design considering cyber security and SecOps principles\n• Strong oral and written communication skills\n• Experience w/ automotive or heavy-duty construction/industrial equipment\n• Strong analytical and problem-solving skills\n• Experience w/ MQTT and other IoT messaging systems\n• Ability to thrive in a startup like culture, excels in ambiguous situations, and embraces technical challenges\n\nPay Range:\n$104,100.00 - $173,900.00\n\nThe above pay range reflects the minimum and maximum target pay for the position across all U.S. locations. Within this range, individual pay is determined by various factors, including the scope and responsibilities of the role, the candidate's experience, education and skills, as well as the equity of pay among team members in similar positions. Beyond offering a competitive total rewards package, we prioritize a people-first culture and offer various opportunities to support team member growth and success.\n\nOshkosh is committed to working with and offering reasonable accommodation to job applicants with disabilities. If you need assistance or an accommodation due to disability for any part of the employment process, please contact us at corporatetalentacquisition@oshkoshcorp.com.\n\nOshkosh Corporation is a merit-based Equal Opportunity Employer. Job opportunities are open for application to all qualified individuals and selection decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, or other protected characteristic. To the extent that information is provided or collected regarding categories as provided by law it will in no way affect the decision regarding an employment application.\n\nOshkosh Corporation will not discharge or in any manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with Oshkosh Corporation's legal duty to furnish information.\n\nCertain positions with Oshkosh Corporation require access to controlled goods and technologies subject to the International Traffic in Arms Regulations or the Export Administration Regulations. Applicants for these positions may need to be \"U.S. Persons,\" as defined in these regulations. Generally, a \"U.S. Person\" is a U.S. citizen, lawful permanent resident, or an individual who has been admitted as a refugee or granted asylum.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Hagerstown, MD",
-    "job_city": "Hagerstown",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 39.641762899999996,
-    "job_longitude": -77.71999319999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcCEmB_UtZnVbMQWgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor’s degree in Computer Engineering, Computer Science, or equivalent",
-        "8-plus years related experience",
-        "Proficiency in Java programming language",
-        "Proficiency in Spring Boot or Quarkus web frameworks",
-        "Knowledge of Contexts and Dependency Injection (CDI) in Java",
-        "Experience w/ one or more major cloud platforms (e.g. Azure/AWS/Vercel)",
-        "Experience w/ SQL (e.g., Azure SQL Server) and NoSQL databases (e.g., MongoDB)",
-        "Experience w/ CI/CD tools and test automation",
-        "Experience w/ DevOps tools and principles",
-        "Experience w/ Agile development methodology and tools (e.g. Jira)",
-        "Experience w/ C#, Python, JavaScript, Go, or similar programming language(s)",
-        "Experience w/ web-based applications to store and access complex “big” data",
-        "Experience w/ Azure Data Explorer or Log Analytics and the Kusto Query Language",
-        "Understanding of common IoT architectures and tools",
-        "Understanding of microservice architecture and scalability",
-        "Experience w/ system design considering cyber security and SecOps principles",
-        "Strong oral and written communication skills",
-        "Experience w/ automotive or heavy-duty construction/industrial equipment",
-        "Strong analytical and problem-solving skills",
-        "Experience w/ MQTT and other IoT messaging systems",
-        "Ability to thrive in a startup like culture, excels in ambiguous situations, and embraces technical challenges",
-        "Generally, a \"U.S. Person\" is a U.S. citizen, lawful permanent resident, or an individual who has been admitted as a refugee or granted asylum"
-      ],
-      "Benefits": [
-        "$104,100.00 - $173,900.00",
-        "The above pay range reflects the minimum and maximum target pay for the position across all U.S. locations",
-        "Within this range, individual pay is determined by various factors, including the scope and responsibilities of the role, the candidate's experience, education and skills, as well as the equity of pay among team members in similar positions",
-        "Beyond offering a competitive total rewards package, we prioritize a people-first culture and offer various opportunities to support team member growth and success"
-      ],
-      "Responsibilities": [
-        "The team member will work within the Connected Solutions engineering group to design, implement and test cloud-based applications to enable enhanced levels of machine connectivity and control",
-        "The team member will play a crucial role of developing and maintaining applications which manage the consumption and egress of data within the cloud infrastructure",
-        "This role is within the Global Product Development team",
-        "Evaluate new Internet of Things (IoT) products and practices, and identify software system designs and solutions",
-        "Plan, develop, and implement improvements and changes to existing architecture and applications",
-        "Coordinate system development and execution in a team environment",
-        "Provide direction and technical counsel to lower-level developers and software engineers",
-        "Research, study, and propose use of new software/technologies to be used in the development of new and improved products and features",
-        "Prepare technical solution design proposals and presentations"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "careers-oshkoshcorp-com-us-en-job-r42683-backend-java-developer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "EmWE3lk58Nxu8TmMAAAAAA==",
-    "job_title": "Java Backend Engineer (PK)",
-    "employer_name": "Piper Companies",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_kF8wsIeUotaNc7V4JzTVW3lHON902YCZemT&s=0",
-    "employer_website": "https://www.pipercompanies.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/java-backend-engineer-pk-at-piper-companies-4364455548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/java-backend-engineer-pk-at-piper-companies-4364455548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Piper Companies is seeking a Java Backend Developer (PKI) for a leading technology organization focused on secure, large‑scale backend service development. The Java Backend Developer will support the design, enhancement, and maintenance of core backend PKI and cryptographic services. This engineer will build secure backend features, collaborate across engineering and SRE teams, and ensure high‑volume cryptographic operations run reliably at scale. This opportunity is a long-term contract position, sitting hybrid 2 days a week in RTP, NC, and requires a public trust clearance.\n\nResponsibilities for the Java Backend Developer (PKI) include:\n• Develop new backend features for the Licensing Crypto Service using Java and Spring Boot.\n• Collaborate closely with technical leads, SREs, architects, and cross-functional engineering teams across multiple time zones.\n• Participate in detailed code reviews and feature refinement sessions with client and platform teams.\n• Support Tomcat-based application deployments running on Linux environments.\n• Assist with integrating and troubleshooting PKCS11 modules and applied cryptographic components.\n• Maintain high-quality operational documentation for services, deployments, and configurations.\n• Participate in an after-hours on-call rotation as part of service reliability responsibilities.\n\nQualifications for the Java Backend Developer (PKI) include:\n• 5–8 years of backend development experience.\n• Strong hands-on expertise in Java, Spring Boot, and RESTful services.\n• Solid understanding of Linux environments; experience with Tomcat services.\n• Experience with PKCS11, cryptography, or PKI concepts, or demonstrated ability to learn cryptography quickly.\n• Experience with DevOps tooling: Git, GitLab CI/CD, Ansible; ArgoCD and Helm are strong pluses.\n• Experience supporting containerized deployments on platforms such as OpenShift.\n• Familiarity with Oracle databases and ORM-based integrations.\n• Strong communication skills with the ability to collaborate across teams and mentor junior developers.\n\nCompensation for the Java Backend Developer (PKI) includes:\n• Salary range: $120,000 - $140,000\n• Comprehensive benefits package including Medical, Dental, Vision, 401k, PTO, holidays, and sick leave as required by law.\n\nKeywords: java, java developer, spring boot, RESTful Services, REST APIs, linux, tomcat, oracle, ORM, hibernate, JPA, PKCS11, cryptography, PKI, applied crypto, secure backend services, Git, Gitlab, ansible, ArgoCD, helm, openshift, CI/CD, microservices, backend architecture, JVM services, Java application servers\n\n#HYBRID\n\nThis job is open for applications on 2/13/2026 and will remain open for at least 30 days from the posting date.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Burnsville, NC",
-    "job_city": "Burnsville",
-    "job_state": "North Carolina",
-    "job_country": "US",
-    "job_latitude": 35.917335699999995,
-    "job_longitude": -82.300961,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEmWE3lk58Nxu8TmMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 120000,
-    "job_max_salary": 140000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "5–8 years of backend development experience",
-        "Strong hands-on expertise in Java, Spring Boot, and RESTful services",
-        "Solid understanding of Linux environments; experience with Tomcat services",
-        "Experience with PKCS11, cryptography, or PKI concepts, or demonstrated ability to learn cryptography quickly",
-        "Experience with DevOps tooling: Git, GitLab CI/CD, Ansible; ArgoCD and Helm are strong pluses",
-        "Experience supporting containerized deployments on platforms such as OpenShift",
-        "Familiarity with Oracle databases and ORM-based integrations",
-        "Strong communication skills with the ability to collaborate across teams and mentor junior developers",
-        "Keywords: java, java developer, spring boot, RESTful Services, REST APIs, linux, tomcat, oracle, ORM, hibernate, JPA, PKCS11, cryptography, PKI, applied crypto, secure backend services, Git, Gitlab, ansible, ArgoCD, helm, openshift, CI/CD, microservices, backend architecture, JVM services, Java application servers"
-      ],
-      "Benefits": [
-        "Salary range: $120,000 - $140,000",
-        "Comprehensive benefits package including Medical, Dental, Vision, 401k, PTO, holidays, and sick leave as required by law"
-      ],
-      "Responsibilities": [
-        "The Java Backend Developer will support the design, enhancement, and maintenance of core backend PKI and cryptographic services",
-        "This engineer will build secure backend features, collaborate across engineering and SRE teams, and ensure high‑volume cryptographic operations run reliably at scale",
-        "Develop new backend features for the Licensing Crypto Service using Java and Spring Boot",
-        "Collaborate closely with technical leads, SREs, architects, and cross-functional engineering teams across multiple time zones",
-        "Participate in detailed code reviews and feature refinement sessions with client and platform teams",
-        "Support Tomcat-based application deployments running on Linux environments",
-        "Assist with integrating and troubleshooting PKCS11 modules and applied cryptographic components",
-        "Maintain high-quality operational documentation for services, deployments, and configurations",
-        "Participate in an after-hours on-call rotation as part of service reliability responsibilities"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-java-backend-engineer-pk-at-piper-companies-4364455548",
     "_source": "new_jobs"
   },
   {
@@ -803,6 +610,283 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "EmWE3lk58Nxu8TmMAAAAAA==",
+    "job_title": "Java Backend Engineer (PK)",
+    "employer_name": "Piper Companies",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_kF8wsIeUotaNc7V4JzTVW3lHON902YCZemT&s=0",
+    "employer_website": "https://www.pipercompanies.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/java-backend-engineer-pk-at-piper-companies-4364455548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/java-backend-engineer-pk-at-piper-companies-4364455548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Piper Companies is seeking a Java Backend Developer (PKI) for a leading technology organization focused on secure, large‑scale backend service development. The Java Backend Developer will support the design, enhancement, and maintenance of core backend PKI and cryptographic services. This engineer will build secure backend features, collaborate across engineering and SRE teams, and ensure high‑volume cryptographic operations run reliably at scale. This opportunity is a long-term contract position, sitting hybrid 2 days a week in RTP, NC, and requires a public trust clearance.\n\nResponsibilities for the Java Backend Developer (PKI) include:\n• Develop new backend features for the Licensing Crypto Service using Java and Spring Boot.\n• Collaborate closely with technical leads, SREs, architects, and cross-functional engineering teams across multiple time zones.\n• Participate in detailed code reviews and feature refinement sessions with client and platform teams.\n• Support Tomcat-based application deployments running on Linux environments.\n• Assist with integrating and troubleshooting PKCS11 modules and applied cryptographic components.\n• Maintain high-quality operational documentation for services, deployments, and configurations.\n• Participate in an after-hours on-call rotation as part of service reliability responsibilities.\n\nQualifications for the Java Backend Developer (PKI) include:\n• 5–8 years of backend development experience.\n• Strong hands-on expertise in Java, Spring Boot, and RESTful services.\n• Solid understanding of Linux environments; experience with Tomcat services.\n• Experience with PKCS11, cryptography, or PKI concepts, or demonstrated ability to learn cryptography quickly.\n• Experience with DevOps tooling: Git, GitLab CI/CD, Ansible; ArgoCD and Helm are strong pluses.\n• Experience supporting containerized deployments on platforms such as OpenShift.\n• Familiarity with Oracle databases and ORM-based integrations.\n• Strong communication skills with the ability to collaborate across teams and mentor junior developers.\n\nCompensation for the Java Backend Developer (PKI) includes:\n• Salary range: $120,000 - $140,000\n• Comprehensive benefits package including Medical, Dental, Vision, 401k, PTO, holidays, and sick leave as required by law.\n\nKeywords: java, java developer, spring boot, RESTful Services, REST APIs, linux, tomcat, oracle, ORM, hibernate, JPA, PKCS11, cryptography, PKI, applied crypto, secure backend services, Git, Gitlab, ansible, ArgoCD, helm, openshift, CI/CD, microservices, backend architecture, JVM services, Java application servers\n\n#HYBRID\n\nThis job is open for applications on 2/13/2026 and will remain open for at least 30 days from the posting date.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Burnsville, NC",
+    "job_city": "Burnsville",
+    "job_state": "North Carolina",
+    "job_country": "US",
+    "job_latitude": 35.917335699999995,
+    "job_longitude": -82.300961,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEmWE3lk58Nxu8TmMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 120000,
+    "job_max_salary": 140000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "5–8 years of backend development experience",
+        "Strong hands-on expertise in Java, Spring Boot, and RESTful services",
+        "Solid understanding of Linux environments; experience with Tomcat services",
+        "Experience with PKCS11, cryptography, or PKI concepts, or demonstrated ability to learn cryptography quickly",
+        "Experience with DevOps tooling: Git, GitLab CI/CD, Ansible; ArgoCD and Helm are strong pluses",
+        "Experience supporting containerized deployments on platforms such as OpenShift",
+        "Familiarity with Oracle databases and ORM-based integrations",
+        "Strong communication skills with the ability to collaborate across teams and mentor junior developers",
+        "Keywords: java, java developer, spring boot, RESTful Services, REST APIs, linux, tomcat, oracle, ORM, hibernate, JPA, PKCS11, cryptography, PKI, applied crypto, secure backend services, Git, Gitlab, ansible, ArgoCD, helm, openshift, CI/CD, microservices, backend architecture, JVM services, Java application servers"
+      ],
+      "Benefits": [
+        "Salary range: $120,000 - $140,000",
+        "Comprehensive benefits package including Medical, Dental, Vision, 401k, PTO, holidays, and sick leave as required by law"
+      ],
+      "Responsibilities": [
+        "The Java Backend Developer will support the design, enhancement, and maintenance of core backend PKI and cryptographic services",
+        "This engineer will build secure backend features, collaborate across engineering and SRE teams, and ensure high‑volume cryptographic operations run reliably at scale",
+        "Develop new backend features for the Licensing Crypto Service using Java and Spring Boot",
+        "Collaborate closely with technical leads, SREs, architects, and cross-functional engineering teams across multiple time zones",
+        "Participate in detailed code reviews and feature refinement sessions with client and platform teams",
+        "Support Tomcat-based application deployments running on Linux environments",
+        "Assist with integrating and troubleshooting PKCS11 modules and applied cryptographic components",
+        "Maintain high-quality operational documentation for services, deployments, and configurations",
+        "Participate in an after-hours on-call rotation as part of service reliability responsibilities"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-java-backend-engineer-pk-at-piper-companies-4364455548",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "LDeF7a_zzrjLXGmVAAAAAA==",
+    "job_title": "US Tech - Backend Developer Manager",
+    "employer_name": "Line of Service:Internal Firm Services",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbISADYwodxUByAAwOWWSxMKSDRSb_NgVyIy99&s=0",
+    "employer_website": null,
+    "job_publisher": "PwC | US Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.us.pwc.com/job/tampa/us-tech-backend-developer-manager/932/90906499424?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "PwC | US Careers",
+        "apply_link": "https://jobs.us.pwc.com/job/tampa/us-tech-backend-developer-manager/932/90906499424?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Pwc/Job/US-Tech-Backend-Developer-Manager/-in-Dallas,TX?jid=e290d7e6b54b638b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/g4kigeWpXbWNR1S_1lfrvJ6C6eOp1GldJH3CuF3Oyz6T67s-IOrgFQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/software-engineering?id=2446542170&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talentify",
+        "apply_link": "https://www.talentify.io/job/us-tech-backend-developer-manager-dallas-texas-us-pwc-698526wd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "At PwC, our people in data and analytics engineering focus on leveraging advanced technologies and techniques to design and develop robust data solutions for clients. They play a crucial role in transforming raw data into actionable insights, enabling informed decision-making and driving business growth. Those in data science and machine learning engineering at PwC will focus on leveraging advanced analytics and machine learning techniques to extract insights from large datasets and drive data-driven decision making. You will work on developing predictive models, conducting statistical analysis, and creating data visualisations to solve complex business problems.\n\nEnhancing your leadership style, you motivate, develop and inspire others to deliver quality. You are responsible for coaching, leveraging team member’s unique strengths, and managing performance to deliver on client expectations. With your growing knowledge of how business works, you play an important role in identifying opportunities that contribute to the success of our Firm. You are expected to lead with integrity and authenticity, articulating our purpose and values in a meaningful way. You embrace technology and innovation to enhance your delivery and encourage others to do the same.\n\nExamples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:\n• Analyse and identify the linkages and interactions between the component parts of an entire system.\n• Take ownership of projects, ensuring their successful planning, budgeting, execution, and completion.\n• Partner with team leadership to ensure collective ownership of quality, timelines, and deliverables.\n• Develop skills outside your comfort zone, and encourage others to do the same.\n• Effectively mentor others.\n• Use the review of work as an opportunity to deepen the expertise of team members.\n• Address conflicts or issues, engaging in difficult conversations with clients, team members and other stakeholders, escalating where appropriate.\n• Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.\n\nThe Opportunity\n\nAs part of the People Tech & AI team you will lead the design, delivery, and governance of advanced AI and agent-based solutions that transform how organizations manage, support, and empower their workforce. As a Manager you will manage teams, shape technical strategy, and advise clients on deploying secure, scalable, and compliant AI solutions across People and HR ecosystems. This position provides a unique opportunity to influence the future of workforce management through innovative AI applications while developing your leadership skills in a dynamic environment.\n\nResponsibilities\n\n- Advise clients on secure and compliant AI implementations\n\n- Manage teams to secure project execution\n\n- Develop leadership skills while guiding team members\n\n- Work with stakeholders to drive project success\n\nWhat You Must Have\n\n- Bachelor's Degree\n\n- At least 6 years of experience in back-end engineering, conversational UI development, or enterprise application development\n\n- In lieu of a Bachelor's Degree, demonstrating, in addition to the minimum years of experience required for the role, three years of specialized training and/or progressively responsible work experience in technology for each missing year of college\n\nWhat Sets You Apart\n\n- Demonstrating leadership in building AI teams\n\n- Connecting AI strategy to People transformation\n\n- Scaling AI solutions across HR and workforce platforms\n\n- Understanding AI governance, security, and risk management\n\n- Bringing experience in Python and cloud-native platforms\n\n- Managing, coaching, and developing team members\n\n- Owning project planning and delivery for client satisfaction\n\n- Contributing to People Tech & AI strategy and thought leadership\n\nLearn more about how we work: https://pwc.to/how-we-work\n\nPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.\n\nAs PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law. \n\nFor only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.\n\nApplications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us-application-deadlines\n\nThe salary range for this position is: $73,500 - $212,280. For residents of Washington state the salary range for this position is: $73,500 - $244,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance\n\n#LI-Remote",
+    "job_is_remote": false,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Washington, DC",
+    "job_city": "Washington",
+    "job_state": "District of Columbia",
+    "job_country": "US",
+    "job_latitude": 38.9072873,
+    "job_longitude": -77.0369274,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLDeF7a_zzrjLXGmVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's Degree",
+        "At least 6 years of experience in back-end engineering, conversational UI development, or enterprise application development",
+        "In lieu of a Bachelor's Degree, demonstrating, in addition to the minimum years of experience required for the role, three years of specialized training and/or progressively responsible work experience in technology for each missing year of college",
+        "Demonstrating leadership in building AI teams",
+        "Connecting AI strategy to People transformation",
+        "Scaling AI solutions across HR and workforce platforms",
+        "Understanding AI governance, security, and risk management",
+        "Bringing experience in Python and cloud-native platforms",
+        "Managing, coaching, and developing team members",
+        "Owning project planning and delivery for client satisfaction",
+        "Contributing to People Tech & AI strategy and thought leadership"
+      ],
+      "Benefits": [
+        "The salary range for this position is: $73,500 - $212,280",
+        "For residents of Washington state the salary range for this position is: $73,500 - $244,000",
+        "Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws",
+        "All hired individuals are eligible for an annual discretionary bonus",
+        "PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more"
+      ],
+      "Responsibilities": [
+        "They play a crucial role in transforming raw data into actionable insights, enabling informed decision-making and driving business growth",
+        "Those in data science and machine learning engineering at PwC will focus on leveraging advanced analytics and machine learning techniques to extract insights from large datasets and drive data-driven decision making",
+        "You will work on developing predictive models, conducting statistical analysis, and creating data visualisations to solve complex business problems",
+        "Enhancing your leadership style, you motivate, develop and inspire others to deliver quality",
+        "You are responsible for coaching, leveraging team member’s unique strengths, and managing performance to deliver on client expectations",
+        "You embrace technology and innovation to enhance your delivery and encourage others to do the same",
+        "Analyse and identify the linkages and interactions between the component parts of an entire system",
+        "Take ownership of projects, ensuring their successful planning, budgeting, execution, and completion",
+        "Partner with team leadership to ensure collective ownership of quality, timelines, and deliverables",
+        "Develop skills outside your comfort zone, and encourage others to do the same",
+        "Effectively mentor others",
+        "Use the review of work as an opportunity to deepen the expertise of team members",
+        "Address conflicts or issues, engaging in difficult conversations with clients, team members and other stakeholders, escalating where appropriate",
+        "Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements",
+        "As part of the People Tech & AI team you will lead the design, delivery, and governance of advanced AI and agent-based solutions that transform how organizations manage, support, and empower their workforce",
+        "As a Manager you will manage teams, shape technical strategy, and advise clients on deploying secure, scalable, and compliant AI solutions across People and HR ecosystems",
+        "This position provides a unique opportunity to influence the future of workforce management through innovative AI applications while developing your leadership skills in a dynamic environment",
+        "Advise clients on secure and compliant AI implementations",
+        "Manage teams to secure project execution",
+        "Develop leadership skills while guiding team members",
+        "Work with stakeholders to drive project success"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "jobs-us-pwc-com-job-tampa-us-tech-backend-developer-manager-932-90906499424",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "CyeJ3-dz1DwxWq8-AAAAAA==",
+    "job_title": "Backend Java, Spring, Springboot, Hibernate, Rest/Soap Engineer",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Johnson,AR?jid=6de870d153f80703&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Johnson,AR?jid=6de870d153f80703&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...Join Walmart Global Tech as a Senior Software Engineer, Backend, where you will build and enhance scalable systems that power seamless digital experiences for millions of customers worldwide. You will work across diverse systems and domains, contributing to the design and development of critical backend services that support Walmart’s digital ecosystem—from checkout and fulfillment to user engagement journeys. About the Team Our team partners closely with our U.S. Stores and Walmart Health & Wellness businesses to better serve customers by empowering associates, pharmacies, and clinics through technological innovation. Whether customers engage with clinicians online via Walmart.com, through our mobile apps, or in-store, Walmart Health & Wellness delivers an extensive suite of services that customers and patients value. What You'll Do\n• Architect, design, and develop scalable backend services and APIs that support complex digital experiences.\n• Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey.\n• Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements.\n• Optimize application performance while ensuring high code quality.\n• Mentor junior engineers and promote knowledge sharing within the team.\n• Advocate for best practices in service architecture, security, and testing.\n• Build and maintain secure, high-performance, fault-tolerant distributed systems.\n• Develop reusable frameworks and components for backend service integrations.\n• Maintain code quality through automated testing, continuous integration, and thorough code reviews.\n• Troubleshoot and resolve production issues across complex system components.\n• Build scalable, reliable systems capable of handling large volumes of traffic and data.\n• Write clean, efficient, maintainable code aligned with engineering best practices.\n• Debug and troubleshoot issues within distributed systems across multiple environments.\n• Contribute to performance optimization, security enhancements, and system resilience.\n• Participate in code reviews and provide constructive feedback to peers.\nWhat You’ll Bring\n• 6–9 years of total experience, including 5+ years in backend engineering and platform development.\n• 5+ years of experience with Java technologies, distributed systems, and large-scale application design and development.\n• Hands-on experience with Spring Boot, REST, Kafka, and Cassandra.\n• Experience with containerization technologies and microservices architecture.\n• Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools.\n• Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications.\n• Strong adherence to SDLC processes and Scrum/Agile methodologies.\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n2501 Se J St, Ste A, Bentonville, AR 72716-3724, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Johnson, AR",
+    "job_city": "Johnson",
+    "job_state": "Arkansas",
+    "job_country": "US",
+    "job_latitude": 36.1334622,
+    "job_longitude": -94.1629938,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCyeJ3-dz1DwxWq8-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 90000,
+    "job_max_salary": 180000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "6–9 years of total experience, including 5+ years in backend engineering and platform development",
+        "5+ years of experience with Java technologies, distributed systems, and large-scale application design and development",
+        "Hands-on experience with Spring Boot, REST, Kafka, and Cassandra",
+        "Experience with containerization technologies and microservices architecture",
+        "Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools",
+        "Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications",
+        "Strong adherence to SDLC processes and Scrum/Agile methodologies",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
+        "Option 2: 5 years’ experience in software engineering or related area",
+        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
+      ],
+      "Responsibilities": [
+        "Architect, design, and develop scalable backend services and APIs that support complex digital experiences",
+        "Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey",
+        "Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements",
+        "Optimize application performance while ensuring high code quality",
+        "Mentor junior engineers and promote knowledge sharing within the team",
+        "Advocate for best practices in service architecture, security, and testing",
+        "Build and maintain secure, high-performance, fault-tolerant distributed systems",
+        "Develop reusable frameworks and components for backend service integrations",
+        "Maintain code quality through automated testing, continuous integration, and thorough code reviews",
+        "Troubleshoot and resolve production issues across complex system components",
+        "Build scalable, reliable systems capable of handling large volumes of traffic and data",
+        "Write clean, efficient, maintainable code aligned with engineering best practices",
+        "Debug and troubleshoot issues within distributed systems across multiple environments",
+        "Contribute to performance optimization, security enhancements, and system resilience",
+        "Participate in code reviews and provide constructive feedback to peers"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-backend-java-spring-springboot-hibernate-rest-soap-engineer-in-johnson-ar",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "lcrJmeBTd97XNEaOAAAAAA==",
     "job_title": "Backend Developer",
     "employer_name": "Actalent",
@@ -869,9 +953,9 @@
     "job_latitude": 42.2677214,
     "job_longitude": -89.08777479999999,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlcrJmeBTd97XNEaOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 45,
@@ -919,192 +1003,6 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "careers-actalentservices-com-us-en-job-jp-005828175-backend-developer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "CyeJ3-dz1DwxWq8-AAAAAA==",
-    "job_title": "Backend Java, Spring, Springboot, Hibernate, Rest/Soap Engineer",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Johnson,AR?jid=6de870d153f80703&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Johnson,AR?jid=6de870d153f80703&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Position Summary...\n\nWhat you'll do...Join Walmart Global Tech as a Senior Software Engineer, Backend, where you will build and enhance scalable systems that power seamless digital experiences for millions of customers worldwide. You will work across diverse systems and domains, contributing to the design and development of critical backend services that support Walmart’s digital ecosystem—from checkout and fulfillment to user engagement journeys. About the Team Our team partners closely with our U.S. Stores and Walmart Health & Wellness businesses to better serve customers by empowering associates, pharmacies, and clinics through technological innovation. Whether customers engage with clinicians online via Walmart.com, through our mobile apps, or in-store, Walmart Health & Wellness delivers an extensive suite of services that customers and patients value. What You'll Do\n• Architect, design, and develop scalable backend services and APIs that support complex digital experiences.\n• Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey.\n• Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements.\n• Optimize application performance while ensuring high code quality.\n• Mentor junior engineers and promote knowledge sharing within the team.\n• Advocate for best practices in service architecture, security, and testing.\n• Build and maintain secure, high-performance, fault-tolerant distributed systems.\n• Develop reusable frameworks and components for backend service integrations.\n• Maintain code quality through automated testing, continuous integration, and thorough code reviews.\n• Troubleshoot and resolve production issues across complex system components.\n• Build scalable, reliable systems capable of handling large volumes of traffic and data.\n• Write clean, efficient, maintainable code aligned with engineering best practices.\n• Debug and troubleshoot issues within distributed systems across multiple environments.\n• Contribute to performance optimization, security enhancements, and system resilience.\n• Participate in code reviews and provide constructive feedback to peers.\nWhat You’ll Bring\n• 6–9 years of total experience, including 5+ years in backend engineering and platform development.\n• 5+ years of experience with Java technologies, distributed systems, and large-scale application design and development.\n• Hands-on experience with Spring Boot, REST, Kafka, and Cassandra.\n• Experience with containerization technologies and microservices architecture.\n• Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools.\n• Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications.\n• Strong adherence to SDLC processes and Scrum/Agile methodologies.\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n2501 Se J St, Ste A, Bentonville, AR 72716-3724, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Johnson, AR",
-    "job_city": "Johnson",
-    "job_state": "Arkansas",
-    "job_country": "US",
-    "job_latitude": 36.1334622,
-    "job_longitude": -94.1629938,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCyeJ3-dz1DwxWq8-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 90000,
-    "job_max_salary": 180000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "6–9 years of total experience, including 5+ years in backend engineering and platform development",
-        "5+ years of experience with Java technologies, distributed systems, and large-scale application design and development",
-        "Hands-on experience with Spring Boot, REST, Kafka, and Cassandra",
-        "Experience with containerization technologies and microservices architecture",
-        "Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools",
-        "Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications",
-        "Strong adherence to SDLC processes and Scrum/Agile methodologies",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
-        "Option 2: 5 years’ experience in software engineering or related area",
-        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses",
-        "Additional compensation for certain positions may also include :"
-      ],
-      "Responsibilities": [
-        "Architect, design, and develop scalable backend services and APIs that support complex digital experiences",
-        "Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey",
-        "Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements",
-        "Optimize application performance while ensuring high code quality",
-        "Mentor junior engineers and promote knowledge sharing within the team",
-        "Advocate for best practices in service architecture, security, and testing",
-        "Build and maintain secure, high-performance, fault-tolerant distributed systems",
-        "Develop reusable frameworks and components for backend service integrations",
-        "Maintain code quality through automated testing, continuous integration, and thorough code reviews",
-        "Troubleshoot and resolve production issues across complex system components",
-        "Build scalable, reliable systems capable of handling large volumes of traffic and data",
-        "Write clean, efficient, maintainable code aligned with engineering best practices",
-        "Debug and troubleshoot issues within distributed systems across multiple environments",
-        "Contribute to performance optimization, security enhancements, and system resilience",
-        "Participate in code reviews and provide constructive feedback to peers"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-backend-java-spring-springboot-hibernate-rest-soap-engineer-in-johnson-ar",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "RLLy02Sqe_4vlCkUAAAAAA==",
-    "job_title": "Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra)",
-    "employer_name": "Coinbase",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OL4_4viaeK1GNWKlusWTU0WPLNurfsu9Lsbt&s=0",
-    "employer_website": "https://www.coinbase.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/backend-developer?id=2454717036&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/backend-developer?id=2454717036&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Ready to be pushed beyond what you think you’re capable of?\n\nAt Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.\n\nTo achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.\n\nOur work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.\n\nWhile many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.\n\nOrg Overview:\n\nConsumer & Business Group (CBG)’s mission at Coinbase ​​is to become the #1 financial app in the world, focusing on delivering exceptional consumer and business experiences across financial services, trading, and growth initiatives.\n\nThe Growth org’s vision, within CBG, is to grow Coinbase to a billion active users globally, by driving sustainable user growth through innovative acquisition, engagement and retention strategies, and building foundational infrastructure that supports long-term growth.\n\nTeam Overview:\n\nThe Growth org builds features, products and systems that repeatedly and predictably drive user growth, through rapid and systematic execution. As a growth org, we take a holistic view of the user’s Coinbase journey, with teams focused on user acquisition, engagement and retention.\n\nResponsibilities:\n\nWe hire and cultivate a world class growth management teams with below attributes as our DNA:\n\nImpact-Driven\n\nMotivated by having impact. Excited about delivering outcomes vs outputs.\n\nFull-stack minded. Willing and able to quickly pursue and validate any idea or hypothesis, with the skill to tackle problems that span product, backend systems, ML, data and more. Not everyone needs to be full-stack, but we encourage it when it will enable flexibility and velocity.\n\nData-driven. Identifies and pursues high impact opportunities, backed by data.\n\nHigh Agency\n\nUnderstands how their work will drive meaningful impact to the growth of Coinbase.\n\nTakes accountability and actively seeks out opportunities to deliver results.\n\nIs equipped with all the tools and skills to build products and systems quickly.\n\nHigh Velocity\n\nPreferred mode of operation is fast. Genuinely motivated and energized by moving quickly.\n\nKnows how to balance velocity and quality. Understand the importance of sustainable velocity, and prioritize simplicity when possible.\n\nInvests in tools, systems and processes to increase velocity, as well as builds organizational relationships and cross-team expertise to break down organizational barriers that could hinder execution speed.\n\nHow do we do it?\n\nWe're building a world-class growth engine by developing features, products, and systems that consistently deliver user value from their first interaction to their entire journey with Coinbase. We do this in a systematic way by:\n\nRapidly launching, iterating and optimizing new and existing features and products to grow Coinbase.\n\nBuilding resilient and scalable systems that unlock growth at scale, and enable us to build, maintain and iterate on features and products even faster.\n\nTouching all parts of the stack including: web, mobile, backend, data and ML.\n\nThe Role:\n\nCoinbase is seeking a Senior Staff Engineer to join our team and build out the next generation of crypto-forward products and features. You will solve unique, large scale, highly complex technical problems, bridging the constraints posed by web-scale applications and blockchain technology. You will help build the next generation of systems to make cryptocurrency accessible to everyone across the globe, operating real-time applications with high frequency, low latency updates, and managing the most secure infrastructure running in the cloud.\n\nWhat you’ll be doing (ie. job duties):\n\nPartner with the Head of Growth Engineering, EMs, and Product Managers to define and build mission critical systems to enable user growth.\n\nBuild foundational systems that power growth across Coinbase: incentives platform, notifications platform and dynamic presentation system.\n\nBuild and scale user experiences across all parts of the Coinbase product experience from SEO, logged out experience, user onboarding, search, discovery and referrals.\n\nDrive a holistic and unified engineering strategy that delivers engineering quality and excellence across the organization.\n\nWhat we look for in you:\n\nAbility to drive multi-quarter roadmaps with complex dependencies within and outside the Growth team.\n\nStrong track record of \"horizontal\" technical leadership across multiple engineering teams.\n\nAbility to drive quality and performance across complex systems at scale and understand what metrics and SLOs reflect product quality and how to move them.\n\nNice to haves:\n\nStrong cross-functional partnership skills, as this role spans across all of Growth Engineering.\n\nExperience working across all parts of the stack.\n\nExcited about working in a fast-paced environment.\n\nExcited and motivated about delivering impact to the business.\n\nJob #: GCBE07US-GAI\n\nPay Transparency Notice : Depending on your work location, the target annual *base *salary for this position can range as detailed below. Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k)).\n\nBase salary range shown. Total compensation also includes equity and bonus eligibility and benefits:\n\n$253,895—$298,700 USD\n\nPlease be advised that each candidate may submit a maximum of four applications within any 30-day period. We encourage you to carefully evaluate how your skills and interests align with Coinbase's roles before applying.\n\nCommitment to Equal Opportunity\n\nCoinbase is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view the Employee Rights and the Know Your Rights notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.\n\nCoinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations(at)coinbase.com to let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).\n\nGlobal Data Privacy Notice for Job Candidates and Applicants\n\nDepending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.\n\nAI Disclosure\n\nFor select roles, Coinbase is piloting an AI tool based on machine learning technologies to conduct initial screening interviews to qualified applicants. The tool simulates realistic interview scenarios and engages in dynamic conversation. A human recruiter will review your interview responses, provided in the form of a voice recording and/or transcript, to assess them against the qualifications and characteristics outlined in the job description.\n\nFor select roles, Coinbase is also piloting an AI interview intelligence platform to transcribe and summarize interview notes, allowing our interviewers to fully focus on you as the candidate.\n\nThe above pilots are for testing purposes and Coinbase will not use AI to make decisions impacting employment . To request a reasonable accommodation due to disability, please contact accommodations(at)coinbase.com",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Ewing Township, NJ",
-    "job_city": "Ewing Township",
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 40.2770556,
-    "job_longitude": -74.7805119,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRLLy02Sqe_4vlCkUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up",
-        "We want someone who will run towards, not away from, solving the company’s hardest problems",
-        "Motivated by having impact",
-        "Excited about delivering outcomes vs outputs",
-        "Full-stack minded",
-        "Willing and able to quickly pursue and validate any idea or hypothesis, with the skill to tackle problems that span product, backend systems, ML, data and more",
-        "Not everyone needs to be full-stack, but we encourage it when it will enable flexibility and velocity",
-        "Genuinely motivated and energized by moving quickly",
-        "Knows how to balance velocity and quality",
-        "Understand the importance of sustainable velocity, and prioritize simplicity when possible",
-        "Invests in tools, systems and processes to increase velocity, as well as builds organizational relationships and cross-team expertise to break down organizational barriers that could hinder execution speed",
-        "Ability to drive multi-quarter roadmaps with complex dependencies within and outside the Growth team",
-        "Strong track record of \"horizontal\" technical leadership across multiple engineering teams",
-        "Ability to drive quality and performance across complex systems at scale and understand what metrics and SLOs reflect product quality and how to move them",
-        "Strong cross-functional partnership skills, as this role spans across all of Growth Engineering",
-        "Experience working across all parts of the stack",
-        "Excited about working in a fast-paced environment",
-        "Excited and motivated about delivering impact to the business"
-      ],
-      "Benefits": [
-        "Pay Transparency Notice : Depending on your work location, the target annual *base *salary for this position can range as detailed below",
-        "Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k))",
-        "Base salary range shown",
-        "Total compensation also includes equity and bonus eligibility and benefits:",
-        "$253,895—$298,700 USD"
-      ],
-      "Responsibilities": [
-        "In-person participation is required throughout the year",
-        "Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment",
-        "Attendance is expected and fully supported",
-        "Identifies and pursues high impact opportunities, backed by data",
-        "Understands how their work will drive meaningful impact to the growth of Coinbase",
-        "Takes accountability and actively seeks out opportunities to deliver results",
-        "Is equipped with all the tools and skills to build products and systems quickly",
-        "Rapidly launching, iterating and optimizing new and existing features and products to grow Coinbase",
-        "Building resilient and scalable systems that unlock growth at scale, and enable us to build, maintain and iterate on features and products even faster",
-        "Touching all parts of the stack including: web, mobile, backend, data and ML",
-        "You will solve unique, large scale, highly complex technical problems, bridging the constraints posed by web-scale applications and blockchain technology",
-        "You will help build the next generation of systems to make cryptocurrency accessible to everyone across the globe, operating real-time applications with high frequency, low latency updates, and managing the most secure infrastructure running in the cloud",
-        "Partner with the Head of Growth Engineering, EMs, and Product Managers to define and build mission critical systems to enable user growth",
-        "Build foundational systems that power growth across Coinbase: incentives platform, notifications platform and dynamic presentation system",
-        "Build and scale user experiences across all parts of the Coinbase product experience from SEO, logged out experience, user onboarding, search, discovery and referrals",
-        "Drive a holistic and unified engineering strategy that delivers engineering quality and excellence across the organization"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-backend-developer",
     "_source": "new_jobs"
   },
   {
@@ -1271,6 +1169,112 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "SU9ezCXSuTIDdrYxAAAAAA==",
+    "job_title": "Senior Backend Engineer - Mimir | USA | Remote",
+    "employer_name": "Grafana Labs",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzK2Nb3poTEm7SOzkoLFDn_KfC64avx8jMCwx&s=0",
+    "employer_website": "https://grafana.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Grafana-Labs/Job/Senior-Backend-Engineer-Mimir-%7C-USA-%7C-Remote/-in-Remote,OR?jid=5f815ca32b335790&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Grafana-Labs/Job/Senior-Backend-Engineer-Mimir-%7C-USA-%7C-Remote/-in-Remote,OR?jid=5f815ca32b335790&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Halidukkani.com",
+        "apply_link": "https://halidukkani.com/apply/job/senior-fullstack-engineer-core-at-andiamo-group-remote-cDlDdEx3VWFjcDF5ekM0WTVGV243Ukk3MEE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BBH",
+        "apply_link": "https://bbhconstrucoes.com.br/library/job/senior-fullstack-engineer-core-at-andiamo-group-remote-UmhtQmVuRm9yMUMvY3F1NTV1MktIdUpydmc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "UZA LAB",
+        "apply_link": "https://uzazi-lab.com/joblib/job/senior-fullstack-engineer-core-at-andiamo-group-remote-WXdVNE93dEJPK2xBTFJERXpsa3lnQ2NDNHc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This is a remote position. We are looking for candidates in the United States time zones.\n\nWhat is Grafana Cloud?\n\nGrafana Cloud is our composable observability platform that integrates metrics, logs, traces, and profiles with Grafana. It allows our customers to leverage the best open source observability software - including Prometheus, Mimir, Loki, Tempo, and Pyroscope - without the overhead of installing, maintaining and scaling their own observability stack.\n\nThe Databases team owns and operates the telemetry databases that are Mimir for metrics, Loki for logs, Tempo for traces, and Pyroscope for profiles. Our databases are offered as a hosted service in Grafana Cloud, and additionally as on-premise solutions with Grafana Enterprise Metrics, Grafana Enterprise Logs, and Grafana Enterprise Traces. They are multi-tenant distributed systems implemented in Go and operating at scale on Kubernetes across all major Cloud service providers (AWS, GCP, Azure).\n\nAs a company we are remote-first and global, we embrace people of different experiences and backgrounds to build diverse teams where every person brings a new perspective to the software.\n\nThe Opportunity:\n\nThe Mimir squad has 3 sub-squads, Ingest, Storage, and Query, which together maintain the Mimir OSS project, and additionally own and operate Grafana Cloud Metrics across 3 major cloud providers. Engineers on the team focus on optimizing the efficiency and resilience of processing, storing, and querying metrics at large volumes. These services operate at a large scale and performance is key to keeping the offering competitive and running smoothly.\n\nA Mimir engineer has various work streams. They are likely engaged in a larger project with another engineer, and they are also incorporating some performance and reliability improvements discovered through operating the system in production. They are also responsible for writing and reviewing PRs and design documents from other engineers in the squad, shepherding automated release rollouts, and participating in the on-call rotation for their systems.\n\nWhat You'll be Doing:\n• Take an active role in influencing our roadmap and your own career objectives\n• Work with your team to deliver new features, then use the results to iterate and improve.\n• Drive projects from initial idea all the way to operations once it is in the hands of customers\n• Embrace our open-source culture and contribute to other projects that may not directly fall within your team's scope\n• Design, build, operate, and maintain critical systems, owning the reliability, performance, and availability\n• Be a part of your team's follow-the-sun on-call rotations and take ownership of the services you're running\n• Support other team members, participate in design discussions and collaborate with the team\n• Learn new skills by gaining a deeper understanding of our cloud product and our customers and getting to know the codebase of a large distributed system\n\nAs we are remote-first and our engineering organization is largely remote, we provide guidance and meet regularly using video calls, so an independent attitude and good communication skills are a must.\n\nWe invest heavily in developer productivity. You can use modern AI coding assistants as part of your daily workflow (your choice of tools, within security guidelines), backed by a company-funded usage budget so you can iterate quickly without unnecessary friction.\n\nWe encourage pragmatic AI-assisted development: faster prototyping, test generation, refactors, documentation, and incident follow-ups-always paired with strong code review and quality standards.\n\nYou'll also have access to frontier models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3 Pro).\n\nWhat Makes You a Great Fit:\n\nYou are a motivated self-starter with a bias towards action. You are customer focused. We build everything with our users in mind. You have a passion for creating intuitive products that fit customers' needs. You have good time management skills, which you leverage to work on the right things at the right time.\n• Pragmatism: You are able to take on complex challenges and break them down to achieve short feedback loops: to analyze, design, and build modular solutions, deliver MVPs, gather data and feedback and then progress iteratively\n• Collaboration and communication: The smallest unit we have is a squad. You'll be working with your teammates in a fully remote setup. Good communication and time management skills are a must.\n• Solid experience with at least one programming language. We use Go, but if you have familiarity with Python, C, C++, Rust or similar then that translates well\n• Some experience with delivering projects from gathering requirements, brainstorming ideas all the way to shipping a product to the customer's hands in a self-driven way\n• Some experience with developing software that runs in the Cloud or some experience with systems engineering\n• Some experience with being on-call and following the DevOps model\n• Experience writing clean, robust, and performant software that is easily maintained by others\n• Familiarity with observability systems, know when to use metrics, logs, traces, to debug a problem.\n\nBonus Points for:\n• Experience working with Kubernetes\n• Experience working with queue systems, e.g. the Kafka protocol\n• Been a user of Grafana and Prometheus in operational roles (including on-call for your team at a previous employer or just using these tools on hobby/homelab projects)\n• Exposure to microservices architecture and distributed systems, or a desire to learn\n• Familiarity with the concept of infrastructure as code\n\nCompensation & Rewards:\n\nIn the United States, the Base compensation range for this role is USD 154,445 - USD 185,334. Actual compensation may vary based on level, experience, and skillset as assessed in the interview process. Benefits include equity, bonus (if applicable) and other benefits listed here.\n• Compensation ranges are country-specific. If you are applying for this role from a different location than listed above, your recruiter will discuss your specific market's defined pay range & benefits at the beginning of the process.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Remote, OR",
+    "job_city": "Remote",
+    "job_state": "Oregon",
+    "job_country": "US",
+    "job_latitude": 43.005945499999996,
+    "job_longitude": -123.8925908,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSU9ezCXSuTIDdrYxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "As we are remote-first and our engineering organization is largely remote, we provide guidance and meet regularly using video calls, so an independent attitude and good communication skills are a must",
+        "You are a motivated self-starter with a bias towards action",
+        "You are customer focused",
+        "You have a passion for creating intuitive products that fit customers' needs",
+        "You have good time management skills, which you leverage to work on the right things at the right time",
+        "Pragmatism: You are able to take on complex challenges and break them down to achieve short feedback loops: to analyze, design, and build modular solutions, deliver MVPs, gather data and feedback and then progress iteratively",
+        "Collaboration and communication: The smallest unit we have is a squad",
+        "Good communication and time management skills are a must",
+        "Solid experience with at least one programming language",
+        "We use Go, but if you have familiarity with Python, C, C++, Rust or similar then that translates well",
+        "Some experience with delivering projects from gathering requirements, brainstorming ideas all the way to shipping a product to the customer's hands in a self-driven way",
+        "Some experience with developing software that runs in the Cloud or some experience with systems engineering",
+        "Some experience with being on-call and following the DevOps model",
+        "Experience writing clean, robust, and performant software that is easily maintained by others",
+        "Familiarity with observability systems, know when to use metrics, logs, traces, to debug a problem",
+        "Experience working with Kubernetes",
+        "Experience working with queue systems, e.g. the Kafka protocol",
+        "Been a user of Grafana and Prometheus in operational roles (including on-call for your team at a previous employer or just using these tools on hobby/homelab projects)",
+        "Exposure to microservices architecture and distributed systems, or a desire to learn"
+      ],
+      "Benefits": [
+        "Familiarity with the concept of infrastructure as code",
+        "In the United States, the Base compensation range for this role is USD 154,445 - USD 185,334",
+        "Actual compensation may vary based on level, experience, and skillset as assessed in the interview process",
+        "Benefits include equity, bonus (if applicable) and other benefits listed here",
+        "Compensation ranges are country-specific",
+        "If you are applying for this role from a different location than listed above, your recruiter will discuss your specific market's defined pay range & benefits at the beginning of the process"
+      ],
+      "Responsibilities": [
+        "They are likely engaged in a larger project with another engineer, and they are also incorporating some performance and reliability improvements discovered through operating the system in production",
+        "They are also responsible for writing and reviewing PRs and design documents from other engineers in the squad, shepherding automated release rollouts, and participating in the on-call rotation for their systems",
+        "Take an active role in influencing our roadmap and your own career objectives",
+        "Work with your team to deliver new features, then use the results to iterate and improve",
+        "Drive projects from initial idea all the way to operations once it is in the hands of customers",
+        "Embrace our open-source culture and contribute to other projects that may not directly fall within your team's scope",
+        "Design, build, operate, and maintain critical systems, owning the reliability, performance, and availability",
+        "Be a part of your team's follow-the-sun on-call rotations and take ownership of the services you're running",
+        "Support other team members, participate in design discussions and collaborate with the team",
+        "Learn new skills by gaining a deeper understanding of our cloud product and our customers and getting to know the codebase of a large distributed system",
+        "You can use modern AI coding assistants as part of your daily workflow (your choice of tools, within security guidelines), backed by a company-funded usage budget so you can iterate quickly without unnecessary friction",
+        "We encourage pragmatic AI-assisted development: faster prototyping, test generation, refactors, documentation, and incident follow-ups-always paired with strong code review and quality standards",
+        "You'll also have access to frontier models (e.g., GPT-Codex 5/3, Claude Opus 4.6, Gemini 3 Pro)",
+        "You'll be working with your teammates in a fully remote setup"
+      ]
+    },
+    "job_onet_soc": "15119900",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-grafana-labs-job-senior-backend-engineer-mimir-7c-usa-7c-remote-in-remote-or",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "iJ7ZcdlY4jExtywHAAAAAA==",
     "job_title": "Software Engineer Backend/Platform Systems II (Full Time) – United States",
     "employer_name": "Cisco",
@@ -1332,9 +1336,9 @@
     "job_latitude": 39.1511692,
     "job_longitude": -76.92305069999999,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiJ7ZcdlY4jExtywHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1386,6 +1390,88 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "careers-cisco-com-global-en-job-ciscisglobal2000135externalenglobal-software-engineer-backend-platform-systems-ii-full-time-united-states",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "qmy7k9ovcL6ovColAAAAAA==",
+    "job_title": "Software Engineer, Backend (Consumer - Growth)",
+    "employer_name": "Coinbase",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OL4_4viaeK1GNWKlusWTU0WPLNurfsu9Lsbt&s=0",
+    "employer_website": "https://www.coinbase.com",
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/backend-developer?id=2454720254&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/backend-developer?id=2454720254&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Ready to be pushed beyond what you think you’re capable of?\n\nAt Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.\n\nTo achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.\n\nOur work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.\n\nWhile many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.\n\nCoinbase is seeking experienced backend engineers to join our team to build out the next generation of crypto-forward products and features. You will solve unique, large scale, highly complex technical problems, bridging the constraints posed by web-scale applications and blockchain technology. You will help build the next generation of systems to make cryptocurrency accessible to everyone across the globe, operating real-time applications with high frequency, low latency updates, and managing the most secure infrastructure running in the cloud.\n\nThe Growth organization drives Coinbase’s mission of bringing the world onchain. By building and leveraging growth tools across multiple avenues, including referral and incentives programs, creating a world-class notifications system, building a dynamic, engaging, and accessible logged-out web experience, and optimizing our new user onboarding flow, we ensure that Coinbase is the easiest, safest, and fastest way to buy, hold, and trade Crypto assets, and ensure our new users are set up for success from their first interaction.\n\nWhat you'll be doing:\n\nBuild and run experiments to power the growth of Coinbase’s retail products.\n\nDesign scalable systems to solve novel problems with modern cloud technology and industry best practices.\n\nWork with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter.\n\nWrite high quality, well tested code to meet the needs of your customers.\n\nWhat we look for in you:\n\nYou have at least 2+ years of experience in software engineering.\n\nYou’ve designed, built, scaled and maintained production services, and know how to compose a service oriented architecture.\n\nYou write high quality, well tested code to meet the needs of your customers.\n\nYou’re passionate about building an open financial system that brings the world together.\n\nNice to haves:\n\nYou have experience launching new products from 0 to 1\n\nExperience with growth experiments or A/B testing frameworks.\n\nYou have experience with Blockchain technology (such as Bitcoin, Ethereum etc..)\n\nYou’ve worked with Golang, Ruby, Docker, Rails, Postgres, MongoDB or DynamoDB.\n\nYou’ve built fintech, highly reliable and/or secure systems.\n\nCrypto-forward experience, including familiarity with onchain activity such as interacting with Ethereum addresses, using ENS, and engaging with dApps or blockchain-based services.\n\nJob #: GCBE04US\n• Answers to crypto-related questions may be used to evaluate your onchain experience.\n\n#LI-Remote\n\nFor select roles, Coinbase is piloting an AI tool based on machine learning technologies to conduct initial screening interviews to qualified applicants. The tool simulates realistic interview scenarios and engages in dynamic conversation. Your interview responses, in the form of a voice recording and/or transcript will be assessed in terms of the job qualifications and characteristics listed in the position description above by a human recruiter.\n\nFor other select roles, Coinbase is piloting BrightHire, an AI interview intelligence platform, to transcribe and summarize interview notes, allowing our interviewers to fully focus on you as the candidate.\n\nDepending on your role and stage in the application process, you will be informed of the specifics regarding which tool(s) will be used as part of the interview process.\n\nThese interview tools enable us to give a greater number of candidates an initial interview who meet our mandatory hiring criteria. The above pilots are for testing purposes and Coinbase will not use AI to make an employment decision. To request a reasonable accommodation due to disability, please contact\n\nPay Transparency Notice : Depending on your work location, the target annual *base *salary for this position can range as detailed below. Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k)).\n\nBase salary range shown. Total compensation also includes equity and bonus eligibility and benefits:\n\n$152,405—$179,300 USD\n\nPlease be advised that each candidate may submit a maximum of four applications within any 30-day period. We encourage you to carefully evaluate how your skills and interests align with Coinbase's roles before applying.\n\nCommitment to Equal Opportunity\n\nCoinbase is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view the Employee Rights and the Know Your Rights notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.\n\nCoinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations(at)coinbase.com to let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).\n\nGlobal Data Privacy Notice for Job Candidates and Applicants\n\nDepending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.\n\nAI Disclosure\n\nFor select roles, Coinbase is piloting an AI tool based on machine learning technologies to conduct initial screening interviews to qualified applicants. The tool simulates realistic interview scenarios and engages in dynamic conversation. A human recruiter will review your interview responses, provided in the form of a voice recording and/or transcript, to assess them against the qualifications and characteristics outlined in the job description.\n\nFor select roles, Coinbase is also piloting an AI interview intelligence platform to transcribe and summarize interview notes, allowing our interviewers to fully focus on you as the candidate.\n\nThe above pilots are for testing purposes and Coinbase will not use AI to make decisions impacting employment . To request a reasonable accommodation due to disability, please contact accommodations(at)coinbase.com",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Crawfordville, FL",
+    "job_city": "Crawfordville",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 30.194483899999998,
+    "job_longitude": -84.37112069999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dqmy7k9ovcL6ovColAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up",
+        "We want someone who will run towards, not away from, solving the company’s hardest problems",
+        "You have at least 2+ years of experience in software engineering",
+        "You’ve designed, built, scaled and maintained production services, and know how to compose a service oriented architecture",
+        "You write high quality, well tested code to meet the needs of your customers",
+        "You’re passionate about building an open financial system that brings the world together",
+        "You have experience launching new products from 0 to 1",
+        "Experience with growth experiments or A/B testing frameworks",
+        "You have experience with Blockchain technology (such as Bitcoin, Ethereum etc..)",
+        "You’ve worked with Golang, Ruby, Docker, Rails, Postgres, MongoDB or DynamoDB",
+        "You’ve built fintech, highly reliable and/or secure systems",
+        "Crypto-forward experience, including familiarity with onchain activity such as interacting with Ethereum addresses, using ENS, and engaging with dApps or blockchain-based services"
+      ],
+      "Benefits": [
+        "Pay Transparency Notice : Depending on your work location, the target annual *base *salary for this position can range as detailed below",
+        "Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k))",
+        "Base salary range shown",
+        "Total compensation also includes equity and bonus eligibility and benefits:",
+        "$152,405—$179,300 USD"
+      ],
+      "Responsibilities": [
+        "In-person participation is required throughout the year",
+        "Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment",
+        "Attendance is expected and fully supported",
+        "You will solve unique, large scale, highly complex technical problems, bridging the constraints posed by web-scale applications and blockchain technology",
+        "You will help build the next generation of systems to make cryptocurrency accessible to everyone across the globe, operating real-time applications with high frequency, low latency updates, and managing the most secure infrastructure running in the cloud",
+        "Build and run experiments to power the growth of Coinbase’s retail products",
+        "Design scalable systems to solve novel problems with modern cloud technology and industry best practices",
+        "Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter",
+        "Write high quality, well tested code to meet the needs of your customers",
+        "Answers to crypto-related questions may be used to evaluate your onchain experience",
+        "The tool simulates realistic interview scenarios and engages in dynamic conversation"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-whatjobs-com-jobs-backend-developer",
     "_source": "new_jobs"
   },
   {
@@ -1446,9 +1532,9 @@
     "job_latitude": 38.9695545,
     "job_longitude": -77.3860976,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOaYpWVYWVDy1P58cAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
@@ -1458,6 +1544,155 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-walmart-job-backend-senior-software-engineer-in-herndon-va",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "RLLy02Sqe_4vlCkUAAAAAA==",
+    "job_title": "Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra)",
+    "employer_name": "Coinbase",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OL4_4viaeK1GNWKlusWTU0WPLNurfsu9Lsbt&s=0",
+    "employer_website": "https://www.coinbase.com",
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/backend-developer?id=2454717036&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/backend-developer?id=2454717036&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Ready to be pushed beyond what you think you’re capable of?\n\nAt Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.\n\nTo achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.\n\nOur work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.\n\nWhile many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.\n\nOrg Overview:\n\nConsumer & Business Group (CBG)’s mission at Coinbase ​​is to become the #1 financial app in the world, focusing on delivering exceptional consumer and business experiences across financial services, trading, and growth initiatives.\n\nThe Growth org’s vision, within CBG, is to grow Coinbase to a billion active users globally, by driving sustainable user growth through innovative acquisition, engagement and retention strategies, and building foundational infrastructure that supports long-term growth.\n\nTeam Overview:\n\nThe Growth org builds features, products and systems that repeatedly and predictably drive user growth, through rapid and systematic execution. As a growth org, we take a holistic view of the user’s Coinbase journey, with teams focused on user acquisition, engagement and retention.\n\nResponsibilities:\n\nWe hire and cultivate a world class growth management teams with below attributes as our DNA:\n\nImpact-Driven\n\nMotivated by having impact. Excited about delivering outcomes vs outputs.\n\nFull-stack minded. Willing and able to quickly pursue and validate any idea or hypothesis, with the skill to tackle problems that span product, backend systems, ML, data and more. Not everyone needs to be full-stack, but we encourage it when it will enable flexibility and velocity.\n\nData-driven. Identifies and pursues high impact opportunities, backed by data.\n\nHigh Agency\n\nUnderstands how their work will drive meaningful impact to the growth of Coinbase.\n\nTakes accountability and actively seeks out opportunities to deliver results.\n\nIs equipped with all the tools and skills to build products and systems quickly.\n\nHigh Velocity\n\nPreferred mode of operation is fast. Genuinely motivated and energized by moving quickly.\n\nKnows how to balance velocity and quality. Understand the importance of sustainable velocity, and prioritize simplicity when possible.\n\nInvests in tools, systems and processes to increase velocity, as well as builds organizational relationships and cross-team expertise to break down organizational barriers that could hinder execution speed.\n\nHow do we do it?\n\nWe're building a world-class growth engine by developing features, products, and systems that consistently deliver user value from their first interaction to their entire journey with Coinbase. We do this in a systematic way by:\n\nRapidly launching, iterating and optimizing new and existing features and products to grow Coinbase.\n\nBuilding resilient and scalable systems that unlock growth at scale, and enable us to build, maintain and iterate on features and products even faster.\n\nTouching all parts of the stack including: web, mobile, backend, data and ML.\n\nThe Role:\n\nCoinbase is seeking a Senior Staff Engineer to join our team and build out the next generation of crypto-forward products and features. You will solve unique, large scale, highly complex technical problems, bridging the constraints posed by web-scale applications and blockchain technology. You will help build the next generation of systems to make cryptocurrency accessible to everyone across the globe, operating real-time applications with high frequency, low latency updates, and managing the most secure infrastructure running in the cloud.\n\nWhat you’ll be doing (ie. job duties):\n\nPartner with the Head of Growth Engineering, EMs, and Product Managers to define and build mission critical systems to enable user growth.\n\nBuild foundational systems that power growth across Coinbase: incentives platform, notifications platform and dynamic presentation system.\n\nBuild and scale user experiences across all parts of the Coinbase product experience from SEO, logged out experience, user onboarding, search, discovery and referrals.\n\nDrive a holistic and unified engineering strategy that delivers engineering quality and excellence across the organization.\n\nWhat we look for in you:\n\nAbility to drive multi-quarter roadmaps with complex dependencies within and outside the Growth team.\n\nStrong track record of \"horizontal\" technical leadership across multiple engineering teams.\n\nAbility to drive quality and performance across complex systems at scale and understand what metrics and SLOs reflect product quality and how to move them.\n\nNice to haves:\n\nStrong cross-functional partnership skills, as this role spans across all of Growth Engineering.\n\nExperience working across all parts of the stack.\n\nExcited about working in a fast-paced environment.\n\nExcited and motivated about delivering impact to the business.\n\nJob #: GCBE07US-GAI\n\nPay Transparency Notice : Depending on your work location, the target annual *base *salary for this position can range as detailed below. Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k)).\n\nBase salary range shown. Total compensation also includes equity and bonus eligibility and benefits:\n\n$253,895—$298,700 USD\n\nPlease be advised that each candidate may submit a maximum of four applications within any 30-day period. We encourage you to carefully evaluate how your skills and interests align with Coinbase's roles before applying.\n\nCommitment to Equal Opportunity\n\nCoinbase is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view the Employee Rights and the Know Your Rights notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.\n\nCoinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations(at)coinbase.com to let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).\n\nGlobal Data Privacy Notice for Job Candidates and Applicants\n\nDepending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.\n\nAI Disclosure\n\nFor select roles, Coinbase is piloting an AI tool based on machine learning technologies to conduct initial screening interviews to qualified applicants. The tool simulates realistic interview scenarios and engages in dynamic conversation. A human recruiter will review your interview responses, provided in the form of a voice recording and/or transcript, to assess them against the qualifications and characteristics outlined in the job description.\n\nFor select roles, Coinbase is also piloting an AI interview intelligence platform to transcribe and summarize interview notes, allowing our interviewers to fully focus on you as the candidate.\n\nThe above pilots are for testing purposes and Coinbase will not use AI to make decisions impacting employment . To request a reasonable accommodation due to disability, please contact accommodations(at)coinbase.com",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Ewing Township, NJ",
+    "job_city": "Ewing Township",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.2770556,
+    "job_longitude": -74.7805119,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRLLy02Sqe_4vlCkUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up",
+        "We want someone who will run towards, not away from, solving the company’s hardest problems",
+        "Motivated by having impact",
+        "Excited about delivering outcomes vs outputs",
+        "Full-stack minded",
+        "Willing and able to quickly pursue and validate any idea or hypothesis, with the skill to tackle problems that span product, backend systems, ML, data and more",
+        "Not everyone needs to be full-stack, but we encourage it when it will enable flexibility and velocity",
+        "Genuinely motivated and energized by moving quickly",
+        "Knows how to balance velocity and quality",
+        "Understand the importance of sustainable velocity, and prioritize simplicity when possible",
+        "Invests in tools, systems and processes to increase velocity, as well as builds organizational relationships and cross-team expertise to break down organizational barriers that could hinder execution speed",
+        "Ability to drive multi-quarter roadmaps with complex dependencies within and outside the Growth team",
+        "Strong track record of \"horizontal\" technical leadership across multiple engineering teams",
+        "Ability to drive quality and performance across complex systems at scale and understand what metrics and SLOs reflect product quality and how to move them",
+        "Strong cross-functional partnership skills, as this role spans across all of Growth Engineering",
+        "Experience working across all parts of the stack",
+        "Excited about working in a fast-paced environment",
+        "Excited and motivated about delivering impact to the business"
+      ],
+      "Benefits": [
+        "Pay Transparency Notice : Depending on your work location, the target annual *base *salary for this position can range as detailed below",
+        "Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k))",
+        "Base salary range shown",
+        "Total compensation also includes equity and bonus eligibility and benefits:",
+        "$253,895—$298,700 USD"
+      ],
+      "Responsibilities": [
+        "In-person participation is required throughout the year",
+        "Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment",
+        "Attendance is expected and fully supported",
+        "Identifies and pursues high impact opportunities, backed by data",
+        "Understands how their work will drive meaningful impact to the growth of Coinbase",
+        "Takes accountability and actively seeks out opportunities to deliver results",
+        "Is equipped with all the tools and skills to build products and systems quickly",
+        "Rapidly launching, iterating and optimizing new and existing features and products to grow Coinbase",
+        "Building resilient and scalable systems that unlock growth at scale, and enable us to build, maintain and iterate on features and products even faster",
+        "Touching all parts of the stack including: web, mobile, backend, data and ML",
+        "You will solve unique, large scale, highly complex technical problems, bridging the constraints posed by web-scale applications and blockchain technology",
+        "You will help build the next generation of systems to make cryptocurrency accessible to everyone across the globe, operating real-time applications with high frequency, low latency updates, and managing the most secure infrastructure running in the cloud",
+        "Partner with the Head of Growth Engineering, EMs, and Product Managers to define and build mission critical systems to enable user growth",
+        "Build foundational systems that power growth across Coinbase: incentives platform, notifications platform and dynamic presentation system",
+        "Build and scale user experiences across all parts of the Coinbase product experience from SEO, logged out experience, user onboarding, search, discovery and referrals",
+        "Drive a holistic and unified engineering strategy that delivers engineering quality and excellence across the organization"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-whatjobs-com-jobs-backend-developer",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "AfUr3w0GhIEyVoccAAAAAA==",
+    "job_title": "Middle Backend Developer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=2f6b855457df&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=2f6b855457df&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Middle Backend Developer, API Team (GO / Python).\n\nKey Responsibilities\n\nDevelop and support high-load API services\n\nParticipate in designing architecture and making technical decisions\n\nTake full ownership of 1-2 team services from design to production\n\nRequired Qualifications\n\n4+ years of commercial backend development experience\n\nExperience working with high-load systems\n\nExperience in designing and developing APIs\n\nExperience in Agile / Scrum teams\n\nProficiency in Go (Golang) and Python",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Newark, DE",
+    "job_city": "Newark",
+    "job_state": "Delaware",
+    "job_country": "US",
+    "job_latitude": 39.683722599999996,
+    "job_longitude": -75.7496572,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAfUr3w0GhIEyVoccAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "4+ years of commercial backend development experience",
+        "Experience working with high-load systems",
+        "Experience in designing and developing APIs",
+        "Experience in Agile / Scrum teams",
+        "Proficiency in Go (Golang) and Python"
+      ],
+      "Responsibilities": [
+        "Develop and support high-load API services",
+        "Participate in designing architecture and making technical decisions",
+        "Take full ownership of 1-2 team services from design to production"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1494,8 +1729,8 @@
     "job_longitude": -94.28494309999999,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dxgma4vU32ffUxs7DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 110000,
@@ -1553,153 +1788,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "TD1X7Sc0be_wJmaaAAAAAA==",
-    "job_title": "Senior Software Engineer, Backend (Consumer - Growth & App Infra)",
-    "employer_name": "North Dakota Staffing",
-    "employer_logo": null,
-    "employer_website": "https://www.elitestaffinginc.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/backend-developer?id=2454546064&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/backend-developer?id=2454546064&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Join Coinbase's Backend Engineering Team\n\nReady to be pushed beyond what you think you're capable of? At Coinbase, our mission is to increase economic freedom in the world. It's a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform and with it, the future global financial system. To achieve our mission, we're seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company's hardest problems. Our work culture is intense and isn't for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there's no better place to be. While many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.\n\nCoinbase is seeking experienced backend engineers to join our team to build out the next generation of crypto-forward products and features. You will solve unique, large scale, highly complex technical problems, bridging the constraints posed by web-scale applications and blockchain technology. You will help build the next generation of systems to make cryptocurrency accessible to everyone across the globe, operating real-time applications with high frequency, low latency updates, and managing the most secure infrastructure running in the cloud.\nOrg Overview\n\nConsumer & Business Group (CBG)'s mission at Coinbase ??is to become the #1 financial app in the world, focusing on delivering exceptional consumer and business experiences across financial services, trading, and growth initiatives. The Growth org's vision, within CBG, is to grow Coinbase to a billion active users globally, by driving sustainable user growth through innovative acquisition, engagement and retention strategies, and building foundational infrastructure that supports long-term growth.\nTeam Overview\n\nThe Growth organization builds features, products and systems that repeatedly and predictably drive user growth, through rapid and systematic execution. As a growth org, we take a holistic view of the user's Coinbase journey, with teams focused on user acquisition, engagement and retention. We drive Coinbase's mission of bringing the world onchain. By building and leveraging growth tools across multiple avenues, including referral and incentives programs, creating a world-class notifications system, building a dynamic, engaging, and accessible logged-out web experience, and optimizing our new user onboarding flow, we ensure that Coinbase is the easiest, safest, and fastest way to buy, hold, and trade Crypto assets, and ensure our new users are set up for success from their first interaction.\nResponsibilities\n\nWe hire and cultivate a world class growth engineering team with below attributes as our DNA:\nImpact-Driven: Motivated by having impact. Excited about delivering outcomes vs outputs. Full-stack minded. Willing and able to quickly pursue and validate any idea or hypothesis, with the skill to tackle problems that span product, backend systems, ML, data and more. Not everyone needs to be full-stack, but we encourage it when it will enable flexibility and velocity. Data-driven: Identifies and pursues high impact opportunities, backed by data. High Agency: Understands how their work will drive meaningful impact to the growth of Coinbase. Takes accountability and actively seeks out opportunities to deliver results. Is equipped with all the tools and skills to build products and systems quickly. High Velocity: Preferred mode of operation is fast. Genuinely motivated and energized by moving quickly. Knows how to balance velocity and quality. Understand the importance of sustainable velocity, and prioritize simplicity when possible. Invests in tools, systems and processes to increase velocity, as well as builds organizational relationships and cross-team expertise to break down organizational barriers that could hinder execution speed.\n\nWhat you'll be doing:\nBuild and run experiments to power the growth of Coinbase's retail products. Design scalable systems to solve novel problems with modern cloud technology and industry best practices. Articulate a long term vision for maintaining and scaling our backend systems and the teams running them. Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter. Write high quality, well tested code to meet the needs of your customers.\n\nWhat we look for in you:\nYou have at least 5 years of experience in software engineering. You've designed, built, scaled and maintained production services, and know how to compose a service oriented architecture. You write high quality, well tested code to meet the needs of your customers. You're passionate about building an open financial system that brings the world together.\n\nNice to haves:\nYou have experience launching new products from 0 to 1 Experience with growth experiments or A/B testing frameworks. You have experience with Blockchain technology (such as Bitcoin, Ethereum etc..) You've worked with Golang, Ruby, Docker, Rails, Postgres, MongoDB or DynamoDB. You've built fintech, highly reliable and/or secure systems. Crypto-forward experience, including familiarity with onchain activity such as interacting with Ethereum addresses, using ENS, and engaging with dApps or blockchain-based services.\n\nPay Transparency Notice: Depending on your work location, the target annual base salary for this position can range as detailed below. Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k)). Base salary range shown. Total compensation also includes equity and bonus eligibility and benefits: $186,065$218,900 USD\n\nCommitment to Equal Opportunity: Coinbase is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view the Employee Rights and the Know Your Rights notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law. Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations(at)coinbase.com to let us know the nature of your request and your contact information.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Golden Valley, ND",
-    "job_city": "Golden Valley",
-    "job_state": "North Dakota",
-    "job_country": "US",
-    "job_latitude": 47.290841799999995,
-    "job_longitude": -102.0646172,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTD1X7Sc0be_wJmaaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up",
-        "We want someone who will run towards, not away from, solving the company's hardest problems",
-        "Excited about delivering outcomes vs outputs",
-        "Full-stack minded",
-        "Willing and able to quickly pursue and validate any idea or hypothesis, with the skill to tackle problems that span product, backend systems, ML, data and more",
-        "Not everyone needs to be full-stack, but we encourage it when it will enable flexibility and velocity",
-        "Genuinely motivated and energized by moving quickly",
-        "Knows how to balance velocity and quality",
-        "Understand the importance of sustainable velocity, and prioritize simplicity when possible",
-        "You have at least 5 years of experience in software engineering",
-        "You've designed, built, scaled and maintained production services, and know how to compose a service oriented architecture",
-        "You write high quality, well tested code to meet the needs of your customers",
-        "You're passionate about building an open financial system that brings the world together",
-        "You have experience launching new products from 0 to 1 Experience with growth experiments or A/B testing frameworks",
-        "You have experience with Blockchain technology (such as Bitcoin, Ethereum etc..)",
-        "You've worked with Golang, Ruby, Docker, Rails, Postgres, MongoDB or DynamoDB",
-        "You've built fintech, highly reliable and/or secure systems",
-        "Crypto-forward experience, including familiarity with onchain activity such as interacting with Ethereum addresses, using ENS, and engaging with dApps or blockchain-based services"
-      ],
-      "Benefits": [
-        "Pay Transparency Notice: Depending on your work location, the target annual base salary for this position can range as detailed below",
-        "Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k))",
-        "Base salary range shown",
-        "Total compensation also includes equity and bonus eligibility and benefits: $186,065$218,900 USD"
-      ],
-      "Responsibilities": [
-        "In-person participation is required throughout the year",
-        "Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment",
-        "Attendance is expected and fully supported",
-        "You will solve unique, large scale, highly complex technical problems, bridging the constraints posed by web-scale applications and blockchain technology",
-        "You will help build the next generation of systems to make cryptocurrency accessible to everyone across the globe, operating real-time applications with high frequency, low latency updates, and managing the most secure infrastructure running in the cloud",
-        "The Growth organization builds features, products and systems that repeatedly and predictably drive user growth, through rapid and systematic execution",
-        "High Agency: Understands how their work will drive meaningful impact to the growth of Coinbase",
-        "Takes accountability and actively seeks out opportunities to deliver results",
-        "Is equipped with all the tools and skills to build products and systems quickly",
-        "Invests in tools, systems and processes to increase velocity, as well as builds organizational relationships and cross-team expertise to break down organizational barriers that could hinder execution speed",
-        "Build and run experiments to power the growth of Coinbase's retail products",
-        "Design scalable systems to solve novel problems with modern cloud technology and industry best practices",
-        "Articulate a long term vision for maintaining and scaling our backend systems and the teams running them",
-        "Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter",
-        "Write high quality, well tested code to meet the needs of your customers"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-backend-developer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "2ADVq82cQked3rkGAAAAAA==",
-    "job_title": "Middle Backend Developer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=ea2c8d2ab943&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=ea2c8d2ab943&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Middle Backend Developer, API Team (GO / Python).\n\nKey Responsibilities\n\nDevelop and support high-load API services\n\nParticipate in designing architecture and making technical decisions\n\nTake full ownership of 1-2 team services from design to production\n\nRequired Qualifications\n\n4+ years of commercial backend development experience\n\nExperience working with high-load systems\n\nExperience in designing and developing APIs\n\nExperience in Agile / Scrum teams\n\nProficiency in Go (Golang) and Python",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Olympia Heights, FL",
-    "job_city": "Olympia Heights",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 25.726768,
-    "job_longitude": -80.3553306,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2ADVq82cQked3rkGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "4+ years of commercial backend development experience",
-        "Experience working with high-load systems",
-        "Experience in designing and developing APIs",
-        "Experience in Agile / Scrum teams",
-        "Proficiency in Go (Golang) and Python"
-      ],
-      "Responsibilities": [
-        "Develop and support high-load API services",
-        "Participate in designing architecture and making technical decisions",
-        "Take full ownership of 1-2 team services from design to production"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "us8RfySTGsJE3Aj6AAAAAA==",
     "job_title": "Senior, Software Engineer - Backend",
     "employer_name": "Walmart",
@@ -1742,8 +1830,8 @@
     "job_longitude": -93.9914302,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dus8RfySTGsJE3Aj6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
@@ -1843,7 +1931,7 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "ZesAqRzkg8lc6KabAAAAAA==",
+    "job_id": "2ADVq82cQked3rkGAAAAAA==",
     "job_title": "Middle Backend Developer",
     "employer_name": "VirtualVocations",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
@@ -1853,12 +1941,12 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=d4ebe455bc9a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=ea2c8d2ab943&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=d4ebe455bc9a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=ea2c8d2ab943&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -1867,14 +1955,14 @@
     "job_posted_at": "3 days ago",
     "job_posted_at_timestamp": 1770940800,
     "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Port St. Lucie, FL",
-    "job_city": "Port St. Lucie",
+    "job_location": "Olympia Heights, FL",
+    "job_city": "Olympia Heights",
     "job_state": "Florida",
     "job_country": "US",
-    "job_latitude": 27.2730492,
-    "job_longitude": -80.3582261,
+    "job_latitude": 25.726768,
+    "job_longitude": -80.3553306,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZesAqRzkg8lc6KabAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2ADVq82cQked3rkGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -2002,6 +2090,157 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "-Go5jPXyc4rque0LAAAAAA==",
+    "job_title": "Backend Java, Spring, Springboot, Hibernate, Rest/Soap Engineer",
+    "employer_name": "Walmart",
+    "employer_logo": null,
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Cave-Springs,AR?jid=4e027e399d0afa4a&lvk=Vzo6jACdyWJrtGEdYO_q9w.--Mc5vrg3y7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Cave-Springs,AR?jid=4e027e399d0afa4a&lvk=Vzo6jACdyWJrtGEdYO_q9w.--Mc5vrg3y7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Summary...We are seeking a highly skilled and passionate React Native Developer to join our team and help build world-class mobile applications. The ideal candidate will have deep expertise in React Native, a solid understanding of native mobile development, and hands-on experience with the full app lifecycle—from development to publishing on the App Store and Google Play.\n\nWhat you'll do...\n\nKey Responsibilities\n• Design, develop, and maintain high-performance mobile applications using React Native.\n• Own the end-to-end app lifecycle, including publishing, updates, and store compliance (App Store & Play Store).\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Integrate third-party APIs, libraries, and native modules as needed.\n• Implement and monitor analytics, Crashlytics, and performance metrics (CPU, battery usage).\n• Build and maintain functional automation tests using Appium or similar frameworks.\n• Ensure code quality through unit testing, code reviews, and CI/CD pipelines.\n• Create clear and functional technical documentation and charts to communicate architecture and workflows.\n• Stay up-to-date with emerging mobile technologies and trends.\n\nRequired Qualifications\n• 3–5 years of experience in mobile and desktop user experience development.\n• Strong expertise in React Native, with recent hands-on experience.\n• Solid understanding of native mobile development (iOS/Android) and ability to bridge native modules.\n• Experience in publishing apps to App Store and Play Store, including handling store requirements and updates.\n• Proficiency in ReactJS, Redux, and GraphQL.\n• Familiarity with front-end design patterns, data structures, and algorithms.\n• Experience with Appium or other open-source automation frameworks.\n• Clear and effective communication skills, both verbal and written.\n• Ability to multitask and manage multiple features and requirements concurrently.\n• Experience with cloud-native technologies, CI/CD pipelines, and DevOps practices.\n• Strong analytical and problem-solving skills.\n• A genuine passion for technology and continuous learning.\n\nNice to Have\n• Backend development experience in Java or Node.js.\n• Experience with native mobile development (Swift, Kotlin, Objective-C) is a plus.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\n‎\n\n‎\n\n‎\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\n‎\n\nFor information about PTO, see https://one.walmart.com/notices.\n\n‎\n\n‎\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\n‎\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\n‎\n\nFor information about benefits and eligibility, see One.Walmart.\n\n‎\nThe annual salary range for this position is $90,000.00-$180,000.00\n\n‎\nAdditional compensation includes annual or quarterly performance bonuses.\n\n‎\nAdditional compensation for certain positions may also include:\n\n‎\n\n‎\n- Stock\n\n‎\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n805 Se Moberly Ln, Bentonville, AR 72712, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Cave Springs, AR",
+    "job_city": "Cave Springs",
+    "job_state": "Arkansas",
+    "job_country": "US",
+    "job_latitude": 36.2647805,
+    "job_longitude": -94.2320402,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-Go5jPXyc4rque0LAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 90000,
+    "job_max_salary": 180000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have deep expertise in React Native, a solid understanding of native mobile development, and hands-on experience with the full app lifecycle—from development to publishing on the App Store and Google Play",
+        "3–5 years of experience in mobile and desktop user experience development",
+        "Strong expertise in React Native, with recent hands-on experience",
+        "Solid understanding of native mobile development (iOS/Android) and ability to bridge native modules",
+        "Experience in publishing apps to App Store and Play Store, including handling store requirements and updates",
+        "Proficiency in ReactJS, Redux, and GraphQL",
+        "Familiarity with front-end design patterns, data structures, and algorithms",
+        "Experience with Appium or other open-source automation frameworks",
+        "Clear and effective communication skills, both verbal and written",
+        "Ability to multitask and manage multiple features and requirements concurrently",
+        "Experience with cloud-native technologies, CI/CD pipelines, and DevOps practices",
+        "Strong analytical and problem-solving skills",
+        "A genuine passion for technology and continuous learning",
+        "Backend development experience in Java or Node.js",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
+        "Option 2: 5 years’ experience in software engineering or related area",
+        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $90,000.00-$180,000.00",
+        "Additional compensation includes annual or quarterly performance bonuses"
+      ],
+      "Responsibilities": [
+        "Design, develop, and maintain high-performance mobile applications using React Native",
+        "Own the end-to-end app lifecycle, including publishing, updates, and store compliance (App Store & Play Store)",
+        "Collaborate with cross-functional teams to define, design, and ship new features",
+        "Integrate third-party APIs, libraries, and native modules as needed",
+        "Implement and monitor analytics, Crashlytics, and performance metrics (CPU, battery usage)",
+        "Build and maintain functional automation tests using Appium or similar frameworks",
+        "Ensure code quality through unit testing, code reviews, and CI/CD pipelines",
+        "Create clear and functional technical documentation and charts to communicate architecture and workflows",
+        "Stay up-to-date with emerging mobile technologies and trends"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-backend-java-spring-springboot-hibernate-rest-soap-engineer-in-cave-springs-ar",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "ZesAqRzkg8lc6KabAAAAAA==",
+    "job_title": "Middle Backend Developer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=d4ebe455bc9a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=d4ebe455bc9a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Middle Backend Developer, API Team (GO / Python).\n\nKey Responsibilities\n\nDevelop and support high-load API services\n\nParticipate in designing architecture and making technical decisions\n\nTake full ownership of 1-2 team services from design to production\n\nRequired Qualifications\n\n4+ years of commercial backend development experience\n\nExperience working with high-load systems\n\nExperience in designing and developing APIs\n\nExperience in Agile / Scrum teams\n\nProficiency in Go (Golang) and Python",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Port St. Lucie, FL",
+    "job_city": "Port St. Lucie",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 27.2730492,
+    "job_longitude": -80.3582261,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZesAqRzkg8lc6KabAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "4+ years of commercial backend development experience",
+        "Experience working with high-load systems",
+        "Experience in designing and developing APIs",
+        "Experience in Agile / Scrum teams",
+        "Proficiency in Go (Golang) and Python"
+      ],
+      "Responsibilities": [
+        "Develop and support high-load API services",
+        "Participate in designing architecture and making technical decisions",
+        "Take full ownership of 1-2 team services from design to production"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "f4fqMWirZPk9ix7xAAAAAA==",
     "job_title": "Senior, Software Engineer - Backend",
     "employer_name": "Walmart",
@@ -2038,9 +2277,9 @@
     "job_latitude": 36.2647805,
     "job_longitude": -94.2320402,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Df4fqMWirZPk9ix7xAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
@@ -2137,62 +2376,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-walmart-job-senior-software-engineer-backend-in-cave-springs-ar",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Nis3h8wlcpK8U8_NAAAAAA==",
-    "job_title": "Middle Backend Developer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=5342be555935&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=5342be555935&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Middle Backend Developer, API Team (GO / Python).\n\nKey Responsibilities\n\nDevelop and support high-load API services\n\nParticipate in designing architecture and making technical decisions\n\nTake full ownership of 1-2 team services from design to production\n\nRequired Qualifications\n\n4+ years of commercial backend development experience\n\nExperience working with high-load systems\n\nExperience in designing and developing APIs\n\nExperience in Agile / Scrum teams\n\nProficiency in Go (Golang) and Python",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Murfreesboro, TN",
-    "job_city": "Murfreesboro",
-    "job_state": "Tennessee",
-    "job_country": "US",
-    "job_latitude": 35.8451777,
-    "job_longitude": -86.3951864,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNis3h8wlcpK8U8_NAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "4+ years of commercial backend development experience",
-        "Experience working with high-load systems",
-        "Experience in designing and developing APIs",
-        "Experience in Agile / Scrum teams",
-        "Proficiency in Go (Golang) and Python"
-      ],
-      "Responsibilities": [
-        "Develop and support high-load API services",
-        "Participate in designing architecture and making technical decisions",
-        "Take full ownership of 1-2 team services from design to production"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   }
 ]
