@@ -9,16 +9,16 @@
 
 # Software Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building)
-![Software Engine](https://img.shields.io/badge/Software_Engineering-0-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
+![Backend](https://img.shields.io/badge/Backend-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 0+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 0+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 4+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 4+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -68,9 +68,35 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
+<details>
+<summary><h3>⚙️ <strong>Backend</strong> (2 positions)</h3></summary>
+
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **My3Tech** | ReactJS Developer | San Lorenzo, California | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.adzuna.com/details/5624937825?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Princeton IT Services** | Frontend Developer (React) | Princeton, New Jersey | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.dice.com/job-detail/e1f693f1-5b1c-4180-b8c7-16887805241a?q=front+end+developer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>🎨 <strong>Frontend</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **VirtualVocations** | React Developer 🏠 | Signal Hill, California | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=75b5d59e0e29&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>🌐 <strong>Full Stack</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **Infosys** | React.js Developer React.js Deve... | Dallas, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tallo.com/jobs/technology/software-developer-engineer/tx/dallas/react-js-developer-react-js-developer-ec2751fe9bad/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+
 
 
 
@@ -127,16 +153,23 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 0 positions
-- **🏢 Companies**: 0 companies
-- **🏷️ Top Category**: Software Engineering
+- **📁 Total Jobs**: 1 positions
+- **🏢 Companies**: 4 companies
+- **🏷️ Top Category**: Backend
+
+<details>
+<summary><h3>⚙️ <strong>Backend</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **OCIO Front Office** | Node-React Full Stack Web Applic... | Woodlawn, Maryland | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tech.usajobs.gov/job/855341900?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+
 
 </details>
 
@@ -146,7 +179,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 0 current opportunities from 0 companies**
+**🎯 4 current opportunities from 4 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
