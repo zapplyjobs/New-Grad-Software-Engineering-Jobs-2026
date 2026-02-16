@@ -181,74 +181,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "xTFR_-AdNn-L4CMnAAAAAA==",
-    "job_title": "Senior iOS Developer - Srinivasa Kandi - Vienna Mobile 🏆",
-    "employer_name": "VALIANT TECHNOLOGIES LLC",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe73RbTYi3YSkUIHOjVFjxvVnU483dIWFH6LjI&s=0",
-    "employer_website": null,
-    "job_publisher": "DevITjobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://devitjobs.com/jobs/VALIANT-TECHNOLOGIES-LLC-Senior-iOS-Developer---Srinivasa-Kandi---Vienna?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "DevITjobs",
-        "apply_link": "https://devitjobs.com/jobs/VALIANT-TECHNOLOGIES-LLC-Senior-iOS-Developer---Srinivasa-Kandi---Vienna?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Senior iOS Developer - Srinivasa Kandi - Vienna 💰 Salary: $102,000 - 102,000 per year\n\nAt VALIANT TECHNOLOGIES LLC we are looking for a Mobile engineer!\n\n🛠️ Our tech stack:\nEmbedded, Support, Mobile, Objective-C, Swift, iOS, UX UI Design\n\n📝 Rquirements:\n- Bachelors degree in Computer Science or a related field\n- Progressive experience in mobile application development (level-dependent)\n- Proficiency in iOS development including Swift, Objective-C, and Xcode\n- Experience integrating RESTful APIs and third-party libraries\n- Familiarity with Agile methodologies, preferably SAFe\n- Strong analytical, debugging, and problem-solving skills\n- Effective communication and collaboration abilities\n\n👩‍💻👨‍💻 Your responsibilities are:\n- Design, develop, and maintain mobile banking features for the iOS platform\n- Resolve production issues while enhancing platform stability and performance\n- Collaborate with cross-functional Agile teams, including front-end, back-end, and product stakeholders\n- Participate in Agile ceremonies, contributing to sprint planning and backlog refinement\n- Ensure compliance with platform-specific development standards and best practices\n- Write and maintain unit and UI tests; engage in peer code reviews\n- Stay updated with mobile OS advancements, development trends, and emerging technologies\n- Advocate for platform excellence and assist in developing reusable component libraries\n- Mentor junior developers and share knowledge within the team\n- Support enterprise-wide mobile initiatives and influence platform strategy at a senior level\n\nView this job and over 500 other transparent jobs with salaries (💰💰💰) & tech stacks (🛠️) on DevITJobs\n\nCategory: Mobile Developer / Engineer\nLocation address: Maple Avenue West, Roanoke, United States\n\nSalary: $102,000 - 102,000 per year\n\nBenefits & perks that we offer:\n\nVALIANT TECHNOLOGIES LLC - More about us and the role:\nWe are seeking a Senior iOS Developer to enhance and maintain our mobile banking applications based in Vienna, VA. This long-term opportunity allows us to work with cross-functional Agile teams to deliver secure, reliable, and user-friendly experiences to millions of our members. We value innovation and collaboration, offering a supportive environment where you can grow your skills while contributing to impactful projects.\n\nAre you looking for Mobile jobs in Roanoke?",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Vienna, VA",
-    "job_city": "Vienna",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 38.901222499999996,
-    "job_longitude": -77.2652604,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxTFR_-AdNn-L4CMnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Embedded, Support, Mobile, Objective-C, Swift, iOS, UX UI Design",
-        "Bachelors degree in Computer Science or a related field",
-        "Progressive experience in mobile application development (level-dependent)",
-        "Proficiency in iOS development including Swift, Objective-C, and Xcode",
-        "Experience integrating RESTful APIs and third-party libraries",
-        "Familiarity with Agile methodologies, preferably SAFe",
-        "Strong analytical, debugging, and problem-solving skills",
-        "Effective communication and collaboration abilities"
-      ],
-      "Benefits": [
-        "Salary: $102,000 - 102,000 per year"
-      ],
-      "Responsibilities": [
-        "Design, develop, and maintain mobile banking features for the iOS platform",
-        "Resolve production issues while enhancing platform stability and performance",
-        "Collaborate with cross-functional Agile teams, including front-end, back-end, and product stakeholders",
-        "Participate in Agile ceremonies, contributing to sprint planning and backlog refinement",
-        "Ensure compliance with platform-specific development standards and best practices",
-        "Write and maintain unit and UI tests; engage in peer code reviews",
-        "Stay updated with mobile OS advancements, development trends, and emerging technologies",
-        "Advocate for platform excellence and assist in developing reusable component libraries",
-        "Mentor junior developers and share knowledge within the team",
-        "Support enterprise-wide mobile initiatives and influence platform strategy at a senior level"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "devitjobs-com-jobs-valiant-technologies-llc-senior-ios-developer-srinivasa-kandi-vienna",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "lhtDRpQeQZW47BSTAAAAAA==",
     "job_title": "Software Engineer III, iOS",
     "employer_name": "Walmart",
@@ -280,9 +212,9 @@
     "job_latitude": 37.322997799999996,
     "job_longitude": -122.03218229999999,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlhtDRpQeQZW47BSTAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 117000,
@@ -341,116 +273,32 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "lpEkpelFnWh_wc2XAAAAAA==",
-    "job_title": "Senior iOS Developer",
-    "employer_name": "Cognizant",
-    "employer_logo": null,
-    "employer_website": "https://www.cognizant.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/senior-ios-developer?id=2461175948&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/senior-ios-developer?id=2461175948&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "**Senior iOS Developer - Description**\n• *About the Role**\nAs a **Senior iOS Developer** , you will play a key role in designing and delivering high‑quality, intuitive, and secure iOS mobile experiences. You will serve as a technical leader within the engineering team and collaborate closely with product partners, designers, and fellow developers to build scalable, user‑centric applications. Your expertise will help guide architectural decisions and elevate engineering best practices.\n• *In This Role, You Will:**\n+ Design, build, and test rich, interactive features for native iOS applications.\n+ Collaborate with cross‑functional teams to gather, clarify, and refine software requirements.\n+ **Lead development efforts** for complex components or features, ensuring quality, performance, and consistency.\n+ Troubleshoot and resolve advanced software issues throughout the development lifecycle.\n+ Participate in and often drive code reviews, upholding coding standards and best practices.\n+ **Contribute to and influence architectural discussions** and technical decision‑making.\n• *Work Model**\nWe strive to provide flexibility wherever possible. Based on this role's business requirements, this is a **remote position open to qualified applicants in Englewood, Colorado** . Regardless of your working arrangement, we promote a healthy work‑life balance through our wellbeing programs. Working arrangements are accurate as of the posting date and may change based on business, project, or team requirements. Any changes will be communicated transparently.\n• *Candidate must be legally authorized to work in the United States without the need for employer sponsorship, now or in the future.**\n• *Required Qualifications**\n+ **4+ years of experience in native iOS development** .\n+ Proficiency with **Swift and Objective‑C** .\n+ Strong debugging and problem‑solving capabilities.\n+ Excellent communication and collaboration skills.\n• *Preferred Qualifications (Nice to Have)**\n+ Experience building features for large‑scale or enterprise iOS applications.\n+ Strong understanding of iOS frameworks, UIKit/SwiftUI, mobile architecture patterns, and development best practices.\n+ Ability to contribute to technical design and **mentor junior developers** .\n• *Salary and Compensation**\nApplications will be accepted until **February 27, 2026** .\nThe annual salary for this position is **$65,000-$94,500** , depending on experience and qualifications. This position is also eligible for **Cognizant's discretionary annual incentive program** , based on performance and subject to applicable plan terms.\n• *Benefits**\n+ Medical, Dental, Vision, and Life Insurance\n+ Paid Holidays + Paid Time Off\n+ 401(k) Plan with Contributions\n+ Long‑term/Short‑term Disability\n+ Paid Parental Leave\n+ Employee Stock Purchase Plan\n• *Disclaimer**\nThe salary, compensation, and benefits information is accurate as of the posting date. Cognizant reserves the right to modify this information at any time, subject to applicable laws.\nCognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Madison, NH",
-    "job_city": "Madison",
-    "job_state": "New Hampshire",
-    "job_country": "US",
-    "job_latitude": 43.8992395,
-    "job_longitude": -71.1484028,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlpEkpelFnWh_wc2XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Design, build, and test rich, interactive features for native iOS applications",
-        "Collaborate with cross‑functional teams to gather, clarify, and refine software requirements",
-        "*Candidate must be legally authorized to work in the United States without the need for employer sponsorship, now or in the future.**",
-        "*Required Qualifications**",
-        "**4+ years of experience in native iOS development** ",
-        "Proficiency with **Swift and Objective‑C** ",
-        "Strong debugging and problem‑solving capabilities",
-        "Excellent communication and collaboration skills",
-        "Experience building features for large‑scale or enterprise iOS applications",
-        "Strong understanding of iOS frameworks, UIKit/SwiftUI, mobile architecture patterns, and development best practices",
-        "Ability to contribute to technical design and **mentor junior developers** "
-      ],
-      "Benefits": [
-        "Regardless of your working arrangement, we promote a healthy work‑life balance through our wellbeing programs",
-        "*Salary and Compensation**",
-        "The annual salary for this position is **$65,000-$94,500** , depending on experience and qualifications",
-        "This position is also eligible for **Cognizant's discretionary annual incentive program** , based on performance and subject to applicable plan terms",
-        "Medical, Dental, Vision, and Life Insurance",
-        "Paid Holidays + Paid Time Off",
-        "401(k) Plan with Contributions",
-        "Long‑term/Short‑term Disability",
-        "Paid Parental Leave",
-        "Employee Stock Purchase Plan"
-      ],
-      "Responsibilities": [
-        "As a **Senior iOS Developer** , you will play a key role in designing and delivering high‑quality, intuitive, and secure iOS mobile experiences",
-        "You will serve as a technical leader within the engineering team and collaborate closely with product partners, designers, and fellow developers to build scalable, user‑centric applications",
-        "Your expertise will help guide architectural decisions and elevate engineering best practices",
-        "**Lead development efforts** for complex components or features, ensuring quality, performance, and consistency",
-        "Troubleshoot and resolve advanced software issues throughout the development lifecycle",
-        "Participate in and often drive code reviews, upholding coding standards and best practices",
-        "**Contribute to and influence architectural discussions** and technical decision‑making",
-        "Working arrangements are accurate as of the posting date and may change based on business, project, or team requirements",
-        "Any changes will be communicated transparently"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-senior-ios-developer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "o3zEe9_LiuK9XNRgAAAAAA==",
+    "job_id": "a4lPNfkyS3BWJVCqAAAAAA==",
     "job_title": "Senior IOS Developer (Remote)",
     "employer_name": "Cognizant",
     "employer_logo": null,
     "employer_website": "https://www.cognizant.com",
-    "job_publisher": "Kentucky Career Center",
+    "job_publisher": "USNLX Virtual Jobs - National Labor Exchange",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://kyjobs.usnlx.com/frankfort-ky/senior-ios-developer-remote/FB47220E3DA84DC3AB8A1BE345C8B92A/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://virtualjobs.usnlx.com/richmond-va/senior-ios-developer-remote/6A0CA3E63622497C8ED1E66C88B5F3AF/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Kentucky Career Center",
-        "apply_link": "https://kyjobs.usnlx.com/frankfort-ky/senior-ios-developer-remote/FB47220E3DA84DC3AB8A1BE345C8B92A/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/ios-development?id=2460576901&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "USNLX Virtual Jobs - National Labor Exchange",
+        "apply_link": "https://virtualjobs.usnlx.com/richmond-va/senior-ios-developer-remote/6A0CA3E63622497C8ED1E66C88B5F3AF/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/aaa0eac0cf6f1943d9b75203dd013e42?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://us.bebee.com/job/6893a1fc24de8d5d76a094f6b8c6e789?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/ios-development?id=2460672738&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -459,18 +307,18 @@
     "job_posted_at": "5 days ago",
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Frankfort, KY",
-    "job_city": "Frankfort",
-    "job_state": "Kentucky",
+    "job_location": "Richmond, VA",
+    "job_city": "Richmond",
+    "job_state": "Virginia",
     "job_country": "US",
-    "job_latitude": 38.195032399999995,
-    "job_longitude": -84.8784682,
+    "job_latitude": 37.5407246,
+    "job_longitude": -77.4360481,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Do3zEe9_LiuK9XNRgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Da4lPNfkyS3BWJVCqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -511,12 +359,12 @@
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "kyjobs-usnlx-com-frankfort-ky-senior-ios-developer-remote-fb47220e3da84dc3ab8a1be345c8b92a-job",
+    "id": "virtualjobs-usnlx-com-richmond-va-senior-ios-developer-remote-6a0ca3e63622497c8ed1e66c88b5f3af-job",
     "_source": "new_jobs"
   },
   {
-    "job_id": "wNrchFY97489xYOiAAAAAA==",
-    "job_title": "Software Engineer - iOS",
+    "job_id": "5fXZIcGBU5dCBFrrAAAAAA==",
+    "job_title": "Software Engineer III- (iOS) Mobile Developer",
     "employer_name": "Walmart",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
     "employer_website": "https://corporate.walmart.com",
@@ -525,54 +373,57 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Software-Engineer-iOS/-in-Springdale,AR?jid=bca8fbce759de26f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Software-Engineer-III-(iOS)-Mobile-Developer/-in-Cupertino,CA?jid=cda485ad836f0803&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": true,
     "apply_options": [
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Software-Engineer-iOS/-in-Springdale,AR?jid=bca8fbce759de26f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Software-Engineer-III-(iOS)-Mobile-Developer/-in-Cupertino,CA?jid=cda485ad836f0803&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       }
     ],
-    "job_description": "Position Summary...\n\nWhat you'll do...\n\nAs a part of Walmart Global Tech you’ll build industry defining reusable customer and partner facing services and products to lead differentiated experiences and revenue sources. You will be in the unique position to serve both our customers and our associates as a member of this organization, supporting all segments of Walmart. If you are the type of person who feels a personal stake in everything you work on, has a love for data, enjoys solving complex problems, has a passion for privacy, knows how to foster strong relationships and build trust, and work for the success of an entire team, then please read further!\n\nAbout Our Team:\nOur team works closely with our US stores and eCommerce business to better serve customers by empowering team members, stores, and merchants with technological innovation. From groceries and entertainment to sporting goods and crafts, Walmart U.S. offers an extensive selection that our customers value, whether they shop online at Walmart.com, through one of our Mobile Apps, or in-store. Focus areas include our Customers, Stores and Employees, In-Store Services, eCommerce, Merchant Tools and, Data Science, and all general aspects of Walmart eCommerce.\n\nWhat You'll Do:\n• Build, and maintain engaging and high-performant apps for our customers at a very high scale.\n• Produce robust, maintainable, highly tested, reusable code for developing functionality, configuration, improved performance, scalability, availability, security, monitoring and alerting for software test, integration, and production environments.\n• Plan and implement a series of steps which potentially include reconfiguration, integration, removal, or addition of application components to enhance the application's functionality, resiliency, usability, and security.\n• Understand the Business/Stakeholder/Technical requirements and assist in analyzing the existing solutions to address the needs. Assist in creation of simple, modular, extensible functional design for the product/solution in adherence to the requirements.\n• Assess gaps, updates, and modifications between the customer, business expectations, and the existing product/solutions.\n• Analyze defects from past projects and solutions to avoid recurrence of similar defects.\n• Analyze system performance impacting the complete product for non-functional requirements such as reliability, operability, performance efficiency, and security.\n• Troubleshoot performance and availability bottlenecks within the application.\n• Develop, maintain, and enhance automated test cases and deployment procedures.\n• developed by the teams and contribute towards their continuous improvement.\n\nWhat you'll bring:\n• Solid and varied understanding of iOS framework components and their respective lifecycles, combined with a strong grasp of software engineering fundamentals, including application lifecycles, run loops, memory management, multithreading, networking, remote and local storage, security best practices, performance tuning, and more.\n• Expert understanding of UIKit and its many quirks. SwiftUI is a plus!\n• Experience building Frameworks or SDKs.\n• Experience working with GraphQL / Apollo.\n• Experience in developing content rich applications which include custom interactions, animations, and transitions.\n• Skill in developing clean and reliable App and Systems architectures.\n• Ability to build product requirements with a focus on testability, software quality, and overall engineering / operational excellence.\n• Experience with code repositories and version control practices.\n• Experience with CI/CD pipelines and best practices. Automated deployment and general scripting experience is a plus.\n• Excellent communication skills, able to articulate complex ideas or opinions without hesitation and navigate multi-team interactions with diplomacy.\n• Experience in agile development methodology.\n\nAbout Walmart Global Tech:\nImagine working in an environment where one line of code can make a positive impact on hundreds of millions of people, and a new feature can make all of their lives a little better. That’s what we do at Walmart Global Tech.\n\nWe’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as roles for those looking to define their career. Here, you can get started in tech, gain new skills and experience from virtually every industry, or leverage your expertise to innovate at scale, impact millions and help us to reimagine the future of retail.\n\nFlexible, hybrid work:\nWe use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.\n\n#WGTMPQ4\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\n‎\n\n‎\n\n‎\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\n‎\n\nFor information about PTO, see https://one.walmart.com/notices.\n\n‎\n\n‎\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\n‎\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\n‎\n\nFor information about benefits and eligibility, see One.Walmart.\n\n‎\nThe annual salary range for this position is $90,000.00-$180,000.00\n\n‎\nAdditional compensation includes annual or quarterly performance bonuses.\n\n‎\nAdditional compensation for certain positions may also include:\n\n‎\n\n‎\n- Stock\n\n‎\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years’ experience in software engineering or related area.Option 2: 4 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nCustomer Service, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nMasters: Computer Science\n\nPrimary Location...\n\nPHYLLIS ST. N OF HWY 102, WEST SIDE OF STREET, BENTONVILLE, AR 72712, United States of America",
+    "job_description": "Position Summary...\n\nWhat you'll do...\nWe are looking for a Software Engineer-III (iOS) to join our team and contribute to the development of world-class mobile applications. You will work closely with other engineers and product teams to implement features and optimize our mobile apps for performance and scalability.\n\nAbout Team:\nThe Transactions Cart Team is at the heart of one of the world's largest e-commerce platforms, enabling seamless shopping experiences for millions of customers every day. We build and maintain the critical cart backend systems that handle billions of transactions annually, directly impacting Walmart's revenue. We create lightning-fast, reliable, and scalable cart experiences that delight customers and drive business growth. From adding items to checkout completion, our systems power the entire shopping journey with sub-second response times and 99.99% uptime. At Walmart, you're not just writing code – you're revolutionizing how the world shops. Our cart team is building the foundation for next-generation commerce experiences, from AI-powered recommendations to seamless omnichannel integration. Additionally, you will have opportunities to work with a talented team of engineers, learn from their experiences, and grow your skills and knowledge in a fast-paced and dynamic environment.\n\nWhat you'll do:\n• Develop high-quality mobile applications using Swift & Objective-C.\n• Participate in code reviews and contribute to improving development processes.\n• Debug and resolve issues to ensure a seamless user experience.\n• Software Craftsmanship: Consistently produce high-quality, maintainable code.\n• Technical Documentation: Document designs, implementations, and best practices.\n• Engineering Advocacy: Support and promote technical standards within the team.\n• Project Leadership: Contribute to planning and execution of technical projects.\n• Cross-functional Collaboration: Coordinate with product and design teams for smooth development cycles.\n• Innovation & Research: Investigate and propose innovative solutions for complex mobile challenges.\n\nWhat you'll bring:\n• 3+ years of experience in software development, with 2+ years in mobile development (Swift).\n• Experience with Apple SDKs for iOS development\n• Experience with command line XCode build tools for Continuous Integration Experience in design patterns, MVVM MVC, data structures and algorithms.\n• Experience in unit and integration testing using Swift, SwiftUI, Combine and Objective-C code.\n• Experience with GraphQL APIs using Apollo (intermediate to advanced).\n• Experience with software debugging techniques (debuggers, loggers, crash report tools)\n• Experience with analysis of memory issues such as memory leaks using memory analyzers tools (Instruments)\n• Experience with embedded real time systems with limited resources (memory and processing)\n• Experience using distributed source code version control systems\n• Solid understanding of mobile design patterns and architectures.\n• Strong debugging and problem-solving skills.\n\nAbout Walmart Global Tech\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. Thats what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the worlds leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\n\nWalmarts culture is a competitive advantage, and its fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing belonging - unique styles, experiences, identities, ideas and opinions while being welcoming of all people.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $117,000.00 - $234,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years’ experience in software engineering or related area.\nOption 2: 4 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nMasters: Computer Science\n\nPrimary Location...\n\n1395 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Springdale, AR",
-    "job_city": "Springdale",
-    "job_state": "Arkansas",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Cupertino, CA",
+    "job_city": "Cupertino",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 36.174524399999996,
-    "job_longitude": -94.13901369999999,
+    "job_latitude": 37.322997799999996,
+    "job_longitude": -122.03218229999999,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwNrchFY97489xYOiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 90000,
-    "job_max_salary": 180000,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5fXZIcGBU5dCBFrrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 117000,
+    "job_max_salary": 234000,
     "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Solid and varied understanding of iOS framework components and their respective lifecycles, combined with a strong grasp of software engineering fundamentals, including application lifecycles, run loops, memory management, multithreading, networking, remote and local storage, security best practices, performance tuning, and more",
-        "Expert understanding of UIKit and its many quirks",
-        "Experience building Frameworks or SDKs",
-        "Experience working with GraphQL / Apollo",
-        "Experience in developing content rich applications which include custom interactions, animations, and transitions",
-        "Skill in developing clean and reliable App and Systems architectures",
-        "Ability to build product requirements with a focus on testability, software quality, and overall engineering / operational excellence",
-        "Experience with code repositories and version control practices",
-        "Experience with CI/CD pipelines and best practices",
-        "Excellent communication skills, able to articulate complex ideas or opinions without hesitation and navigate multi-team interactions with diplomacy",
-        "Experience in agile development methodology",
+        "3+ years of experience in software development, with 2+ years in mobile development (Swift)",
+        "Experience with Apple SDKs for iOS development",
+        "Experience with command line XCode build tools for Continuous Integration Experience in design patterns, MVVM MVC, data structures and algorithms",
+        "Experience in unit and integration testing using Swift, SwiftUI, Combine and Objective-C code",
+        "Experience with GraphQL APIs using Apollo (intermediate to advanced)",
+        "Experience with software debugging techniques (debuggers, loggers, crash report tools)",
+        "Experience with analysis of memory issues such as memory leaks using memory analyzers tools (Instruments)",
+        "Experience with embedded real time systems with limited resources (memory and processing)",
+        "Experience using distributed source code version control systems",
+        "Solid understanding of mobile design patterns and architectures",
+        "Strong debugging and problem-solving skills",
+        "That means understanding, respecting and valuing belonging - unique styles, experiences, identities, ideas and opinions while being welcoming of all people",
         "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years’ experience in software engineering or related area",
         "Option 2: 4 years’ experience in software engineering or related area",
-        "Customer Service, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
         "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
       ],
       "Benefits": [
+        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
         "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
         "Health benefits include medical, vision and dental coverage",
         "Financial benefits include 401(k), stock purchase and company-paid life insurance",
@@ -581,32 +432,31 @@
         "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
         "The amount you receive depends on your job classification and length of employment",
         "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities",
         "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
         "Tuition, books, and fees are completely paid for by Walmart",
+        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
         "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $90,000.00-$180,000.00",
-        "Additional compensation includes annual or quarterly performance bonuses"
+        "The annual salary range for this position is $117,000.00 - $234,000.00 Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
       ],
       "Responsibilities": [
-        "As a part of Walmart Global Tech you’ll build industry defining reusable customer and partner facing services and products to lead differentiated experiences and revenue sources",
-        "You will be in the unique position to serve both our customers and our associates as a member of this organization, supporting all segments of Walmart",
-        "Build, and maintain engaging and high-performant apps for our customers at a very high scale",
-        "Produce robust, maintainable, highly tested, reusable code for developing functionality, configuration, improved performance, scalability, availability, security, monitoring and alerting for software test, integration, and production environments",
-        "Plan and implement a series of steps which potentially include reconfiguration, integration, removal, or addition of application components to enhance the application's functionality, resiliency, usability, and security",
-        "Understand the Business/Stakeholder/Technical requirements and assist in analyzing the existing solutions to address the needs",
-        "Assist in creation of simple, modular, extensible functional design for the product/solution in adherence to the requirements",
-        "Assess gaps, updates, and modifications between the customer, business expectations, and the existing product/solutions",
-        "Analyze defects from past projects and solutions to avoid recurrence of similar defects",
-        "Analyze system performance impacting the complete product for non-functional requirements such as reliability, operability, performance efficiency, and security",
-        "Troubleshoot performance and availability bottlenecks within the application",
-        "Develop, maintain, and enhance automated test cases and deployment procedures",
-        "developed by the teams and contribute towards their continuous improvement"
+        "You will work closely with other engineers and product teams to implement features and optimize our mobile apps for performance and scalability",
+        "From adding items to checkout completion, our systems power the entire shopping journey with sub-second response times and 99.99% uptime",
+        "Additionally, you will have opportunities to work with a talented team of engineers, learn from their experiences, and grow your skills and knowledge in a fast-paced and dynamic environment",
+        "Develop high-quality mobile applications using Swift & Objective-C",
+        "Participate in code reviews and contribute to improving development processes",
+        "Debug and resolve issues to ensure a seamless user experience",
+        "Software Craftsmanship: Consistently produce high-quality, maintainable code",
+        "Technical Documentation: Document designs, implementations, and best practices",
+        "Engineering Advocacy: Support and promote technical standards within the team",
+        "Project Leadership: Contribute to planning and execution of technical projects",
+        "Cross-functional Collaboration: Coordinate with product and design teams for smooth development cycles",
+        "Innovation & Research: Investigate and propose innovative solutions for complex mobile challenges"
       ]
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-software-engineer-ios-in-springdale-ar",
+    "id": "www-ziprecruiter-com-c-walmart-job-software-engineer-iii-ios-mobile-developer-in-cupertino-ca",
     "_source": "new_jobs"
   },
   {
@@ -687,6 +537,250 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "3_RHQeyL_BPjwd6qAAAAAA==",
+    "job_title": "Lead iOS Developer - Remote",
+    "employer_name": "Cognizant",
+    "employer_logo": null,
+    "employer_website": "https://www.cognizant.com",
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/ios-engineer?id=2461162718&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/ios-engineer?id=2461162718&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "**Lead iOS Developer - Remote**\n• *About the Role**\nCognizant's Digital Engineering practice is seeking a highly skilled **Lead iOS Developer** with extensive experience designing, developing, and delivering high‑performing, scalable enterprise mobile applications.\nIn this role, you will work on high‑demand digital products while collaborating closely with product managers, designers, and clients. You will provide technical leadership, drive high‑quality engineering practices, and help shape the mobile technology roadmap. Our teams value clean, maintainable code, agile ways of working, and a strong culture of continuous improvement.\nAbove all, success is measured by the success of our teams and the satisfaction of our customers.\n• *Location**\n• *Remote - United States**\nCandidates must be legally authorized to work in the U.S. without the need for employer sponsorship now or in the future.\n• *Responsibilities**\n+ Evaluate product requirements and determine technical feasibility based on business needs.\n+ Provide **technical leadership** across design, development, code reviews, and production support for both iOS and Android applications.\n+ Lead the design and implementation of critical mobile components, systems, and integrations across a full‑stack environment.\n+ Mentor and guide technical team members, fostering growth and best practices.\n+ Develop and enforce mobile coding standards, patterns, and development guidelines.\n+ Collaborate with product, design, engineering, and business stakeholders to define and drive the technical roadmap.\n+ Stay current with emerging technologies and industry trends to guide innovation and continuous improvement.\n• *Required Qualifications**\n+ **9+ years** of professional experience in native iOS\n+ **1+ years** of hands‑on experience building and debugging both iOS and Android applications.\n+ Published **1 or more** native mobile applications (iOS and/or Android).\n+ Experience designing, developing, and maintaining complex mobile solutions involving multiple stakeholders.\n+ Strong experience designing critical mobile features that interact with multiple internal and external systems.\n+ Deep understanding of software engineering processes in a distributed team environment.\n+ Excellent communication, problem‑solving, and collaboration skills.\n+ Proven experience mentoring other engineers and contributing to team success.\n• *Benefits**\nCognizant offers the following benefits (subject to eligibility):\n+ Medical, Dental, Vision, and Life Insurance\n+ Paid Holidays + Paid Time Off\n+ Long‑term and Short‑term Disability\n+ Paid Parental Leave\n+ Employee Stock Purchase Plan\n• *Disclaimer**\nThe salary, compensation, and benefits information provided is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable laws.\n• *Travel**\n0-5%\n• *Why Choose Cognizant?**\nCognizant leads in a rapidly evolving technology landscape because we put human experience at the center of everything we do. Our associates benefit from robust training and development opportunities through our award‑winning Academy program. You'll have access to hundreds of technical courses and opportunities for certification in emerging technologies.\nWe value curiosity, adaptability, and a passion for solving complex problems. If you thrive in dynamic environments and enjoy autonomy, we'd love to hear from you.\nCognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Wyoming",
+    "job_city": null,
+    "job_state": "Wyoming",
+    "job_country": "US",
+    "job_latitude": 43.0759678,
+    "job_longitude": -107.29028389999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3_RHQeyL_BPjwd6qAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Candidates must be legally authorized to work in the U.S. without the need for employer sponsorship now or in the future",
+        "Stay current with emerging technologies and industry trends to guide innovation and continuous improvement",
+        "**9+ years** of professional experience in native iOS",
+        "**1+ years** of hands‑on experience building and debugging both iOS and Android applications",
+        "Published **1 or more** native mobile applications (iOS and/or Android)",
+        "Experience designing, developing, and maintaining complex mobile solutions involving multiple stakeholders",
+        "Strong experience designing critical mobile features that interact with multiple internal and external systems",
+        "Deep understanding of software engineering processes in a distributed team environment",
+        "Excellent communication, problem‑solving, and collaboration skills",
+        "Proven experience mentoring other engineers and contributing to team success"
+      ],
+      "Benefits": [
+        "Cognizant offers the following benefits (subject to eligibility):",
+        "Medical, Dental, Vision, and Life Insurance",
+        "Paid Holidays + Paid Time Off",
+        "Long‑term and Short‑term Disability",
+        "Paid Parental Leave",
+        "Employee Stock Purchase Plan",
+        "You'll have access to hundreds of technical courses and opportunities for certification in emerging technologies"
+      ],
+      "Responsibilities": [
+        "Cognizant's Digital Engineering practice is seeking a highly skilled **Lead iOS Developer** with extensive experience designing, developing, and delivering high‑performing, scalable enterprise mobile applications",
+        "In this role, you will work on high‑demand digital products while collaborating closely with product managers, designers, and clients",
+        "You will provide technical leadership, drive high‑quality engineering practices, and help shape the mobile technology roadmap",
+        "Our teams value clean, maintainable code, agile ways of working, and a strong culture of continuous improvement",
+        "Evaluate product requirements and determine technical feasibility based on business needs",
+        "Provide **technical leadership** across design, development, code reviews, and production support for both iOS and Android applications",
+        "Lead the design and implementation of critical mobile components, systems, and integrations across a full‑stack environment",
+        "Mentor and guide technical team members, fostering growth and best practices",
+        "Develop and enforce mobile coding standards, patterns, and development guidelines",
+        "Collaborate with product, design, engineering, and business stakeholders to define and drive the technical roadmap"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-whatjobs-com-jobs-ios-engineer",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "xTFR_-AdNn-L4CMnAAAAAA==",
+    "job_title": "Senior iOS Developer - Srinivasa Kandi - Vienna Mobile 🏆",
+    "employer_name": "VALIANT TECHNOLOGIES LLC",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe73RbTYi3YSkUIHOjVFjxvVnU483dIWFH6LjI&s=0",
+    "employer_website": null,
+    "job_publisher": "DevITjobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://devitjobs.com/jobs/VALIANT-TECHNOLOGIES-LLC-Senior-iOS-Developer---Srinivasa-Kandi---Vienna?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "DevITjobs",
+        "apply_link": "https://devitjobs.com/jobs/VALIANT-TECHNOLOGIES-LLC-Senior-iOS-Developer---Srinivasa-Kandi---Vienna?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Senior iOS Developer - Srinivasa Kandi - Vienna 💰 Salary: $102,000 - 102,000 per year\n\nAt VALIANT TECHNOLOGIES LLC we are looking for a Mobile engineer!\n\n🛠️ Our tech stack:\nEmbedded, Support, Mobile, Objective-C, Swift, iOS, UX UI Design\n\n📝 Rquirements:\n- Bachelors degree in Computer Science or a related field\n- Progressive experience in mobile application development (level-dependent)\n- Proficiency in iOS development including Swift, Objective-C, and Xcode\n- Experience integrating RESTful APIs and third-party libraries\n- Familiarity with Agile methodologies, preferably SAFe\n- Strong analytical, debugging, and problem-solving skills\n- Effective communication and collaboration abilities\n\n👩‍💻👨‍💻 Your responsibilities are:\n- Design, develop, and maintain mobile banking features for the iOS platform\n- Resolve production issues while enhancing platform stability and performance\n- Collaborate with cross-functional Agile teams, including front-end, back-end, and product stakeholders\n- Participate in Agile ceremonies, contributing to sprint planning and backlog refinement\n- Ensure compliance with platform-specific development standards and best practices\n- Write and maintain unit and UI tests; engage in peer code reviews\n- Stay updated with mobile OS advancements, development trends, and emerging technologies\n- Advocate for platform excellence and assist in developing reusable component libraries\n- Mentor junior developers and share knowledge within the team\n- Support enterprise-wide mobile initiatives and influence platform strategy at a senior level\n\nView this job and over 500 other transparent jobs with salaries (💰💰💰) & tech stacks (🛠️) on DevITJobs\n\nCategory: Mobile Developer / Engineer\nLocation address: Maple Avenue West, Roanoke, United States\n\nSalary: $102,000 - 102,000 per year\n\nBenefits & perks that we offer:\n\nVALIANT TECHNOLOGIES LLC - More about us and the role:\nWe are seeking a Senior iOS Developer to enhance and maintain our mobile banking applications based in Vienna, VA. This long-term opportunity allows us to work with cross-functional Agile teams to deliver secure, reliable, and user-friendly experiences to millions of our members. We value innovation and collaboration, offering a supportive environment where you can grow your skills while contributing to impactful projects.\n\nAre you looking for Mobile jobs in Roanoke?",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Vienna, VA",
+    "job_city": "Vienna",
+    "job_state": "Virginia",
+    "job_country": "US",
+    "job_latitude": 38.901222499999996,
+    "job_longitude": -77.2652604,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxTFR_-AdNn-L4CMnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Embedded, Support, Mobile, Objective-C, Swift, iOS, UX UI Design",
+        "Bachelors degree in Computer Science or a related field",
+        "Progressive experience in mobile application development (level-dependent)",
+        "Proficiency in iOS development including Swift, Objective-C, and Xcode",
+        "Experience integrating RESTful APIs and third-party libraries",
+        "Familiarity with Agile methodologies, preferably SAFe",
+        "Strong analytical, debugging, and problem-solving skills",
+        "Effective communication and collaboration abilities"
+      ],
+      "Benefits": [
+        "Salary: $102,000 - 102,000 per year"
+      ],
+      "Responsibilities": [
+        "Design, develop, and maintain mobile banking features for the iOS platform",
+        "Resolve production issues while enhancing platform stability and performance",
+        "Collaborate with cross-functional Agile teams, including front-end, back-end, and product stakeholders",
+        "Participate in Agile ceremonies, contributing to sprint planning and backlog refinement",
+        "Ensure compliance with platform-specific development standards and best practices",
+        "Write and maintain unit and UI tests; engage in peer code reviews",
+        "Stay updated with mobile OS advancements, development trends, and emerging technologies",
+        "Advocate for platform excellence and assist in developing reusable component libraries",
+        "Mentor junior developers and share knowledge within the team",
+        "Support enterprise-wide mobile initiatives and influence platform strategy at a senior level"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "devitjobs-com-jobs-valiant-technologies-llc-senior-ios-developer-srinivasa-kandi-vienna",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "wNrchFY97489xYOiAAAAAA==",
+    "job_title": "Software Engineer - iOS",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Software-Engineer-iOS/-in-Springdale,AR?jid=bca8fbce759de26f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Software-Engineer-iOS/-in-Springdale,AR?jid=bca8fbce759de26f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...\n\nAs a part of Walmart Global Tech you’ll build industry defining reusable customer and partner facing services and products to lead differentiated experiences and revenue sources. You will be in the unique position to serve both our customers and our associates as a member of this organization, supporting all segments of Walmart. If you are the type of person who feels a personal stake in everything you work on, has a love for data, enjoys solving complex problems, has a passion for privacy, knows how to foster strong relationships and build trust, and work for the success of an entire team, then please read further!\n\nAbout Our Team:\nOur team works closely with our US stores and eCommerce business to better serve customers by empowering team members, stores, and merchants with technological innovation. From groceries and entertainment to sporting goods and crafts, Walmart U.S. offers an extensive selection that our customers value, whether they shop online at Walmart.com, through one of our Mobile Apps, or in-store. Focus areas include our Customers, Stores and Employees, In-Store Services, eCommerce, Merchant Tools and, Data Science, and all general aspects of Walmart eCommerce.\n\nWhat You'll Do:\n• Build, and maintain engaging and high-performant apps for our customers at a very high scale.\n• Produce robust, maintainable, highly tested, reusable code for developing functionality, configuration, improved performance, scalability, availability, security, monitoring and alerting for software test, integration, and production environments.\n• Plan and implement a series of steps which potentially include reconfiguration, integration, removal, or addition of application components to enhance the application's functionality, resiliency, usability, and security.\n• Understand the Business/Stakeholder/Technical requirements and assist in analyzing the existing solutions to address the needs. Assist in creation of simple, modular, extensible functional design for the product/solution in adherence to the requirements.\n• Assess gaps, updates, and modifications between the customer, business expectations, and the existing product/solutions.\n• Analyze defects from past projects and solutions to avoid recurrence of similar defects.\n• Analyze system performance impacting the complete product for non-functional requirements such as reliability, operability, performance efficiency, and security.\n• Troubleshoot performance and availability bottlenecks within the application.\n• Develop, maintain, and enhance automated test cases and deployment procedures.\n• developed by the teams and contribute towards their continuous improvement.\n\nWhat you'll bring:\n• Solid and varied understanding of iOS framework components and their respective lifecycles, combined with a strong grasp of software engineering fundamentals, including application lifecycles, run loops, memory management, multithreading, networking, remote and local storage, security best practices, performance tuning, and more.\n• Expert understanding of UIKit and its many quirks. SwiftUI is a plus!\n• Experience building Frameworks or SDKs.\n• Experience working with GraphQL / Apollo.\n• Experience in developing content rich applications which include custom interactions, animations, and transitions.\n• Skill in developing clean and reliable App and Systems architectures.\n• Ability to build product requirements with a focus on testability, software quality, and overall engineering / operational excellence.\n• Experience with code repositories and version control practices.\n• Experience with CI/CD pipelines and best practices. Automated deployment and general scripting experience is a plus.\n• Excellent communication skills, able to articulate complex ideas or opinions without hesitation and navigate multi-team interactions with diplomacy.\n• Experience in agile development methodology.\n\nAbout Walmart Global Tech:\nImagine working in an environment where one line of code can make a positive impact on hundreds of millions of people, and a new feature can make all of their lives a little better. That’s what we do at Walmart Global Tech.\n\nWe’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as roles for those looking to define their career. Here, you can get started in tech, gain new skills and experience from virtually every industry, or leverage your expertise to innovate at scale, impact millions and help us to reimagine the future of retail.\n\nFlexible, hybrid work:\nWe use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.\n\n#WGTMPQ4\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\n‎\n\n‎\n\n‎\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\n‎\n\nFor information about PTO, see https://one.walmart.com/notices.\n\n‎\n\n‎\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\n‎\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\n‎\n\nFor information about benefits and eligibility, see One.Walmart.\n\n‎\nThe annual salary range for this position is $90,000.00-$180,000.00\n\n‎\nAdditional compensation includes annual or quarterly performance bonuses.\n\n‎\nAdditional compensation for certain positions may also include:\n\n‎\n\n‎\n- Stock\n\n‎\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years’ experience in software engineering or related area.Option 2: 4 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nCustomer Service, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nMasters: Computer Science\n\nPrimary Location...\n\nPHYLLIS ST. N OF HWY 102, WEST SIDE OF STREET, BENTONVILLE, AR 72712, United States of America",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Springdale, AR",
+    "job_city": "Springdale",
+    "job_state": "Arkansas",
+    "job_country": "US",
+    "job_latitude": 36.174524399999996,
+    "job_longitude": -94.13901369999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwNrchFY97489xYOiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 90000,
+    "job_max_salary": 180000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Solid and varied understanding of iOS framework components and their respective lifecycles, combined with a strong grasp of software engineering fundamentals, including application lifecycles, run loops, memory management, multithreading, networking, remote and local storage, security best practices, performance tuning, and more",
+        "Expert understanding of UIKit and its many quirks",
+        "Experience building Frameworks or SDKs",
+        "Experience working with GraphQL / Apollo",
+        "Experience in developing content rich applications which include custom interactions, animations, and transitions",
+        "Skill in developing clean and reliable App and Systems architectures",
+        "Ability to build product requirements with a focus on testability, software quality, and overall engineering / operational excellence",
+        "Experience with code repositories and version control practices",
+        "Experience with CI/CD pipelines and best practices",
+        "Excellent communication skills, able to articulate complex ideas or opinions without hesitation and navigate multi-team interactions with diplomacy",
+        "Experience in agile development methodology",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years’ experience in software engineering or related area",
+        "Option 2: 4 years’ experience in software engineering or related area",
+        "Customer Service, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $90,000.00-$180,000.00",
+        "Additional compensation includes annual or quarterly performance bonuses"
+      ],
+      "Responsibilities": [
+        "As a part of Walmart Global Tech you’ll build industry defining reusable customer and partner facing services and products to lead differentiated experiences and revenue sources",
+        "You will be in the unique position to serve both our customers and our associates as a member of this organization, supporting all segments of Walmart",
+        "Build, and maintain engaging and high-performant apps for our customers at a very high scale",
+        "Produce robust, maintainable, highly tested, reusable code for developing functionality, configuration, improved performance, scalability, availability, security, monitoring and alerting for software test, integration, and production environments",
+        "Plan and implement a series of steps which potentially include reconfiguration, integration, removal, or addition of application components to enhance the application's functionality, resiliency, usability, and security",
+        "Understand the Business/Stakeholder/Technical requirements and assist in analyzing the existing solutions to address the needs",
+        "Assist in creation of simple, modular, extensible functional design for the product/solution in adherence to the requirements",
+        "Assess gaps, updates, and modifications between the customer, business expectations, and the existing product/solutions",
+        "Analyze defects from past projects and solutions to avoid recurrence of similar defects",
+        "Analyze system performance impacting the complete product for non-functional requirements such as reliability, operability, performance efficiency, and security",
+        "Troubleshoot performance and availability bottlenecks within the application",
+        "Develop, maintain, and enhance automated test cases and deployment procedures",
+        "developed by the teams and contribute towards their continuous improvement"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-software-engineer-ios-in-springdale-ar",
     "_source": "new_jobs"
   },
   {
@@ -951,9 +1045,9 @@
     "job_latitude": 42.4072107,
     "job_longitude": -71.3824374,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlEEV21NRzfnxBiIhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1037,6 +1131,167 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "tallo-com-jobs-technology-mobile-applications-developer-ca-santa-clara-ios-engineer-apple-tv-405693429c64",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "lpEkpelFnWh_wc2XAAAAAA==",
+    "job_title": "Senior iOS Developer",
+    "employer_name": "Cognizant",
+    "employer_logo": null,
+    "employer_website": "https://www.cognizant.com",
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/senior-ios-developer?id=2461175948&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/senior-ios-developer?id=2461175948&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "**Senior iOS Developer - Description**\n• *About the Role**\nAs a **Senior iOS Developer** , you will play a key role in designing and delivering high‑quality, intuitive, and secure iOS mobile experiences. You will serve as a technical leader within the engineering team and collaborate closely with product partners, designers, and fellow developers to build scalable, user‑centric applications. Your expertise will help guide architectural decisions and elevate engineering best practices.\n• *In This Role, You Will:**\n+ Design, build, and test rich, interactive features for native iOS applications.\n+ Collaborate with cross‑functional teams to gather, clarify, and refine software requirements.\n+ **Lead development efforts** for complex components or features, ensuring quality, performance, and consistency.\n+ Troubleshoot and resolve advanced software issues throughout the development lifecycle.\n+ Participate in and often drive code reviews, upholding coding standards and best practices.\n+ **Contribute to and influence architectural discussions** and technical decision‑making.\n• *Work Model**\nWe strive to provide flexibility wherever possible. Based on this role's business requirements, this is a **remote position open to qualified applicants in Englewood, Colorado** . Regardless of your working arrangement, we promote a healthy work‑life balance through our wellbeing programs. Working arrangements are accurate as of the posting date and may change based on business, project, or team requirements. Any changes will be communicated transparently.\n• *Candidate must be legally authorized to work in the United States without the need for employer sponsorship, now or in the future.**\n• *Required Qualifications**\n+ **4+ years of experience in native iOS development** .\n+ Proficiency with **Swift and Objective‑C** .\n+ Strong debugging and problem‑solving capabilities.\n+ Excellent communication and collaboration skills.\n• *Preferred Qualifications (Nice to Have)**\n+ Experience building features for large‑scale or enterprise iOS applications.\n+ Strong understanding of iOS frameworks, UIKit/SwiftUI, mobile architecture patterns, and development best practices.\n+ Ability to contribute to technical design and **mentor junior developers** .\n• *Salary and Compensation**\nApplications will be accepted until **February 27, 2026** .\nThe annual salary for this position is **$65,000-$94,500** , depending on experience and qualifications. This position is also eligible for **Cognizant's discretionary annual incentive program** , based on performance and subject to applicable plan terms.\n• *Benefits**\n+ Medical, Dental, Vision, and Life Insurance\n+ Paid Holidays + Paid Time Off\n+ 401(k) Plan with Contributions\n+ Long‑term/Short‑term Disability\n+ Paid Parental Leave\n+ Employee Stock Purchase Plan\n• *Disclaimer**\nThe salary, compensation, and benefits information is accurate as of the posting date. Cognizant reserves the right to modify this information at any time, subject to applicable laws.\nCognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Madison, NH",
+    "job_city": "Madison",
+    "job_state": "New Hampshire",
+    "job_country": "US",
+    "job_latitude": 43.8992395,
+    "job_longitude": -71.1484028,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlpEkpelFnWh_wc2XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Design, build, and test rich, interactive features for native iOS applications",
+        "Collaborate with cross‑functional teams to gather, clarify, and refine software requirements",
+        "*Candidate must be legally authorized to work in the United States without the need for employer sponsorship, now or in the future.**",
+        "*Required Qualifications**",
+        "**4+ years of experience in native iOS development** ",
+        "Proficiency with **Swift and Objective‑C** ",
+        "Strong debugging and problem‑solving capabilities",
+        "Excellent communication and collaboration skills",
+        "Experience building features for large‑scale or enterprise iOS applications",
+        "Strong understanding of iOS frameworks, UIKit/SwiftUI, mobile architecture patterns, and development best practices",
+        "Ability to contribute to technical design and **mentor junior developers** "
+      ],
+      "Benefits": [
+        "Regardless of your working arrangement, we promote a healthy work‑life balance through our wellbeing programs",
+        "*Salary and Compensation**",
+        "The annual salary for this position is **$65,000-$94,500** , depending on experience and qualifications",
+        "This position is also eligible for **Cognizant's discretionary annual incentive program** , based on performance and subject to applicable plan terms",
+        "Medical, Dental, Vision, and Life Insurance",
+        "Paid Holidays + Paid Time Off",
+        "401(k) Plan with Contributions",
+        "Long‑term/Short‑term Disability",
+        "Paid Parental Leave",
+        "Employee Stock Purchase Plan"
+      ],
+      "Responsibilities": [
+        "As a **Senior iOS Developer** , you will play a key role in designing and delivering high‑quality, intuitive, and secure iOS mobile experiences",
+        "You will serve as a technical leader within the engineering team and collaborate closely with product partners, designers, and fellow developers to build scalable, user‑centric applications",
+        "Your expertise will help guide architectural decisions and elevate engineering best practices",
+        "**Lead development efforts** for complex components or features, ensuring quality, performance, and consistency",
+        "Troubleshoot and resolve advanced software issues throughout the development lifecycle",
+        "Participate in and often drive code reviews, upholding coding standards and best practices",
+        "**Contribute to and influence architectural discussions** and technical decision‑making",
+        "Working arrangements are accurate as of the posting date and may change based on business, project, or team requirements",
+        "Any changes will be communicated transparently"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-whatjobs-com-jobs-senior-ios-developer",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "yST9Y3cYuiUD7CweAAAAAA==",
+    "job_title": "IOS Developer",
+    "employer_name": "Hudson Manpower",
+    "employer_logo": null,
+    "employer_website": "https://hudsonmanpower.com",
+    "job_publisher": "SimplyHired",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.simplyhired.com/job/O56TKWHB_qlNc7SjQ9TPV0EtKT4DFfuLN7l3gJfJyqL88uHrXvE8iw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/O56TKWHB_qlNc7SjQ9TPV0EtKT4DFfuLN7l3gJfJyqL88uHrXvE8iw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5627265654?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Www.talent.com",
+        "apply_link": "https://www.talent.com/view?id=7c9d57e09265&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Overview\n\nWe are seeking a passionate and motivated iOS Developer with 6 months to 4 years of experience in developing mobile applications for Apple devices. The ideal candidate should have strong knowledge of iOS development, be willing to work in an onsite or hybrid environment, and be open to relocating anywhere within the United States.\n\nJob Type: Full-Time (W2)\n\nWork Authorization: US Citizens and Green Card holders only\n\nExperience Required: 6 Months – 4 Years\n\nWork Mode: Onsite / Hybrid\n\nRelocation: Must be open to relocate anywhere in the United States\n\nKey Responsibilities\n• Design and develop high-quality iOS applications using Swift and/or Objective-C\n• Collaborate with cross-functional teams including UI/UX designers, product managers, and backend developers\n• Write clean, maintainable, and efficient code following best practices\n• Integrate RESTful APIs and third-party libraries\n• Perform unit testing and debugging to ensure application stability\n• Participate in code reviews and Agile/Scrum ceremonies\n• Maintain and enhance existing iOS applications\n\nRequired Skills\n• Strong knowledge of Swift (Objective-C is a plus)\n• Experience with Xcode, iOS SDK, and Interface Builder\n• Understanding of UIKit, Auto Layout, and Apple Human Interface Guidelines\n• Experience integrating REST APIs and handling JSON data\n• Knowledge of Git or other version control systems\n• Familiarity with MVVM/MVC architecture patterns\n• Basic understanding of App Store deployment process\n\nPreferred Qualifications\n• Experience with Core Data, Realm, or other local storage solutions\n• Exposure to CI/CD pipelines\n• Knowledge of unit testing frameworks (XCTest)\n• Understanding of mobile app performance optimization",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Spring, TX",
+    "job_city": "Spring",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 30.0799405,
+    "job_longitude": -95.41716009999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyST9Y3cYuiUD7CweAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "We are seeking a passionate and motivated iOS Developer with 6 months to 4 years of experience in developing mobile applications for Apple devices",
+        "The ideal candidate should have strong knowledge of iOS development, be willing to work in an onsite or hybrid environment, and be open to relocating anywhere within the United States",
+        "Job Type: Full-Time (W2)",
+        "Work Authorization: US Citizens and Green Card holders only",
+        "Experience Required: 6 Months – 4 Years",
+        "Relocation: Must be open to relocate anywhere in the United States",
+        "Experience with Xcode, iOS SDK, and Interface Builder",
+        "Understanding of UIKit, Auto Layout, and Apple Human Interface Guidelines",
+        "Experience integrating REST APIs and handling JSON data",
+        "Knowledge of Git or other version control systems",
+        "Familiarity with MVVM/MVC architecture patterns",
+        "Basic understanding of App Store deployment process"
+      ],
+      "Responsibilities": [
+        "Design and develop high-quality iOS applications using Swift and/or Objective-C",
+        "Collaborate with cross-functional teams including UI/UX designers, product managers, and backend developers",
+        "Write clean, maintainable, and efficient code following best practices",
+        "Integrate RESTful APIs and third-party libraries",
+        "Perform unit testing and debugging to ensure application stability",
+        "Participate in code reviews and Agile/Scrum ceremonies",
+        "Maintain and enhance existing iOS applications"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-simplyhired-com-job-o56tkwhb_qlnc7sjq9tpv0etkt4dffuln7l3gjfjyql88uhrxve8iw",
     "_source": "new_jobs"
   },
   {
@@ -1204,114 +1459,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "YzD-I-Rorl3jBuLQAAAAAA==",
-    "job_title": "Mobile Software Engineers, iOS or Android",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Mobile-Software-Engineers,-iOS-or-Android/-in-San-Jose,CA?jid=f730be95c36c75fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Mobile-Software-Engineers,-iOS-or-Android/-in-San-Jose,CA?jid=f730be95c36c75fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/2bf65ad502b39d0902f07e7d8b33d106?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-3821-1788cff4f17c852d78dee23989a16e30?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Summary...\n\nWhat you'll do...As part of the Emerging Tech team, you’ll build the mobile foundation for Project Sparky, an AI-powered assistant that helps customers manage everyday shopping through intelligent, context-aware conversations. In this role, you’ll design and scale high-performance iOS and Android systems that integrate deeply with generative and agentic AI while partnering with AI/ML and backend teams to bring next-generation conversational experiences to life for millions of customers.\n• Immigration Sponsorship is not available in this role\n\nAbout Emerging Tech:\nOur Emerging Tech team drives Walmart’s AI transformation by building intelligent systems that influence how millions shop every day across our global retail ecosystem. We develop state-of-the-art generative and conversational AI that powers more proactive, connected, and personalized experiences. At this scale, every innovation you create not only reaches millions of customers worldwide but also comes to life in the very communities where you live, work, and shop.\n\nSoftware Engineering - Mobile team responsibilities:\n• Build and evolve native mobile experiences used by millions of customers every day.\n• Design mobile architectures that balance performance, reliability, and speed so teams can ship value quickly.\n• Partner closely with product, design, and backend teams to deliver polished, intuitive user experiences.\n• Lead discovery, prototyping, and technical direction for new mobile capabilities.\n• Write and maintain production quality code, including debugging, performance tuning, and readiness for release.\n• Mentor teammates and help raise the bar for mobile engineering practices across the organization.\n\nWho we are hiring:\nPrincipal / Distinguished Engineers\nYou’ll bring deep expertise and help shape the future of Walmart’s mobile ecosystem.\n• 10–20+ years of mobile engineering experience.\n• Deep native expertise in Swift/iOS and/or Kotlin/Android with ownership of platform level architecture.\n• Experience leading large, cross functional initiatives with broad technical impact.\n• Proven ability to scale mobile systems, improve performance, and elevate developer workflows.\n\nStaff Engineers\nYou lead through expertise and empower teams to deliver at scale.\n• 7–10+ years of mobile engineering experience with end-to-end feature ownership. (Swift/iOS or Kotlin/Android)\n• Strong understanding of mobile architecture, performance, and CI/CD pipelines.\n• Experience mentoring engineers and influencing technical and design decisions.\n• Comfortable taking features from discovery through production and ongoing iteration.\n\nSoftware Engineer III / Senior Software Engineers\nYou ship high-quality experiences and are ready to grow your impact.\n• 3–7+ years of native mobile development experience. (Swift/iOS or Kotlin/Android)\n• Strong track record of delivering features, debugging complex issues, and improving code quality.\n• Experience integrating backend services and navigating large codebases.\n• Interest in expanding technical leadership and owning larger problem spaces over time.\n\nIf you’re excited about building the future of mobile at Walmart, we encourage you to apply. We’ll review your experience and match you to the level that aligns best with your skills, impact, and career goals.\n\nAbout Walmart Global Tech:\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. Thats what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the worlds leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\nWalmart's culture is a competitive advantage, and its fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nYour Career Journey at Walmart\nAt Walmart, we want to make sure your experience connecting with us is seamless and straightforward. Here’s what to expect when interacting with us as recruiters:\nWe’ll reach out via verified LinkedIn profiles or emails ending in \"@walmart.com.” or “@samsclub.com”. All job opportunities and applications are hosted on our official careers site: http://careers.walmart.com. There is no cost or payment required to apply or be considered for a position.\nIf you have any doubts about a communication, feel free to visit our careers page to verify authenticity. Thank you for exploring opportunities at Walmart!\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\nFor information about PTO, see https://one.walmart.com/notices.\n\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\nFor information about benefits and eligibility, see One.Walmart.\n\nThe annual salary range for this position is $143,000.00 - $286,000.00\n\nAdditional compensation includes annual or quarterly performance bonuses.\n\nAdditional compensation for certain positions may also include :\n\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area.\nOption 2: 7 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1375 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYzD-I-Rorl3jBuLQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 143000,
-    "job_max_salary": 286000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "10–20+ years of mobile engineering experience",
-        "Deep native expertise in Swift/iOS and/or Kotlin/Android with ownership of platform level architecture",
-        "Experience leading large, cross functional initiatives with broad technical impact",
-        "Proven ability to scale mobile systems, improve performance, and elevate developer workflows",
-        "7–10+ years of mobile engineering experience with end-to-end feature ownership. (Swift/iOS or Kotlin/Android)",
-        "Strong understanding of mobile architecture, performance, and CI/CD pipelines",
-        "Experience mentoring engineers and influencing technical and design decisions",
-        "Comfortable taking features from discovery through production and ongoing iteration",
-        "You ship high-quality experiences and are ready to grow your impact",
-        "3–7+ years of native mobile development experience",
-        "(Swift/iOS or Kotlin/Android)",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area",
-        "Option 2: 7 years’ experience in software engineering or related area",
-        "Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
-        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $143,000.00 - $286,000.00",
-        "Additional compensation includes annual or quarterly performance bonuses",
-        "Additional compensation for certain positions may also include :"
-      ],
-      "Responsibilities": [
-        "What you'll do...As part of the Emerging Tech team, you’ll build the mobile foundation for Project Sparky, an AI-powered assistant that helps customers manage everyday shopping through intelligent, context-aware conversations",
-        "In this role, you’ll design and scale high-performance iOS and Android systems that integrate deeply with generative and agentic AI while partnering with AI/ML and backend teams to bring next-generation conversational experiences to life for millions of customers",
-        "Build and evolve native mobile experiences used by millions of customers every day",
-        "Design mobile architectures that balance performance, reliability, and speed so teams can ship value quickly",
-        "Partner closely with product, design, and backend teams to deliver polished, intuitive user experiences",
-        "Lead discovery, prototyping, and technical direction for new mobile capabilities",
-        "Write and maintain production quality code, including debugging, performance tuning, and readiness for release",
-        "Mentor teammates and help raise the bar for mobile engineering practices across the organization",
-        "You’ll bring deep expertise and help shape the future of Walmart’s mobile ecosystem",
-        "You lead through expertise and empower teams to deliver at scale",
-        "Strong track record of delivering features, debugging complex issues, and improving code quality",
-        "Experience integrating backend services and navigating large codebases",
-        "Interest in expanding technical leadership and owning larger problem spaces over time"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-mobile-software-engineers-ios-or-android-in-san-jose-ca",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "LKHKuzFieaQPbhn4AAAAAA==",
     "job_title": "Lead iOS Developer – Remote",
     "employer_name": "Cognizant",
@@ -1393,6 +1540,114 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "YzD-I-Rorl3jBuLQAAAAAA==",
+    "job_title": "Mobile Software Engineers, iOS or Android",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Mobile-Software-Engineers,-iOS-or-Android/-in-San-Jose,CA?jid=f730be95c36c75fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Mobile-Software-Engineers,-iOS-or-Android/-in-San-Jose,CA?jid=f730be95c36c75fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/2bf65ad502b39d0902f07e7d8b33d106?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-3821-1788cff4f17c852d78dee23989a16e30?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...As part of the Emerging Tech team, you’ll build the mobile foundation for Project Sparky, an AI-powered assistant that helps customers manage everyday shopping through intelligent, context-aware conversations. In this role, you’ll design and scale high-performance iOS and Android systems that integrate deeply with generative and agentic AI while partnering with AI/ML and backend teams to bring next-generation conversational experiences to life for millions of customers.\n• Immigration Sponsorship is not available in this role\n\nAbout Emerging Tech:\nOur Emerging Tech team drives Walmart’s AI transformation by building intelligent systems that influence how millions shop every day across our global retail ecosystem. We develop state-of-the-art generative and conversational AI that powers more proactive, connected, and personalized experiences. At this scale, every innovation you create not only reaches millions of customers worldwide but also comes to life in the very communities where you live, work, and shop.\n\nSoftware Engineering - Mobile team responsibilities:\n• Build and evolve native mobile experiences used by millions of customers every day.\n• Design mobile architectures that balance performance, reliability, and speed so teams can ship value quickly.\n• Partner closely with product, design, and backend teams to deliver polished, intuitive user experiences.\n• Lead discovery, prototyping, and technical direction for new mobile capabilities.\n• Write and maintain production quality code, including debugging, performance tuning, and readiness for release.\n• Mentor teammates and help raise the bar for mobile engineering practices across the organization.\n\nWho we are hiring:\nPrincipal / Distinguished Engineers\nYou’ll bring deep expertise and help shape the future of Walmart’s mobile ecosystem.\n• 10–20+ years of mobile engineering experience.\n• Deep native expertise in Swift/iOS and/or Kotlin/Android with ownership of platform level architecture.\n• Experience leading large, cross functional initiatives with broad technical impact.\n• Proven ability to scale mobile systems, improve performance, and elevate developer workflows.\n\nStaff Engineers\nYou lead through expertise and empower teams to deliver at scale.\n• 7–10+ years of mobile engineering experience with end-to-end feature ownership. (Swift/iOS or Kotlin/Android)\n• Strong understanding of mobile architecture, performance, and CI/CD pipelines.\n• Experience mentoring engineers and influencing technical and design decisions.\n• Comfortable taking features from discovery through production and ongoing iteration.\n\nSoftware Engineer III / Senior Software Engineers\nYou ship high-quality experiences and are ready to grow your impact.\n• 3–7+ years of native mobile development experience. (Swift/iOS or Kotlin/Android)\n• Strong track record of delivering features, debugging complex issues, and improving code quality.\n• Experience integrating backend services and navigating large codebases.\n• Interest in expanding technical leadership and owning larger problem spaces over time.\n\nIf you’re excited about building the future of mobile at Walmart, we encourage you to apply. We’ll review your experience and match you to the level that aligns best with your skills, impact, and career goals.\n\nAbout Walmart Global Tech:\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. Thats what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the worlds leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\nWalmart's culture is a competitive advantage, and its fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nYour Career Journey at Walmart\nAt Walmart, we want to make sure your experience connecting with us is seamless and straightforward. Here’s what to expect when interacting with us as recruiters:\nWe’ll reach out via verified LinkedIn profiles or emails ending in \"@walmart.com.” or “@samsclub.com”. All job opportunities and applications are hosted on our official careers site: http://careers.walmart.com. There is no cost or payment required to apply or be considered for a position.\nIf you have any doubts about a communication, feel free to visit our careers page to verify authenticity. Thank you for exploring opportunities at Walmart!\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\nFor information about PTO, see https://one.walmart.com/notices.\n\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\nFor information about benefits and eligibility, see One.Walmart.\n\nThe annual salary range for this position is $143,000.00 - $286,000.00\n\nAdditional compensation includes annual or quarterly performance bonuses.\n\nAdditional compensation for certain positions may also include :\n\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area.\nOption 2: 7 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1375 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYzD-I-Rorl3jBuLQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 143000,
+    "job_max_salary": 286000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "10–20+ years of mobile engineering experience",
+        "Deep native expertise in Swift/iOS and/or Kotlin/Android with ownership of platform level architecture",
+        "Experience leading large, cross functional initiatives with broad technical impact",
+        "Proven ability to scale mobile systems, improve performance, and elevate developer workflows",
+        "7–10+ years of mobile engineering experience with end-to-end feature ownership. (Swift/iOS or Kotlin/Android)",
+        "Strong understanding of mobile architecture, performance, and CI/CD pipelines",
+        "Experience mentoring engineers and influencing technical and design decisions",
+        "Comfortable taking features from discovery through production and ongoing iteration",
+        "You ship high-quality experiences and are ready to grow your impact",
+        "3–7+ years of native mobile development experience",
+        "(Swift/iOS or Kotlin/Android)",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area",
+        "Option 2: 7 years’ experience in software engineering or related area",
+        "Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $143,000.00 - $286,000.00",
+        "Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
+      ],
+      "Responsibilities": [
+        "What you'll do...As part of the Emerging Tech team, you’ll build the mobile foundation for Project Sparky, an AI-powered assistant that helps customers manage everyday shopping through intelligent, context-aware conversations",
+        "In this role, you’ll design and scale high-performance iOS and Android systems that integrate deeply with generative and agentic AI while partnering with AI/ML and backend teams to bring next-generation conversational experiences to life for millions of customers",
+        "Build and evolve native mobile experiences used by millions of customers every day",
+        "Design mobile architectures that balance performance, reliability, and speed so teams can ship value quickly",
+        "Partner closely with product, design, and backend teams to deliver polished, intuitive user experiences",
+        "Lead discovery, prototyping, and technical direction for new mobile capabilities",
+        "Write and maintain production quality code, including debugging, performance tuning, and readiness for release",
+        "Mentor teammates and help raise the bar for mobile engineering practices across the organization",
+        "You’ll bring deep expertise and help shape the future of Walmart’s mobile ecosystem",
+        "You lead through expertise and empower teams to deliver at scale",
+        "Strong track record of delivering features, debugging complex issues, and improving code quality",
+        "Experience integrating backend services and navigating large codebases",
+        "Interest in expanding technical leadership and owning larger problem spaces over time"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-mobile-software-engineers-ios-or-android-in-san-jose-ca",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "gYUtcVQqu7XqxP2PAAAAAA==",
     "job_title": "Senior iOS Developer",
     "employer_name": "Capgemini",
@@ -1415,6 +1670,11 @@
         "publisher": "Talent.com",
         "apply_link": "https://www.talent.com/view?id=ed69f99f313d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/sr-ios-developer--durham--ee52c264484f9c6e9ed07ea7166a544a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       }
     ],
     "job_description": "Title:- Senior iOS Developer\n\nLocation - Durham, NC\n\nJob Description\n\nWe are seeking an experienced Senior iOS Developer with a strong background in building high-quality, scalable, and accessible iOS applications. The ideal candidate will have deep expertise in Swift, SwiftUI, and modern iOS development practices, along with a passion for mentoring and collaborating in an agile environment.\n\nKey Responsibilities\n• Design, develop, and maintain iOS applications using Swift, SwiftUI, Combine, and Async/Await for network concurrency.\n• Implement and maintain architectures such as MVVM, Clean Architecture, and VIPER.\n• Mentor and coach other iOS developers, fostering a collaborative and team-based culture.\n• Ensure compliance with Apple’s accessibility guidelines and deliver inclusive user experiences.\n• Write and maintain unit and UI tests using XCTest and XCUITest, with a strong focus on DevOps practices.\n• Develop and distribute iOS frameworks, managing dependencies via Swift Package Manager and/or CocoaPods.\n• Apply best practices for networking, concurrency, performance optimization, memory management, and security in iOS apps.\n• Participate in the full app lifecycle—from inception to launch—including App Store submission and automated tooling (e.g., Jenkins, Xcode toolchain).\n• Collaborate with team members through code reviews, pull requests, and pair programming.\n• Contribute to technical discussions, brainstorming sessions, and problem-solving initiatives.\n\nRequired Qualifications\n• 7+ years of professional experience in iOS development.\n• Strong proficiency in Swift, SwiftUI, and modern concurrency patterns.\n• Hands-on experience with Combine, Async/Await, and Xcode.\n• Proven track record of mentoring and guiding other developers.\n• Solid understanding of Apple’s accessibility features.\n• Experience with XCTest, XCUITest, and CI/CD pipelines.\n• Knowledge of iOS framework development and dependency management tools.\n• Familiarity with App Store release process and automated build tools.\n• Excellent communication and collaboration skills.\n\nThe base compensation range for this role in the posted location is: $70,000.00 - $90,000.00\n\nCapgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws. The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting. This range may be subject to change as permitted by law.\n\nThe actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction.\n\nThese may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity.\n\nIt is not typical for candidates to be hired at or near the top of the posted compensation range.\n\nIn addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws.\n\nCapgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees. In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include:\n• Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick Leave\n• Medical, dental, and vision coverage (or provincial healthcare coordination in Canada)\n• Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)\n• Life and disability insurance\n• Employee assistance programs\n• Other benefits as provided by local policy and eligibility\n\nImportant Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini’s discretion, consistent with applicable laws. The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation.\n\nDisclaimers\n\nCapgemini is an Equal Opportunity Employer encouraging inclusion in the workplace. Capgemini also participates in the Partnership Accreditation in Indigenous Relations (PAIR) program which supports meaningful engagement with Indigenous communities across Canada by promoting fairness, accessibility, inclusion and respect. We value the rich cultural heritage and contributions of Indigenous Peoples and actively work to create a welcoming and respectful environment. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.\n\nThis is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodation does not pose an undue hardship. Capgemini is committed to providing reasonable accommodation during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.\n\nPlease be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.\n\nClick the following link for more information on your rights as an Applicant in the United States. http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law\n\nCapgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.",
@@ -1429,9 +1689,9 @@
     "job_latitude": 35.995568399999996,
     "job_longitude": -78.9002077,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgYUtcVQqu7XqxP2PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 70000,
