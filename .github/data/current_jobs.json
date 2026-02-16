@@ -273,8 +273,8 @@
     "job_longitude": -77.09098089999999,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DODGw_CN08p68QZZXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
@@ -405,9 +405,9 @@
     "job_latitude": 33.7501275,
     "job_longitude": -84.3885209,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dp31PZx2MMWOV3xfKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -498,9 +498,9 @@
     ],
     "job_description": "Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.\n\nCome join us to create what’s next. Let’s define tomorrow, together.\n\nDescription\n\nThe job is required to manage and implement the ecommerce payment system for united.com. The role of Senior Technical Lead in Application Development is that he or she is responsible for helping their team members with the technical aspects of their jobs, such as design and programming. They will be expected to explain new projects to their team and work on an overall delivery approach, with appropriate technical measures. The technical lead will be required to identify risks, form contingency plans, and address these with technical solutions as applicable. The Tech lead will also be expected to collaborate with other team members, functional teams to deliver best in class solutions.\n\n· The lead role should be very strong technically, and an expert in e-commerce payment systems, to support the payment solutions. The role will also work with payment services and other backend service teams.\n\n· the technical lead would be required to guide & mentor the direct staff to both technical excellence and for people management. It would be expected to have a strategy for employee training & growth, and to provide the required development opportunities.\n\n· To keep a check on the whole system, conduct the testing and integration testing for the entire system.\n\nThe lead role will have overall technical responsibility and will be required to drive very quality focused & sustainable deliverables. This will include collaboration with various teams, validating any technical challenges and being on the lookout for improvements & enhancements. The role will be required to support testing phases, and ensure that the non-functional requirements are accounted for.\n\n· Lead would be required to assist and guide the Project Lead/PM/BA in project strategy and execution:\n\n1, Requirements Gathering\n\n2.Mapping requirements to technical specifications\n\n3.Technical designs\n\n4. Programming, Code reviews\n\n5. Cutover Strategy\n\n6. Operational Support\n\n· Lead will be the interface between the team and the management. The lead should be able to own the communication between management and team, to effectivity communicate overall progress, risks, mitigations and to be the voice of the technical team. The lead will be required to make decisions to help solve the technical challenges. Technical lead will be expected to solve challenges with technology, but also be able to support the overall program.\nQualifications\n\nMinimum Requirements:\n\n· Bachelor’s degree in computer science or professional Degree\n\n· 4+ years of experience in full-stack development, with expertise in React, TypeScript, C#, and Node.js\n\n· 2+ years of full cycle implementation experience\n\n· Excellent written and verbal communication skills\n\n· Should be able to collaborate with various teams\n\n· Proficient in web development using React, Redux, Redux sagas, ES6, Node.js, HTML5, CSS3\n\n· Experience of various payment gateways and methods (Credit cards, Apple Pay, Paypal, Alipay, Pix, Flexpay and UnionPay)\n\n· Experience with industry standards and regulations for compliance (e.g., PCI DSS)\n\n· Strong experience implementing AWS/cloud technologies\n\n· Hands-on development and proficient excellence in backend API development using C# .Net in cloud\n\n· Strong experience with common front-end development tools such as Babel, Webpack, NPM, etc.\n\n· Strong experience building web applications with Micro frontend architecture\n\n· Strong experience in design patterns and enterprise standards in application design\n\n· Expertise in accessibility standards and implementation\n\n· Experience with unit testing\n\nPreferred:\n\n· Master’s Degree\n\n· AWS or other Cloud Certifications\n\n· Experience in monitoring tools like Quantum Metrics and Dynatrace.\n\nThe base pay range for this role is $109,820.00 to $149,600.00.\nThe base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.\n\nYou may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.\n\nUnited Airlines is an equal opportunity employer. United Airlines recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, gender identity, sexual orientation, physical ability, age, veteran status and other protected status as required by applicable law. Equal Opportunity Employer - Minorities/Women/Veterans/Disabled/LGBT.\n\nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions. Please contact JobAccommodations@united.com to request accommodation.",
     "job_is_remote": false,
-    "job_posted_at": "12 hours ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_posted_at": "13 hours ago",
+    "job_posted_at_timestamp": 1771196400,
+    "job_posted_at_datetime_utc": "2026-02-15T23:00:00.000Z",
     "job_location": "Chicago, IL",
     "job_city": "Chicago",
     "job_state": "Illinois",
@@ -508,9 +508,9 @@
     "job_latitude": 41.88325,
     "job_longitude": -87.6323879,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnFB_zyqtOPnPQB2BAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -962,9 +962,9 @@
     "job_latitude": 33.7501275,
     "job_longitude": -84.3885209,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhZf-QTnrp3yneXt-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1031,93 +1031,6 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "YihkzZUT3ANbEchXAAAAAA==",
-    "job_title": "React Developer",
-    "employer_name": "Bright Vision Technologies",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndn5_AdH1AKanxNlVDq7xGeGTx-s9zQ0Alo1r&s=0",
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-bright-vision-technologies-4370350103?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-bright-vision-technologies-4370350103?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JobTarget",
-        "apply_link": "https://www.jobtarget.com/jobs/jt-1oyrny7d8m/react-developer-indianapolis-indiana?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Enaticsupersaintexternal.com",
-        "apply_link": "https://enaticsupersaintexternal.com/checkout/dMj1Xyl1NUUl-TwA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Openfet.live",
-        "apply_link": "https://openfet.live/workflow/Bh0OvrV9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5620572960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "X",
-        "apply_link": "https://usexer.live/database/JfOurcw6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Befiremisconceitblowiness.forum",
-        "apply_link": "https://befiremisconceitblowiness.forum/collections/UWCJrMgE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Parostoticreincreasetourn.com",
-        "apply_link": "https://parostoticreincreasetourn.com/orders/RGaWxNYm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions that help businesses automate and optimize their operations.\n\nWe leverage cutting-edge technologies to create scalable, secure, and user-friendly applications. As we continue to grow, we’re looking for a skilled React Developer to join our dynamic team and contribute to our mission of transforming business processes through technology.\n\nThis is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.\n\nWe are looking for OPT/CPT/H4 EAD/TN/E3 or any other Non-immigrant visa people who are looking for an H1B sponsorship for the year 2027 quota.\n\nCompany: Bright Vision Technologies ( www.bvteck.com )\n\nJob Title: React Developer\n\nJob Location: Bridgewater, New Jersey - 08807\n\nOnsite/Hybrid: Remote\n\nFULL-TIME ROLE WITH BRIGHT VISION\n\nJob Description:\n\nEnvironment:\n\nReact.js, JavaScript, TypeScript, HTML5, CSS3, Redux, Context API, RESTful APIs, JSON, Axios, Webpack, Babel, Responsive Design, Material UI / Bootstrap, Git, CI/CD pipelines, Agile methodologies, Cross-browser compatibility, UI/UX best practices\n\nAgain, we work only with direct clients. If you are already on H-1 B and are open to an H-1 B transfer, feel free to apply.\n\nBUT STRICTLY NO C2C/1099/3RD PARTY COMPANIES. ALL OUR ROLES ARE W2 AND NO 3RD PARTY BROKERING PLEASE.\n\nFor every role, a coding test is required, so apply only if you are confident and technically strong.\n\nWe prefer at least 3 to 5 years of real-time experience.\n\nThanks& Regards\n\nBest Regards,\n\nSridhar Pagolu\n\nSenior Manager\n\nBright Vision Technologies\n\nPhone: 908-938-4442\n\nAddress: #991 Route 22 West, Suite 200,\n\nBridgewater, New Jersey - 08807\n\nEqual Employment Opportunity (EEO) Statement\n\nBright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.\n\nBV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.\n\nPowered by JazzHR\n\nfL67H5x1R2",
-    "job_is_remote": true,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Indianapolis, IN",
-    "job_city": "Indianapolis",
-    "job_state": "Indiana",
-    "job_country": "US",
-    "job_latitude": 39.76909,
-    "job_longitude": -86.158018,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYihkzZUT3ANbEchXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "React.js, JavaScript, TypeScript, HTML5, CSS3, Redux, Context API, RESTful APIs, JSON, Axios, Webpack, Babel, Responsive Design, Material UI / Bootstrap, Git, CI/CD pipelines, Agile methodologies, Cross-browser compatibility, UI/UX best practices",
-        "For every role, a coding test is required, so apply only if you are confident and technically strong",
-        "We prefer at least 3 to 5 years of real-time experience"
-      ],
-      "Benefits": [
-        "FULL-TIME ROLE WITH BRIGHT VISION"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-react-developer-at-bright-vision-technologies-4370350103",
     "_source": "new_jobs"
   },
   {
@@ -1229,6 +1142,93 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "YihkzZUT3ANbEchXAAAAAA==",
+    "job_title": "React Developer",
+    "employer_name": "Bright Vision Technologies",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndn5_AdH1AKanxNlVDq7xGeGTx-s9zQ0Alo1r&s=0",
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-bright-vision-technologies-4370350103?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-bright-vision-technologies-4370350103?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobTarget",
+        "apply_link": "https://www.jobtarget.com/jobs/jt-1oyrny7d8m/react-developer-indianapolis-indiana?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Enaticsupersaintexternal.com",
+        "apply_link": "https://enaticsupersaintexternal.com/checkout/dMj1Xyl1NUUl-TwA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Openfet.live",
+        "apply_link": "https://openfet.live/workflow/Bh0OvrV9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5620572960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "X",
+        "apply_link": "https://usexer.live/database/JfOurcw6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Befiremisconceitblowiness.forum",
+        "apply_link": "https://befiremisconceitblowiness.forum/collections/UWCJrMgE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Parostoticreincreasetourn.com",
+        "apply_link": "https://parostoticreincreasetourn.com/orders/RGaWxNYm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions that help businesses automate and optimize their operations.\n\nWe leverage cutting-edge technologies to create scalable, secure, and user-friendly applications. As we continue to grow, we’re looking for a skilled React Developer to join our dynamic team and contribute to our mission of transforming business processes through technology.\n\nThis is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.\n\nWe are looking for OPT/CPT/H4 EAD/TN/E3 or any other Non-immigrant visa people who are looking for an H1B sponsorship for the year 2027 quota.\n\nCompany: Bright Vision Technologies ( www.bvteck.com )\n\nJob Title: React Developer\n\nJob Location: Bridgewater, New Jersey - 08807\n\nOnsite/Hybrid: Remote\n\nFULL-TIME ROLE WITH BRIGHT VISION\n\nJob Description:\n\nEnvironment:\n\nReact.js, JavaScript, TypeScript, HTML5, CSS3, Redux, Context API, RESTful APIs, JSON, Axios, Webpack, Babel, Responsive Design, Material UI / Bootstrap, Git, CI/CD pipelines, Agile methodologies, Cross-browser compatibility, UI/UX best practices\n\nAgain, we work only with direct clients. If you are already on H-1 B and are open to an H-1 B transfer, feel free to apply.\n\nBUT STRICTLY NO C2C/1099/3RD PARTY COMPANIES. ALL OUR ROLES ARE W2 AND NO 3RD PARTY BROKERING PLEASE.\n\nFor every role, a coding test is required, so apply only if you are confident and technically strong.\n\nWe prefer at least 3 to 5 years of real-time experience.\n\nThanks& Regards\n\nBest Regards,\n\nSridhar Pagolu\n\nSenior Manager\n\nBright Vision Technologies\n\nPhone: 908-938-4442\n\nAddress: #991 Route 22 West, Suite 200,\n\nBridgewater, New Jersey - 08807\n\nEqual Employment Opportunity (EEO) Statement\n\nBright Vision Technologies (BV Teck) is committed to equal employment opportunity (EEO) for all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other protected status as defined by applicable federal, state, or local laws. This commitment extends to all aspects of employment, including recruitment, hiring, training, compensation, promotion, transfer, leaves of absence, termination, layoffs, and recall.\n\nBV Teck expressly prohibits any form of workplace harassment or discrimination. Any improper interference with employees' ability to perform their job duties may result in disciplinary action up to and including termination of employment.\n\nPowered by JazzHR\n\nfL67H5x1R2",
+    "job_is_remote": true,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Indianapolis, IN",
+    "job_city": "Indianapolis",
+    "job_state": "Indiana",
+    "job_country": "US",
+    "job_latitude": 39.76909,
+    "job_longitude": -86.158018,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYihkzZUT3ANbEchXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "React.js, JavaScript, TypeScript, HTML5, CSS3, Redux, Context API, RESTful APIs, JSON, Axios, Webpack, Babel, Responsive Design, Material UI / Bootstrap, Git, CI/CD pipelines, Agile methodologies, Cross-browser compatibility, UI/UX best practices",
+        "For every role, a coding test is required, so apply only if you are confident and technically strong",
+        "We prefer at least 3 to 5 years of real-time experience"
+      ],
+      "Benefits": [
+        "FULL-TIME ROLE WITH BRIGHT VISION"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-react-developer-at-bright-vision-technologies-4370350103",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "uejy12tfirbl_DOiAAAAAA==",
     "job_title": "Sr. React Developer",
     "employer_name": "Charles Schwab",
@@ -1295,9 +1295,9 @@
     "job_latitude": 32.9412363,
     "job_longitude": -97.1341783,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Duejy12tfirbl_DOiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 135000,
@@ -1436,11 +1436,6 @@
         "is_direct": false
       },
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-full-stack-developer-react-front-end-experience-at-imerza-4370857050?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Teal",
         "apply_link": "https://www.tealhq.com/job/senior-full-stack-developer_7ea1aaf5005e106322120e804d5e2b71be284?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -1519,6 +1514,290 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "ndo8H2iyJON6ivZ2AAAAAA==",
+    "job_title": "React Developer at Tech3pillars Technologies Massachusetts",
+    "employer_name": "Tech3pillars Technologies",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Selfbuild Live - Selfbuild.ie",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://live.selfbuild.ie/career/job/react-developer-at-tech3pillars-technologies-massachusetts-TDUvSHdoWUlCSVp4alNWcy9vTEloZ0VuT0E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Selfbuild Live - Selfbuild.ie",
+        "apply_link": "https://live.selfbuild.ie/career/job/react-developer-at-tech3pillars-technologies-massachusetts-TDUvSHdoWUlCSVp4alNWcy9vTEloZ0VuT0E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Brackenridge Construction",
+        "apply_link": "https://brackenridgeconstruction.com/opportunity/job/react-developer-at-tech3pillars-technologies-massachusetts-Y2NEMkhCTU1COHZ4T1B5RTNDVDI5MFVCb3c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Smbi.asia",
+        "apply_link": "https://smbi.asia/opportunity/job/react-developer-at-tech3pillars-technologies-massachusetts-Q0lFdjdIYjVIaVkwZ2tPRjNaMmF6eGNvMXc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Sumafinanciera.mx",
+        "apply_link": "https://sumafinanciera.mx/opportunity/job/react-developer-at-tech3pillars-technologies-massachusetts-RlpJSWhTOU9JelF3VnUxYmhwc2xvV3RRbVE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "React Developer job at Tech3pillars Technologies. Massachusetts. Title: React.JS Developer\nLocation: Boston, MA (Onsite)\nPosition Type: Contract\n\nJob Description:\n\nDeveloping new user-facing features using React.js.\nBuilding reusable components and front-end libraries for future use.\nTranslating designs and wireframes into high-quality code.\nOptimizing components for maximum performance across various devices and browsers.\nCollaborating with back-end developers, UI/UX designers, and other team members to deliver cohesive products",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Massachusetts",
+    "job_city": null,
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.4072107,
+    "job_longitude": -71.3824374,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dndo8H2iyJON6ivZ2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Responsibilities": [
+        "Developing new user-facing features using React.js",
+        "Building reusable components and front-end libraries for future use",
+        "Translating designs and wireframes into high-quality code",
+        "Optimizing components for maximum performance across various devices and browsers",
+        "Collaborating with back-end developers, UI/UX designers, and other team members to deliver cohesive products"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "live-selfbuild-ie-career-job-react-developer-at-tech3pillars-technologies-massachusetts-tduvshdowulcsvp4alnwcy9vteloz0vut0e9pq",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "oyfsu4c3DZ9jTHWrAAAAAA==",
+    "job_title": "Full Stack Software Engineer III- Java, React",
+    "employer_name": "JPMC Candidate Experience page",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "JPMorgan Chase Login",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707084?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "JPMorgan Chase Login",
+        "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707084?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/full-stack-software-engineer-iii_7ea1a068bb9e44c00f08939e72ee60fdeb0d1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6986704d0f6f7e7a2ce1697d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/J.P.-Morgan/Job/Full-Stack-Software-Engineer-III-Java,-React/-in-Jersey-City,NJ?jid=62b583d518a910d3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/full-stack-software-engineer-iii-java-react-jersey-city-nj-usa-56061018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Fairygodboss",
+        "apply_link": "https://fairygodboss.com/jobs/jpmorganchase/full-stack-software-engineer-iii-java-react-dbf3b44138e27e4e066e1fcf4f4fc916?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/jpmorgan-chase-bank-na/jersey-city-nj/full-stack-software-engineer/a21db55866591c6ca814dbebbd10763f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "IHireTechnology",
+        "apply_link": "https://www.ihiretechnology.com/jobs/view/502555981?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.\n\nAs a Software Engineer III at JPMorganChase within the Asset & Wealth Management, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.\n\nJob responsibilities\n• Executes software solutions, including design, development, and technical troubleshooting, with the ability to think beyond routine or conventional approaches to build solutions or break down technical problems.\n• Creates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systems.\n• Produces architecture and design artifacts for complex applications, ensuring that design constraints are met throughout software code development.\n• Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets to drive continuous improvement of software applications and systems.\n• Proactively identifies hidden problems and patterns in data, using these insights to drive improvements in coding hygiene and system architecture.\n• Contributes to software engineering communities of practice and participates in events that explore new and emerging technologies.\n• Adds to a team culture of diversity, opportunity, inclusion, and respect.\n\nRequired qualifications, capabilities, and skills\n• Formal training or certification in software engineering concepts and 3+ years of applied experience.\n• Hands-on practical experience in system design, application development, testing, and ensuring operational stability.\n• Proficient in coding in one or more languages such as Java, React, etc.\n• Expertise in Java, with a proven track record of building and integrating robust backend solutions using frameworks such as Spring.\n• Experience developing interactive and responsive user interfaces with React, applying best practices in front-end development to deliver high-quality web applications.\n• Experience developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages.\n• Ability to collaborate with portfolio managers to understand their needs and proactively develop solutions that streamline and enhance investment workflows.\n• Comprehensive knowledge of the Software Development Life Cycle.\n• Solid understanding of agile methodologies, including CI/CD, application resiliency, and security.\n• Demonstrated knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.).\n• Proficient in writing and optimizing SQL queries for data retrieval, manipulation, and analysis across relational database systems.\n\nPreferred qualifications, capabilities, and skills\n• Familiarity with modern front-end technologies\n• Exposure to cloud technologies\n• Experienced with Python",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Jersey City, NJ",
+    "job_city": "Jersey City",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.7195342,
+    "job_longitude": -74.0430133,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Doyfsu4c3DZ9jTHWrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Formal training or certification in software engineering concepts and 3+ years of applied experience",
+        "Hands-on practical experience in system design, application development, testing, and ensuring operational stability",
+        "Proficient in coding in one or more languages such as Java, React, etc",
+        "Expertise in Java, with a proven track record of building and integrating robust backend solutions using frameworks such as Spring",
+        "Experience developing interactive and responsive user interfaces with React, applying best practices in front-end development to deliver high-quality web applications",
+        "Experience developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages",
+        "Ability to collaborate with portfolio managers to understand their needs and proactively develop solutions that streamline and enhance investment workflows",
+        "Comprehensive knowledge of the Software Development Life Cycle",
+        "Solid understanding of agile methodologies, including CI/CD, application resiliency, and security",
+        "Demonstrated knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)",
+        "Proficient in writing and optimizing SQL queries for data retrieval, manipulation, and analysis across relational database systems"
+      ],
+      "Responsibilities": [
+        "As a Software Engineer III at JPMorganChase within the Asset & Wealth Management, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way",
+        "You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives",
+        "Executes software solutions, including design, development, and technical troubleshooting, with the ability to think beyond routine or conventional approaches to build solutions or break down technical problems",
+        "Creates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systems",
+        "Produces architecture and design artifacts for complex applications, ensuring that design constraints are met throughout software code development",
+        "Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets to drive continuous improvement of software applications and systems",
+        "Proactively identifies hidden problems and patterns in data, using these insights to drive improvements in coding hygiene and system architecture",
+        "Contributes to software engineering communities of practice and participates in events that explore new and emerging technologies",
+        "Adds to a team culture of diversity, opportunity, inclusion, and respect"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "jpmc-fa-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1001-job-210707084",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "v5trqW9oyQmDNVS3AAAAAA==",
+    "job_title": "React Nodejs Full Stack Developer",
+    "employer_name": "Infosys Limited Digital",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLqb-rFsLhWFLTkYho0FBp_JqLcerpRgWA8ZU_&s=0",
+    "employer_website": null,
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Infosys/Job/React-Nodejs-Full-Stack-Developer/-in-Atlanta,GA?jid=96edaaa938bfd0d3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Infosys/Job/React-Nodejs-Full-Stack-Developer/-in-Atlanta,GA?jid=96edaaa938bfd0d3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/sr-nodejs-full-stack-developer_7ea1af7ef82739a3d571b1a8fadc0eed4fa8a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/react-nodejs-full-stack-developer-infosys-JV_IC1155583_KO0,33_KE34,41.htm?jl=1010026836317&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/react-nodejs-full-stack-developer-atlanta-infosys-ltd-695019232ab806265517f15fff46f2ac?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/dqEkPwxBCo9jU34KxbRxUum3PSTm_X5XRGfZr3rfobQC75O2I51Nqg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Diversity Jobs - AbilityJOBS",
+        "apply_link": "https://career.abilityjobs.com/job/react-nodejs-full-stack-developer/82391781/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/react-nodejs-full-stack-developer-infosys-atlanta-ga_85592577?ir=1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "AnitaB.org Job Board",
+        "apply_link": "https://jobs.anitab.org/companies/infosys/jobs/67138745-react-nodejs-full-stack-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job details\n\nJob Role\n\nTechnology Lead - US\n\nWork Location\n\nAtlanta, GA, Charlotte, NC, Raleigh, NC\n\nState / Region / Province\n\nGeorgia, North Carolina\n\nCountry\n\nUSA\n\nSkills\n\nTechnology|Cloud Integration|Mulesoft, Technology|Container Platform|Docker, Technology|Microsoft Technologies|Web Services/Restfull API\n\nDomain\n\nDelivery\n\nInterest Group\n\nInfosys Limited\n\nCompany\n\nITL USA\n\nRequisition ID\n\n143888BR\n\nInfosys is seeking a Lead React, nodejs - Full Stack Developer. In the role of Technology Lead, you will be a technology professional adding value to a gamut of Software Development lifecycle stages. You will create detailed design artifacts like program specifications, test plans; and independently develop and review code and contribute to the go-live plan. You will have the opportunity to collaborate with some of the best talent in the industry to create innovative high quality and defect-free solutions to meet our clients' business needs. You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.\n\nBasic Qualifications:\n• Bachelor's degree or foreign equivalent required. Will also consider three years of relevant work experience in lieu of every year of education\n• At least 4 years of experience with Information Technology\n• Candidate must be located within commuting distance or willing to relocate toCharlotte, NC, Raleigh, NC, Atlanta, GA, or willing to relocate to either of these locations.This position may require travel in the US\n• Candidates authorized to work for any employer in the United States without employer-based visa sponsorship are welcome to apply. Infosys is unable to provide immigration sponsorship for this role at this time.\n• Sound experience in Design, develop, and maintain scalable distributed application using nodejs and front-end technologies like React.\n• Experience in collaborate with cross-functional teams to gather requirements, define architecture, and deliver high-quality solutions.\n• Candidate need to ensure code quality and performance through unit testing, integration testing, and code reviews.\n• Work with relational databases such as SQL, Oracle, PostgreSQL, MongoDB, or Cassandra.\n• Exposure working with CICD pipelines.\nPreferred Qualifications:\n• Troubleshoot and resolve production issues with a focus on root cause analysis and long-term fixes.\n• Apply secure coding practices and compliance standards, especially relevant to banking and financial applications.\n• Work closely with offshore team in global delivery model\n• Experience in banking or financial services, with understanding of Fraud detection and prevention area.\n• Strong analytical, oral, and communication skills.\n• Ability to work in team in diverse/ multiple stakeholder environment\n• Self-learner with effective time management skills.\n• Strong problem-solving skills and the ability to provide effective solutions\n• Experience and desire to work in a Global delivery environment\nThe job entails sitting as well as working at a computer for extended periods of time. Should be able to communicate by telephone, email, or face to face. Travel may be required as per the job requirements.\n\nBenefits\n\nAlong with competitive pay, as a full-time Infosys employee you are also eligible for the following benefits:\n• Medical/Dental/Vision/Life Insurance\n• Long-term/Short-term Disability\n• Health and Dependent Care Reimbursement Accounts\n• Insurance (Accident, Critical Illness , Hospital Indemnity, Legal)\n• 401(k) plan and contributions dependent on salary level\n• Paid holidays plus Paid Time Off\nAbout Us\nInfosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.\n\nEEO\nInfosys provides equal employment opportunities to applicants and employees without regard to race; color; sex; gender identity; sexual orientation; religious practices and observances; national origin; pregnancy, childbirth, or related medical conditions; status as a protected veteran or spouse/family member of a protected veteran; or disability.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Atlanta, GA",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 33.7501275,
+    "job_longitude": -84.3885209,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dv5trqW9oyQmDNVS3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's degree or foreign equivalent required",
+        "Will also consider three years of relevant work experience in lieu of every year of education",
+        "At least 4 years of experience with Information Technology",
+        "Candidate must be located within commuting distance or willing to relocate to",
+        "Charlotte, NC, Raleigh, NC, Atlanta, GA, or willing to relocate to either of these locations",
+        "This position may require travel in the US",
+        "Candidates authorized to work for any employer in the United States without employer-based visa sponsorship are welcome to apply",
+        "Sound experience in Design, develop, and maintain scalable distributed application using nodejs and front-end technologies like React",
+        "Experience in collaborate with cross-functional teams to gather requirements, define architecture, and deliver high-quality solutions",
+        "Candidate need to ensure code quality and performance through unit testing, integration testing, and code reviews",
+        "Work with relational databases such as SQL, Oracle, PostgreSQL, MongoDB, or Cassandra",
+        "Exposure working with CICD pipelines",
+        "The job entails sitting as well as working at a computer for extended periods of time",
+        "Should be able to communicate by telephone, email, or face to face",
+        "Travel may be required as per the job requirements"
+      ],
+      "Benefits": [
+        "Along with competitive pay, as a full-time Infosys employee you are also eligible for the following benefits:",
+        "Medical/Dental/Vision/Life Insurance",
+        "Long-term/Short-term Disability",
+        "Health and Dependent Care Reimbursement Accounts",
+        "Insurance (Accident, Critical Illness , Hospital Indemnity, Legal)",
+        "401(k) plan and contributions dependent on salary level",
+        "Paid holidays plus Paid Time Off"
+      ],
+      "Responsibilities": [
+        "In the role of Technology Lead, you will be a technology professional adding value to a gamut of Software Development lifecycle stages",
+        "You will create detailed design artifacts like program specifications, test plans; and independently develop and review code and contribute to the go-live plan",
+        "You will have the opportunity to collaborate with some of the best talent in the industry to create innovative high quality and defect-free solutions to meet our clients' business needs",
+        "You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-infosys-job-react-nodejs-full-stack-developer-in-atlanta-ga",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "BYjAe1BR-cubqVCzAAAAAA==",
     "job_title": "React / Python Dev",
     "employer_name": "Apex Systems",
@@ -1550,8 +1829,8 @@
     "job_latitude": 32.8136151,
     "job_longitude": -96.95468989999999,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBYjAe1BR-cubqVCzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1742,6 +2021,124 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "CuuLcjUFNRhAnnNYAAAAAA==",
+    "job_title": "Java React Full-Stack developer",
+    "employer_name": "Infosys",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHkU2AeDcAao0KRfUkDsJBaKz3j1FdOqcwaT_c&s=0",
+    "employer_website": "https://www.infosys.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Infosys/Job/Java-React-Full-Stack-developer/-in-Boston,MA?jid=293015f7ae3b89f3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Infosys/Job/Java-React-Full-Stack-developer/-in-Boston,MA?jid=293015f7ae3b89f3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/reactjs-fullstack-developer-boston-infosys-ltd-0b1598d5aea0e94bbb17a4ca364137c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/uGX4HmqIBuby0JDPOKckNc2X6VQuOy-92umxhu7Kjtl24JtzMjVwdw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/java-react-full-stack-developer-infosys-boston-ma_85589849?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/a28ca871a3e3289ce2d327fd51f9cea9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "The Muse",
+        "apply_link": "https://www.themuse.com/jobs/infosys/java-react-fullstack-developer-dd07a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/java-react-full-stack-developer_7ea1ac5ddb0046ea243d3882466fa513252e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/69876bad8ca8121a3a69f176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description\n\nInfosys is seeking a Java Full Stack and React Developer who can design, develop, and maintain scalable web applications using Java/J2EE, Spring (Spring Boot/MVC), Microservices, and React JS on the front end. The ideal candidate has strong fundamentals in Core Java, experience with databases and PL/SQL, and is comfortable working across the stack-API, services, UI, and DevOps basics (GitHub). In the role of Technology Lead, you will be a technology professional adding value to a gamut of Software Development lifecycle stages. You will create detailed design artifacts like program specifications, test plans; and independently develop and review code and contribute to the go-live plan. You will have the opportunity to collaborate with some of the best talent in the industry to create innovative high quality and defect-free solutions to meet our clients' business needs. You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.\n\nBasic Qualifications:\n• Bachelor's degree or foreign equivalent required. Will also consider three years of relevant work experience in lieu of every year of education\n• At least 4 years of experience with Information Technology\n• Candidate must be located within commuting distance or willing to relocate to Boston, MA or willing to relocate to either of these locations. This position may require travel in the US\n• Candidates authorized to work for any employer in the United States without employer-based visa sponsorship are welcome to apply. Infosys is unable to provide immigration sponsorship for this role at this time.\n• Experience in Core Java (17+) OOP, collections, streams, concurrency, exception handling.\n• Experience in Java/J2EE & Spring, Spring Boot, acceptable/valued for legacy migrations.\n• Microservices: REST API design, inter-service communication, resilience patterns, pagination, error handling.\n• Front-end: React JS (functional components, hooks, basic state management, routing), HTML5/CSS3, JSPs.\n• Database & PL/SQL: Strong SQL; exposure to any one RDBMS is mandatory (Oracle/PostgreSQL/MySQL/SQL Server).\n• Version Control: Git/GitHub-branching strategies, PR reviews, merge conflict resolution.\n• Testing: JUnit/Mockito (or similar), basic API testing (Postman/RestAssured).\n• Experience in GitHub CoPilot\n\nPreferred Qualifications:\n• Apply secure coding practices and compliance standards, especially relevant to banking and financial applications.\n• Work closely with offshore team in global delivery model\n• Experience in banking or financial services, with understanding of Fraud detection and prevention area.\n• Strong analytical, oral, and communication skills.\n• Ability to work in team in diverse/ multiple stakeholder environment\n• Self-learner with effective time management skills.\n• Strong problem-solving skills and the ability to provide effective solutions\n• Experience and desire to work in a Global delivery environment\n\nThe job entails sitting as well as working at a computer for extended periods of time. Should be able to communicate by telephone, email, or face to face. Travel may be required as per the job requirements.\n\nEEO/About Us\n\nBenefits\n\nAlong with competitive pay, as a full-time Infosys employee you are also eligible for the following benefits:\n• Medical/Dental/Vision/Life Insurance\n• Long-term/Short-term Disability\n• Health and Dependent Care Reimbursement Accounts\n• Insurance (Accident, Critical Illness , Hospital Indemnity, Legal)\n• 401(k) plan and contributions dependent on salary level\n• Paid holidays plus Paid Time Off\n\nAbout Us\nInfosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.\n\nEEO\nInfosys provides equal employment opportunities to applicants and employees without regard to race; color; sex; gender identity; sexual orientation; religious practices and observances; national origin; pregnancy, childbirth, or related medical conditions; status as a protected veteran or spouse/family member of a protected veteran; or disability.",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Boston, MA",
+    "job_city": "Boston",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.355507599999996,
+    "job_longitude": -71.0565364,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCuuLcjUFNRhAnnNYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 78903,
+    "job_max_salary": 102574,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate has strong fundamentals in Core Java, experience with databases and PL/SQL, and is comfortable working across the stack-API, services, UI, and DevOps basics (GitHub)",
+        "Bachelor's degree or foreign equivalent required",
+        "Will also consider three years of relevant work experience in lieu of every year of education",
+        "At least 4 years of experience with Information Technology",
+        "Candidate must be located within commuting distance or willing to relocate to Boston, MA or willing to relocate to either of these locations",
+        "This position may require travel in the US",
+        "Candidates authorized to work for any employer in the United States without employer-based visa sponsorship are welcome to apply",
+        "Experience in Core Java (17+) OOP, collections, streams, concurrency, exception handling",
+        "Experience in Java/J2EE & Spring, Spring Boot, acceptable/valued for legacy migrations",
+        "Front-end: React JS (functional components, hooks, basic state management, routing), HTML5/CSS3, JSPs",
+        "Database & PL/SQL: Strong SQL; exposure to any one RDBMS is mandatory (Oracle/PostgreSQL/MySQL/SQL Server)",
+        "Version Control: Git/GitHub-branching strategies, PR reviews, merge conflict resolution",
+        "Testing: JUnit/Mockito (or similar), basic API testing (Postman/RestAssured)",
+        "Experience in GitHub CoPilot",
+        "The job entails sitting as well as working at a computer for extended periods of time",
+        "Should be able to communicate by telephone, email, or face to face",
+        "Travel may be required as per the job requirements"
+      ],
+      "Benefits": [
+        "Along with competitive pay, as a full-time Infosys employee you are also eligible for the following benefits:",
+        "Medical/Dental/Vision/Life Insurance",
+        "Long-term/Short-term Disability",
+        "Health and Dependent Care Reimbursement Accounts",
+        "Insurance (Accident, Critical Illness , Hospital Indemnity, Legal)",
+        "401(k) plan and contributions dependent on salary level",
+        "Paid holidays plus Paid Time Off"
+      ],
+      "Responsibilities": [
+        "Infosys is seeking a Java Full Stack and React Developer who can design, develop, and maintain scalable web applications using Java/J2EE, Spring (Spring Boot/MVC), Microservices, and React JS on the front end",
+        "In the role of Technology Lead, you will be a technology professional adding value to a gamut of Software Development lifecycle stages",
+        "You will create detailed design artifacts like program specifications, test plans; and independently develop and review code and contribute to the go-live plan",
+        "You will have the opportunity to collaborate with some of the best talent in the industry to create innovative high quality and defect-free solutions to meet our clients' business needs",
+        "You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued",
+        "Microservices: REST API design, inter-service communication, resilience patterns, pagination, error handling"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-infosys-job-java-react-full-stack-developer-in-boston-ma",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "bWADY9AigHnt-oEOAAAAAA==",
     "job_title": "Full Stack Developer",
     "employer_name": "Interon IT Solutions",
@@ -1819,124 +2216,6 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "www-linkedin-com-jobs-view-full-stack-developer-at-interon-it-solutions-4372129665",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "CuuLcjUFNRhAnnNYAAAAAA==",
-    "job_title": "Java React Full-Stack developer",
-    "employer_name": "Infosys",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHkU2AeDcAao0KRfUkDsJBaKz3j1FdOqcwaT_c&s=0",
-    "employer_website": "https://www.infosys.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Infosys/Job/Java-React-Full-Stack-developer/-in-Boston,MA?jid=293015f7ae3b89f3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Infosys/Job/Java-React-Full-Stack-developer/-in-Boston,MA?jid=293015f7ae3b89f3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/reactjs-fullstack-developer-boston-infosys-ltd-0b1598d5aea0e94bbb17a4ca364137c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/uGX4HmqIBuby0JDPOKckNc2X6VQuOy-92umxhu7Kjtl24JtzMjVwdw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/java-react-full-stack-developer-infosys-boston-ma_85589849?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/a28ca871a3e3289ce2d327fd51f9cea9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "The Muse",
-        "apply_link": "https://www.themuse.com/jobs/infosys/java-react-fullstack-developer-dd07a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/java-react-full-stack-developer_7ea1ac5ddb0046ea243d3882466fa513252e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/69876bad8ca8121a3a69f176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description\n\nInfosys is seeking a Java Full Stack and React Developer who can design, develop, and maintain scalable web applications using Java/J2EE, Spring (Spring Boot/MVC), Microservices, and React JS on the front end. The ideal candidate has strong fundamentals in Core Java, experience with databases and PL/SQL, and is comfortable working across the stack-API, services, UI, and DevOps basics (GitHub). In the role of Technology Lead, you will be a technology professional adding value to a gamut of Software Development lifecycle stages. You will create detailed design artifacts like program specifications, test plans; and independently develop and review code and contribute to the go-live plan. You will have the opportunity to collaborate with some of the best talent in the industry to create innovative high quality and defect-free solutions to meet our clients' business needs. You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.\n\nBasic Qualifications:\n• Bachelor's degree or foreign equivalent required. Will also consider three years of relevant work experience in lieu of every year of education\n• At least 4 years of experience with Information Technology\n• Candidate must be located within commuting distance or willing to relocate to Boston, MA or willing to relocate to either of these locations. This position may require travel in the US\n• Candidates authorized to work for any employer in the United States without employer-based visa sponsorship are welcome to apply. Infosys is unable to provide immigration sponsorship for this role at this time.\n• Experience in Core Java (17+) OOP, collections, streams, concurrency, exception handling.\n• Experience in Java/J2EE & Spring, Spring Boot, acceptable/valued for legacy migrations.\n• Microservices: REST API design, inter-service communication, resilience patterns, pagination, error handling.\n• Front-end: React JS (functional components, hooks, basic state management, routing), HTML5/CSS3, JSPs.\n• Database & PL/SQL: Strong SQL; exposure to any one RDBMS is mandatory (Oracle/PostgreSQL/MySQL/SQL Server).\n• Version Control: Git/GitHub-branching strategies, PR reviews, merge conflict resolution.\n• Testing: JUnit/Mockito (or similar), basic API testing (Postman/RestAssured).\n• Experience in GitHub CoPilot\n\nPreferred Qualifications:\n• Apply secure coding practices and compliance standards, especially relevant to banking and financial applications.\n• Work closely with offshore team in global delivery model\n• Experience in banking or financial services, with understanding of Fraud detection and prevention area.\n• Strong analytical, oral, and communication skills.\n• Ability to work in team in diverse/ multiple stakeholder environment\n• Self-learner with effective time management skills.\n• Strong problem-solving skills and the ability to provide effective solutions\n• Experience and desire to work in a Global delivery environment\n\nThe job entails sitting as well as working at a computer for extended periods of time. Should be able to communicate by telephone, email, or face to face. Travel may be required as per the job requirements.\n\nEEO/About Us\n\nBenefits\n\nAlong with competitive pay, as a full-time Infosys employee you are also eligible for the following benefits:\n• Medical/Dental/Vision/Life Insurance\n• Long-term/Short-term Disability\n• Health and Dependent Care Reimbursement Accounts\n• Insurance (Accident, Critical Illness , Hospital Indemnity, Legal)\n• 401(k) plan and contributions dependent on salary level\n• Paid holidays plus Paid Time Off\n\nAbout Us\nInfosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.\n\nEEO\nInfosys provides equal employment opportunities to applicants and employees without regard to race; color; sex; gender identity; sexual orientation; religious practices and observances; national origin; pregnancy, childbirth, or related medical conditions; status as a protected veteran or spouse/family member of a protected veteran; or disability.",
-    "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Boston, MA",
-    "job_city": "Boston",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.355507599999996,
-    "job_longitude": -71.0565364,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCuuLcjUFNRhAnnNYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 78903,
-    "job_max_salary": 102574,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate has strong fundamentals in Core Java, experience with databases and PL/SQL, and is comfortable working across the stack-API, services, UI, and DevOps basics (GitHub)",
-        "Bachelor's degree or foreign equivalent required",
-        "Will also consider three years of relevant work experience in lieu of every year of education",
-        "At least 4 years of experience with Information Technology",
-        "Candidate must be located within commuting distance or willing to relocate to Boston, MA or willing to relocate to either of these locations",
-        "This position may require travel in the US",
-        "Candidates authorized to work for any employer in the United States without employer-based visa sponsorship are welcome to apply",
-        "Experience in Core Java (17+) OOP, collections, streams, concurrency, exception handling",
-        "Experience in Java/J2EE & Spring, Spring Boot, acceptable/valued for legacy migrations",
-        "Front-end: React JS (functional components, hooks, basic state management, routing), HTML5/CSS3, JSPs",
-        "Database & PL/SQL: Strong SQL; exposure to any one RDBMS is mandatory (Oracle/PostgreSQL/MySQL/SQL Server)",
-        "Version Control: Git/GitHub-branching strategies, PR reviews, merge conflict resolution",
-        "Testing: JUnit/Mockito (or similar), basic API testing (Postman/RestAssured)",
-        "Experience in GitHub CoPilot",
-        "The job entails sitting as well as working at a computer for extended periods of time",
-        "Should be able to communicate by telephone, email, or face to face",
-        "Travel may be required as per the job requirements"
-      ],
-      "Benefits": [
-        "Along with competitive pay, as a full-time Infosys employee you are also eligible for the following benefits:",
-        "Medical/Dental/Vision/Life Insurance",
-        "Long-term/Short-term Disability",
-        "Health and Dependent Care Reimbursement Accounts",
-        "Insurance (Accident, Critical Illness , Hospital Indemnity, Legal)",
-        "401(k) plan and contributions dependent on salary level",
-        "Paid holidays plus Paid Time Off"
-      ],
-      "Responsibilities": [
-        "Infosys is seeking a Java Full Stack and React Developer who can design, develop, and maintain scalable web applications using Java/J2EE, Spring (Spring Boot/MVC), Microservices, and React JS on the front end",
-        "In the role of Technology Lead, you will be a technology professional adding value to a gamut of Software Development lifecycle stages",
-        "You will create detailed design artifacts like program specifications, test plans; and independently develop and review code and contribute to the go-live plan",
-        "You will have the opportunity to collaborate with some of the best talent in the industry to create innovative high quality and defect-free solutions to meet our clients' business needs",
-        "You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued",
-        "Microservices: REST API design, inter-service communication, resilience patterns, pagination, error handling"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-infosys-job-java-react-full-stack-developer-in-boston-ma",
     "_source": "new_jobs"
   },
   {
