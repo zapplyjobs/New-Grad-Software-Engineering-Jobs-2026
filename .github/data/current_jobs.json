@@ -1,5 +1,79 @@
 [
   {
+    "job_id": "UJh3JVcLRQXkmALeAAAAAA==",
+    "job_title": "Sr Mobile App -Software Developer (F / T, US Only)",
+    "employer_name": "The Media Trust",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShx8nKoYbRsAI2VR6elusRjYUJXRuFVF8TtNns&s=0",
+    "employer_website": "https://mediatrust.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=d0d790f35ff9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=d0d790f35ff9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description\n\nThe Media Trust is on a mission to make the digital ecosystem a healthier, more valuable place for businesses, governments and consumers. Working with the world’s largest, most-heavily trafficked digital publishers and their AdTech partners as well as enterprises, the Media Trust delivers real-time security, data protection, performance management and quality assurance solutions that help protect, monetize and optimize the user experience across desktop, smartphone, tablet and gaming devices. The Media Trust is an industry pioneer with 20 years of history continuously monitoring the online and mobile ecosystem.\n\nWe are seeking a Senior Mobile App Software Developer with strong full-stack and Ad Tech experience to build and scale advertising-driven products across mobile and web platforms. This role owns user-facing experiences end-to-end—from mobile apps and Web UIs to backend services and ad integrations—while maintaining performance, reliability, and scalability.\n\nYou'll be a key technical leader on our product engineering team, architecting solutions that directly impact millions of users while working with cutting-edge advertising technology. Experience with monetization strategy and yield optimization is preferred but not required.\n\nAs an organization, we prize engineering professionals who are equipped with great technical skills and attitudes that motivate those around them. We seek individuals who bring a sense of ownership and are passionate about quality. We value individuals who are curious, demonstrate initiative, and love solving problems.\n\nWhat You'll Do\n• Architect and develop end-to-end solutions across mobile apps (Swift, Kotlin, React Native, Flutter), modern Web UIs (React), and backend systems that serve millions of users daily.\n• Lead mobile and web UI development, integrating advertising experiences (Google Ad Manager, AdMob, MoPub, AppLovin, ironSource, Unity Ads, Meta Audience Network) that balance exceptional UX, optimal performance, and revenue generation.\n• Design and build scalable backend services, APIs, and data pipelines supporting ad delivery, analytics, and reporting while optimizing for low-latency, high-throughput workloads.\n• Own full-stack features from requirements through deployment, making architectural decisions around scalability, reliability, and security while building and maintaining CI / CD pipelines and cloud infrastructure.\n• Collaborate across teams (product, design, data, monetization) and conduct code reviews to mentor engineers, raise engineering standards, and deliver innovative solutions that drive business outcomes.\n• Solve hard problems with creative solutions and have a good time along the way!\n\nQualifications\n• 7+ years of professional software development experience with proven delivery of production mobile and web applications at scale, including strong expertise in mobile front-end development (Swift, Kotlin, React Native, Flutter) and modern Web UI development with React, JavaScript / TypeScript, state management, and performance optimization.\n• Required hands-on Ad Tech experience with mobile advertising SDKs, mediation platforms, and ad lifecycle management, plus direct experience with one or more ad platforms such as Google Ad Manager (GAM), AdMob, MoPub, AppLovin, ironSource, Unity Ads, or Meta Audience Network.\n• Demonstrated full-stack engineering expertise including backend development (Node.js, Java, Python, Go), API design (REST / GraphQL), databases (SQL and NoSQL such as PostgreSQL, MongoDB), event tracking, analytics pipelines, and microservices architecture.\n• Strong system design and cloud platform experience (AWS, GCP, or Azure) with ability to architect scalable, low-latency solutions that handle high volume and large-scale data, plus understanding of Agile development methodologies.\n• Bachelor's degree in Computer Science, Engineering, IT or related field (equivalent experience / training will be considered) and excellent communication skills to clearly describe complex technical issues to both technical and non-technical stakeholders.\n\nWhile the above are core requirements, the follow specialized experience is highly desirable :\n• Experience with monetization strategy, yield optimization, or revenue analytics including familiarity with ad performance metrics (eCPM, fill rate, ARPDAU, CTR, viewability) and exposure to programmatic advertising or RTB.\n• Infrastructure-as-code experience (Terraform, CloudFormation, AWS CDK) and prior technical leadership or mentorship experience with track record of guiding and developing engineering talent.\n• Experience with A / B testing frameworks, web application security (XSS, SQL injection), understanding of malware / malvertising threats, or knowledge of privacy regulations (GDPR, CCPA) and their impact on mobile advertising.\n\nThe Media Trust is currently a 100% remote workforce. This role will be 100% remote initially with some expectation for in-person days in our Northern Virginia / Tysons Corner office. All candidates are required to interview once in person before an offer will be made. Due to AI and Candidate Fraud all ATS screening questions are required.\n\nThe Media Trust offers a collaborative working environment where growth is encouraged and nurtured. In addition, we offer competitive salaries and a comprehensive benefits package.\n\nThe Media Trust provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics.\n\nDisclaimer : The above description is intended to describe the general nature of work and level of effort being performed by individuals assigned to this position or job description. This is not to be construed as a complete or exhaustive list of all skills, responsibilities, duties, and / or assignments required. Individuals may be required to perform duties outside of their position, job description, or responsibilities as needed.",
+    "job_is_remote": true,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "McLean, VA",
+    "job_city": "McLean",
+    "job_state": "Virginia",
+    "job_country": "US",
+    "job_latitude": 38.9338676,
+    "job_longitude": -77.1772604,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUJh3JVcLRQXkmALeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "We are seeking a Senior Mobile App Software Developer with strong full-stack and Ad Tech experience to build and scale advertising-driven products across mobile and web platforms",
+        "This role owns user-facing experiences end-to-end—from mobile apps and Web UIs to backend services and ad integrations—while maintaining performance, reliability, and scalability",
+        "As an organization, we prize engineering professionals who are equipped with great technical skills and attitudes that motivate those around them",
+        "We value individuals who are curious, demonstrate initiative, and love solving problems",
+        "7+ years of professional software development experience with proven delivery of production mobile and web applications at scale, including strong expertise in mobile front-end development (Swift, Kotlin, React Native, Flutter) and modern Web UI development with React, JavaScript / TypeScript, state management, and performance optimization",
+        "Required hands-on Ad Tech experience with mobile advertising SDKs, mediation platforms, and ad lifecycle management, plus direct experience with one or more ad platforms such as Google Ad Manager (GAM), AdMob, MoPub, AppLovin, iron",
+        "Source, Unity Ads, or Meta Audience Network",
+        "Demonstrated full-stack engineering expertise including backend development (Node.js, Java, Python, Go), API design (REST / GraphQL), databases (SQL and NoSQL such as PostgreSQL, MongoDB), event tracking, analytics pipelines, and microservices architecture",
+        "Strong system design and cloud platform experience (AWS, GCP, or Azure) with ability to architect scalable, low-latency solutions that handle high volume and large-scale data, plus understanding of Agile development methodologies",
+        "Bachelor's degree in Computer Science, Engineering, IT or related field (equivalent experience / training will be considered) and excellent communication skills to clearly describe complex technical issues to both technical and non-technical stakeholders",
+        "Experience with monetization strategy, yield optimization, or revenue analytics including familiarity with ad performance metrics (eCPM, fill rate, ARPDAU, CTR, viewability) and exposure to programmatic advertising or RTB",
+        "Infrastructure-as-code experience (Terraform, CloudFormation, AWS CDK) and prior technical leadership or mentorship experience with track record of guiding and developing engineering talent",
+        "Experience with A / B testing frameworks, web application security (XSS, SQL injection), understanding of malware / malvertising threats, or knowledge of privacy regulations (GDPR, CCPA) and their impact on mobile advertising"
+      ],
+      "Benefits": [
+        "In addition, we offer competitive salaries and a comprehensive benefits package"
+      ],
+      "Responsibilities": [
+        "You'll be a key technical leader on our product engineering team, architecting solutions that directly impact millions of users while working with cutting-edge advertising technology",
+        "Architect and develop end-to-end solutions across mobile apps (Swift, Kotlin, React Native, Flutter), modern Web UIs (React), and backend systems that serve millions of users daily",
+        "Lead mobile and web UI development, integrating advertising experiences (Google Ad Manager, AdMob, MoPub, AppLovin, iron",
+        "Source, Unity Ads, Meta Audience Network) that balance exceptional UX, optimal performance, and revenue generation",
+        "Design and build scalable backend services, APIs, and data pipelines supporting ad delivery, analytics, and reporting while optimizing for low-latency, high-throughput workloads",
+        "Own full-stack features from requirements through deployment, making architectural decisions around scalability, reliability, and security while building and maintaining CI / CD pipelines and cloud infrastructure",
+        "Collaborate across teams (product, design, data, monetization) and conduct code reviews to mentor engineers, raise engineering standards, and deliver innovative solutions that drive business outcomes",
+        "Solve hard problems with creative solutions and have a good time along the way!"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "wIjv9WC7cK7mfHsSAAAAAA==",
     "job_title": "Senior Mobile Developer",
     "employer_name": "United Airlines",
@@ -56,9 +130,9 @@
     ],
     "job_description": "Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.\n\nCome join us to create what’s next. Let’s define tomorrow, together.\n\nDescription\n\nUnited's Digital Technology team is comprised of many talented individuals all working together with cutting-edge technology to build the best airline in the history of aviation. Our team designs, develops and maintains massively scaling technology solutions brought to life with innovative architectures, data analytics, and digital solutions.\n\nJob overview and responsibilities\n\nThe Senior Software Developer will be responsible for the development of critical applications, while working with a team of developers. This role will design, develop, document, test and debug new and existing applications. Additionally, this role will build these applications with a focus on delivering cloud-based solutions. The individual will use groundbreaking technologies and enterprise grade integration software daily and will be relied upon to help take the team to the next level from a technological standpoint.\n• Manages and participates in full development life cycle including requirements analysis and design using Agile methodologies\n• Serve as technical expert on development projects\n• Write technical specifications based on conceptual design and stated business requirements\n• Support, maintain, and document software functionality\n• Identify and evaluate new technologies for implementation\n• Analyze code to find causes of errors and revise programs as needed\n• Managers and participates in software design meetings and analyze user needs to determine technical requirements\n• Collaborate & lead tech teams consisting of employees & vendor company contractors in planning and execution, serving as an technology leader\n• Collaborate with end user to prototype, refine, test, and debug programs to meet needs\nQualifications\n\nWhat’s needed to succeed (Minimum Qualifications):\n• Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Management Information Systems or related field\n• 3+ years of experience in design, development, documenting, testing, and debugging of new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use in an agile environment\n• 3+ years’ experience implementing AWS technologies (Lambda, Step Functions, CloudWatch, CloudFront, Cognito, route53, Dynamo DB, ECS, EC2, S3, RDS, API Gateway)\n• Experience with Cloud Automation Development Tool such as Git, Python/Bash/PowerShell Scripting\n• Hands-on development and proficient excellence in backend API development using Node.js Java and Python (nice to have)\n• Strong knowledge of Microsoft .NET Framework, Microsoft NET Core, SQL, NoSQL and Design Patterns\n• Excellent knowledge of Object-Oriented systems design and Application Development\n• Must be legally authorized to work in the United States for any employer without sponsorship\n• Successful completion of interview required to meet job qualification\n• Reliable, punctual attendance is an essential function of the position\n\nWhat will help you propel from the pack (Preferred Qualifications):\n• Airlines industry experience is a plus\n\nThe base pay range for this role is $112,480.00 to $146,540.00.\nThe base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.\n\nYou may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.\n\nUnited Airlines is an equal opportunity employer. United Airlines recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, gender identity, sexual orientation, physical ability, age, veteran status and other protected status as required by applicable law. Equal Opportunity Employer - Minorities/Women/Veterans/Disabled/LGBT.\n\nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions. Please contact JobAccommodations@united.com to request accommodation.",
     "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_posted_at": "10 hours ago",
+    "job_posted_at_timestamp": 1771282800,
+    "job_posted_at_datetime_utc": "2026-02-16T23:00:00.000Z",
     "job_location": "Chicago, IL",
     "job_city": "Chicago",
     "job_state": "Illinois",
@@ -243,80 +317,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "ZWxYNDtebgDQcEcEAAAAAA==",
-    "job_title": "Junior Mobile Developer",
-    "employer_name": "Tech Consulting",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU79DrcmFHX0Q06CKgG4Emnk4WA5_yZmunXspF&s=0",
-    "employer_website": "https://www.jsrtechconsulting.com",
-    "job_publisher": "Digitalhire",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2AfDuWUM15oHL2Fx54m22L?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Digitalhire",
-        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/2AfDuWUM15oHL2Fx54m22L?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Position Overview\n\nJob Title: Jr. Mobile Developer (Urgent hiring). Location: New York, NY. Employment type: Fulltime. Duration: 2 years. Experience: 1-4 years (Entry level). Educational Qualification: Bachelor’s/Master’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field. Are you excited about taking your technical career to new heights with a full-time, W-2 role as a consultant in a dynamic and rapidly growing company? NO SPONSORSHIP applies.\n\nKey Responsibilities\n• 1-4 years of IT developer experience after your degree.\n• Must have basic coding knowledge of frameworks and languages like Java, C#, C, C++, Python, React Native, JavaScript, TypeScript, Flutter, Dart, Kotlin & Java.\n• Basic knowledge of iOS & experience with mobile technologies preferred.\n• Sound understanding of the entire Software Development Lifecycle.\n• Strong knowledge of software design patterns, data structures, and best practices.\n• Hands-on experience in:\n• Developing software with Agile Scrum or Kanban methodologies\n• Interacting with REST Web APIs (JSON/XML) using a VCS like Git or SVN\n• Working with XCode\n• Testing using various testing tools\n• Using software integration tools like JIRA, Jenkins & FastLane\n\nRequired Qualifications\n• Willingness to relocate anywhere in the US on a client project-to-project basis; this is an onsite, in-office position.\n• Strong English communication skills, both written and verbal.\n• Bachelor’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field.\n\nBenefits & Perks\n• Gain valuable, career-enhancing experience working with our Fortune 1,000 clients.\n• Relocation support for training and project assignments, as required.\n• Enjoy comprehensive W-2 employee benefits.\n• Access full coverage medical, dental, and vision insurance.\n• Qualify for 401K eligibility after one year of employment.\n• Benefit from basic life/AD&D and dependent disability (short/long term) coverage.",
-    "job_is_remote": false,
-    "job_posted_at": "9 hours ago",
-    "job_posted_at_timestamp": 1771286400,
-    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
-    "job_location": "New York, NY",
-    "job_city": "New York",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZWxYNDtebgDQcEcEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience: 1-4 years (Entry level)",
-        "Educational Qualification: Bachelor’s/Master’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field",
-        "Must have basic coding knowledge of frameworks and languages like Java, C#, C, C++, Python, React Native, JavaScript, TypeScript, Flutter, Dart, Kotlin & Java",
-        "Strong knowledge of software design patterns, data structures, and best practices",
-        "Hands-on experience in:",
-        "Willingness to relocate anywhere in the US on a client project-to-project basis; this is an onsite, in-office position",
-        "Strong English communication skills, both written and verbal",
-        "Bachelor’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field"
-      ],
-      "Benefits": [
-        "Gain valuable, career-enhancing experience working with our Fortune 1,000 clients",
-        "Relocation support for training and project assignments, as required",
-        "Enjoy comprehensive W-2 employee benefits",
-        "Access full coverage medical, dental, and vision insurance",
-        "Qualify for 401K eligibility after one year of employment",
-        "Benefit from basic life/AD&D and dependent disability (short/long term) coverage"
-      ],
-      "Responsibilities": [
-        "1-4 years of IT developer experience after your degree",
-        "Sound understanding of the entire Software Development Lifecycle",
-        "Developing software with Agile Scrum or Kanban methodologies",
-        "Interacting with REST Web APIs (JSON/XML) using a VCS like Git or SVN",
-        "Working with XCode",
-        "Testing using various testing tools",
-        "Using software integration tools like JIRA, Jenkins & FastLane"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "jobs-digitalhire-com-job-listing-opening-2afduwum15ohl2fx54m22l",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "wQJHP_oRaM4QSS2ZAAAAAA==",
     "job_title": "Mobile Software Engineer",
     "employer_name": "Walmart",
@@ -354,9 +354,9 @@
     "job_latitude": 36.3723561,
     "job_longitude": -94.2102141,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwQJHP_oRaM4QSS2ZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
@@ -414,6 +414,124 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-walmart-job-mobile-software-engineer-in-bentonville-ar",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "D5rVDrynyJhWv_3dAAAAAA==",
+    "job_title": "Full stack Software Engineer – Mobile",
+    "employer_name": "McAfee",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeVnag4Ap6cV7sr3OLeYEOhLnDZorAc_5B9V7&s=0",
+    "employer_website": "https://www.mcafee.com",
+    "job_publisher": "Careers At McAfee",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.mcafee.com/global/en/job/JR0032298/Full-stack-Software-Engineer-Mobile?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Careers At McAfee",
+        "apply_link": "https://careers.mcafee.com/global/en/job/JR0032298/Full-stack-Software-Engineer-Mobile?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=62b7d3993271737b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://mcafee.wd1.myworkdayjobs.com/en-US/External/job/Full-stack-Software-Engineer---Mobile_JR0032298?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/07ea9ded89932d4944443dd5788b1931?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-%E2%80%93-mobile-at-mcafee-4356639418?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Tech Jobs Personalized",
+        "apply_link": "https://builtin.com/job/full-stack-software-engineer-mobile/8354025?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/697c7695137a051025657160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hispanic Today",
+        "apply_link": "https://hispanic-today.com/frisco-tx/full-stack-software-engineer-mobile/9D0910C939F044FAA9B17A9F4145A934/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Role Overview:\n\nWe are seeking a Full stack Software Engineer – Mobile who can design and development of mobile applications in a fast-paced, innovation-driven environment. We are looking for a smart engineer who leverages Generative AI to accelerate coding and SDLC process and has the appetite to work in tight schedules without compromising on quality.\n\nThis is a Hybrid position located in Frisco, TX. You will be required to be on-site on an as-needed basis; when you are not working on-site, you will work from your home office. You must be within commutable distance to Frisco, TX. We are not offering relocation assistance.\n\nAbout the Role\n• As a software engineer, you will be responsible for leading the development of mobile applications and services that handle all types of transactions.\n• You will work in a fast-paced environment where continuous innovation and experimentation are a given. You will demonstrate mastery in innovation and security.\n• This individual must have a “start-up” mentality who hits the ground running with minimal supervision.\n• You will collaborate with other engineers and developers throughout the development process.\n• You will collaborate with the other team or 3rd party vendors to integrate functional component.\n• You will understand user requirements; design and develop applications and APIs for devices that meet real world scenarios.\n• You will solve and articulate complex problems with application design, development, and user experiences.\n• You will use Generative AI for code and build Agentic AI App experience\n\nAbout You\n• 7-10 years of experience in software development of which 5+ years of experience Mobile application design &development.\n• You should have hands on experience on both front end [Android and/or iOS] and backend technologies.\n• Familiarity with RESTful APIs to connect Android/iOS applications to back-end services\n• You should have experience in Unit Test cases, Code Coverage, Automation and Design patterns.\n• You should have experience in Instruments: Allocation, Leaks Crash Analysis and Debugging skills.\n• Proficient understanding of code versioning tools, such as Git.\n• Familiarity with continuous integration & deployment process\n• Able to independently build E2E flows on mobile which includes building the UEX and integration of backend APIs.\n• A knack for benchmarking and optimization\n• Experience in Gradle / Maven/iOS build systems.\n• Experience of using GenAI in SDLC\n\n#LI-Hybrid\n\nCompany Overview\n\nMcAfee is a leader in personal security for consumers. Focused on protecting people, not just devices, McAfee consumer solutions adapt to users’ needs in an always online world, empowering them to live securely through integrated, intuitive solutions that protects their families and communities with the right security at the right moment.\n\nCompany Benefits and Perks:\n\nWe work hard to embrace diversity and inclusion and encourage everyone at McAfee to bring their authentic selves to work every day. We’re proud to be Great Place to Work® Certified in 10 countries, a reflection of the supportive, empowering environment we’ve built where people feel seen, valued, and energized to reach their full potential and thrive.\n\nWe offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees.\n• Bonus Program\n• Pension and Retirement Plans\n• Medical, Dental and Vision Coverage\n• Paid Time Off\n• Paid Parental Leave\n• Support for Community Involvement\n\nWe're serious about our commitment to diversity which is why McAfee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771200000,
+    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_location": "Frisco, TX",
+    "job_city": "Frisco",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 33.1496718,
+    "job_longitude": -96.835567,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD5rVDrynyJhWv_3dAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "We are looking for a smart engineer who leverages Generative AI to accelerate coding and SDLC process and has the appetite to work in tight schedules without compromising on quality",
+        "This individual must have a “start-up” mentality who hits the ground running with minimal supervision",
+        "You will use Generative AI for code and build Agentic AI App experience",
+        "7-10 years of experience in software development of which 5+ years of experience Mobile application design &development",
+        "You should have hands on experience on both front end [Android and/or iOS] and backend technologies",
+        "Familiarity with RESTful APIs to connect Android/iOS applications to back-end services",
+        "You should have experience in Unit Test cases, Code Coverage, Automation and Design patterns",
+        "You should have experience in Instruments: Allocation, Leaks Crash Analysis and Debugging skills",
+        "Proficient understanding of code versioning tools, such as Git",
+        "Familiarity with continuous integration & deployment process",
+        "Able to independently build E2E flows on mobile which includes building the UEX and integration of backend APIs",
+        "A knack for benchmarking and optimization",
+        "Experience in Gradle / Maven/iOS build systems",
+        "Experience of using GenAI in SDLC"
+      ],
+      "Benefits": [
+        "We offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees",
+        "Bonus Program",
+        "Pension and Retirement Plans",
+        "Medical, Dental and Vision Coverage",
+        "Paid Time Off",
+        "Paid Parental Leave",
+        "Support for Community Involvement"
+      ],
+      "Responsibilities": [
+        "You will be required to be on-site on an as-needed basis; when you are not working on-site, you will work from your home office",
+        "As a software engineer, you will be responsible for leading the development of mobile applications and services that handle all types of transactions",
+        "You will work in a fast-paced environment where continuous innovation and experimentation are a given",
+        "You will demonstrate mastery in innovation and security",
+        "You will collaborate with other engineers and developers throughout the development process",
+        "You will collaborate with the other team or 3rd party vendors to integrate functional component",
+        "You will understand user requirements; design and develop applications and APIs for devices that meet real world scenarios",
+        "You will solve and articulate complex problems with application design, development, and user experiences"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "careers-mcafee-com-global-en-job-jr0032298-full-stack-software-engineer-mobile",
     "_source": "new_jobs"
   },
   {
@@ -516,77 +634,126 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "UJh3JVcLRQXkmALeAAAAAA==",
-    "job_title": "Sr Mobile App -Software Developer (F / T, US Only)",
-    "employer_name": "The Media Trust",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShx8nKoYbRsAI2VR6elusRjYUJXRuFVF8TtNns&s=0",
-    "employer_website": "https://mediatrust.com",
-    "job_publisher": "Talent.com",
+    "job_id": "zQzLPq-_VDWUC0qdAAAAAA==",
+    "job_title": "Lead Mobile Engineer",
+    "employer_name": "Cape",
+    "employer_logo": null,
+    "employer_website": "https://capecompany.com",
+    "job_publisher": "ZipRecruiter",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=d0d790f35ff9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://www.ziprecruiter.com/c/Cape/Job/Lead-Mobile-Engineer/-in-New-York,NY?jid=1d2c65e33eccd751&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=d0d790f35ff9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Cape/Job/Lead-Mobile-Engineer/-in-New-York,NY?jid=1d2c65e33eccd751&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In NYC",
+        "apply_link": "https://www.builtinnyc.com/job/lead-mobile-engineer/4823042?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Tech Jobs Personalized",
+        "apply_link": "https://builtin.com/job/lead-mobile-engineer/4823042?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/lead-mobile-engineer-at-cape-4317491066?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/lead-mobile-engineer_d7afe928-4110-4ffe-bdc2-430d99419c42?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/9affbe26ad40682d9ef66246a24cda05?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/cape/new-york-ny/lead-mobile-engineer/bd06a5cf8e05f315964289793aa388f0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Remote Rocketship",
+        "apply_link": "https://www.remoterocketship.com/company/cape-co/jobs/lead-mobile-engineer-united-states/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Job Description\n\nThe Media Trust is on a mission to make the digital ecosystem a healthier, more valuable place for businesses, governments and consumers. Working with the world’s largest, most-heavily trafficked digital publishers and their AdTech partners as well as enterprises, the Media Trust delivers real-time security, data protection, performance management and quality assurance solutions that help protect, monetize and optimize the user experience across desktop, smartphone, tablet and gaming devices. The Media Trust is an industry pioneer with 20 years of history continuously monitoring the online and mobile ecosystem.\n\nWe are seeking a Senior Mobile App Software Developer with strong full-stack and Ad Tech experience to build and scale advertising-driven products across mobile and web platforms. This role owns user-facing experiences end-to-end—from mobile apps and Web UIs to backend services and ad integrations—while maintaining performance, reliability, and scalability.\n\nYou'll be a key technical leader on our product engineering team, architecting solutions that directly impact millions of users while working with cutting-edge advertising technology. Experience with monetization strategy and yield optimization is preferred but not required.\n\nAs an organization, we prize engineering professionals who are equipped with great technical skills and attitudes that motivate those around them. We seek individuals who bring a sense of ownership and are passionate about quality. We value individuals who are curious, demonstrate initiative, and love solving problems.\n\nWhat You'll Do\n• Architect and develop end-to-end solutions across mobile apps (Swift, Kotlin, React Native, Flutter), modern Web UIs (React), and backend systems that serve millions of users daily.\n• Lead mobile and web UI development, integrating advertising experiences (Google Ad Manager, AdMob, MoPub, AppLovin, ironSource, Unity Ads, Meta Audience Network) that balance exceptional UX, optimal performance, and revenue generation.\n• Design and build scalable backend services, APIs, and data pipelines supporting ad delivery, analytics, and reporting while optimizing for low-latency, high-throughput workloads.\n• Own full-stack features from requirements through deployment, making architectural decisions around scalability, reliability, and security while building and maintaining CI / CD pipelines and cloud infrastructure.\n• Collaborate across teams (product, design, data, monetization) and conduct code reviews to mentor engineers, raise engineering standards, and deliver innovative solutions that drive business outcomes.\n• Solve hard problems with creative solutions and have a good time along the way!\n\nQualifications\n• 7+ years of professional software development experience with proven delivery of production mobile and web applications at scale, including strong expertise in mobile front-end development (Swift, Kotlin, React Native, Flutter) and modern Web UI development with React, JavaScript / TypeScript, state management, and performance optimization.\n• Required hands-on Ad Tech experience with mobile advertising SDKs, mediation platforms, and ad lifecycle management, plus direct experience with one or more ad platforms such as Google Ad Manager (GAM), AdMob, MoPub, AppLovin, ironSource, Unity Ads, or Meta Audience Network.\n• Demonstrated full-stack engineering expertise including backend development (Node.js, Java, Python, Go), API design (REST / GraphQL), databases (SQL and NoSQL such as PostgreSQL, MongoDB), event tracking, analytics pipelines, and microservices architecture.\n• Strong system design and cloud platform experience (AWS, GCP, or Azure) with ability to architect scalable, low-latency solutions that handle high volume and large-scale data, plus understanding of Agile development methodologies.\n• Bachelor's degree in Computer Science, Engineering, IT or related field (equivalent experience / training will be considered) and excellent communication skills to clearly describe complex technical issues to both technical and non-technical stakeholders.\n\nWhile the above are core requirements, the follow specialized experience is highly desirable :\n• Experience with monetization strategy, yield optimization, or revenue analytics including familiarity with ad performance metrics (eCPM, fill rate, ARPDAU, CTR, viewability) and exposure to programmatic advertising or RTB.\n• Infrastructure-as-code experience (Terraform, CloudFormation, AWS CDK) and prior technical leadership or mentorship experience with track record of guiding and developing engineering talent.\n• Experience with A / B testing frameworks, web application security (XSS, SQL injection), understanding of malware / malvertising threats, or knowledge of privacy regulations (GDPR, CCPA) and their impact on mobile advertising.\n\nThe Media Trust is currently a 100% remote workforce. This role will be 100% remote initially with some expectation for in-person days in our Northern Virginia / Tysons Corner office. All candidates are required to interview once in person before an offer will be made. Due to AI and Candidate Fraud all ATS screening questions are required.\n\nThe Media Trust offers a collaborative working environment where growth is encouraged and nurtured. In addition, we offer competitive salaries and a comprehensive benefits package.\n\nThe Media Trust provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics.\n\nDisclaimer : The above description is intended to describe the general nature of work and level of effort being performed by individuals assigned to this position or job description. This is not to be construed as a complete or exhaustive list of all skills, responsibilities, duties, and / or assignments required. Individuals may be required to perform duties outside of their position, job description, or responsibilities as needed.",
-    "job_is_remote": true,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "McLean, VA",
-    "job_city": "McLean",
-    "job_state": "Virginia",
+    "job_description": "The Company\n\nCape was founded in early 2022 by Palantir and Anduril alums with deep expertise in privacy and national security. While running Palantir's US national security business, our CEO became passionate about privacy and security on mobile devices. Our mission is to be a force for good in global wireless.\n\nAt Cape, we are not just another cellular service provider; we are the architects of a privacy-centric movement that starts with the devices in your pocket. We are building a cellular network that helps citizens, including those responsible for our nation's security, regain control of their own data.\n\nWe believe that where we are, where we go, and whom we are with are among our most personal information and should be kept private. Privacy is not something you achieve by limiting yourself or by doing less, it is a set of features to be built so you can do more. We have raised money from Andreessen Horowitz and other top-tier VCs, and are excited to grow the team.\n\nThe Team\n\nWe are relentless builders, constantly pushing the boundaries of what's possible and bringing to life ideas that have never before existed. Innovation is at the core of everything we do. At Cape, we trust our team to deliver greatness and empower them to make a profound impact. As a member of our team, you will collaborate seamlessly with our diverse group of talented engineers and other team members, enjoying dynamic interactions with colleagues from across the organization.\n\nRole\n\nCape's platform gives customers end-to-end control of their digital identity, optimizing for resiliency, privacy, and security at every turn. We're transforming how customers sign up, use, and think about their mobile phones and the privacy implications associated with it. Customers are protected at every level of the communications stack - from the mobile device, through infrastructure, and to the core of the network itself.\n\nAs a Lead Software Engineer on the mobile team at Cape, you will architect the future of private mobile communication by leading and scaling our mobile engineering team. You will lead the r charge will be on building our secure iOS and Android suite of products, translating our privacy-first mission into a best in class user experience and functionality. We don't just whitelabel an application and do the bare minimum for onboarding and collecting payment, but instead we're building natively from the ground up to solve some of the hardest technical challenges in security and cryptography in order to secure personal information (PII), account data, and even voice & SMS traffic.\n\nYou will cultivate a high-performing, engaged team, providing technical mentorship and people-focused leadership needed to deliver outcomes. a and make decisions independently, within a community that will support and challenge them as they grow and develop, becoming strong technical contributors and engineering leaders. In close partnership with Product and other Engineering leaders, you will define and execute our mobile strategy, foster a culture of technical excellence, and build the capabilities required to protect our users in a constantly evolving digital landscape.\n\nYour day-to-day will change, but everything you work on has a high impact. One day you could be pushing to deliver a new capability to prevent targeting of soldiers on the battlefield, the next you could be architecting a new system to prevent financial fraud via SIM swaps for everyday citizens.\n\nCore Responsibilities\n• Build the mobile telecommunications applications of the future to provide the most resilient, private, and secure cellular connectivity.\n• Maintain high coding standards through the development of guidelines, active participation in code reviews, and fostering a culture of continuous improvement and knowledge sharing among your team.\n• Guide and grow a community of talented mobile engineers, fostering an inclusive and high-performance culture rooted in collaboration. You will be responsible for empowering each team member through dedicated mentorship, transparent feedback, and clear pathways for career development.\n• Take ownership of the mobile product lifecycle, from conceptualization to launch.\n• Champion the security, performance, and stability of our applications. You will implement and oversee robust testing, monitoring, and release processes to guarantee a seamless and trustworthy user experience.\n• Actively improve user workflows by collaborating with cross-functional teams, ensuring seamless experiences across product boundaries and a cohesive user experience.\nWhat We Value\n• Proven ability to learn continuously, work independently, and make decisions with minimal supervision.\n• Experience brainstorming and iterating with product designers.\n• Ability to take a thoughtful, practical approach to problem-solving that considers tradeoffs and avoids over-engineering.\n• Skill and comfort working in a constantly evolving environment with dynamic objectives and iteration with users.\n• Ability to work collaboratively in teams of technical and non-technical individuals and understand how technical decisions impact the people who will use what you're building.\n• Understanding of cryptographic systems and how to design privacy conscious solutions.\n• Ability to learn new technology and concepts, even without in-depth experience.\n• Active US Security clearance, or eligibility and willingness to obtain a US Security clearance is beneficial, but not necessary.\nWhat We Require\n• 5+ years of mobile software engineering experience.\n• Engineering background in Computer Science, Mathematics, Software Engineering, Physics or similar field.\n• Experience crafting complex user experiences (UX) with a strong intuition for good design and usability.\n• Exceptional coding skills regardless of framework, especially with Kotlin or Swift, and can navigate different languages and technology stacks (e.g. Go, Typescript).\n• Familiarity with data structures, loading patterns, mobile frameworks, and other technical tools and concepts.\n• Familiarity with software design patterns such as: MVVM, unidirectional state flow, modularization, asynchronous and event-based programming, and other modern mobile development patterns.\n• Strong written and verbal communication skills and ability to iterate quickly with teammates, incorporating feedback and holding a high bar for quality.\n\nWe offer competitive compensation that is geo-adjusted based on your location, along with meaningful equity so you share in the value you help create. Our benefits include:\n• 401(k) match\n• 100% coverage of medical, dental, and vision premiums for you and your dependents\n• 12 weeks paid parental leave (for all parents, no waiting period)\n• Stipends for\n• Family-forming needs\n• Gender-affirming care\n• Unlimited PTO\nOur Culture\n• We are builders, and we choose to spend our time building things that matter. Many of our people have backgrounds in Defense Tech as well as the defense and intelligence community. We build to win.\n• We hire excellent people, give them outsized responsibility, and trust them to execute at a high level. Everyone here has a track record of solving hard problems throughout their careers.\n• We believe that personal privacy and national security interests are not inherently at odds, and can be reconciled via strong technology.\n• We believe that companies exist to build awesome things and take care of their people. Our benefits reflect that- top-tier health care, 401(k) matching, and a generous vacation policy (that we actually use).\n• We hire candidates of any race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, Veteran status, and any other status. Achieving diversity across these categories will serve to make our company stronger and our product better.\nHow to apply\n\nClick the link below to apply.\n\nWe reserve the right to make use of any unsolicited resumes received from outside recruiting agencies and / or individual recruiters without being responsible for payment of any fees asserted from the use of unsolicited resumes.",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771200000,
+    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
     "job_country": "US",
-    "job_latitude": 38.9338676,
-    "job_longitude": -77.1772604,
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
     "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUJh3JVcLRQXkmALeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzQzLPq-_VDWUC0qdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "We are seeking a Senior Mobile App Software Developer with strong full-stack and Ad Tech experience to build and scale advertising-driven products across mobile and web platforms",
-        "This role owns user-facing experiences end-to-end—from mobile apps and Web UIs to backend services and ad integrations—while maintaining performance, reliability, and scalability",
-        "As an organization, we prize engineering professionals who are equipped with great technical skills and attitudes that motivate those around them",
-        "We value individuals who are curious, demonstrate initiative, and love solving problems",
-        "7+ years of professional software development experience with proven delivery of production mobile and web applications at scale, including strong expertise in mobile front-end development (Swift, Kotlin, React Native, Flutter) and modern Web UI development with React, JavaScript / TypeScript, state management, and performance optimization",
-        "Required hands-on Ad Tech experience with mobile advertising SDKs, mediation platforms, and ad lifecycle management, plus direct experience with one or more ad platforms such as Google Ad Manager (GAM), AdMob, MoPub, AppLovin, iron",
-        "Source, Unity Ads, or Meta Audience Network",
-        "Demonstrated full-stack engineering expertise including backend development (Node.js, Java, Python, Go), API design (REST / GraphQL), databases (SQL and NoSQL such as PostgreSQL, MongoDB), event tracking, analytics pipelines, and microservices architecture",
-        "Strong system design and cloud platform experience (AWS, GCP, or Azure) with ability to architect scalable, low-latency solutions that handle high volume and large-scale data, plus understanding of Agile development methodologies",
-        "Bachelor's degree in Computer Science, Engineering, IT or related field (equivalent experience / training will be considered) and excellent communication skills to clearly describe complex technical issues to both technical and non-technical stakeholders",
-        "Experience with monetization strategy, yield optimization, or revenue analytics including familiarity with ad performance metrics (eCPM, fill rate, ARPDAU, CTR, viewability) and exposure to programmatic advertising or RTB",
-        "Infrastructure-as-code experience (Terraform, CloudFormation, AWS CDK) and prior technical leadership or mentorship experience with track record of guiding and developing engineering talent",
-        "Experience with A / B testing frameworks, web application security (XSS, SQL injection), understanding of malware / malvertising threats, or knowledge of privacy regulations (GDPR, CCPA) and their impact on mobile advertising"
+        "Proven ability to learn continuously, work independently, and make decisions with minimal supervision",
+        "Experience brainstorming and iterating with product designers",
+        "Ability to take a thoughtful, practical approach to problem-solving that considers tradeoffs and avoids over-engineering",
+        "Skill and comfort working in a constantly evolving environment with dynamic objectives and iteration with users",
+        "Ability to work collaboratively in teams of technical and non-technical individuals and understand how technical decisions impact the people who will use what you're building",
+        "Understanding of cryptographic systems and how to design privacy conscious solutions",
+        "Ability to learn new technology and concepts, even without in-depth experience",
+        "Active US Security clearance, or eligibility and willingness to obtain a US Security clearance is beneficial, but not necessary",
+        "5+ years of mobile software engineering experience",
+        "Engineering background in Computer Science, Mathematics, Software Engineering, Physics or similar field",
+        "Experience crafting complex user experiences (UX) with a strong intuition for good design and usability",
+        "Exceptional coding skills regardless of framework, especially with Kotlin or Swift, and can navigate different languages and technology stacks (e.g. Go, Typescript)",
+        "Familiarity with data structures, loading patterns, mobile frameworks, and other technical tools and concepts",
+        "Familiarity with software design patterns such as: MVVM, unidirectional state flow, modularization, asynchronous and event-based programming, and other modern mobile development patterns",
+        "Strong written and verbal communication skills and ability to iterate quickly with teammates, incorporating feedback and holding a high bar for quality"
       ],
       "Benefits": [
-        "In addition, we offer competitive salaries and a comprehensive benefits package"
+        "We offer competitive compensation that is geo-adjusted based on your location, along with meaningful equity so you share in the value you help create",
+        "401(k) match",
+        "100% coverage of medical, dental, and vision premiums for you and your dependents",
+        "12 weeks paid parental leave (for all parents, no waiting period)",
+        "Stipends for",
+        "Unlimited PTO"
       ],
       "Responsibilities": [
-        "You'll be a key technical leader on our product engineering team, architecting solutions that directly impact millions of users while working with cutting-edge advertising technology",
-        "Architect and develop end-to-end solutions across mobile apps (Swift, Kotlin, React Native, Flutter), modern Web UIs (React), and backend systems that serve millions of users daily",
-        "Lead mobile and web UI development, integrating advertising experiences (Google Ad Manager, AdMob, MoPub, AppLovin, iron",
-        "Source, Unity Ads, Meta Audience Network) that balance exceptional UX, optimal performance, and revenue generation",
-        "Design and build scalable backend services, APIs, and data pipelines supporting ad delivery, analytics, and reporting while optimizing for low-latency, high-throughput workloads",
-        "Own full-stack features from requirements through deployment, making architectural decisions around scalability, reliability, and security while building and maintaining CI / CD pipelines and cloud infrastructure",
-        "Collaborate across teams (product, design, data, monetization) and conduct code reviews to mentor engineers, raise engineering standards, and deliver innovative solutions that drive business outcomes",
-        "Solve hard problems with creative solutions and have a good time along the way!"
+        "As a member of our team, you will collaborate seamlessly with our diverse group of talented engineers and other team members, enjoying dynamic interactions with colleagues from across the organization",
+        "You will lead the r charge will be on building our secure iOS and Android suite of products, translating our privacy-first mission into a best in class user experience and functionality",
+        "You will cultivate a high-performing, engaged team, providing technical mentorship and people-focused leadership needed to deliver outcomes",
+        "a and make decisions independently, within a community that will support and challenge them as they grow and develop, becoming strong technical contributors and engineering leaders",
+        "In close partnership with Product and other Engineering leaders, you will define and execute our mobile strategy, foster a culture of technical excellence, and build the capabilities required to protect our users in a constantly evolving digital landscape",
+        "Build the mobile telecommunications applications of the future to provide the most resilient, private, and secure cellular connectivity",
+        "Maintain high coding standards through the development of guidelines, active participation in code reviews, and fostering a culture of continuous improvement and knowledge sharing among your team",
+        "Guide and grow a community of talented mobile engineers, fostering an inclusive and high-performance culture rooted in collaboration",
+        "You will be responsible for empowering each team member through dedicated mentorship, transparent feedback, and clear pathways for career development",
+        "Take ownership of the mobile product lifecycle, from conceptualization to launch",
+        "Champion the security, performance, and stability of our applications",
+        "You will implement and oversee robust testing, monitoring, and release processes to guarantee a seamless and trustworthy user experience",
+        "Actively improve user workflows by collaborating with cross-functional teams, ensuring seamless experiences across product boundaries and a cohesive user experience"
       ]
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
+    "id": "www-ziprecruiter-com-c-cape-job-lead-mobile-engineer-in-new-york-ny",
     "_source": "new_jobs"
   },
   {
@@ -638,62 +805,6 @@
         "Build and maintain iOS applications using Swift and SwiftUI",
         "Integrate AI-powered features through backend APIs and design UX patterns for AI interactions",
         "Collaborate with backend and ML engineers to optimize performance, stability, and user feedback capture"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "MdS-OAumpqM4HsYuAAAAAA==",
-    "job_title": "Mid-Level iOS Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=d5bc38481ef5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=d5bc38481ef5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Mid-Level iOS Engineer who will design, code, and test rich, interactive customer experiences.\n\nKey Responsibilities\n\nLead coding efforts for specific modules or features\n\nTroubleshoot and resolve complex software issues\n\nParticipate in code reviews and enforce coding standards\n\nRequired Qualifications\n\n4+ years of professional experience in native Android and / or iOS development\n\nProficiency in native iOS programming languages (Objective-C, Swift, Java, Kotlin)\n\nStrong understanding of mobile development methodologies and best practices\n\nExperience with debugging and troubleshooting software issues\n\nCandidate must be legally authorized to work in the United States without the need for employer sponsorship",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Shreveport, LA",
-    "job_city": "Shreveport",
-    "job_state": "Louisiana",
-    "job_country": "US",
-    "job_latitude": 32.5130159,
-    "job_longitude": -93.7514874,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMdS-OAumpqM4HsYuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "4+ years of professional experience in native Android and / or iOS development",
-        "Proficiency in native iOS programming languages (Objective-C, Swift, Java, Kotlin)",
-        "Strong understanding of mobile development methodologies and best practices",
-        "Experience with debugging and troubleshooting software issues",
-        "Candidate must be legally authorized to work in the United States without the need for employer sponsorship"
-      ],
-      "Responsibilities": [
-        "Lead coding efforts for specific modules or features",
-        "Troubleshoot and resolve complex software issues",
-        "Participate in code reviews and enforce coding standards"
       ]
     },
     "job_onet_soc": "15113200",
@@ -867,6 +978,62 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "us-trabajo-org-job-3821-3279ead936d6ac479306952cd80cf010",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "MdS-OAumpqM4HsYuAAAAAA==",
+    "job_title": "Mid-Level iOS Engineer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=d5bc38481ef5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=d5bc38481ef5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Mid-Level iOS Engineer who will design, code, and test rich, interactive customer experiences.\n\nKey Responsibilities\n\nLead coding efforts for specific modules or features\n\nTroubleshoot and resolve complex software issues\n\nParticipate in code reviews and enforce coding standards\n\nRequired Qualifications\n\n4+ years of professional experience in native Android and / or iOS development\n\nProficiency in native iOS programming languages (Objective-C, Swift, Java, Kotlin)\n\nStrong understanding of mobile development methodologies and best practices\n\nExperience with debugging and troubleshooting software issues\n\nCandidate must be legally authorized to work in the United States without the need for employer sponsorship",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Shreveport, LA",
+    "job_city": "Shreveport",
+    "job_state": "Louisiana",
+    "job_country": "US",
+    "job_latitude": 32.5130159,
+    "job_longitude": -93.7514874,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMdS-OAumpqM4HsYuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "4+ years of professional experience in native Android and / or iOS development",
+        "Proficiency in native iOS programming languages (Objective-C, Swift, Java, Kotlin)",
+        "Strong understanding of mobile development methodologies and best practices",
+        "Experience with debugging and troubleshooting software issues",
+        "Candidate must be legally authorized to work in the United States without the need for employer sponsorship"
+      ],
+      "Responsibilities": [
+        "Lead coding efforts for specific modules or features",
+        "Troubleshoot and resolve complex software issues",
+        "Participate in code reviews and enforce coding standards"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
