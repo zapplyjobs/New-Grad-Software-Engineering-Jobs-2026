@@ -127,9 +127,9 @@
     "job_latitude": 38.8816208,
     "job_longitude": -77.09098089999999,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoRCmOVKZ30-RauXpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
@@ -412,9 +412,9 @@
     "job_latitude": 38.9072873,
     "job_longitude": -77.0369274,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVae4dyxAeA1pbpZVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -896,8 +896,8 @@
     "job_latitude": 32.783316299999996,
     "job_longitude": -79.9319664,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjKu2Gw5R7Z7yDw0yAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -961,96 +961,75 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "CyeJ3-dz1DwxWq8-AAAAAA==",
-    "job_title": "Backend Java, Spring, Springboot, Hibernate, Rest/Soap Engineer",
+    "job_id": "OaYpWVYWVDy1P58cAAAAAA==",
+    "job_title": "Backend Senior Software Engineer",
     "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_logo": null,
     "employer_website": "https://corporate.walmart.com",
     "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
+    "job_employment_type": "Full-time and Part-time",
     "job_employment_types": [
-      "FULLTIME"
+      "FULLTIME",
+      "PARTTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Johnson,AR?jid=6de870d153f80703&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Senior-Software-Engineer/-in-Herndon,VA?jid=f9ba3ed8a814e134&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": true,
     "apply_options": [
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Johnson,AR?jid=6de870d153f80703&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Senior-Software-Engineer/-in-Herndon,VA?jid=f9ba3ed8a814e134&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/senior-backend-software-development-engineer-ts-sci_86eef2b4-3dca-48f4-be20-4a6564fbe301?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Iitjobs",
+        "apply_link": "https://www.iitjobs.com/job/senior-java-backend-engineer-reston-va-usa-tek-wissen-46235?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/c9cd0e44c9b84363ad0dcbd0b395fce8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-herndon-senior-backend-engineer-bebeesoftware-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-3629-4e4b9af84439a76ea116517a3a7d8f8a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       }
     ],
-    "job_description": "Position Summary...\n\nWhat you'll do...Join Walmart Global Tech as a Senior Software Engineer, Backend, where you will build and enhance scalable systems that power seamless digital experiences for millions of customers worldwide. You will work across diverse systems and domains, contributing to the design and development of critical backend services that support Walmart’s digital ecosystem—from checkout and fulfillment to user engagement journeys. About the Team Our team partners closely with our U.S. Stores and Walmart Health & Wellness businesses to better serve customers by empowering associates, pharmacies, and clinics through technological innovation. Whether customers engage with clinicians online via Walmart.com, through our mobile apps, or in-store, Walmart Health & Wellness delivers an extensive suite of services that customers and patients value. What You'll Do\n• Architect, design, and develop scalable backend services and APIs that support complex digital experiences.\n• Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey.\n• Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements.\n• Optimize application performance while ensuring high code quality.\n• Mentor junior engineers and promote knowledge sharing within the team.\n• Advocate for best practices in service architecture, security, and testing.\n• Build and maintain secure, high-performance, fault-tolerant distributed systems.\n• Develop reusable frameworks and components for backend service integrations.\n• Maintain code quality through automated testing, continuous integration, and thorough code reviews.\n• Troubleshoot and resolve production issues across complex system components.\n• Build scalable, reliable systems capable of handling large volumes of traffic and data.\n• Write clean, efficient, maintainable code aligned with engineering best practices.\n• Debug and troubleshoot issues within distributed systems across multiple environments.\n• Contribute to performance optimization, security enhancements, and system resilience.\n• Participate in code reviews and provide constructive feedback to peers.\nWhat You’ll Bring\n• 6–9 years of total experience, including 5+ years in backend engineering and platform development.\n• 5+ years of experience with Java technologies, distributed systems, and large-scale application design and development.\n• Hands-on experience with Spring Boot, REST, Kafka, and Cassandra.\n• Experience with containerization technologies and microservices architecture.\n• Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools.\n• Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications.\n• Strong adherence to SDLC processes and Scrum/Agile methodologies.\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n2501 Se J St, Ste A, Bentonville, AR 72716-3724, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_description": "Position Summary...The Edge Ingress Security (EIS) team is the first line of defense for our global digital footprint. We are looking for a Senior Software Engineer to architect and deliver the next generation of security capabilities. In this role, you won't just write code; you will own the full software lifecycle, from initial design to large scale deployment, driving innovation across infrastructure, automation, and AI/ML integration.\n\nThe Edge Ingress Security team protects Walmart’s global internet presence — securing our eCommerce platforms, apps, and services that serve hundreds of millions of users daily. We innovate at scale to detect and mitigate automated threats, DDoS attacks, and other web-based abuse while maintaining fast, reliable, and secure customer experiences.\n\nAbout Team: Edge Ingress Security\nAt Walmart, we prioritize innovation and data security. Our team is dedicated to maintaining a secure operating environment and preserving the trust of our customers, associates, and stakeholders. We combine a range of services and expertise to prevent fraud, detect threats, and manage digital risk and access. Our focus is on mitigating attack risks, securing cloud transformation, and fostering a culture of security and reliability within our team.\n\nWhat you'll do...\n• Design and develop large scale, real-time distributed systems.\n• Deliver end-to-end solutions covering UI, underlying infrastructure, and high-performance backend APIs.\n• Develop the pipelines and integrations necessary to support large-scale data processing and machine learning models for threat detection.\n• Build improved services to control the interoperability and mitigation logic between various ingress security layers.\n• Identify bottlenecks in the development lifecycle and automate workflows to enhance team-wide productivity\nWhat you'll bring:\n• Proven experience in the end-to-end development lifecycle, from architecture and design to profiling, integration, and deployment.\n• Proficiency in Golang, Python, React, JavaScript/TypeScript, and Node.js.\n• Experience with automation framework\n• Experience with both SQL and NoSQL databases (e.g., Cassandra) and caching layers like Redis or Memcache.\n• Expertise with modern monitoring tools such as Grafana, OpenObserve, or Splunk.\n• Solid understanding of SDLC, CI/CD pipelines, and automation frameworks.\n• A strong ownership mindset with the ability to drive initiatives with minimal oversight and communicate complex technical issues to diverse audiences.\n• 5+ years of professional work experience and a Bachelor’s degree in Computer Science, Engineering, or a related field.\n\nBonus Points:\n• Knowledge of bot management platforms and how web properties operate at scale.\n• Practical experience with behavioral analytics, machine learning, or risk-scoring systems.\n• Prior exposure to large-scale production environments or eCommerce platforms.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nHerndon, Virginia US-10710: The annual salary range for this position is $108,000.00 - $216,000.00\nSunnyvale, California US-11656: The annual salary range for this position is $117,000.00 - $234,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nBachelor’s degree in Computer Science, Information Technology, or related field and 5 years' experience in information technology within the past\n10 years OR 7 years' experience in information technology or related field within the past 10 years.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nCertified Intrusion analyst (GCIAs), GIAC Certified Enterprise Defender (GCED), Certified Geographic Information Systems Professional (GISP), GIAC Certified Incident Handler (GCIH), Certified Information Systems Security Professional (CISSP), Certified Information Systems Auditor (CISA), GIAC Security Essentials Certification (GSEC), and/or Security+ certification, Leading Technical Team, Mainframe Technology, Professional certification in information technology relevant to the job under consideration (for example, Java, C/C++, mainframe technologies, SAP, Microsoft .Net, business intelligence tools, SQL technology), Programming language or languages (for example, Java, C/C++, .NET, Rexx, Cobol, Powershell), SAP, SQL technology, Version control software (for example, Subversion, Git, Librarian), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n2245 Monroe St, Herndon, VA 20171, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
     "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Johnson, AR",
-    "job_city": "Johnson",
-    "job_state": "Arkansas",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Herndon, VA",
+    "job_city": "Herndon",
+    "job_state": "Virginia",
     "job_country": "US",
-    "job_latitude": 36.1334622,
-    "job_longitude": -94.1629938,
+    "job_latitude": 38.9695545,
+    "job_longitude": -77.3860976,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCyeJ3-dz1DwxWq8-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 90000,
-    "job_max_salary": 180000,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOaYpWVYWVDy1P58cAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 108000,
+    "job_max_salary": 216000,
     "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "6–9 years of total experience, including 5+ years in backend engineering and platform development",
-        "5+ years of experience with Java technologies, distributed systems, and large-scale application design and development",
-        "Hands-on experience with Spring Boot, REST, Kafka, and Cassandra",
-        "Experience with containerization technologies and microservices architecture",
-        "Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools",
-        "Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications",
-        "Strong adherence to SDLC processes and Scrum/Agile methodologies",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
-        "Option 2: 5 years’ experience in software engineering or related area",
-        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses",
-        "Additional compensation for certain positions may also include :"
-      ],
-      "Responsibilities": [
-        "Architect, design, and develop scalable backend services and APIs that support complex digital experiences",
-        "Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey",
-        "Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements",
-        "Optimize application performance while ensuring high code quality",
-        "Mentor junior engineers and promote knowledge sharing within the team",
-        "Advocate for best practices in service architecture, security, and testing",
-        "Build and maintain secure, high-performance, fault-tolerant distributed systems",
-        "Develop reusable frameworks and components for backend service integrations",
-        "Maintain code quality through automated testing, continuous integration, and thorough code reviews",
-        "Troubleshoot and resolve production issues across complex system components",
-        "Build scalable, reliable systems capable of handling large volumes of traffic and data",
-        "Write clean, efficient, maintainable code aligned with engineering best practices",
-        "Debug and troubleshoot issues within distributed systems across multiple environments",
-        "Contribute to performance optimization, security enhancements, and system resilience",
-        "Participate in code reviews and provide constructive feedback to peers"
-      ]
-    },
+    "job_highlights": {},
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-backend-java-spring-springboot-hibernate-rest-soap-engineer-in-johnson-ar",
+    "id": "www-ziprecruiter-com-c-walmart-job-backend-senior-software-engineer-in-herndon-va",
     "_source": "new_jobs"
   },
   {
@@ -1173,75 +1152,96 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "OaYpWVYWVDy1P58cAAAAAA==",
-    "job_title": "Backend Senior Software Engineer",
+    "job_id": "CyeJ3-dz1DwxWq8-AAAAAA==",
+    "job_title": "Backend Java, Spring, Springboot, Hibernate, Rest/Soap Engineer",
     "employer_name": "Walmart",
-    "employer_logo": null,
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
     "employer_website": "https://corporate.walmart.com",
     "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
+    "job_employment_type": "Full-time",
     "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
+      "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Senior-Software-Engineer/-in-Herndon,VA?jid=f9ba3ed8a814e134&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Johnson,AR?jid=6de870d153f80703&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": true,
     "apply_options": [
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Senior-Software-Engineer/-in-Herndon,VA?jid=f9ba3ed8a814e134&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Johnson,AR?jid=6de870d153f80703&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/senior-backend-software-development-engineer-ts-sci_86eef2b4-3dca-48f4-be20-4a6564fbe301?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Iitjobs",
-        "apply_link": "https://www.iitjobs.com/job/senior-java-backend-engineer-reston-va-usa-tek-wissen-46235?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/c9cd0e44c9b84363ad0dcbd0b395fce8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-herndon-senior-backend-engineer-bebeesoftware-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-3629-4e4b9af84439a76ea116517a3a7d8f8a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
       }
     ],
-    "job_description": "Position Summary...The Edge Ingress Security (EIS) team is the first line of defense for our global digital footprint. We are looking for a Senior Software Engineer to architect and deliver the next generation of security capabilities. In this role, you won't just write code; you will own the full software lifecycle, from initial design to large scale deployment, driving innovation across infrastructure, automation, and AI/ML integration.\n\nThe Edge Ingress Security team protects Walmart’s global internet presence — securing our eCommerce platforms, apps, and services that serve hundreds of millions of users daily. We innovate at scale to detect and mitigate automated threats, DDoS attacks, and other web-based abuse while maintaining fast, reliable, and secure customer experiences.\n\nAbout Team: Edge Ingress Security\nAt Walmart, we prioritize innovation and data security. Our team is dedicated to maintaining a secure operating environment and preserving the trust of our customers, associates, and stakeholders. We combine a range of services and expertise to prevent fraud, detect threats, and manage digital risk and access. Our focus is on mitigating attack risks, securing cloud transformation, and fostering a culture of security and reliability within our team.\n\nWhat you'll do...\n• Design and develop large scale, real-time distributed systems.\n• Deliver end-to-end solutions covering UI, underlying infrastructure, and high-performance backend APIs.\n• Develop the pipelines and integrations necessary to support large-scale data processing and machine learning models for threat detection.\n• Build improved services to control the interoperability and mitigation logic between various ingress security layers.\n• Identify bottlenecks in the development lifecycle and automate workflows to enhance team-wide productivity\nWhat you'll bring:\n• Proven experience in the end-to-end development lifecycle, from architecture and design to profiling, integration, and deployment.\n• Proficiency in Golang, Python, React, JavaScript/TypeScript, and Node.js.\n• Experience with automation framework\n• Experience with both SQL and NoSQL databases (e.g., Cassandra) and caching layers like Redis or Memcache.\n• Expertise with modern monitoring tools such as Grafana, OpenObserve, or Splunk.\n• Solid understanding of SDLC, CI/CD pipelines, and automation frameworks.\n• A strong ownership mindset with the ability to drive initiatives with minimal oversight and communicate complex technical issues to diverse audiences.\n• 5+ years of professional work experience and a Bachelor’s degree in Computer Science, Engineering, or a related field.\n\nBonus Points:\n• Knowledge of bot management platforms and how web properties operate at scale.\n• Practical experience with behavioral analytics, machine learning, or risk-scoring systems.\n• Prior exposure to large-scale production environments or eCommerce platforms.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nHerndon, Virginia US-10710: The annual salary range for this position is $108,000.00 - $216,000.00\nSunnyvale, California US-11656: The annual salary range for this position is $117,000.00 - $234,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nBachelor’s degree in Computer Science, Information Technology, or related field and 5 years' experience in information technology within the past\n10 years OR 7 years' experience in information technology or related field within the past 10 years.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nCertified Intrusion analyst (GCIAs), GIAC Certified Enterprise Defender (GCED), Certified Geographic Information Systems Professional (GISP), GIAC Certified Incident Handler (GCIH), Certified Information Systems Security Professional (CISSP), Certified Information Systems Auditor (CISA), GIAC Security Essentials Certification (GSEC), and/or Security+ certification, Leading Technical Team, Mainframe Technology, Professional certification in information technology relevant to the job under consideration (for example, Java, C/C++, mainframe technologies, SAP, Microsoft .Net, business intelligence tools, SQL technology), Programming language or languages (for example, Java, C/C++, .NET, Rexx, Cobol, Powershell), SAP, SQL technology, Version control software (for example, Subversion, Git, Librarian), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n2245 Monroe St, Herndon, VA 20171, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_description": "Position Summary...\n\nWhat you'll do...Join Walmart Global Tech as a Senior Software Engineer, Backend, where you will build and enhance scalable systems that power seamless digital experiences for millions of customers worldwide. You will work across diverse systems and domains, contributing to the design and development of critical backend services that support Walmart’s digital ecosystem—from checkout and fulfillment to user engagement journeys. About the Team Our team partners closely with our U.S. Stores and Walmart Health & Wellness businesses to better serve customers by empowering associates, pharmacies, and clinics through technological innovation. Whether customers engage with clinicians online via Walmart.com, through our mobile apps, or in-store, Walmart Health & Wellness delivers an extensive suite of services that customers and patients value. What You'll Do\n• Architect, design, and develop scalable backend services and APIs that support complex digital experiences.\n• Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey.\n• Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements.\n• Optimize application performance while ensuring high code quality.\n• Mentor junior engineers and promote knowledge sharing within the team.\n• Advocate for best practices in service architecture, security, and testing.\n• Build and maintain secure, high-performance, fault-tolerant distributed systems.\n• Develop reusable frameworks and components for backend service integrations.\n• Maintain code quality through automated testing, continuous integration, and thorough code reviews.\n• Troubleshoot and resolve production issues across complex system components.\n• Build scalable, reliable systems capable of handling large volumes of traffic and data.\n• Write clean, efficient, maintainable code aligned with engineering best practices.\n• Debug and troubleshoot issues within distributed systems across multiple environments.\n• Contribute to performance optimization, security enhancements, and system resilience.\n• Participate in code reviews and provide constructive feedback to peers.\nWhat You’ll Bring\n• 6–9 years of total experience, including 5+ years in backend engineering and platform development.\n• 5+ years of experience with Java technologies, distributed systems, and large-scale application design and development.\n• Hands-on experience with Spring Boot, REST, Kafka, and Cassandra.\n• Experience with containerization technologies and microservices architecture.\n• Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools.\n• Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications.\n• Strong adherence to SDLC processes and Scrum/Agile methodologies.\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n2501 Se J St, Ste A, Bentonville, AR 72716-3724, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Herndon, VA",
-    "job_city": "Herndon",
-    "job_state": "Virginia",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Johnson, AR",
+    "job_city": "Johnson",
+    "job_state": "Arkansas",
     "job_country": "US",
-    "job_latitude": 38.9695545,
-    "job_longitude": -77.3860976,
+    "job_latitude": 36.1334622,
+    "job_longitude": -94.1629938,
     "job_benefits": [
       "health_insurance",
       "dental_coverage",
       "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOaYpWVYWVDy1P58cAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 108000,
-    "job_max_salary": 216000,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCyeJ3-dz1DwxWq8-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 90000,
+    "job_max_salary": 180000,
     "job_salary_period": "YEAR",
-    "job_highlights": {},
+    "job_highlights": {
+      "Qualifications": [
+        "6–9 years of total experience, including 5+ years in backend engineering and platform development",
+        "5+ years of experience with Java technologies, distributed systems, and large-scale application design and development",
+        "Hands-on experience with Spring Boot, REST, Kafka, and Cassandra",
+        "Experience with containerization technologies and microservices architecture",
+        "Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools",
+        "Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications",
+        "Strong adherence to SDLC processes and Scrum/Agile methodologies",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
+        "Option 2: 5 years’ experience in software engineering or related area",
+        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
+      ],
+      "Responsibilities": [
+        "Architect, design, and develop scalable backend services and APIs that support complex digital experiences",
+        "Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey",
+        "Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements",
+        "Optimize application performance while ensuring high code quality",
+        "Mentor junior engineers and promote knowledge sharing within the team",
+        "Advocate for best practices in service architecture, security, and testing",
+        "Build and maintain secure, high-performance, fault-tolerant distributed systems",
+        "Develop reusable frameworks and components for backend service integrations",
+        "Maintain code quality through automated testing, continuous integration, and thorough code reviews",
+        "Troubleshoot and resolve production issues across complex system components",
+        "Build scalable, reliable systems capable of handling large volumes of traffic and data",
+        "Write clean, efficient, maintainable code aligned with engineering best practices",
+        "Debug and troubleshoot issues within distributed systems across multiple environments",
+        "Contribute to performance optimization, security enhancements, and system resilience",
+        "Participate in code reviews and provide constructive feedback to peers"
+      ]
+    },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-backend-senior-software-engineer-in-herndon-va",
+    "id": "www-ziprecruiter-com-c-walmart-job-backend-java-spring-springboot-hibernate-rest-soap-engineer-in-johnson-ar",
     "_source": "new_jobs"
   },
   {
@@ -1337,6 +1337,112 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "LXGjhCWTklFyzxb2AAAAAA==",
+    "job_title": "Backend Engineer, New Grad",
+    "employer_name": "AppLovin",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRa7uHgnd5hy_D4FfYey5C34pLJfWsl8E5OGG&s=0",
+    "employer_website": "https://www.applovin.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/AppLovin/Job/Backend-Engineer,-New-Grad/-in-Palo-Alto,CA?jid=7d3b43b6c4fafa9f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/AppLovin/Job/Backend-Engineer,-New-Grad/-in-Palo-Alto,CA?jid=7d3b43b6c4fafa9f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "San Francisco",
+        "apply_link": "https://www.builtinsf.com/job/software-engineer-i-backend/4349548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Tech Jobs Personalized",
+        "apply_link": "https://builtin.com/job/software-engineer-i-backend/4349548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "GameJobs.co",
+        "apply_link": "https://gamejobs.co/Software-Engineer-I-Backend-at-AppLovin?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6897e5ed73b3a600fe8a112f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Bandana.com",
+        "apply_link": "https://bandana.com/jobs/993317b7-0ef2-4798-8f24-97ed90b86950?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Employbl",
+        "apply_link": "https://www.employbl.com/jobs/backend-engineer-new-grad-applovin-1014637?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/remote-backend-engineer-new-grad-palo-alto-applovin-a4efa8cb3c2e0c684a4ddcb0be76bdc1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "About AppLovin\n\nAppLovin makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end software and AI solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit: www.applovin.com.\n\nTo deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.\n\nFortune recognizes AppLovin as one of the Best Workplaces in the Bay Area, and the company has been a Certified Great Place to Work for the last four years (2021-2024). Check out the rest of our awards HERE.\n\nA Day in the Life\n\nAs a member of our backend software engineering team, you'll solve technical challenges, including upgrading and implementing state-of-the-art software infrastructure. The team builds a high-performance, high availability, globally distributed ecosystem platform of services that in turn provide the foundation for rapid development of novel new systems that integrate into that ecosystem and improve it\n\nOur backend systems handle billions of requests per day, and work on our mediation platform responsible for our header bidding solution, creating high-availability low-latency systems that are distributed across multiple data centers.\n\nThe Impact You'll Make\n• Design, develop, and maintain large-scale distributed systems\n• Collaborate with various engineering teams to meet a wide range of technological challenges\n• Work closely with our product team to contribute and influence the roadmap of our products and technologies\n• Influence and inspire team members\n\nWho You Are\n• Have 0-2+ years of experience and a minimum of a BS and/or MS in Computer Science\n• Have excellent knowledge of computer science fundamentals including data structures, algorithms, and coding\n• Professional experience with C++ and/or Java is a plus\n• Experience independently creating and maintaining projects\n\nAppLovin provides a competitive total compensation package with a pay for performance rewards approach. Total compensation at AppLovin is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Depending on the position offered, equity, and other forms of incentive compensation (as applicable) may be provided as part of a total compensation package, in addition to dental, vision, and other benefits.\n\nOther Types of Pay: Equity eligible\n\nHealth Insurance: Medical, Dental, Vision, Life, Disability\n\nRetirement Benefits: 401(k) Retirement Plan\n\nPaid Time Off: Unlimited Discretionary Time Off\n\nPaid Holidays: 10 paid holidays per year\n\nPaid Sick Leave: 80 hours per year\n\nMethod of Application: Apply online\n\nApplication Window: The application window is expected to close within 30 days of the posting date.\n\nAll questions or concerns about this posting should be directed to peopleops@applovin.com.\n\nCA Base Pay Range\n\n$119,000-$179,000 USD\n\nAppLovin has become aware of a scam targeting jobseekers with fake \"app optimization\" and similar roles. We do not ask our candidates to download apps or make any form of payment(s). AppLovin works with applicants through our Careers page and applovin.com email addresses. If you are contacted through other unofficial channels (such as WhatsApp or Telegram) or asked to download an app or make a payment, these contacts are not legitimate. Confirm the information here and contact us directly with any questions.\n\nAppLovin is proud to be an equal opportunity employer that is committed to inclusion and diversity. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status, or other legally protected characteristics. Learn more about EEO rights as an applicant here.\n\nIf you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send us a request at accommodations@applovin.com.\n\nAppLovin will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you're applying for a position in California, learn more here.\n\nTo support an efficient and fair hiring process, we may use technology-assisted tools, including artificial intelligence (AI), to help identify and evaluate candidates. All hiring decisions are ultimately made by human reviewers.\n\nPlease read our Global Applicant Privacy Notice to learn more about how AppLovin processes your personal information.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Palo Alto, CA",
+    "job_city": "Palo Alto",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.4418834,
+    "job_longitude": -122.1430195,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLXGjhCWTklFyzxb2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 119000,
+    "job_max_salary": 179000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Have 0-2+ years of experience and a minimum of a BS and/or MS in Computer Science",
+        "Have excellent knowledge of computer science fundamentals including data structures, algorithms, and coding",
+        "Experience independently creating and maintaining projects"
+      ],
+      "Benefits": [
+        "AppLovin provides a competitive total compensation package with a pay for performance rewards approach",
+        "Total compensation at AppLovin is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience",
+        "Depending on the position offered, equity, and other forms of incentive compensation (as applicable) may be provided as part of a total compensation package, in addition to dental, vision, and other benefits",
+        "Other Types of Pay: Equity eligible",
+        "Health Insurance: Medical, Dental, Vision, Life, Disability",
+        "Retirement Benefits: 401(k) Retirement Plan",
+        "Paid Time Off: Unlimited Discretionary Time Off",
+        "Paid Holidays: 10 paid holidays per year",
+        "Paid Sick Leave: 80 hours per year",
+        "CA Base Pay Range",
+        "$119,000-$179,000 USD"
+      ],
+      "Responsibilities": [
+        "Design, develop, and maintain large-scale distributed systems",
+        "Collaborate with various engineering teams to meet a wide range of technological challenges",
+        "Work closely with our product team to contribute and influence the roadmap of our products and technologies",
+        "Influence and inspire team members"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-applovin-job-backend-engineer-new-grad-in-palo-alto-ca",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "2ADVq82cQked3rkGAAAAAA==",
     "job_title": "Middle Backend Developer",
     "employer_name": "VirtualVocations",
@@ -1426,8 +1532,8 @@
     "job_longitude": -94.0088348,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFnyIbOo7sv59pikyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
@@ -1485,149 +1591,6 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-walmart-job-senior-software-developer-frontend-backend-stack-or-mobile-in-elkins-ar",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "us8RfySTGsJE3Aj6AAAAAA==",
-    "job_title": "Senior, Software Engineer - Backend",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior-Software-Engineer-Backend/-in-Goshen,AR?jid=5ab92fbd60004b68&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior-Software-Engineer-Backend/-in-Goshen,AR?jid=5ab92fbd60004b68&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "IHireTechnology",
-        "apply_link": "https://www.ihiretechnology.com/jobs/view/502808624?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs.appcast.io",
-        "apply_link": "https://jobs.appcast.io/walmart/staff-software-engineer-backend/52139977007?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Summary...\n\nWhat you'll do...About the Team - Our team partners closely with Walmart International, which operates more than 5,900 retail units across 26 countries under 55 banners — including Africa, Argentina, Canada, Central America, Chile, China, India, Japan, and Mexico. We’re part of the International and Omni Tech organization, focused on building scalable, distributed systems that power global commerce and enhance the experience for millions of customers every day. About the Role: The Senior Backend Engineer will lead a team of 4-8 engineers to design, develop, and maintain microservice-based systems using Java, Spring Boot, Kafka, and SQL/NoSQL databases. What You’ll Do :\n• Lead a cross-functional agile team of engineers\n• Translate complex requirements into scalable solutions\n• Design, build, test, deploy, and maintain secure and efficient APIs, microservices, and user-facing interfaces\n• Contribute to the entire development lifecycle\n• Mentor and guide engineers\n• Collaborate with product managers, UX designers, architects, and global engineering teams\n• Analyze application performance and lead root cause analyses\n• Champion innovation and Fullstack development best practices\nWhat You’ll Bring :\n• 8+ years of software engineering experience, including backend and frontend development\n• Expert-level proficiency in Java and Spring Boot\n• Solid experience in modern frontend development frameworks like React, Angular, or Vue.js\n• Experience with SQL and NoSQL databases, Kafka, containerization, and cloud environments\n• Strong understanding of DevOps principles, CI/CD pipelines, system observability, and deployment architecture\n• Proven ability to design scalable, reliable, and high-performing Fullstack solutions\n• Strong expertise with API design and development\n• Familiarity with application security and best practices for Fullstack development\n• Excellent problem-solving, collaboration, and communication skills\nYou’ll Really Wow Us If You…\n• Thrive in fast-paced environments and bring curiosity, creativity, and a drive to continuously learn\n• Passionate about building cloud-native systems that solve real-world problems at scale\n• Enjoy mentoring others and elevating the technical capabilities of your team\n• Experience delivering high-impact projects in a global, enterprise environment\nApplication & Feature Delivery: Owns scoped feature or model delivery through collaborative engineering teams. Manages implementation, iteration, testing, and ongoing support for assigned services, APIs, user interfaces, or ML model components. Operates with a product-driven mindset and aligns outcomes with broader platform, system, and domain objectives. Software Development & Lifecycle Execution: Writes clean, efficient, and reliable code using languages such as JavaScript, TypeScript, Python, Java, Rust, Dart, and C++. Drives full software development lifecycle, including CI/CD deployments, automated testing, observability, monitoring, and maintenance. Builds scripts for the automation of repetitive tasks and implements telemetry features independently. Conducts code structure reviews and supports ongoing defect management and debugging processes. AI/ML Integration & GenAI Enablement: Integrates AI agents and ML components using internal and external APIs to enhance software intelligence. Leverages GenAI tools such as GitHub Copilot to improve development velocity and innovation. Applies object-oriented programming principles and documentation-based coding practices to ensure modularity, maintainability, and consistency. Solution Design & Technical Leadership: Assists in converting high-level designs into detailed designs using mock screens, pseudo code, and functional logic. Evaluates trade-offs and designs scalable, secure, and maintainable software systems aligned with Walmart’s standards. Participates in design reviews and ensures the implementation of appropriate design patterns and principles. Demonstrates continuous learning and supports peer growth through mentorship and knowledge sharing. Customer/Associate Problem Definition & Metrics: Engages stakeholders to identify and refine complex business or user problems. Translates pain points into actionable technical requirements and defines clear metrics to measure solution success and impact. Collaborates with cross-functional teams to ensure the delivered solutions meet user needs and technical expectations. DevOps & Program Monitoring: Conducts complex maintenance procedures and monitors application performance using appropriate metrics and tools. Ensures adherence to project milestones and timelines through program reporting, CI/CD tools, and program logging systems. Supports the delivery of high-quality and reliable software systems through proactive monitoring, testing, and continuous integration practices. Engineering Excellence: Promotes a collaborative engineering mindset focused on continuous improvement and team wellbeing. Contributes to innovation strategies, internal knowledge sharing, and platform enhancement through engineering best practices. Supports system uptime, performance, and customer experience by owning the quality and performance of delivered features. Technical Ownership: Demonstrates responsibility for deliverables, ensuring solutions meet quality standards and business objectives. Takes initiative to resolve issues and drive projects to completion. Technical Judgment: Applies sound reasoning to make informed technical decisions, balancing trade-offs and considering long-term impacts on system architecture and business goals. Change Agility: Adapts quickly to change, embraces new technologies, and understands the broader system context. Anticipates the downstream effects of technical choices and integrates feedback to improve outcomes. Collaboration: Works effectively across teams, openly shares knowledge, and communicates complex ideas clearly to both technical and non-technical stakeholders. Innovation & Continuous Improvement: Proactively seeks opportunities to enhance processes, tools, and products. Encourages experimentation and learning to drive ongoing improvement. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relationships with key stakeholders; supporting plans and initiatives to meet customer and business needs; identifying and communicating goals and objectives; building accountability for and measuring progress in achieving results; identifying and addressing improvement opportunities; and demonstrating adaptability and promoting continuous learning. Provides supervision and development opportunities for associates by hiring and training; mentoring; assigning duties; providing recognition; and promoting a belonging mindset in workplace. Ensures compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity by implementing related action plans; utilizing and supporting the Open Door Policy; and providing direction and guidance on applying these in executing business processes and practices. Software Development, DevOps, Solution Design Respect the Individual: Demonstrates and encourages respect for all; builds a high-performing team; seeks, and embraces differences in people, cultures, ideas and experiences; creates a workplace where all associates feel seen, supported and connected through culture of belonging so associates thrive and perform; drives a positive associate and customer/member experience for all; identifies, attracts, and retains the best team members. Respect the Individual: Creates a discipline and focus around developing talent, through feedback, coaching, mentoring, and developmental opportunities; promotes an environment allowing everyone to bring their best selves to work; empowers associates and partners to act in the best interest of the customer/member and company; and regularly recognizes others’ contributions and accomplishments. Respect the Individual: Builds strong and trusting relationships with team members and business partners; works collaboratively and cross-functionally to achieve objectives; and communicates and listens attentively, with energy and positivity to motivate, influence, and inspire commitment and action. Act with Integrity: Maintains and promotes the highest standards of integrity, ethics and compliance; models the Walmart values and leads by example to foster our culture; supports Walmart’s goal of becoming a regenerative company by making a positive impact for associates, customers, and the world around us (e.g., creating a sense of belonging, eliminating waste, participating in local giving). Act with Integrity: Follows the law, our code of conduct and company policies, and sets expectations for others to do the same; promotes an environment where associates feel comfortable sharing concerns and reinforces our culture of non-retaliation; listens to concerns raised by associates. takes action and encourages others to do the same; holds self and others accountable for achieving results in a way that is consistent with our values. Act with Integrity: Acts as an altruistic servant leader and is consistently humble, self-aware, honest, and transparent. Serve our Customers and Members: Delivers expected business results while putting the customer/member first and consistently applying an omni-merchant mindset and acts with an Every Day Low-Cost mindset to drive value and Every Day Low Prices for customers/members. Serve our Customers and Members: Adopts a holistic perspective that considers data, analytics, customer/member insights, and different parts of the business when making plans and shaping the team’s strategy. Strive for Excellence: Consistently raises the bar and seeks to improve; demonstrates curiosity and a growth mindset; seeks feedback, asks thoughtful questions, fosters an environment that supports learning, innovation, and learning from mistakes, and intelligent risk-taking; and exhibits resilience in the face of setbacks. Strive for Excellence: Seeks and implements continuous improvements and encourages the team to leverage new digital tools and ways of working. At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n701 Respect Dr, Bentonville, AR 72716, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Goshen, AR",
-    "job_city": "Goshen",
-    "job_state": "Arkansas",
-    "job_country": "US",
-    "job_latitude": 36.100950499999996,
-    "job_longitude": -93.9914302,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dus8RfySTGsJE3Aj6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 90000,
-    "job_max_salary": 180000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "8+ years of software engineering experience, including backend and frontend development",
-        "Expert-level proficiency in Java and Spring Boot",
-        "Solid experience in modern frontend development frameworks like React, Angular, or Vue.js",
-        "Experience with SQL and NoSQL databases, Kafka, containerization, and cloud environments",
-        "Strong understanding of DevOps principles, CI/CD pipelines, system observability, and deployment architecture",
-        "Proven ability to design scalable, reliable, and high-performing Fullstack solutions",
-        "Strong expertise with API design and development",
-        "Familiarity with application security and best practices for Fullstack development",
-        "Excellent problem-solving, collaboration, and communication skills",
-        "Thrive in fast-paced environments and bring curiosity, creativity, and a drive to continuously learn",
-        "Passionate about building cloud-native systems that solve real-world problems at scale",
-        "Software Development, DevOps, Solution Design Respect the Individual: Demonstrates and encourages respect for all; builds a high-performing team; seeks, and embraces differences in people, cultures, ideas and experiences; creates a workplace where all associates feel seen, supported and connected through culture of belonging so associates thrive and perform; drives a positive associate and customer/member experience for all; identifies, attracts, and retains the best team members",
-        "Respect the Individual: Creates a discipline and focus around developing talent, through feedback, coaching, mentoring, and developmental opportunities; promotes an environment allowing everyone to bring their best selves to work; empowers associates and partners to act in the best interest of the customer/member and company; and regularly recognizes others’ contributions and accomplishments",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
-        "Option 2: 5 years’ experience in software engineering or related area",
-        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses",
-        "Additional compensation for certain positions may also include :"
-      ],
-      "Responsibilities": [
-        "Lead a cross-functional agile team of engineers",
-        "Translate complex requirements into scalable solutions",
-        "Design, build, test, deploy, and maintain secure and efficient APIs, microservices, and user-facing interfaces",
-        "Contribute to the entire development lifecycle",
-        "Mentor and guide engineers",
-        "Collaborate with product managers, UX designers, architects, and global engineering teams",
-        "Analyze application performance and lead root cause analyses",
-        "Champion innovation and Fullstack development best practices",
-        "Enjoy mentoring others and elevating the technical capabilities of your team",
-        "Experience delivering high-impact projects in a global, enterprise environment",
-        "Application & Feature Delivery: Owns scoped feature or model delivery through collaborative engineering teams",
-        "Manages implementation, iteration, testing, and ongoing support for assigned services, APIs, user interfaces, or ML model components",
-        "Operates with a product-driven mindset and aligns outcomes with broader platform, system, and domain objectives",
-        "Software Development & Lifecycle Execution: Writes clean, efficient, and reliable code using languages such as JavaScript, TypeScript, Python, Java, Rust, Dart, and C++. Drives full software development lifecycle, including CI/CD deployments, automated testing, observability, monitoring, and maintenance",
-        "Builds scripts for the automation of repetitive tasks and implements telemetry features independently",
-        "Conducts code structure reviews and supports ongoing defect management and debugging processes",
-        "AI/ML Integration & GenAI Enablement: Integrates AI agents and ML components using internal and external APIs to enhance software intelligence",
-        "Leverages GenAI tools such as GitHub Copilot to improve development velocity and innovation",
-        "Applies object-oriented programming principles and documentation-based coding practices to ensure modularity, maintainability, and consistency",
-        "Solution Design & Technical Leadership: Assists in converting high-level designs into detailed designs using mock screens, pseudo code, and functional logic",
-        "Evaluates trade-offs and designs scalable, secure, and maintainable software systems aligned with Walmart’s standards",
-        "Participates in design reviews and ensures the implementation of appropriate design patterns and principles",
-        "Demonstrates continuous learning and supports peer growth through mentorship and knowledge sharing",
-        "Customer/Associate Problem Definition & Metrics: Engages stakeholders to identify and refine complex business or user problems",
-        "Translates pain points into actionable technical requirements and defines clear metrics to measure solution success and impact",
-        "Collaborates with cross-functional teams to ensure the delivered solutions meet user needs and technical expectations",
-        "DevOps & Program Monitoring: Conducts complex maintenance procedures and monitors application performance using appropriate metrics and tools",
-        "Ensures adherence to project milestones and timelines through program reporting, CI/CD tools, and program logging systems",
-        "Supports the delivery of high-quality and reliable software systems through proactive monitoring, testing, and continuous integration practices",
-        "Engineering Excellence: Promotes a collaborative engineering mindset focused on continuous improvement and team wellbeing",
-        "Contributes to innovation strategies, internal knowledge sharing, and platform enhancement through engineering best practices",
-        "Supports system uptime, performance, and customer experience by owning the quality and performance of delivered features",
-        "Technical Ownership: Demonstrates responsibility for deliverables, ensuring solutions meet quality standards and business objectives",
-        "Takes initiative to resolve issues and drive projects to completion",
-        "Technical Judgment: Applies sound reasoning to make informed technical decisions, balancing trade-offs and considering long-term impacts on system architecture and business goals",
-        "Change Agility: Adapts quickly to change, embraces new technologies, and understands the broader system context",
-        "Anticipates the downstream effects of technical choices and integrates feedback to improve outcomes",
-        "Collaboration: Works effectively across teams, openly shares knowledge, and communicates complex ideas clearly to both technical and non-technical stakeholders",
-        "Innovation & Continuous Improvement: Proactively seeks opportunities to enhance processes, tools, and products",
-        "Encourages experimentation and learning to drive ongoing improvement",
-        "Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relationships with key stakeholders; supporting plans and initiatives to meet customer and business needs; identifying and communicating goals and objectives; building accountability for and measuring progress in achieving results; identifying and addressing improvement opportunities; and demonstrating adaptability and promoting continuous learning",
-        "Provides supervision and development opportunities for associates by hiring and training; mentoring; assigning duties; providing recognition; and promoting a belonging mindset in workplace",
-        "Ensures compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity by implementing related action plans; utilizing and supporting the Open Door Policy; and providing direction and guidance on applying these in executing business processes and practices",
-        "Respect the Individual: Builds strong and trusting relationships with team members and business partners; works collaboratively and cross-functionally to achieve objectives; and communicates and listens attentively, with energy and positivity to motivate, influence, and inspire commitment and action",
-        "Act with Integrity: Maintains and promotes the highest standards of integrity, ethics and compliance; models the Walmart values and leads by example to foster our culture; supports Walmart’s goal of becoming a regenerative company by making a positive impact for associates, customers, and the world around us (e.g., creating a sense of belonging, eliminating waste, participating in local giving)",
-        "takes action and encourages others to do the same; holds self and others accountable for achieving results in a way that is consistent with our values",
-        "Act with Integrity: Acts as an altruistic servant leader and is consistently humble, self-aware, honest, and transparent",
-        "Serve our Customers and Members: Delivers expected business results while putting the customer/member first and consistently applying an omni-merchant mindset and acts with an Every Day Low-Cost mindset to drive value and Every Day Low Prices for customers/members",
-        "Serve our Customers and Members: Adopts a holistic perspective that considers data, analytics, customer/member insights, and different parts of the business when making plans and shaping the team’s strategy",
-        "Strive for Excellence: Consistently raises the bar and seeks to improve; demonstrates curiosity and a growth mindset; seeks feedback, asks thoughtful questions, fosters an environment that supports learning, innovation, and learning from mistakes, and intelligent risk-taking; and exhibits resilience in the face of setbacks"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-senior-software-engineer-backend-in-goshen-ar",
     "_source": "new_jobs"
   },
   {
@@ -1857,9 +1820,9 @@
     "job_latitude": 36.2647805,
     "job_longitude": -94.2320402,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Df4fqMWirZPk9ix7xAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
@@ -1959,83 +1922,146 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "bWADY9AigHnt-oEOAAAAAA==",
-    "job_title": "Full Stack Developer",
-    "employer_name": "Interon IT Solutions",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDenb9OnVFAylrvyjuiQ0JZRJ486zVVav5RIw8&s=0",
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
+    "job_id": "sx3hXzat2qs_ztoYAAAAAA==",
+    "job_title": "Backend Java, Spring, Springboot, Hibernate, Rest/Soap Engineer",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
     "job_employment_types": [
-      "FULLTIME"
+      "FULLTIME",
+      "PARTTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/full-stack-developer-at-interon-it-solutions-4372129665?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Mountain-View,CA?jid=52c93a723f09be7c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/full-stack-developer-at-interon-it-solutions-4372129665?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Java,-Spring,-Springboot,-Hibernate,-Rest-Soap-Engineer/-in-Mountain-View,CA?jid=52c93a723f09be7c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
       }
     ],
-    "job_description": "Full Stack Developer Cloud Applications (Java / Python / .NET)\n\nMid to Senior Level | Multiple Openings | Multiple Clients & Locations\n\nWe are actively hiring mid to senior-level Full Stack Developers with strong experience in Java, Python, or .NET, combined with modern frontend frameworks such as React or Angular, and hands-on experience building and deploying applications on AWS, Azure, or GCP.\n\nThese roles support multiple enterprise clients across different locations and projects. Positions may be remote, hybrid, or onsite, depending on client requirements.\n\nSummary\n\nWe are seeking Full Stack Developers who can design, develop, and maintain scalable web applications across the frontend and backend. This role involves close collaboration with product owners, architects, DevOps, and QA teams to deliver secure, high-performance, cloud-native applications.\n\nResponsibilities\n• Design, develop, and maintain full-stack web applications using Java, Python, or .NET\n• Build responsive and reusable frontend components using React or Angular\n• Develop and maintain RESTful APIs and microservices\n• Implement secure authentication, authorization, and role-based access\n• Integrate applications with databases, third-party services, and cloud resources\n• Participate in system design, code reviews, and architectural discussions\n• Optimize application performance, scalability, and reliability\n• Collaborate with DevOps teams on CI/CD pipelines and cloud deployments\n• Write clean, maintainable code and technical documentation\n\nCore Skills\n• Strong backend experience in Java (Spring Boot), Python (Django / Flask / FastAPI), or .NET (.NET Core / ASP.NET)\n• Frontend experience with React or Angular (TypeScript, HTML, CSS)\n• Experience building RESTful APIs and microservices architectures\n• Experience with cloud platforms:\n• AWS (EC2, S3, RDS, Lambda, API Gateway)\n• Azure (App Services, Azure SQL, Functions)\n• GCP (Compute Engine, Cloud Run, Cloud SQL)\n• Experience with SQL and/or NoSQL databases\n• Familiarity with Git, CI/CD pipelines, and basic DevOps practices\n\nNice-to-Have Skills\n• Experience with containerization (Docker, Kubernetes)\n• Frontend state management (Redux, NgRx)\n• Experience with event-driven or messaging systems (Kafka, RabbitMQ, SQS)\n• Knowledge of cloud security best practices\n• Exposure to micro-frontend architectures\n• Experience working in Agile / Scrum environments\n\nExperience & Education\n• 5 15 years of experience in Full Stack or Software Development roles\n• Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience\n\nAdditional Information\n\nWe consider candidates across all visa categories. Work-authorized applicants, as well as candidates who may require visa sponsorship now or in the future, will be considered in accordance with applicable laws.\n\nWe are an Equal Opportunity Employer and do not discriminate on the basis of race, color, religion, sex, gender identity, sexual orientation, national origin, age, disability, veteran status, or any other protected characteristic.",
+    "job_description": "Position Summary...\n\nWhat you'll do...\n• ** Immigration Sponsorship support will NOT be available for this position***\n\nAbout the Role:\n\nWalmart’s Catalog organization is seeking a Senior Software Engineer with deep expertise in Java backend development to help build and scale critical services for our e-commerce platform. You will be responsible for designing, developing, and maintaining highly available, scalable microservices that power Walmart’s vast product catalog and associated services.\n\nWhat You'll Do:\n• Design and implement backend services and APIs using Java, Spring, and Kafka\n• Build and maintain distributed, event-driven systems supporting millions of daily transactions\n• Collaborate with cross-functional teams to define system architecture and ensure alignment with business goals\n• Develop and optimize data pipelines and streaming services using Kafka and potentially Spark\n• Ensure code quality through rigorous testing, CI/CD processes, and code reviews\n• Participate in performance tuning and troubleshooting of distributed systems\n• Work with Kubernetes and GitHub for deployment automation and source control management\n\nMust-Have Skills:\n• Strong proficiency in Java (8+) and Spring Framework (Spring Boot, Spring MVC)\n• Experience with Apache Kafka for building streaming and event-driven systems\n• Hands-on experience with Cassandra or other NoSQL databases\n• Solid understanding of microservices architecture and RESTful APIs\n• Experience working with CI/CD pipelines and GitHub workflows\n• Familiarity with container orchestration using Kubernetes\n\nGood to Have:\n• Experience with Apache Spark for real-time data processing\n• Knowledge of performance services and tuning distributed systems\n• Experience with additional NoSQL databases\n• Cloud platform experience (AWS, GCP, or Azure)\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\n‎\n\n‎\n\n‎\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\n‎\n\nFor information about PTO, see https://one.walmart.com/notices.\n\n‎\n\n‎\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\n‎\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\n‎\n\nFor information about benefits and eligibility, see One.Walmart.\n\n‎\nThe annual salary range for this position is $117,000.00-$234,000.00\n\n‎\nAdditional compensation includes annual or quarterly performance bonuses.\n\n‎\nAdditional compensation for certain positions may also include:\n\n‎\n\n‎\n- Stock\n\n‎\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n680 West California Avenue, Sunnyvale, CA 94086-4834, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
     "job_is_remote": false,
     "job_posted_at": "4 days ago",
     "job_posted_at_timestamp": 1770940800,
     "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Rose Hill, VA",
-    "job_city": "Rose Hill",
-    "job_state": "Virginia",
+    "job_location": "Mountain View, CA",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 36.6718216,
-    "job_longitude": -83.3675988,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DbWADY9AigHnt-oEOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_latitude": 37.390026399999996,
+    "job_longitude": -122.0812304,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dsx3hXzat2qs_ztoYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 117000,
+    "job_max_salary": 234000,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Strong backend experience in Java (Spring Boot), Python (Django / Flask / FastAPI), or .NET (.NET Core / ASP.NET)",
-        "Frontend experience with React or Angular (TypeScript, HTML, CSS)",
-        "Experience building RESTful APIs and microservices architectures",
-        "Experience with cloud platforms:",
-        "AWS (EC2, S3, RDS, Lambda, API Gateway)",
-        "Azure (App Services, Azure SQL, Functions)",
-        "GCP (Compute Engine, Cloud Run, Cloud SQL)",
-        "Experience with SQL and/or NoSQL databases",
-        "Familiarity with Git, CI/CD pipelines, and basic DevOps practices",
-        "Nice-to-Have Skills",
-        "Experience with containerization (Docker, Kubernetes)",
-        "Frontend state management (Redux, NgRx)",
-        "Experience with event-driven or messaging systems (Kafka, RabbitMQ, SQS)",
-        "Knowledge of cloud security best practices",
-        "Exposure to micro-frontend architectures",
-        "Experience working in Agile / Scrum environments",
-        "Experience & Education",
-        "5 15 years of experience in Full Stack or Software Development roles",
-        "Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience"
+        "Strong proficiency in Java (8+) and Spring Framework (Spring Boot, Spring MVC)",
+        "Experience with Apache Kafka for building streaming and event-driven systems",
+        "Hands-on experience with Cassandra or other NoSQL databases",
+        "Solid understanding of microservices architecture and RESTful APIs",
+        "Experience working with CI/CD pipelines and GitHub workflows",
+        "Familiarity with container orchestration using Kubernetes",
+        "Experience with Apache Spark for real-time data processing",
+        "Knowledge of performance services and tuning distributed systems",
+        "Experience with additional NoSQL databases",
+        "Cloud platform experience (AWS, GCP, or Azure)",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
+        "Option 2: 5 years’ experience in software engineering or related area",
+        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $117,000.00-$234,000.00",
+        "Additional compensation includes annual or quarterly performance bonuses"
       ],
       "Responsibilities": [
-        "These roles support multiple enterprise clients across different locations and projects",
-        "Positions may be remote, hybrid, or onsite, depending on client requirements",
-        "We are seeking Full Stack Developers who can design, develop, and maintain scalable web applications across the frontend and backend",
-        "This role involves close collaboration with product owners, architects, DevOps, and QA teams to deliver secure, high-performance, cloud-native applications",
-        "Design, develop, and maintain full-stack web applications using Java, Python, or .NET",
-        "Build responsive and reusable frontend components using React or Angular",
-        "Develop and maintain RESTful APIs and microservices",
-        "Implement secure authentication, authorization, and role-based access",
-        "Integrate applications with databases, third-party services, and cloud resources",
-        "Participate in system design, code reviews, and architectural discussions",
-        "Optimize application performance, scalability, and reliability",
-        "Collaborate with DevOps teams on CI/CD pipelines and cloud deployments",
-        "Write clean, maintainable code and technical documentation"
+        "** Immigration Sponsorship support will NOT be available for this position***",
+        "You will be responsible for designing, developing, and maintaining highly available, scalable microservices that power Walmart’s vast product catalog and associated services",
+        "Design and implement backend services and APIs using Java, Spring, and Kafka",
+        "Build and maintain distributed, event-driven systems supporting millions of daily transactions",
+        "Collaborate with cross-functional teams to define system architecture and ensure alignment with business goals",
+        "Develop and optimize data pipelines and streaming services using Kafka and potentially Spark",
+        "Ensure code quality through rigorous testing, CI/CD processes, and code reviews",
+        "Participate in performance tuning and troubleshooting of distributed systems",
+        "Work with Kubernetes and GitHub for deployment automation and source control management"
       ]
     },
-    "job_onet_soc": "15113300",
+    "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-full-stack-developer-at-interon-it-solutions-4372129665",
+    "id": "www-ziprecruiter-com-c-walmart-job-backend-java-spring-springboot-hibernate-rest-soap-engineer-in-mountain-view-ca",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "qocIl8VShdusOz_QAAAAAA==",
+    "job_title": "Backend Senior Software Engineer",
+    "employer_name": "Walmart",
+    "employer_logo": null,
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Senior-Software-Engineer/-in-Gravette,AR?jid=4746f128cb41920b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Senior-Software-Engineer/-in-Gravette,AR?jid=4746f128cb41920b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Jobs.appcast.io",
+        "apply_link": "https://jobs.appcast.io/walmart/backend-senior-software-engineer/52662732164?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position Summary...As a member of the Information Security (InfoSec) Global Tech Assurance team, you will play an important role in designing, developing, and implementing solutions/tooling to aide in our objective of creating automated processes and preventative/detective controls to ensure policy compliance. You will be responsible for designing and developing platforms to create consistent, verifiable, and automatic management of solutions/tooling that enable us and our stakeholders in automated detections of technical control anomalies or systematically testing for continuous compliance.\n\nWhat you'll do...About Our Team In an environment where IT-related risks are on the rise and constantly changing, the ability to provide confidence that our technical controls in high-risk areas are operating effectively is paramount. The Global Tech Assurance team collaborates with business partners, Governance, and Global Tech teams to ensure applications are properly deployed, monitored, and controlled to meet appropriate levels of compliance for industry, legal, governmental, risk and safety standards. We also work to create automated preventative and detective controls and processes as well as implementing systematic testing for continuous compliance to provide confidence key technical controls are functioning as intended. What you'll do... As a Senior Software Engineer - Global Tech Assurance Engineering, you’ll have the following responsibilities: • Scope, design, develop, test, deploy, and enhance solutions to support our Technology Assurance initiatives • Collaborate with team members to develop best practices and technical requirements for our monitoring platform or any software/tooling developed. • Cooperate with 4ITB (Tech Assurance, Governance SME, Business SME, Tech Engineering team) team to influence improved product development. • Develop and optimize monitoring and log analysis for solutions integrated to the telemetry platform. • Setup up rules, alerts, and reports to identify technical control anomalies or systematically testing for continuous compliance • Developing and maintaining documentation to be used as a playbook by technical teams or other team members. • Collaborate with your team to perform design and code reviews, provide constructive feedback, improve operational excellence to ensure high quality, high availability, scalable and performant solutions. • Willing to learn and contribute in any layer of the stack, from front-end development to backend services and data What you’ll bring… • Experience in an infrastructure, systems, engineering, or development environment delivering operational excellence to highly complex distributed systems • Experience working with and developing monitoring/tooling/logging solutions like Splunk, Grafana, Kibana, Graphite, Nagios, New Relic, Dynatrace, and Prometheus • Programming experience in one or more of the following languages: Python (preferred), Go, Java, Shell, etc. • Methodical and systematic problem-solving approach, combined with a solid awareness of ownership, initiative, and drive • Experience investigating, analyzing, and troubleshooting large scale enterprise systems • Developing, mentoring, and providing opportunities for the technical reporting, alerting, and dashboards • Working knowledge of one or more cloud technologies such as AZURE, GCP, OpenStack • Experience with distributed version control like Git or similar • CI/CD Automation experience with tools like Git, Maven, Jenkins & Azure DevOps • Experience in data science/machine learning would be advantageous • Work exposure on Agile and DevOps methodologies • Adaptability and curiosity as a fast learner with rapidly changing business needs and tech advancements • Experience in data infosec tools and techniques would be significantly advantageous • Familiarity with developing within ServiceNow or Digital tracking technologies would be a bonus\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nBachelor’s degree in Computer Science, Information Technology, or related field and 5 years' experience in information technology within the past\n10 years OR 7 years' experience in information technology or related field within the past 10 years.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nCertified Intrusion analyst (GCIAs), GIAC Certified Enterprise Defender (GCED), Certified Geographic Information Systems Professional (GISP), GIAC Certified Incident Handler (GCIH), Certified Information Systems Security Professional (CISSP), Certified Information Systems Auditor (CISA), GIAC Security Essentials Certification (GSEC), and/or Security+ certification, Leading Technical Team, Mainframe Technology, Professional certification in information technology relevant to the job under consideration (for example, Java, C/C++, mainframe technologies, SAP, Microsoft .Net, business intelligence tools, SQL technology), Programming language or languages (for example, Java, C/C++, .NET, Rexx, Cobol, Powershell), SAP, SQL technology, Version control software (for example, Subversion, Git, Librarian), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n805 Se Moberly Ln, Bentonville, AR 72712, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Gravette, AR",
+    "job_city": "Gravette",
+    "job_state": "Arkansas",
+    "job_country": "US",
+    "job_latitude": 36.422294799999996,
+    "job_longitude": -94.4518839,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqocIl8VShdusOz_QAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 90000,
+    "job_max_salary": 180000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {},
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-backend-senior-software-engineer-in-gravette-ar",
     "_source": "new_jobs"
   },
   {
@@ -2105,9 +2131,9 @@
     "job_latitude": 40.7127753,
     "job_longitude": -74.0059728,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Deh7oyULP293rinsOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -2164,90 +2190,106 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "dwmYxVyhg2-k3lT7AAAAAA==",
-    "job_title": "Software Engineer, Backend  (Consumer - Growth)",
-    "employer_name": "Coinbase",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OL4_4viaeK1GNWKlusWTU0WPLNurfsu9Lsbt&s=0",
-    "employer_website": "https://www.coinbase.com",
-    "job_publisher": "WhatJobs",
+    "job_id": "8IKMVMoiFvKSOEyPAAAAAA==",
+    "job_title": "Backend Senior Software Engineer",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/backend-developer?id=2452040701&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Senior-Software-Engineer/-in-Rogers,AR?jid=15914d96ea4e0015&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/backend-developer?id=2452040701&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Backend-Senior-Software-Engineer/-in-Rogers,AR?jid=15914d96ea4e0015&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Jobs.appcast.io",
+        "apply_link": "https://jobs.appcast.io/walmart/backend-senior-software-engineer/52662732763?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-wy-all-cities-lead-robotics-software-engineer-behavior-planning?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Browse Hire Pay",
+        "apply_link": "https://browsehirepay.com/joblistings/y8wpusco5gab-ce6ed-df72-b35605ebd6d82782cda-7e17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Ready to be pushed beyond what you think you're capable of?\nAt Coinbase, our mission is to increase economic freedom in the world. It's a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform - and with it, the future global financial system.\nTo achieve our mission, we're seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company's hardest problems.\nOur is intense and isn't for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there's no better place to be.\nWhile many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.\nCoinbase is seeking experienced backend engineers to join our team to build out the next generation of crypto-forward products and features. You will solve unique, large scale, highly complex technical problems, bridging the constraints posed by web-scale applications and blockchain technology. You will help build the next generation of systems to make cryptocurrency accessible to everyone across the globe, operating real-time applications with high frequency, low latency updates, and managing the most secure infrastructure running in the cloud.\nThe Growth organization drives Coinbase's mission of bringing the world onchain. By building and leveraging growth tools across multiple avenues, including referral and incentives programs, creating a world-class notifications system, building a dynamic, engaging, and accessible logged-out web experience, and optimizing our new user onboarding flow, we ensure that Coinbase is the easiest, safest, and fastest way to buy, hold, and trade Crypto assets, and ensure our new users are set up for success from their first interaction.\nWhat you'll be doing:\n• Build and run experiments to power the growth of Coinbase's retail products.\n• Design scalable systems to solve novel problems with modern cloud technology and industry best practices.\n• Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter.\n• Write high quality, well tested code to meet the needs of your customers.\nWhat we look for in you:\n• You have at least 2+ years of experience in software engineering.\n• You've designed, built, scaled and maintained production services, and know how to compose a service oriented architecture.\n• You write high quality, well tested code to meet the needs of your customers.\n• You're passionate about building an open financial system that brings the world together.\nNice to haves:\n• You have experience launching new products from 0 to 1\n• Experience with growth experiments or A/B testing frameworks.\n• You have experience with Blockchain technology (such as Bitcoin, Ethereum etc..)\n• You've worked with Golang, Ruby, Docker, Rails, Postgres, MongoDB or DynamoDB.\n• You've built fintech, highly reliable and/or secure systems.\n• Crypto-forward experience, including familiarity with onchain activity such as interacting with Ethereum addresses, using ENS, and engaging with dApps or blockchain-based services.\nJob #: GCBE04US\n• Answers to crypto-related questions may be used to evaluate your onchain experience.\n\\#LI-Remote\nFor select roles, Coinbase is piloting an AI tool based on machine learning technologies to conduct initial screening interviews to qualified applicants. The tool simulates realistic interview scenarios and engages in dynamic conversation. Your interview responses, in the form of a voice recording and/or transcript will be assessed in terms of the job qualifications and characteristics listed in the position description above by a human recruiter.\nFor other select roles, Coinbase is piloting BrightHire, an AI interview intelligence platform, to transcribe and summarize interview notes, allowing our interviewers to fully focus on you as the candidate.\nDepending on your role and stage in the application process, you will be informed of the specifics regarding which tool(s) will be used as part of the interview process.\nThese interview tools enable us to give a greater number of candidates an initial interview who meet our mandatory hiring criteria. The above pilots are for testing purposes and Coinbase will not use AI to make an employment decision. To request a reasonable accommodation due to disability, please contact mailto:\n• Pay Transparency Notice*: Depending on your work location, the target annual *base *salary for this position can range as detailed below. Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k)).\nBase salary range shown. Total compensation also includes equity and bonus eligibility and benefits:\n$152,405-$179,300 USD\nPlease be advised that each candidate may submit a maximum of four applications within any 30-day period. We encourage you to carefully evaluate how your skills and interests align with Coinbase's roles before applying.\nCommitment to Equal Opportunity\nCoinbase is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view the in certain locations, as required by law.\nCoinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations Data Privacy Notice for Job Candidates and Applicants*\nDepending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available Disclosure*\nFor select roles, Coinbase is piloting an AI tool based on machine learning technologies to conduct initial screening interviews to qualified applicants. The tool simulates realistic interview scenarios and engages in dynamic conversation. A human recruiter will review your interview responses, provided in the form of a voice recording and/or transcript, to assess them against the qualifications and characteristics outlined in the job description.\nFor select roles, Coinbase is also piloting an AI interview intelligence platform to transcribe and summarize interview notes, allowing our interviewers to fully focus on you as the candidate.\n• The above pilots are for testing purposes and Coinbase will not use AI to make decisions impacting employment*. To request a reasonable accommodation due to disability, please contact accommodations(at)coinbase.com",
+    "job_description": "Position Summary...\n\nWhat you'll do...Join Walmart Global Tech as a Senior Software Engineer, Backend, where you will build and enhance scalable systems that power seamless digital experiences for millions of customers worldwide. You will work across diverse systems and domains, contributing to the design and development of critical backend services that support Walmart’s digital ecosystem—from checkout and fulfillment to user engagement journeys. About the Team Our team partners closely with our U.S. Stores and Walmart Health & Wellness businesses to better serve customers by empowering associates, pharmacies, and clinics through technological innovation. Whether customers engage with clinicians online via Walmart.com, through our mobile apps, or in-store, Walmart Health & Wellness delivers an extensive suite of services that customers and patients value. What You'll Do\n• Architect, design, and develop scalable backend services and APIs that support complex digital experiences.\n• Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey.\n• Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements.\n• Optimize application performance while ensuring high code quality.\n• Mentor junior engineers and promote knowledge sharing within the team.\n• Advocate for best practices in service architecture, security, and testing.\n• Build and maintain secure, high-performance, fault-tolerant distributed systems.\n• Develop reusable frameworks and components for backend service integrations.\n• Maintain code quality through automated testing, continuous integration, and thorough code reviews.\n• Troubleshoot and resolve production issues across complex system components.\n• Build scalable, reliable systems capable of handling large volumes of traffic and data.\n• Write clean, efficient, maintainable code aligned with engineering best practices.\n• Debug and troubleshoot issues within distributed systems across multiple environments.\n• Contribute to performance optimization, security enhancements, and system resilience.\n• Participate in code reviews and provide constructive feedback to peers.\nWhat You’ll Bring\n• 6–9 years of total experience, including 5+ years in backend engineering and platform development.\n• 5+ years of experience with Java technologies, distributed systems, and large-scale application design and development.\n• Hands-on experience with Spring Boot, REST, Kafka, and Cassandra.\n• Experience with containerization technologies and microservices architecture.\n• Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools.\n• Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications.\n• Strong adherence to SDLC processes and Scrum/Agile methodologies.\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n2501 Se J St, Ste A, Bentonville, AR 72716-3724, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
     "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Wyoming",
-    "job_city": null,
-    "job_state": "Wyoming",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Rogers, AR",
+    "job_city": "Rogers",
+    "job_state": "Arkansas",
     "job_country": "US",
-    "job_latitude": 43.0759678,
-    "job_longitude": -107.29028389999999,
+    "job_latitude": 36.333512899999995,
+    "job_longitude": -94.12569529999999,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdwmYxVyhg2-k3lT7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8IKMVMoiFvKSOEyPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 90000,
+    "job_max_salary": 180000,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up",
-        "We want someone who will run towards, not away from, solving the company's hardest problems",
-        "You have at least 2+ years of experience in software engineering",
-        "You've designed, built, scaled and maintained production services, and know how to compose a service oriented architecture",
-        "You write high quality, well tested code to meet the needs of your customers",
-        "You're passionate about building an open financial system that brings the world together",
-        "You have experience launching new products from 0 to 1",
-        "Experience with growth experiments or A/B testing frameworks",
-        "You have experience with Blockchain technology (such as Bitcoin, Ethereum etc..)",
-        "You've worked with Golang, Ruby, Docker, Rails, Postgres, MongoDB or DynamoDB",
-        "You've built fintech, highly reliable and/or secure systems",
-        "Crypto-forward experience, including familiarity with onchain activity such as interacting with Ethereum addresses, using ENS, and engaging with dApps or blockchain-based services"
+        "6–9 years of total experience, including 5+ years in backend engineering and platform development",
+        "5+ years of experience with Java technologies, distributed systems, and large-scale application design and development",
+        "Hands-on experience with Spring Boot, REST, Kafka, and Cassandra",
+        "Experience with containerization technologies and microservices architecture",
+        "Strong understanding of CI/CD pipelines, DevOps practices, and monitoring tools",
+        "Expertise in Java, multithreading, data structures, algorithms, and design patterns to build robust, high‑performance, scalable applications",
+        "Strong adherence to SDLC processes and Scrum/Agile methodologies",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
+        "Option 2: 5 years’ experience in software engineering or related area",
+        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
       ],
       "Benefits": [
-        "Pay Transparency Notice*: Depending on your work location, the target annual *base *salary for this position can range as detailed below",
-        "Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k))",
-        "Base salary range shown",
-        "Total compensation also includes equity and bonus eligibility and benefits:",
-        "$152,405-$179,300 USD"
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
       ],
       "Responsibilities": [
-        "In-person participation is required throughout the year",
-        "Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment",
-        "Attendance is expected and fully supported",
-        "You will solve unique, large scale, highly complex technical problems, bridging the constraints posed by web-scale applications and blockchain technology",
-        "You will help build the next generation of systems to make cryptocurrency accessible to everyone across the globe, operating real-time applications with high frequency, low latency updates, and managing the most secure infrastructure running in the cloud",
-        "Build and run experiments to power the growth of Coinbase's retail products",
-        "Design scalable systems to solve novel problems with modern cloud technology and industry best practices",
-        "Work with engineers, designers, product managers and senior leadership to turn our product and technical vision into a tangible roadmap every quarter",
-        "Write high quality, well tested code to meet the needs of your customers",
-        "Answers to crypto-related questions may be used to evaluate your onchain experience",
-        "The tool simulates realistic interview scenarios and engages in dynamic conversation"
+        "Architect, design, and develop scalable backend services and APIs that support complex digital experiences",
+        "Collaborate with cross-functional teams—including product, frontend, data, and UX—to design solutions that enhance the customer journey",
+        "Lead technical initiatives, including solution architecture, performance tuning, and system scalability improvements",
+        "Optimize application performance while ensuring high code quality",
+        "Mentor junior engineers and promote knowledge sharing within the team",
+        "Advocate for best practices in service architecture, security, and testing",
+        "Build and maintain secure, high-performance, fault-tolerant distributed systems",
+        "Develop reusable frameworks and components for backend service integrations",
+        "Maintain code quality through automated testing, continuous integration, and thorough code reviews",
+        "Troubleshoot and resolve production issues across complex system components",
+        "Build scalable, reliable systems capable of handling large volumes of traffic and data",
+        "Write clean, efficient, maintainable code aligned with engineering best practices",
+        "Debug and troubleshoot issues within distributed systems across multiple environments",
+        "Contribute to performance optimization, security enhancements, and system resilience",
+        "Participate in code reviews and provide constructive feedback to peers"
       ]
     },
-    "job_onet_soc": "15113300",
+    "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-backend-developer",
+    "id": "www-ziprecruiter-com-c-walmart-job-backend-senior-software-engineer-in-rogers-ar",
     "_source": "new_jobs"
   }
 ]
