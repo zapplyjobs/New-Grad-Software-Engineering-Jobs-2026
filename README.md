@@ -9,16 +9,16 @@
 
 # Software Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-6-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
-![Backend](https://img.shields.io/badge/Backend-6-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
+![Backend](https://img.shields.io/badge/Backend-4-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 6+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 6+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 4+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 4+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,16 +69,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>⚙️ <strong>Backend</strong> (6 positions)</h3></summary>
+<summary><h3>⚙️ <strong>Backend</strong> (4 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **BeaconFire Inc.** | Software Engineer-iOS | Rose Hill, Virginia | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-ios-at-beaconfire-inc-4364420355?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Bank of Montreal** | Software Developer, Summer 2026 ... | Georgia | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.bmo.com/us/en/job/BOMOGLOBALR260004443EXTERNALENUS/Software-Developer-Summer-2026-%C2%A0-Co-op-Internship-10-Weeks?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Infosys LTD** | Dotnet Full Stack Developer | Pennington, New Jersey | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/dotnet-full-stack-developer-pennington-infosys-ltd-1eaad21ae90079f5754f63aef352c7c4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Wanderlog** | Full-Stack Software Engineer (Ne... | San Francisco, California | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ycombinator.com/companies/wanderlog/jobs/NQ2vBFd-full-stack-software-engineer-new-recent-graduates-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Automationtechies** | Full-Stack SW Developer - Python... 🏠 | Raleigh, North Carolina | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/full-stack-sw-developer-python-programmer-at-automationtechies-4371071644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Waste Connections** | Full Stack Developer (ASP MVC .N... | The Woodlands, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.wasteconnections.com/us/en/job/R-93760/Full-Stack-Developer-ASP-MVC-NetCore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Independent Software, Inc.** | Software Engineer, Level 1 | Ellicott City, Maryland | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-level-1-at-independent-software-inc-4368865469?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -143,7 +141,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 1 positions
-- **🏢 Companies**: 6 companies
+- **🏢 Companies**: 4 companies
 - **🏷️ Top Category**: Backend
 
 <details>
@@ -151,7 +149,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Vaco LLC** | Full Stack Developer | Blue Ash, Ohio | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.vaco.com/job/10701/full_stack_developer/en?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Outside Analytics** | Mid Full Stack Engineer (5000) (... 🏠 | Broomfield, Colorado | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.builtincolorado.com/job/mid-full-stack-engineer-4890-secret-broomfield-co/8363692?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -165,7 +163,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 6 current opportunities from 6 companies**
+**🎯 4 current opportunities from 4 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
