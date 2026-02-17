@@ -38,9 +38,9 @@
     "job_latitude": 37.5485396,
     "job_longitude": -121.98858299999999,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTwYOKGMtdnwtf7fYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
@@ -68,6 +68,57 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "2FZnRX_V2Fd3oeylAAAAAA==",
+    "job_title": "Senior Web Developer: Lead Secure, High-Impact Web Apps Job at Peraton in Falls",
+    "employer_name": "Peraton",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU3FiPriOsmZGVvPbxJfkBli0vmhi00h7nKW7P&s=0",
+    "employer_website": "https://www.peraton.com",
+    "job_publisher": "Expertini",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://fallschurch.us.expertini.com/job/senior-web-developer-lead-secure-high-impact-web-apps-job-at-peraton-in-falls-falls-church-peraton-8c75943456cf/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Expertini",
+        "apply_link": "https://fallschurch.us.expertini.com/job/senior-web-developer-lead-secure-high-impact-web-apps-job-at-peraton-in-falls-falls-church-peraton-8c75943456cf/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A next-generation national security company is seeking an experienced Senior Web Developer to innovate and design web-based applications. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and modern frameworks like React. With responsibilities that include project management and user-focused design, this role offers a competitive salary range of $104,000 to $166,000, influenced by experience and geographic location. Candidates must have a BS/BA and be US Citizens with the ability to obtain a Public Trust.\n#J-18808-Ljbffr",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Falls Church, VA",
+    "job_city": "Falls Church",
+    "job_state": "Virginia",
+    "job_country": "US",
+    "job_latitude": 38.882334,
+    "job_longitude": -77.1710914,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2FZnRX_V2Fd3oeylAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have strong skills in HTML, CSS, JavaScript, and modern frameworks like React",
+        "Candidates must have a BS/BA and be US Citizens with the ability to obtain a Public Trust"
+      ],
+      "Benefits": [
+        "With responsibilities that include project management and user-focused design, this role offers a competitive salary range of $104,000 to $166,000, influenced by experience and geographic location"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "fallschurch-us-expertini-com-job-senior-web-developer-lead-secure-high-impact-web-apps-job-at-peraton-in-falls-falls-church-peraton-8c75943456cf",
     "_source": "new_jobs"
   },
   {
@@ -180,119 +231,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "2FZnRX_V2Fd3oeylAAAAAA==",
-    "job_title": "Senior Web Developer: Lead Secure, High-Impact Web Apps Job at Peraton in Falls",
-    "employer_name": "Peraton",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU3FiPriOsmZGVvPbxJfkBli0vmhi00h7nKW7P&s=0",
-    "employer_website": "https://www.peraton.com",
-    "job_publisher": "Expertini",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://fallschurch.us.expertini.com/job/senior-web-developer-lead-secure-high-impact-web-apps-job-at-peraton-in-falls-falls-church-peraton-8c75943456cf/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Expertini",
-        "apply_link": "https://fallschurch.us.expertini.com/job/senior-web-developer-lead-secure-high-impact-web-apps-job-at-peraton-in-falls-falls-church-peraton-8c75943456cf/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A next-generation national security company is seeking an experienced Senior Web Developer to innovate and design web-based applications. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and modern frameworks like React. With responsibilities that include project management and user-focused design, this role offers a competitive salary range of $104,000 to $166,000, influenced by experience and geographic location. Candidates must have a BS/BA and be US Citizens with the ability to obtain a Public Trust.\n#J-18808-Ljbffr",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Falls Church, VA",
-    "job_city": "Falls Church",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 38.882334,
-    "job_longitude": -77.1710914,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2FZnRX_V2Fd3oeylAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate will have strong skills in HTML, CSS, JavaScript, and modern frameworks like React",
-        "Candidates must have a BS/BA and be US Citizens with the ability to obtain a Public Trust"
-      ],
-      "Benefits": [
-        "With responsibilities that include project management and user-focused design, this role offers a competitive salary range of $104,000 to $166,000, influenced by experience and geographic location"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "fallschurch-us-expertini-com-job-senior-web-developer-lead-secure-high-impact-web-apps-job-at-peraton-in-falls-falls-church-peraton-8c75943456cf",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "IcpWQTey8_bDQ713AAAAAA==",
-    "job_title": "Web Developer at Kodelinkers United States",
-    "employer_name": "Kodelinkers",
-    "employer_logo": null,
-    "employer_website": "https://kodelinkers.com",
-    "job_publisher": "Caribbean Regional Midwives Association",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://caribbeanregionalmidwivesassociation.com/list/job/web-developer-at-kodelinkers-united-states-ZGFUenVxYWFsRXp1RUMvVTNVdW1LNmZuZ1E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Caribbean Regional Midwives Association",
-        "apply_link": "https://caribbeanregionalmidwivesassociation.com/list/job/web-developer-at-kodelinkers-united-states-ZGFUenVxYWFsRXp1RUMvVTNVdW1LNmZuZ1E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Web Developer job at Kodelinkers. United States.\n\nWe are looking for a Technical Support who has familiarity with web development and is comfortable being the primary contact for clients. The daily technical work is handled by our team, so your involvement stays light and focused on communication and general oversight.\n\nRequirements:\n• Must be a US citizen (no exceptions)\n• Strong written and verbal communication skills\n• Experience with technical customer support\n• Basic to intermediate experience with web development\n(Languages like HTML, CSS, JavaScript, Node.js, PHP, Python, or others are a bonus)\n• Reliable, detail-oriented, and organized\n\nHours & Pay:\n• Part-time to start (5–10 hours/week)\n• Hourly rate based on experience\n\nTo Apply:\n• Confirm you are a US citizen .\n• Briefly describe your experience with both support/assistant roles and coding.\n• Include your availability and hourly rate.\n\nLooking forward to working with someone proactive and tech-savvy.",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Mt Tremper, NY",
-    "job_city": "Mt Tremper",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 42.0448136,
-    "job_longitude": -74.2754247,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIcpWQTey8_bDQ713AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "We are looking for a Technical Support who has familiarity with web development and is comfortable being the primary contact for clients",
-        "Must be a US citizen (no exceptions)",
-        "Strong written and verbal communication skills",
-        "Experience with technical customer support",
-        "Basic to intermediate experience with web development",
-        "(Languages like HTML, CSS, JavaScript, Node.js, PHP, Python, or others are a bonus)",
-        "Reliable, detail-oriented, and organized",
-        "Confirm you are a US citizen ",
-        "Briefly describe your experience with both support/assistant roles and coding"
-      ],
-      "Benefits": [
-        "Part-time to start (5–10 hours/week)",
-        "Hourly rate based on experience"
-      ],
-      "Responsibilities": [
-        "The daily technical work is handled by our team, so your involvement stays light and focused on communication and general oversight"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "caribbeanregionalmidwivesassociation-com-list-job-web-developer-at-kodelinkers-united-states-zgfuenvxywfsrxp1rumvvtnvdw1lnmzuz1e9pq",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "Et9fdttaOP7vFE8eAAAAAA==",
     "job_title": "Software Engineer-iOS",
     "employer_name": "BeaconFire Inc.",
@@ -355,6 +293,68 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-linkedin-com-jobs-view-software-engineer-ios-at-beaconfire-inc-4364420355",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "IcpWQTey8_bDQ713AAAAAA==",
+    "job_title": "Web Developer at Kodelinkers United States",
+    "employer_name": "Kodelinkers",
+    "employer_logo": null,
+    "employer_website": "https://kodelinkers.com",
+    "job_publisher": "Caribbean Regional Midwives Association",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://caribbeanregionalmidwivesassociation.com/list/job/web-developer-at-kodelinkers-united-states-ZGFUenVxYWFsRXp1RUMvVTNVdW1LNmZuZ1E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Caribbean Regional Midwives Association",
+        "apply_link": "https://caribbeanregionalmidwivesassociation.com/list/job/web-developer-at-kodelinkers-united-states-ZGFUenVxYWFsRXp1RUMvVTNVdW1LNmZuZ1E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Web Developer job at Kodelinkers. United States.\n\nWe are looking for a Technical Support who has familiarity with web development and is comfortable being the primary contact for clients. The daily technical work is handled by our team, so your involvement stays light and focused on communication and general oversight.\n\nRequirements:\n• Must be a US citizen (no exceptions)\n• Strong written and verbal communication skills\n• Experience with technical customer support\n• Basic to intermediate experience with web development\n(Languages like HTML, CSS, JavaScript, Node.js, PHP, Python, or others are a bonus)\n• Reliable, detail-oriented, and organized\n\nHours & Pay:\n• Part-time to start (5–10 hours/week)\n• Hourly rate based on experience\n\nTo Apply:\n• Confirm you are a US citizen .\n• Briefly describe your experience with both support/assistant roles and coding.\n• Include your availability and hourly rate.\n\nLooking forward to working with someone proactive and tech-savvy.",
+    "job_is_remote": false,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Mt Tremper, NY",
+    "job_city": "Mt Tremper",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 42.0448136,
+    "job_longitude": -74.2754247,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIcpWQTey8_bDQ713AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "We are looking for a Technical Support who has familiarity with web development and is comfortable being the primary contact for clients",
+        "Must be a US citizen (no exceptions)",
+        "Strong written and verbal communication skills",
+        "Experience with technical customer support",
+        "Basic to intermediate experience with web development",
+        "(Languages like HTML, CSS, JavaScript, Node.js, PHP, Python, or others are a bonus)",
+        "Reliable, detail-oriented, and organized",
+        "Confirm you are a US citizen ",
+        "Briefly describe your experience with both support/assistant roles and coding"
+      ],
+      "Benefits": [
+        "Part-time to start (5–10 hours/week)",
+        "Hourly rate based on experience"
+      ],
+      "Responsibilities": [
+        "The daily technical work is handled by our team, so your involvement stays light and focused on communication and general oversight"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "caribbeanregionalmidwivesassociation-com-list-job-web-developer-at-kodelinkers-united-states-zgfuenvxywfsrxp1rumvvtnvdw1lnmzuz1e9pq",
     "_source": "new_jobs"
   },
   {
@@ -424,8 +424,8 @@
     "job_latitude": 33.1496718,
     "job_longitude": -96.835567,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD5rVDrynyJhWv_3dAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -476,54 +476,84 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "dEVVe5bMeF3rOFIZAAAAAA==",
-    "job_title": "Software Engineer - Web Apps, AWS & Leadership",
-    "employer_name": "Texas State Technical College",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwVeAMHnNPPXmP8TnJdAeBW6DoFBi8hfvsg9u&s=0",
-    "employer_website": null,
-    "job_publisher": "Learn4Good",
+    "job_id": "Sz2zdXwNwyNiMyipAAAAAA==",
+    "job_title": "Front-End / UI Developer",
+    "employer_name": "Eliassen Group",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWop18VwcEzcZgeltuKbLGUjvJOqR0z64TH6AR&s=0",
+    "employer_website": "https://www.eliassen.com",
+    "job_publisher": "Lensa",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.learn4good.com/jobs/waco/texas/software_development/4866120405/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://lensa.com/job-v1/eliassen-group/salem-or/front-end-ui-developer/ea0815fcfa2b71e5f9dea4425e0468c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/waco/texas/software_development/4866120405/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/eliassen-group/salem-or/front-end-ui-developer/ea0815fcfa2b71e5f9dea4425e0468c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Position: Staff Software Engineer - Web Apps, AWS & Leadership\nA technical training institution in Texas is looking for a highly motivated Staff Software Engineer to design and launch features for their web application. The ideal candidate should have over 10 years of experience in web application development, a strong grasp of Ruby on Rails and JavaScript, and expertise in SQL. This role involves collaborating with team members, maintaining high coding standards, and tackling complex software challenges.\n\nJoin a dynamic team focused on providing innovative solutions to enhance opportunities for jobseekers and educators.\n#J-18808-Ljbffr",
+    "job_description": "Front-End / UI Developer\n\nAnywhere\n\nType: Contract\n\nCategory: Development\n\nIndustry: Government\n\nWorkplace Type: Remote\n\nReference ID: JN -022026-105384\n\nDate Posted: 02/05/2026\n\nShortcut: http://careers.eliassen.com/jeiYZB\n• Description\n• Recommended Jobs\n\nDescription:\n\nRemote\n\nOur client is a respected public-sector organization undertaking a significant web modernization initiative. The effort emphasizes accessibility, responsive design, and open-source collaboration to improve public-facing digital services.\n\nDue to federal security clearance requirements, the applicant must be a United States Citizen or Permanent Resident. Due to client requirements, applicants must be willing and able to work on a w2 basis. For our w2 consultants, we offer a great benefits package that includes Medical, Dental, and Vision benefits, 401k with company matching, and life insurance.\n\nRate: $40.00 to $50.00/hr. w2\n\nResponsibilities:\n\nResponsibilities\n• Design and develop responsive, accessible web interfaces using modern HTML5, CSS3, and JavaScript standards.\n• Implement CSS frameworks and preprocessors such as LESS, SASS, Bourbon, and Twitter Bootstrap.\n• Develop JavaScript using strict mode, modularization practices, and libraries such as jQuery, Backbone.js, Ember.js, and D3.\n• Consume and integrate RESTful APIs to power dynamic front-end features.\n• Create web layouts from static image designs and wireframes.\n• Build views and templates within full-stack frameworks such as Rails, Express, or Django.\n• Collaborate within agile teams using Scrum or Lean methodologies.\n• Use Git and GitHub for version control, code review, and collaboration.\n• Ensure compliance with Section 508 accessibility standards across delivered interfaces.\n• Leverage and contribute to open-source solutions and the broader development community.\n• Implement and extend design system components using tools such as Figma.\n• Perform testing and support automated testing efforts as needed.\n\nExperience Requirements:\n\nExperience Requirements\n• 3+ years of professional experience in front-end or web application development.\n• Hands-on proficiency with HTML, CSS, and JavaScript.\n• Experience with modern JavaScript frameworks and libraries.\n• Experience consuming RESTful web services.\n• Working knowledge of accessibility standards, including Section 508.\n• Experience working in agile development environments.\n• Proficiency with Git and GitHub for version control.\n• Ability to translate visual designs into high-quality, functional user interfaces.\n• Experience with Angular (preferred).\n• Experience with Python-based web development (preferred).\n• Familiarity with Selenium or automated testing tools (preferred).\n• Experience implementing enterprise or government design systems (preferred).\n• Prior experience supporting federal clients or large-scale public sector systems (preferred).\n\nRecruitment Transparency Notice\n\nEliassen Group values transparency in our recruitment practices. Please be advised that Eliassen Group utilizes artificial intelligence (AI) tools as part of its initial application screening process. You may receive email and SMS notifications from the Eliassen Virtual Recruiting Team ( noreply@eliassen.com , 781-808-2924) inviting you to complete a brief voice screening as part of your application process. These tools assist our hiring teams in different ways, including but not limited to, assistance in reviewing application materials to help identify candidates whose qualifications most closely match the requirements of the position. All AI-assisted evaluations and responses are reviewed by human recruiters before any hiring decisions are made. The use of AI in our process is intended to support fairness, efficiency, and consistency, and Eliassen Group takes measures to prevent bias or discrimination in connection with its hiring practices. By proceeding, you acknowledge, agree, and consent to Eliassen Group’s use of these tools, including AI tools, as part of the application and hiring process.\n\nSkills, experience, and other compensable factors will be considered when determining pay rate. The pay range provided in this posting reflects a W2 hourly rate; other employment options may be available that may result in pay outside of the provided range.\n\nW2 employees of Eliassen Group who are regularly scheduled to work 30 or more hours per week are eligible for the following benefits: medical (choice of 3 plans), dental, vision, pre-tax accounts, other voluntary benefits including life and disability insurance, 401(k) with match, and sick time if required by law in the worked-in state/locality.\n\nPlease be advised- If anyone reaches out to you about an open position connected with Eliassen Group, please confirm that they have an Eliassen.com email address and never provide personal or financial information to anyone who is not clearly associated with Eliassen Group. If you have any indication of fraudulent activity, please contact InfoSec@eliassen.com .\n\nAbout Eliassen Group:\n\nEliassen Group is a leading strategic consulting company for human-powered solutions. For over 30 years, Eliassen has helped thousands of companies reach further and achieve more with their technology solutions, financial, risk & compliance, and advisory solutions, and clinical solutions. With offices from coast to coast and throughout Europe, Eliassen provides a local community presence, balanced with international reach. Eliassen Group strives to positively impact the lives of their employees, clients, consultants, and the communities in which they operate.\n\nEliassen Group is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.\n\nDon’t miss out on our referral program! If we hire a candidate that you refer us to then you can be eligible for a $1,000 referral check!",
     "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Waco, TX",
-    "job_city": "Waco",
-    "job_state": "Texas",
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Salem, OR",
+    "job_city": "Salem",
+    "job_state": "Oregon",
     "job_country": "US",
-    "job_latitude": 31.5575916,
-    "job_longitude": -97.1289922,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdEVVe5bMeF3rOFIZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 80000,
-    "job_max_salary": 100000,
-    "job_salary_period": "YEAR",
+    "job_latitude": 44.9362411,
+    "job_longitude": -123.0407496,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSz2zdXwNwyNiMyipAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "A technical training institution in Texas is looking for a highly motivated Staff Software Engineer to design and launch features for their web application",
-        "The ideal candidate should have over 10 years of experience in web application development, a strong grasp of Ruby on Rails and JavaScript, and expertise in SQL"
+        "Due to federal security clearance requirements, the applicant must be a United States Citizen or Permanent Resident",
+        "Due to client requirements, applicants must be willing and able to work on a w2 basis",
+        "3+ years of professional experience in front-end or web application development",
+        "Hands-on proficiency with HTML, CSS, and JavaScript",
+        "Experience with modern JavaScript frameworks and libraries",
+        "Experience consuming RESTful web services",
+        "Working knowledge of accessibility standards, including Section 508",
+        "Experience working in agile development environments",
+        "Proficiency with Git and GitHub for version control",
+        "Ability to translate visual designs into high-quality, functional user interfaces",
+        "By proceeding, you acknowledge, agree, and consent to Eliassen Group’s use of these tools, including AI tools, as part of the application and hiring process"
+      ],
+      "Benefits": [
+        "For our w2 consultants, we offer a great benefits package that includes Medical, Dental, and Vision benefits, 401k with company matching, and life insurance",
+        "Rate: $40.00 to $50.00/hr",
+        "The pay range provided in this posting reflects a W2 hourly rate; other employment options may be available that may result in pay outside of the provided range",
+        "W2 employees of Eliassen Group who are regularly scheduled to work 30 or more hours per week are eligible for the following benefits: medical (choice of 3 plans), dental, vision, pre-tax accounts, other voluntary benefits including life and disability insurance, 401(k) with match, and sick time if required by law in the worked-in state/locality",
+        "If we hire a candidate that you refer us to then you can be eligible for a $1,000 referral check!"
       ],
       "Responsibilities": [
-        "This role involves collaborating with team members, maintaining high coding standards, and tackling complex software challenges",
-        "Join a dynamic team focused on providing innovative solutions to enhance opportunities for jobseekers and educators"
+        "Design and develop responsive, accessible web interfaces using modern HTML5, CSS3, and JavaScript standards",
+        "Implement CSS frameworks and preprocessors such as LESS, SASS, Bourbon, and Twitter Bootstrap",
+        "Develop JavaScript using strict mode, modularization practices, and libraries such as jQuery, Backbone.js, Ember.js, and D3",
+        "Consume and integrate RESTful APIs to power dynamic front-end features",
+        "Create web layouts from static image designs and wireframes",
+        "Build views and templates within full-stack frameworks such as Rails, Express, or Django",
+        "Collaborate within agile teams using Scrum or Lean methodologies",
+        "Use Git and GitHub for version control, code review, and collaboration",
+        "Ensure compliance with Section 508 accessibility standards across delivered interfaces",
+        "Leverage and contribute to open-source solutions and the broader development community",
+        "Implement and extend design system components using tools such as Figma",
+        "Perform testing and support automated testing efforts as needed"
       ]
     },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-learn4good-com-jobs-waco-texas-software_development-4866120405-e",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "lensa-com-job-v1-eliassen-group-salem-or-front-end-ui-developer-ea0815fcfa2b71e5f9dea4425e0468c9",
     "_source": "new_jobs"
   },
   {
@@ -819,8 +849,8 @@
     "job_longitude": -77.09098089999999,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DasJsZR0TkQ8UMyXJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 129000,
@@ -998,6 +1028,62 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "TcoPxssvY8HWnT7nAAAAAA==",
+    "job_title": "Designer and Web Lead",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=b8ff4064dd50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=b8ff4064dd50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for an Associate - Designer & Web Lead.\n\nKey Responsibilities\n\nLead the design and layout of sales collateral, including pitch decks and campaign assets\n\nManage the corporate website, including content updates and performance monitoring\n\nEnsure brand consistency and visual identity across all departments and marketing materials\n\nRequired Qualifications\n\nBachelor's degree in Graphic Design, Digital Media, Web Development, or a related field\n\n1-3 years of experience as a Designer / Webmaster, preferably in Fintech or Web3\n\nStrong portfolio showcasing sophisticated institutional design and web projects\n\nProficiency in HTML, CSS, and JavaScript for web functionality\n\nAbility to deliver high-quality work under tight deadlines",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Sterling Heights, MI",
+    "job_city": "Sterling Heights",
+    "job_state": "Michigan",
+    "job_country": "US",
+    "job_latitude": 42.5803122,
+    "job_longitude": -83.0302033,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTcoPxssvY8HWnT7nAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's degree in Graphic Design, Digital Media, Web Development, or a related field",
+        "1-3 years of experience as a Designer / Webmaster, preferably in Fintech or Web3",
+        "Strong portfolio showcasing sophisticated institutional design and web projects",
+        "Proficiency in HTML, CSS, and JavaScript for web functionality",
+        "Ability to deliver high-quality work under tight deadlines"
+      ],
+      "Responsibilities": [
+        "Lead the design and layout of sales collateral, including pitch decks and campaign assets",
+        "Manage the corporate website, including content updates and performance monitoring",
+        "Ensure brand consistency and visual identity across all departments and marketing materials"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "lsBWEjPbSNymaDWmAAAAAA==",
     "job_title": "PySpark & Delta Lake Developer",
     "employer_name": "i4DM",
@@ -1136,174 +1222,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "69Olzxb5ymWFBz5JAAAAAA==",
-    "job_title": "Mid-Level Full Stack.NET Developer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=2855b8d470de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=2855b8d470de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Mid-Level Full Stack .NET Developer.\n\nKey Responsibilities\n\nBuild high quality applications and services using C# / .NET, Angular, and modern development frameworks\n\nParticipate in peer code reviews, raising quality and sharing knowledge across the team\n\nTroubleshoot complex issues collaboratively and maintain CI / CD pipelines\n\nRequired Qualifications\n\n4+ years full stack development experience using C# / .NET Core\n\n3+ years experience with SQL Server or other relational databases\n\nSolid proficiency in HTML, CSS, JavaScript\n\nPractical experience with Angular (v19)\n\nProven ability to design and build RESTful APIs",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Marietta, GA",
-    "job_city": "Marietta",
-    "job_state": "Georgia",
-    "job_country": "US",
-    "job_latitude": 33.9532531,
-    "job_longitude": -84.5499358,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D69Olzxb5ymWFBz5JAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "4+ years full stack development experience using C# / .NET Core",
-        "3+ years experience with SQL Server or other relational databases",
-        "Solid proficiency in HTML, CSS, JavaScript",
-        "Practical experience with Angular (v19)",
-        "Proven ability to design and build RESTful APIs"
-      ],
-      "Responsibilities": [
-        "Build high quality applications and services using C# / .NET, Angular, and modern development frameworks",
-        "Participate in peer code reviews, raising quality and sharing knowledge across the team",
-        "Troubleshoot complex issues collaboratively and maintain CI / CD pipelines"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "TcoPxssvY8HWnT7nAAAAAA==",
-    "job_title": "Designer and Web Lead",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=b8ff4064dd50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=b8ff4064dd50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for an Associate - Designer & Web Lead.\n\nKey Responsibilities\n\nLead the design and layout of sales collateral, including pitch decks and campaign assets\n\nManage the corporate website, including content updates and performance monitoring\n\nEnsure brand consistency and visual identity across all departments and marketing materials\n\nRequired Qualifications\n\nBachelor's degree in Graphic Design, Digital Media, Web Development, or a related field\n\n1-3 years of experience as a Designer / Webmaster, preferably in Fintech or Web3\n\nStrong portfolio showcasing sophisticated institutional design and web projects\n\nProficiency in HTML, CSS, and JavaScript for web functionality\n\nAbility to deliver high-quality work under tight deadlines",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Sterling Heights, MI",
-    "job_city": "Sterling Heights",
-    "job_state": "Michigan",
-    "job_country": "US",
-    "job_latitude": 42.5803122,
-    "job_longitude": -83.0302033,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTcoPxssvY8HWnT7nAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's degree in Graphic Design, Digital Media, Web Development, or a related field",
-        "1-3 years of experience as a Designer / Webmaster, preferably in Fintech or Web3",
-        "Strong portfolio showcasing sophisticated institutional design and web projects",
-        "Proficiency in HTML, CSS, and JavaScript for web functionality",
-        "Ability to deliver high-quality work under tight deadlines"
-      ],
-      "Responsibilities": [
-        "Lead the design and layout of sales collateral, including pitch decks and campaign assets",
-        "Manage the corporate website, including content updates and performance monitoring",
-        "Ensure brand consistency and visual identity across all departments and marketing materials"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "FGuBJ8wz0GdfOOMgAAAAAA==",
-    "job_title": "Lead WordPress Developer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=095bba67d4b1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=095bba67d4b1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Lead WordPress Developer.\n\nKey Responsibilities\n\nDevelop and customize WordPress themes and plugins\n\nOptimize website performance and scalability\n\nLead projects to migrate non-WordPress sites to WordPress\n\nRequired Qualifications\n\nBachelor's degree in marketing, business, communications, or related field OR relevant work experience\n\n6+ years of experience in WordPress development\n\nStrong proficiency in PHP, JavaScript, HTML, CSS, and MS SQL\n\nExperience with custom theme and plugin development\n\nKnowledge of SEO best practices and website performance optimization",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Anaheim, CA",
-    "job_city": "Anaheim",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 33.836593199999996,
-    "job_longitude": -117.9143012,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFGuBJ8wz0GdfOOMgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's degree in marketing, business, communications, or related field OR relevant work experience",
-        "6+ years of experience in WordPress development",
-        "Strong proficiency in PHP, JavaScript, HTML, CSS, and MS SQL",
-        "Experience with custom theme and plugin development",
-        "Knowledge of SEO best practices and website performance optimization"
-      ],
-      "Responsibilities": [
-        "Develop and customize WordPress themes and plugins",
-        "Optimize website performance and scalability",
-        "Lead projects to migrate non-WordPress sites to WordPress"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "vG7ROS064S2YH6yuAAAAAA==",
     "job_title": "Full Developer",
     "employer_name": "KSN Technologies. Inc",
@@ -1365,6 +1283,62 @@
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "FGuBJ8wz0GdfOOMgAAAAAA==",
+    "job_title": "Lead WordPress Developer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=095bba67d4b1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=095bba67d4b1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Lead WordPress Developer.\n\nKey Responsibilities\n\nDevelop and customize WordPress themes and plugins\n\nOptimize website performance and scalability\n\nLead projects to migrate non-WordPress sites to WordPress\n\nRequired Qualifications\n\nBachelor's degree in marketing, business, communications, or related field OR relevant work experience\n\n6+ years of experience in WordPress development\n\nStrong proficiency in PHP, JavaScript, HTML, CSS, and MS SQL\n\nExperience with custom theme and plugin development\n\nKnowledge of SEO best practices and website performance optimization",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Anaheim, CA",
+    "job_city": "Anaheim",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 33.836593199999996,
+    "job_longitude": -117.9143012,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFGuBJ8wz0GdfOOMgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's degree in marketing, business, communications, or related field OR relevant work experience",
+        "6+ years of experience in WordPress development",
+        "Strong proficiency in PHP, JavaScript, HTML, CSS, and MS SQL",
+        "Experience with custom theme and plugin development",
+        "Knowledge of SEO best practices and website performance optimization"
+      ],
+      "Responsibilities": [
+        "Develop and customize WordPress themes and plugins",
+        "Optimize website performance and scalability",
+        "Lead projects to migrate non-WordPress sites to WordPress"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
     "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
