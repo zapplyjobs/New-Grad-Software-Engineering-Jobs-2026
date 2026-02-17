@@ -148,8 +148,8 @@
     "job_latitude": 38.804693,
     "job_longitude": -77.0435257,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De0k-lK6t1CnrMfi7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -317,8 +317,8 @@
     "job_longitude": -94.2347599,
     "job_benefits": [
       "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFqS2-ABp4wxLSVEAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
@@ -534,642 +534,94 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "UpRRo1nX37BYoa-PAAAAAA==",
-    "job_title": "CNO Software Engineer / Developer",
-    "employer_name": "Lockheed Martin",
-    "employer_logo": null,
-    "employer_website": "https://www.lockheedmartin.com",
-    "job_publisher": "Lockheed Martin Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/hanover/cno-software-engineer-developer/694/91621943840?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Lockheed Martin Careers",
-        "apply_link": "https://www.lockheedmartinjobs.com/job/hanover/cno-software-engineer-developer/694/91621943840?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=d2c74c037ecab887&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/e84e0f1b-13ee-4326-b8a9-d7fdfe77c26d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Lockheed-Martin/Job/CNO-Software-Engineer-Developer/-in-Hanover,MD?jid=defdef2711c711c7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698cfe370f6f7e7a2ce8aa3d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "FactoryFix",
-        "apply_link": "https://jobs.factoryfix.com/jobs/cno-software-engineer-developer--hanover--md--934305423--V2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/8285441779596001280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-md-hanover-cno-software-engineer-developer-lockheed-martin-corporation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description:Yes! Up to $25K Sign-On Bonus for External Hires\n\nWHAT WE’RE DOING\nLockheed Martin Cyber & Intelligence is at the forefront of defending our nation against advanced cyber threats. We develop innovative offensive cyber capabilities that protect national security and preserve our way of life. Our work directly impacts the safety and security of millions.\n\nExplore our Cyber Mission | Lockheed Martin\n\nTHE WORK\n\nAre you driven by the thrill of outsmarting advanced security systems? Do you find satisfaction in staying one step ahead of adversaries?\n\nJoin Lockheed Martin Cyber & Intelligence's Offensive Cyber team—where we don't just test defenses, we pioneer the techniques, tools, and exploits that define the cutting edge of offensive cyber operations.\n\nWe're seeking highly skilled offensive cyber professionals who are passionate and driven to develop solutions that surpass existing security measures. As a member of our team, you'll design and implement advanced capabilities, think creatively, and push the boundaries of what's possible.\n\nWHO YOU ARE\n\nAs a CNO (Computer Network Operations) offensive cyber professional, you'll operate as a 'cyber warrior'—harnessing expertise in computer systems and networks to disrupt and disable adversary capabilities.\n\nWe're hiring for multiple specializations:\nVulnerability Analysts\nExploit Developers\nHardware/Software Reverse Engineers\nOffensive Cyber Tool Developers\nEmbedded Developers\nCyber Researchers\n\nTechnology domains include:\nTraditional computing (Windows/Linux/MacOS)\nMobile platforms (Android/iOS)\nWireless technology, IoT, ICS/SCADA\nEnterprise technologies\nSpecial-purpose embedded and real-time systems\n\nKey responsibilities:\nDesign, develop, and integrate offensive cyber tools and exploits\nConduct vulnerability research and reverse engineering\nDevelop innovative solutions to stay ahead of emerging threats\nCollaborate with cyber professionals on mission-critical operations\nTest and validate capabilities\n\nWHY JOIN US\nStability Meets Innovation\nStop searching for your next assignment with every contract change. Join a company with incredible breadth and depth in programs and technologies—work that will never leave you bored or looking for what's next.\n\nMission That Matters\nYour work directly protects national security and makes a tangible difference in the world.\n\nCareer Growth\nWork alongside industry-leading experts, gain exposure to cutting-edge technologies, and build skills that define your career trajectory in offensive cyber operations.\n\nYour Health, Your Wealth, Your Life\nCompetitive pay, flexible schedules, and comprehensive benefits enable you to live a healthy, fulfilling life at and outside of work.\n\nLearn more about Lockheed Martin’s comprehensive benefits package\n\nWe support our employees, so they can support the mission.\n\n#OneLMHotJobs\n#RMSTG2026\nBasic Qualifications:\n✅ Active US security clearance with polygraph (required)\n\n✅ Education: Bachelor's degree in Computer Science, Information Systems, or Network Engineering from an accredited institution OR 4 years equivalent hands-on experience in lieu of degree\n\n✅ Programming experience with one or more: Assembly, C, C++, or Python\n\n✅ Platform experience in one or more: Windows, Unix, Embedded, or Mobile platform applications\nDesired Skills:\n⭐ 2+ years professional experience in computer science\n\n⭐ Ability to design, write, and execute comprehensive software test plans\n\n⭐ Experience with reverse engineering or vulnerability analysis\n\n⭐ Knowledge of networking protocols and socket-level programming\n\n⭐ Familiarity with debugging and troubleshooting complex systems\nClearance Level: TS/SCI w/Poly SP\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 9x80 every other Friday off\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $76,500 - $134,895. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: Experienced Professional\nBusiness Unit: RMS\nRelocation Available: Possible\nCareer Area: Cyber Security\nType: Task Order/IDIQ\nShift: First",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Hanover, MD",
-    "job_city": "Hanover",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 39.195504199999995,
-    "job_longitude": -76.7228227,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUpRRo1nX37BYoa-PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "As a CNO (Computer Network Operations) offensive cyber professional, you'll operate as a 'cyber warrior'—harnessing expertise in computer systems and networks to disrupt and disable adversary capabilities",
-        "Test and validate capabilities",
-        "✅ Active US security clearance with polygraph (required)",
-        "✅ Education: Bachelor's degree in Computer Science, Information Systems, or Network Engineering from an accredited institution OR 4 years equivalent hands-on experience in lieu of degree",
-        "✅ Programming experience with one or more: Assembly, C, C++, or Python",
-        "✅ Platform experience in one or more: Windows, Unix, Embedded, or Mobile platform applications",
-        "⭐ 2+ years professional experience in computer science",
-        "⭐ Ability to design, write, and execute comprehensive software test plans",
-        "⭐ Experience with reverse engineering or vulnerability analysis",
-        "⭐ Knowledge of networking protocols and socket-level programming",
-        "⭐ Familiarity with debugging and troubleshooting complex systems",
-        "Clearance Level: TS/SCI w/Poly SP"
-      ],
-      "Benefits": [
-        "Up to $25K Sign-On Bonus for External Hires",
-        "Stop searching for your next assignment with every contract change",
-        "Work alongside industry-leading experts, gain exposure to cutting-edge technologies, and build skills that define your career trajectory in offensive cyber operations",
-        "Your Health, Your Wealth, Your Life",
-        "Competitive pay, flexible schedules, and comprehensive benefits enable you to live a healthy, fulfilling life at and outside of work",
-        "Learn more about Lockheed Martin’s comprehensive benefits package",
-        "Schedules range from standard 40 hours over a five day work week while others may be condensed",
-        "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
-        "Schedule for this Position: 9x80 every other Friday off",
-        "Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $76,500 - $134,895",
-        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
-        "(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
-        "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
-        "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year",
-        "This position is incentive plan eligible",
-        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
-        "Relocation Available: Possible"
-      ],
-      "Responsibilities": [
-        "Special-purpose embedded and real-time systems",
-        "Design, develop, and integrate offensive cyber tools and exploits",
-        "Conduct vulnerability research and reverse engineering",
-        "Develop innovative solutions to stay ahead of emerging threats",
-        "Collaborate with cyber professionals on mission-critical operations"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-lockheedmartinjobs-com-job-hanover-cno-software-engineer-developer-694-91621943840",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "C0PUnMlnvNGzUELsAAAAAA==",
-    "job_title": "Staff, Software Engineer, Back End",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Staff,-Software-Engineer,-Back-End/-in-Elkins,AR?jid=a3d1c9d1d3913664&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Staff,-Software-Engineer,-Back-End/-in-Elkins,AR?jid=a3d1c9d1d3913664&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-2850-e11696a95512a618ef90d846fe11ad07?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Summary...\n\nWhat you'll do...About Team\nThe Walmart Emerging-Tech group is a group charted to drive the creation of the next generation retail and shopping experiences for both online and in-store. The group leads Walmart’s efforts in the areas of Emerging Content, XR, Conversational AI, Voice Assistants, and more. As the Emerging Content team, we are building completely new capabilities to allow our customers discover and interact with products online. In addition to the end-user experiences the group also builds platform APIs and tools to enable other teams leverage next-generation content. What you'll do:\n• Stay abreast with technical advancements and drive system architecture and software development processes.\n• Lead and mentor teams in the implementation of complex systems, fostering a culture of technical excellence and innovation.\n• Be hands-on in prototyping, researching, and coding scalable, consumer-facing systems.\n• Collaborate with business and product teams to achieve our long-term business goals.\n• Champion operational and engineering excellence.\n• Participate in code reviews, operational reviews, architectural discussions, and troubleshooting sessions to ensure the highest standards of development.\n• Provide mentorship to engineers, managers, and others to help develop great talent.\n\nWhat you'll bring:\n• At least 8+ years of software engineering experience in building highly available systems.\n• BS or MS in Computer Science or related degree.\n• Programming languages, particularly Java.\n• Data engineering and handling large datasets.\n• Databases, including vector and big data technologies.\n• Distributed computing, containerization (Docker/K8s), and multi-cloud.\n• Proven track record of building successful software systems from inception to deployment.\n• Proven track record of building solutions that solve highly complex business problems.\n• Outstanding problem-solving skills, with the ability to make design trade-offs, balancing long-term \"big picture\" considerations with short-term implications of design decisions.\n• Expertise in distributed systems, service-oriented architecture, CI/CD, and operational excellence best practices.\n• Effective communication and collaboration skills, including consensus building, conflict resolution, influence, and persuasion skills.\n• Proven track record of mentoring and coaching engineers in technical problem-solving and career development.\n• Curiosity and strong ability to learn new domains and technologies.\n• Preferred experience with GenAI technologies such as LLMs and RAG and Cloud-based AI platforms like GCP Vertex AI or Azure.\n\nAbout Walmart Global Tech:\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\nWalmart's culture is a competitive advantage, and its fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nYour Career Journey at Walmart\nAt Walmart, we want to make sure your experience connecting with us is seamless and straightforward. Here’s what to expect when interacting with us as recruiters:\nWe’ll reach out via verified LinkedIn profiles or emails ending in \"@walmart.com.” or “@samsclub.com”. All job opportunities and applications are hosted on our official careers site: http://careers.walmart.com. There is no cost or payment required to apply or be considered for a position.\nIf you have any doubts about a communication, feel free to visit our careers page to verify authenticity. Thank you for exploring opportunities at Walmart!\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $110,000.00 - $220,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 4 years’ experience in software engineering or related area.\nOption 2: 6 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 2 years' experience in software engineering or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n805 Se Moberly Ln, Bentonville, AR 72712, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Elkins, AR",
-    "job_city": "Elkins",
-    "job_state": "Arkansas",
-    "job_country": "US",
-    "job_latitude": 36.000651399999995,
-    "job_longitude": -94.0088348,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DC0PUnMlnvNGzUELsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 110000,
-    "job_max_salary": 220000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "At least 8+ years of software engineering experience in building highly available systems",
-        "BS or MS in Computer Science or related degree",
-        "Programming languages, particularly Java",
-        "Data engineering and handling large datasets",
-        "Databases, including vector and big data technologies",
-        "Distributed computing, containerization (Docker/K8s), and multi-cloud",
-        "Proven track record of building successful software systems from inception to deployment",
-        "Proven track record of building solutions that solve highly complex business problems",
-        "Outstanding problem-solving skills, with the ability to make design trade-offs, balancing long-term \"big picture\" considerations with short-term implications of design decisions",
-        "Expertise in distributed systems, service-oriented architecture, CI/CD, and operational excellence best practices",
-        "Effective communication and collaboration skills, including consensus building, conflict resolution, influence, and persuasion skills",
-        "Proven track record of mentoring and coaching engineers in technical problem-solving and career development",
-        "Curiosity and strong ability to learn new domains and technologies",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 4 years’ experience in software engineering or related area",
-        "Option 2: 6 years’ experience in software engineering or related area",
-        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 2 years' experience in software engineering or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
-        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $110,000.00 - $220,000.00 Additional compensation includes annual or quarterly performance bonuses"
-      ],
-      "Responsibilities": [
-        "Stay abreast with technical advancements and drive system architecture and software development processes",
-        "Lead and mentor teams in the implementation of complex systems, fostering a culture of technical excellence and innovation",
-        "Be hands-on in prototyping, researching, and coding scalable, consumer-facing systems",
-        "Collaborate with business and product teams to achieve our long-term business goals",
-        "Champion operational and engineering excellence",
-        "Participate in code reviews, operational reviews, architectural discussions, and troubleshooting sessions to ensure the highest standards of development",
-        "Provide mentorship to engineers, managers, and others to help develop great talent",
-        "That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-staff-software-engineer-back-end-in-elkins-ar",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "BEbhxioJvACXJVWYAAAAAA==",
-    "job_title": "Software Engineer Intern",
-    "employer_name": "111 ResMed SaaS Holdings Inc.",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Workday",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Atlanta-GA-United-States/Software-Engineer-Intern_JR_047982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Workday",
-        "apply_link": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Atlanta-GA-United-States/Software-Engineer-Intern_JR_047982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobvite",
-        "apply_link": "https://jobs.jobvite.com/laserfiche/job/opPryfwX?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Wd1.Myworkdaysite.com",
-        "apply_link": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer-Intern_R0044581-1?source=BuiltInNationwide&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/software-engineer-intern_7ea1ac6d2192c0b67ddf921a708ba53c1b23a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs",
-        "apply_link": "https://jobs.ashbyhq.com/conductorai/7ced6847-cd04-4a51-ae6e-b9a0a602d44e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=c9e2d6d2e23f5dfd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Wellfound",
-        "apply_link": "https://wellfound.com/jobs/192581-intern-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Y Combinator's Work At A Startup",
-        "apply_link": "https://www.workatastartup.com/jobs/75196?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "As an intern at ResMed, you’ll gain hands-on experience, learn from experts, and collaborate with teams that do truly amazing things. Over the course of our 12-week internship experience you will have the opportunity to: Work directly with a mentor in your field of study while finding solutions to real world problems Experience our products up close by working with one of our Digital Health Technologies teams Interact directly with our company leaders Build a lasting professional network through social events and engaging activities Gain the skills and knowledge to become a future leader in the medical technology industry Let’s Talk about Responsibilities: Cloud & Serverless Development Assist in building and deploying AWS Lambda functions Help configure and integrate API Gateway endpoints Work with DynamoDB and S3 for data storage Support infrastructure setup under supervision (CDK / CloudFormation exposure preferred) Participate in debugging, monitoring, and logging in cloud environments Backend Development (.NET) Develop and maintain backend APIs using C# and .NET Implement business logic under guidance Write unit tests for backend services Assist with API validation and data transformations AI & Automation Support implementation of AI agents or AI-driven workflows Integrate LLM APIs into backend systems Assist in building prompt-driven workflows and agent orchestration patterns Evaluate and experiment with AI tools for internal automation Engineering Best Practices Follow secure coding practices Participate in code reviews Write technical documentation Collaborate in sprint planning and retrospectives Learn and apply CI/CD principles Basic Qualifications (Required Skill/Experience): Ability to work full-time for 12 weeks during Summer 2026; program dates are May 18th – August 7th, 2026, OR June 15th – September 4th, 2026. Preference for Cohort B. Currently pursuing Bachelor’s Degree in Computer Science, Software Engineering or related. Hands-on experience with: C# / .NET, REST APIs, Git Exposure to AWS (even academic projects or labs acceptable) Demonstrated experience or strong interest in: AI agents, LLM-based applications, Prompt engineering or AI API integration Strong analytical and problem-solving skills Ability to work in a collaborative team environment Preferred Qualifications (Desired Skills/Experience): Experience with AWS: Lambda, API Gateway, DynamoDB, S3 Familiarity with Infrastructure as Code (CDK, Terraform, CloudFormation) AWS Cloud Practitioner certification Experience building: AI-powered applications, Automation bots, Conversational AI tools Understanding of authentication concepts (JWT, OAuth basics) Pay Range: Please note that the salary information shown below is a general guideline only. Salaries are based upon candidate experience and qualifications, as well as market and business considerations. We are shaping the future at ResMed, and we recognize the need to build on and broaden our existing skills and continue to attract and retain the world’s best talent. All Interns will be hired through our staffing provider partner and will not be a direct employee of ResMed, your Recruiter will provide more details. Individual pay decisions will be made by our staffing provider partner and are based on a variety of factors, such as the candidate’s geographic work location, relevant qualifications, work experience, and skills. Pay Range for this position: $23.25 - $35.75/hour, depending on experience & job classification Equal Opportunity Employer ResMed is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law. #techintern Joining us is more than saying “yes” to making the world a healthier place. It’s discovering a career that’s challenging, supportive and inspiring. Where a culture driven by excellence helps you not only meet your goals, but also create new ones. We focus on creating a diverse and inclusive culture, encouraging individual expression in the workplace and thrive on the innovative ideas this generates. If this sounds like the workplace for you, apply now! We commit to respond to every applicant. Resmed (NYSE:RMD, ASX: RMD) creates life-changing health technologies that people love. We’re relentlessly committed to pioneering innovative technology to empower millions of people in more than 140 countries to live happier, healthier lives. Our AI-powered digital health solutions, cloud-connected devices and intelligent software make home healthcare more personalized, accessible and effective. Ultimately, Resmed envisions a world where every person can achieve their full potential through better sleep and breathing, with care delivered in their own home. Learn more about how we’re redefining sleep health at Resmed.com and follow @Resmed.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "United States",
-    "job_city": null,
-    "job_state": null,
-    "job_country": "US",
-    "job_latitude": 38.794595199999996,
-    "job_longitude": -106.5348379,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBEbhxioJvACXJVWYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "resmed-wd3-myworkdayjobs-com-en-us-resmed_external_careers-job-atlanta-ga-united-states-software-engineer-intern_jr_047982",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Q4pCOKTszo44srZ5AAAAAA==",
-    "job_title": "Staff Backend Engineer, Agentic AI",
-    "employer_name": "Artera.io",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJ4rOPqkubDomz-QwECDI2BfSax0wuMo0uN7A&s=0",
-    "employer_website": "https://artera.io",
-    "job_publisher": "Adzuna",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.adzuna.com/details/5631319633?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5631319633?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Artera/Job/Staff-Backend-Engineer,-Agentic-AI/-in-Kansas-City,MO?jid=15c6c2b5f4b3b27e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "JobTarget",
-        "apply_link": "https://www.jobtarget.com/jobs/jt-qgh6u5w49o/staff-backend-engineer-agentic-ai-kansas-city-missouri?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/0e3bb1201360eebb504976751182445a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/1209115647674417152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-mo-missouri-kansas-staff-backend-engineer-agentic-ai-artera-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Staff Backend Engineer, Agentic AI\n\nABOUT ARTERA\nOur Mission: Make healthcare #1 in customer service.\nWhat We Deliver: Artera, a SaaS leader in digital health, transforms patient experience with AI-powered virtual agents (voice and text) for every step of the patient journey. Trusted by 1,000+ provider organizations including specialty groups, FQHCs, large IDNs and federal agencies engaging 100 million patients annually. Arteras virtual agents support front desk staff to improve patient access including self-scheduling, intake, forms, billing and more. Whether augmenting a team or unleashing a fully autonomous digital workforce, Artera offers multiple virtual agent options to meet healthcare organizations where they are in their AI journey. Artera helps support 2B communications in 109 languages across voice, text and web. A decade of healthcare expertise, powered by AI.\nOur Impact: Trusted by 1,000+ provider organizations including specialty groups, FQHCs, large IDNs and federal agencies engaging 100 million patients annually. Hear from our CEO, Guillaume de Zwirek, about why we are standing at the edge of the biggest technological shift in healthcares history!\nOur award-winning culture: Our award-winning culture: Since founding in 2015, Artera has consistently been recognized for its innovative technology, business growth, and named a top place to work. Examples of these accolades include: Inc. 5000 Fastest Growing Private Companies (2020, 2021, 2022, 2023, 2024); Deloitte Technology Fast 500 (2021, 2022, 2023, 2024, 2025); Built In Best Companies to Work For (2021, 2022, 2023, 2024, 2025, 2026). Artera has also been recognized by Forbes as one of Americas Best Startup Employers, Newsweek as one of the Worlds Best Digital Health Companies, and named one of the top 44 Startups to Bet your Career on in 2024 by Business Insider.\nApplicants must be currently authorized and have the ability to provide proof of full-time, long-term authorization to work in the United States. We are unable to provide visa sponsorship or support visa transfers now or in the future.\nJOB SUMMARY\nArteras Engineering team is seeking a Staff Backend Engineer to help define, evolve, and scale the platform that powers next-generation patient communicationespecially as we accelerate our work in agentic AI, MCP (Model Context Protocol) servers, and high-throughput distributed systems.\nThis role reports directly to the VP of Engineering and is responsible for shaping platform architecture, driving technical excellence across teams, and leading execution on high-risk or high-impact initiatives critical to Arteras long-term success. You will be a multiplier: architecting large-scale systems, mentoring engineers, and ensuring our platform remains resilient, performant, and ready for the next wave of AI-driven patient engagement.\nRESPONSIBILITES\nTechnical Leadership- Serve as a domain expert in backend architecture, distributed systems, and high-throughput IO.- Drive company-wide architectural patterns, platform strategy, and engineering standards.- Lead execution on complex, open-ended projects spanning multiple quartersincluding 2026 initiatives in agentic AI and MCP server infrastructure.- Own cross-team architectural buy-in and guide teams through refactors and modernization efforts.\nExecution & Delivery- Independently design and deliver large-scale features that impact multiple products or services.- Systematically reason through system-wide implications, edge cases, and performance trade-offs.- Identify and eliminate sources of instability, latency, and operational risk.- Build from scratch when neededespecially for distributed IO-intensive systems.\nMentorship & Culture- Model engineering maturity through thoughtful code reviews, documentation, and technical communication.- Mentor engineers across teams; elevate their understanding of architecture, debugging, reliability, and AI-era best practices.- Foster a blameless culture that encourages learning, experimentation, and continuous improvement.- Champion transparency, clear communication, and strong cross-functional collaboration.\nCollaboration- Partner with product, design, and data/ML teams to translate complex technical ideas into practical, user-centered solutions.- Provide architectural guidance on story-level decisions within your domain.- Advocate for engineering-focused improvements in process, tooling, reliability, and developer experience.Requirements\n• Bachelors degree in STEM\n• 10+ years of equivalent professional experience building and scaling cloud-native applications\n• Deep experience with event-sourced, microservice, and distributed architectures\n• Expert at integrating LLMs and agentic tools like Claude Code to automate and enhance development workflows.\n• Advanced TypeScript skills, focusing on building scalable, type-safe, and high-performance backend services.\n• Expert in Node.js and NEST, with a focus on modular system design and enterprise-level API structures.\n• Advanced proficiency in SQL, especially PostgreSQL schema design and optimization\n• Experience with asynchronous, high-volume messaging or event-driven systems\n• Strong commitment to testing, observability, and operational excellence\n• Excellent communicatorable to influence stakeholders and product\n• Proven ability to lead technical initiatives and mentor engineers\n• Strong customer empathy and an understanding of how technical decisions influence user experience\n• Familiarity with Docker & containerized environments, AWS (or similar cloud providers), Python (for platform tools, services, or ML integrations)\nBonus Experience\n• Experience with large-scale remote/hybrid teams\n• Contributions to open source\n• Collaboration/contributions with the open source community\nThe compensation for this role will be based on level of experience and the geographic tier in which you are located. This position also comes with equity and a variety of benefits.Security Requirements for Engineering RolesThis engineering role contributes to a secure, federally compliant platform. Candidates must be eligible for a government background check and operate within strict code management, access, and documentation standards. Security-conscious development and participation in compliance practices are core to the role.\nOUR APPROACH TO WORK LOCATIONArtera has hybrid office locations in Santa Barbara, CA, and Philadelphia (Wayne), PA, where team members typically come in three days a week. Specific frequency can vary depending on your team's needs, manager expectations and/or role responsibilities.\nIn addition to our U.S. office locations, we are intentionally building geographically concentrated teams in several key metropolitan areas, which we call our Hiring Hubs. We are currently hiring remote candidates located within the following hiring hubs:- Boston Metro Area, MA- Chicago Metro Area, IL- Denver Metro Area, CO- Kansas City Metro Area (KS/MO)- Los Angeles Metro Area, CA- San Francisco / Bay Area, CA- Seattle Metro Area, WA\nThis hub-based model helps us cultivate strong local connections and team cohesion, even in a distributed environment.\nTo be eligible for employment at Artera, candidates must reside in one of our hybrid office cities or one of the designated hiring hubs. Specific roles may call out location preferences when relevant.\nAs our hubs grow, we may establish local offices to further enhance in-person connection and collaboration. While there are no current plans in place, should an office open in your area, we anticipate implementing a hybrid model. Any future attendance expectations would be developed thoughtfully, considering factors like typical commute times and access to public transit, to ensure they are fair and practical for the local team.\nWORKING AT ARTERA Company benefits - Full health benefits (medical, dental, and vision), flexible spending accounts, company paid life insurance, company paid short-term & long-term disability, company equity, voluntary benefits, 401(k) and more! Career development - Manager development cohorts, employee development fundsGenerous time off - Company holidays, Winter & Summer break, and flexible time offEmployee Resource Groups (ERGs) - We believe that everyone should belong at their workplace. Our ERGs are available for identifying employees or allies to join.\nEQUAL EMPLOYMENT OPPORTUNITY (EEO) STATEMENTArtera is an Equal Opportunity Employer and is committed to fair and equitable hiring practices. All hiring decisions at Artera are based on strategic business needs, job requirements, and individual qualifications. All candidates are considered without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, genetics, protected veteran status, or any other protected status.\nIn compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.\nArtera is committed to providing employees with a work environment free of discrimination and harassment; Artera will not tolerate discrimination or harassment of any kind. Artera provides reasonable accommodations for applicants and employees in compliance with state and federal laws. If you need an accommodation, please reach out to hr@artera.io.\nDATA PRIVACYArtera values your privacy. By submitting your application, you consent to the processing of your personal information provided in conjunction with your application. For more information please refer to our Privacy Policy.\nSECURITY REQUIREMENTSAll employees are responsible for protecting the confidentiality, integrity, and availability of the organizations systems and data, including safeguarding Arteras sensitive information such as, Personal identifiable Information (PII) and Protected Health Information (PHI). Those with specific security or privacy responsibilities must ensure compliance with organizational policies, regulatory requirements, and applicable standards and frameworks by implementing safeguards, monitoring for threats, reporting incidents, and addressing data handling risks or breaches.\n$140,000 - $200,000 a year\n\nCompensation details: 140000-200000 Yearly Salary\n\nPIff6a31a3ba05-26172-39716263",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Kansas City, MO",
-    "job_city": "Kansas City",
-    "job_state": "Missouri",
-    "job_country": "US",
-    "job_latitude": 39.099726499999996,
-    "job_longitude": -94.5785667,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQ4pCOKTszo44srZ5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 140000,
-    "job_max_salary": 200000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Applicants must be currently authorized and have the ability to provide proof of full-time, long-term authorization to work in the United States",
-        "Bachelors degree in STEM",
-        "10+ years of equivalent professional experience building and scaling cloud-native applications",
-        "Deep experience with event-sourced, microservice, and distributed architectures",
-        "Expert at integrating LLMs and agentic tools like Claude Code to automate and enhance development workflows",
-        "Advanced TypeScript skills, focusing on building scalable, type-safe, and high-performance backend services",
-        "Expert in Node.js and NEST, with a focus on modular system design and enterprise-level API structures",
-        "Advanced proficiency in SQL, especially PostgreSQL schema design and optimization",
-        "Experience with asynchronous, high-volume messaging or event-driven systems",
-        "Strong commitment to testing, observability, and operational excellence",
-        "Excellent communicatorable to influence stakeholders and product",
-        "Proven ability to lead technical initiatives and mentor engineers",
-        "Strong customer empathy and an understanding of how technical decisions influence user experience",
-        "Familiarity with Docker & containerized environments, AWS (or similar cloud providers), Python (for platform tools, services, or ML integrations)",
-        "Experience with large-scale remote/hybrid teams",
-        "Contributions to open source",
-        "Security Requirements for Engineering RolesThis engineering role contributes to a secure, federally compliant platform",
-        "Candidates must be eligible for a government background check and operate within strict code management, access, and documentation standards"
-      ],
-      "Benefits": [
-        "Collaboration/contributions with the open source community",
-        "The compensation for this role will be based on level of experience and the geographic tier in which you are located",
-        "This position also comes with equity and a variety of benefits",
-        "WORKING AT ARTERA Company benefits - Full health benefits (medical, dental, and vision), flexible spending accounts, company paid life insurance, company paid short-term & long-term disability, company equity, voluntary benefits, 401(k) and more!",
-        "Career development - Manager development cohorts, employee development funds",
-        "Generous time off - Company holidays, Winter & Summer break, and flexible time off",
-        "$140,000 - $200,000 a year",
-        "Compensation details: 140000-200000 Yearly Salary"
-      ],
-      "Responsibilities": [
-        "This role reports directly to the VP of Engineering and is responsible for shaping platform architecture, driving technical excellence across teams, and leading execution on high-risk or high-impact initiatives critical to Arteras long-term success",
-        "You will be a multiplier: architecting large-scale systems, mentoring engineers, and ensuring our platform remains resilient, performant, and ready for the next wave of AI-driven patient engagement",
-        "Technical Leadership- Serve as a domain expert in backend architecture, distributed systems, and high-throughput IO.- Drive company-wide architectural patterns, platform strategy, and engineering standards.- Lead execution on complex, open-ended projects spanning multiple quartersincluding 2026 initiatives in agentic AI and MCP server infrastructure.- Own cross-team architectural buy-in and guide teams through refactors and modernization efforts",
-        "Execution & Delivery- Independently design and deliver large-scale features that impact multiple products or services.- Systematically reason through system-wide implications, edge cases, and performance trade-offs.- Identify and eliminate sources of instability, latency, and operational risk.- Build from scratch when neededespecially for distributed IO-intensive systems",
-        "Mentorship & Culture- Model engineering maturity through thoughtful code reviews, documentation, and technical communication.- Mentor engineers across teams; elevate their understanding of architecture, debugging, reliability, and AI-era best practices.- Foster a blameless culture that encourages learning, experimentation, and continuous improvement.- Champion transparency, clear communication, and strong cross-functional collaboration",
-        "Collaboration- Partner with product, design, and data/ML teams to translate complex technical ideas into practical, user-centered solutions.- Provide architectural guidance on story-level decisions within your domain.- Advocate for engineering-focused improvements in process, tooling, reliability, and developer experience",
-        "Security-conscious development and participation in compliance practices are core to the role",
-        "OUR APPROACH TO WORK LOCATIONArtera has hybrid office locations in Santa Barbara, CA, and Philadelphia (Wayne), PA, where team members typically come in three days a week",
-        "Those with specific security or privacy responsibilities must ensure compliance with organizational policies, regulatory requirements, and applicable standards and frameworks by implementing safeguards, monitoring for threats, reporting incidents, and addressing data handling risks or breaches"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-adzuna-com-details-5631319633",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "iJ7ZcdlY4jExtywHAAAAAA==",
-    "job_title": "Software Engineer Backend/Platform Systems II (Full Time) – United States",
-    "employer_name": "Cisco",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLld0q0uTHiqbBA1bpq99O6iafjDhhQQZdzZv&s=0",
-    "employer_website": "https://www.cisco.com",
-    "job_publisher": "LocalJobs.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.localjobs.com/job/atlanta-ga-software-engineer-backend-platform-systems-ii-full-time-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/atlanta-ga-software-engineer-backend-platform-systems-ii-full-time-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-ii-full-time-%E2%80%93-united-states-at-cisco-4337051849?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "USNLX Ability Jobs - National Labor Exchange",
-        "apply_link": "https://ability.usnlx.com/atlanta-ga/software-engineer-security-automation-ii-full-time-united-states/1B1D569039E74C5C9E75B06958F66575/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1220510001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6979269152f3c27ec6456da8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Expertini",
-        "apply_link": "https://us.expertini.com/job/software-engineer-backendplatform-systems-ii-full-time-united-states-atlanta-cisco-bf0cb1ec684e4e118b2c9d8421532d36105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n• *Meet the Team**\n\nOur dedicated team is building the future of Cisco’s AI-driven platforms and data infrastructure, driving innovation across the globe. You will join teams focused on developing advanced data pipelines, machine learning infrastructure, and analytics platforms for business-critical initiatives. As part of this collaborative environment, you will contribute to the advancement of emerging technologies in data and intelligent systems. Explore the opportunities at the intersection of backend engineering and AI, helping to transform how Cisco and its customers harness information and intelligent automation.\n• *Your Impact**\n\nAs a passionate software engineer, you bring expertise in developing scalable backend systems, designing robust analytics platforms, and building infrastructure to support modern cloud and distributed computing initiatives. Your strong background in programming, distributed systems, and cloud platforms enables you to solve complex challenges with innovation and precision. By building and maintaining key software tools and backend infrastructure, you empower Cisco’s business groups to leverage AI and data-driven insights for operational excellence and strategic growth. Your contributions ensure high-quality, reliable platforms that support Cisco’s leadership in intelligent, scalable technology solutions.\n• *Minimum Qualifications**\n\n+ Completion within the past 3 years, or current enrollment with expected completion within 12 months, of a certification or degree program (e.g.,Associates, Apprenticeship, Boot Camp, or Certification in a specialized program + 3 years of relevant experience,High School Diploma + 4 years of relevant experience,Bachelors + 2 years of relevant experience) orMasters + 0 years of relevant experience.\n\n+ Proficiencyin at least one backend programming language: C/C++, Java, or Go.\n\n+ Experience designing and developing microservices and APIs.\n\n+ Strong understanding of Linux and fundamental networking concepts (TCP/IP, DNS, DHCP).\n\n+ Familiarity with cloud platforms such as AWS, Azure, or GCP.\n• *Preferred Qualifications**\n\n+ Conceptual understanding of AI/ML.\n\n+ Experience with automation and software testing (e.g.,pyTest).\n\n+ Familiarity with CI/CD pipelines.\n\n+ Knowledge of networking protocols such as BGP and VLANs.\n• *Why Cisco?**\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n• *Message to applicants applying to work in the U.S. and/or Canada:**\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n\n+ 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n\n+ 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n\n+ Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n\n+ Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n\n+ 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n\n+ Additional paid time away may be requested to deal with critical or emergency issues for family members\n\n+ Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n\n+ .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n\n+ 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n\n+ 1% of incentive target for each 1% of attainment between 75% and 100%; and\n\n+ Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n\n$123,600.00 - $200,100.00\n\nNon-Metro New York state & Washington state:\n\n$109,900.00 - $181,600.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.\n\nCisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.\n\nCisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Atlanta, GA",
-    "job_city": "Atlanta",
-    "job_state": "Georgia",
-    "job_country": "US",
-    "job_latitude": 33.7501275,
-    "job_longitude": -84.3885209,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiJ7ZcdlY4jExtywHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "As a passionate software engineer, you bring expertise in developing scalable backend systems, designing robust analytics platforms, and building infrastructure to support modern cloud and distributed computing initiatives",
-        "Completion within the past 3 years, or current enrollment with expected completion within 12 months, of a certification or degree program (e.g.,Associates, Apprenticeship, Boot Camp, or Certification in a specialized program + 3 years of relevant experience,High School Diploma + 4 years of relevant experience,Bachelors + 2 years of relevant experience) or",
-        "Masters + 0 years of relevant experience",
-        "Proficiencyin at least one backend programming language: C/C++, Java, or Go",
-        "Experience designing and developing microservices and APIs",
-        "Strong understanding of Linux and fundamental networking concepts (TCP/IP, DNS, DHCP)",
-        "Familiarity with cloud platforms such as AWS, Azure, or GCP",
-        "Conceptual understanding of AI/ML",
-        "Experience with automation and software testing (e.g.,pyTest)",
-        "Familiarity with CI/CD pipelines",
-        "Knowledge of networking protocols such as BGP and VLANs"
-      ],
-      "Benefits": [
-        "The full salary range for certain locations is listed below",
-        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
-        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
-        "Please see the Cisco careers site to discover more benefits and perks",
-        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
-        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
-        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
-        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
-        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
-        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
-        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
-        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
-        "Optional 10 paid days per full calendar year to volunteer",
-        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
-        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
-        "For quota-based incentive pay, Cisco typically pays as follows:",
-        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
-        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
-        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
-        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
-        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
-        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
-        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
-        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
-      ],
-      "Responsibilities": [
-        "As part of this collaborative environment, you will contribute to the advancement of emerging technologies in data and intelligent systems",
-        "Your strong background in programming, distributed systems, and cloud platforms enables you to solve complex challenges with innovation and precision",
-        "By building and maintaining key software tools and backend infrastructure, you empower Cisco’s business groups to leverage AI and data-driven insights for operational excellence and strategic growth",
-        "Your contributions ensure high-quality, reliable platforms that support Cisco’s leadership in intelligent, scalable technology solutions"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-localjobs-com-job-atlanta-ga-software-engineer-backend-platform-systems-ii-full-time-united-states",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "L1CwXs96bwN3u1h_AAAAAA==",
-    "job_title": "Principal Python Software Engineer - DevOps",
-    "employer_name": "Request Technology",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnr-_BO5Pi1Jc10x2bdz-z_g3vypHG9RLUlqV0&s=0",
-    "employer_website": "https://requesttechnology.com",
+    "job_id": "GlmD67ytRTUjLlO2AAAAAA==",
+    "job_title": "Software Engineer, Level 1",
+    "employer_name": "Independent Software, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQfZcfb7aCqdGVmfkPbXLPGjXh36ohcPl3xP8&s=0",
+    "employer_website": "https://independentsoftware.com",
     "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/principal-python-software-engineer-devops-at-request-technology-4372570290?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineer-level-1-at-independent-software-inc-4368865469?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/principal-python-software-engineer-devops-at-request-technology-4372570290?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-level-1-at-independent-software-inc-4368865469?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/b3ac2cc3fbe18f4fa1628c4c987e649b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WKRN Jobs",
+        "apply_link": "https://jobs.wkrn.com/jobs/software-engineer-level-1-ellicott-city-maryland/2618620785-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "NO SPONSORSHIP - NO OPT\n\nPrincipal, Python Software Engineering: DevOps\n\nSALARY: $190k - $230k plus 30% bonus\n\nLOCATION: Chicago, IL OR Dallas, TX\n\nHybrid 3 days onsite\n\n10 years DevOps platform, heavy Python coding experience writing code unit tests. Jenkins splunk log review for root cause analysis Kubernetes deployments with helm charts harness aws terraform ansible infrastructure as code IaC\n\nQualifications:\n• 10+ years ~ of experience on similar DevOps platforms\n• A deep understanding of the Software Development Life Cycle (SDLC)\n• Experience with continuous integration and continuous deployment (CI/CD) tools, techniques, and automation frameworks\n• Python coding experience required, experience writing code unit-tests and following best practices\n• Jenkins job setup and execution analysis – including Splunk log review for Root Cause Analysis (RCA)\n• Ability to manage Kubernetes deployments with helm charts, using continuous deployment tools like Harness.io\n• Ability to manage AWS deployments using Terraform, Ansible, or similar Infrastructure as Code (IaC) frameworks\n\nEducation and/or Experience:\n• Bachelor’s or Master’s Degrees in Computer Science, Information Systems or other related field. Or equivalent work experience",
+    "job_description": "What You Will Do\n\nAs a Software Engineer, you will design, develop, deploy, and maintain secure, mission-focused applications supporting distributed operational environments. You will work across the full software development lifecycle, from design and development through deployment and sustainment, collaborating closely with cross-functional teams to ensure high availability, performance, and reliability. This role blends hands-on software engineering with operational support and system administration responsibilities across multiple production sites.\n\nKey Responsibilities\n• Develop, enhance, and maintain applications using Python\n• Build, deploy, and manage containerized applications using Docker\n• Design, implement, and optimize database solutions using MongoDB\n• Collaborate with team members using Git for version control, branching strategies, and code reviews\n• Participate in and support CI/CD pipelines and Agile software development processes\n• Conduct peer code reviews and provide constructive technical feedback\n• Manage and execute deployments to all production sites, including pushing new software versions and validating successful rollouts\n• Ensure minimal disruption to business operations during deployments and system updates\n• Provide on-site technical support, diagnosing and resolving issues related to hardware, applications, and user environments\n• Perform system administration tasks as needed to maintain operational stability across multiple locations\n• Collaborate with cross-functional teams to troubleshoot complex issues and maintain high system availability\n\nRequired Skills and Qualifications:\n• Strong proficiency in Python for application development\n• Hands-on experience with Docker and containerized application deployment\n• Experience designing and managing MongoDB databases\n• Solid understanding of Git and collaborative development workflows\n• Experience with JavaScript frameworks such as Angular (Angular 2+) and/or React for UI development\n• Familiarity with CI/CD pipelines, tools, and Agile methodologies\n• Strong problem-solving skills and ability to troubleshoot complex technical issues\n• Effective written and verbal communication skills\n• Exposure to tools such as Ansible, JIRA, Bitbucket, and Terraform is a plus\n• Familiarity with Kubernetes is desired\n\nEducation And Experience\n• Bachelor’s degree in Computer Science or a related discipline from an accredited college or university\n• Four (4) additional years of Software Engineering experience on projects with similar software processes may be substituted for a bachelor’s degree on a case-by-case basis\n• Minimum of seven (7) years of experience as a Software Engineer supporting programs and contracts of similar scope, type, and complexity\n\nClearance Requirement\n• Must possess an active TS SCI with appropriate Polygraph to be considered for this role\n\nWhy Choose Independent Software\n\nAt Independent Software, our people are the mission. We’ve built a company around collaboration, integrity, and innovation and we make sure our team has the tools and support to grow, succeed, and thrive.\n\nWhen You Join Us, You Will\n• Support critical national security missions that matter\n• Be part of a close-knit, employee-first culture where your voice is heard\n• Expand your skills through ongoing training, mentorship, and career development\n• Enjoy competitive compensation, generous benefits, and work-life balance\n\nReady to take the next step in your career? Join us and be part of something bigger.\n\nApply today.\n\nWe’re an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.",
     "job_is_remote": false,
-    "job_posted_at": "11 hours ago",
-    "job_posted_at_timestamp": 1771272000,
-    "job_posted_at_datetime_utc": "2026-02-16T20:00:00.000Z",
-    "job_location": "Chicago, IL",
-    "job_city": "Chicago",
-    "job_state": "Illinois",
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Ellicott City, MD",
+    "job_city": "Ellicott City",
+    "job_state": "Maryland",
     "job_country": "US",
-    "job_latitude": 41.88325,
-    "job_longitude": -87.6323879,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DL1CwXs96bwN3u1h_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 39.267328299999996,
+    "job_longitude": -76.7983067,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGlmD67ytRTUjLlO2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "10 years DevOps platform, heavy Python coding experience writing code unit tests",
-        "10+ years ~ of experience on similar DevOps platforms",
-        "A deep understanding of the Software Development Life Cycle (SDLC)",
-        "Experience with continuous integration and continuous deployment (CI/CD) tools, techniques, and automation frameworks",
-        "Python coding experience required, experience writing code unit-tests and following best practices",
-        "Jenkins job setup and execution analysis – including Splunk log review for Root Cause Analysis (RCA)",
-        "Ability to manage Kubernetes deployments with helm charts, using continuous deployment tools like Harness.io",
-        "Ability to manage AWS deployments using Terraform, Ansible, or similar Infrastructure as Code (IaC) frameworks",
-        "Bachelor’s or Master’s Degrees in Computer Science, Information Systems or other related field",
-        "Or equivalent work experience"
+        "Strong proficiency in Python for application development",
+        "Hands-on experience with Docker and containerized application deployment",
+        "Experience designing and managing MongoDB databases",
+        "Solid understanding of Git and collaborative development workflows",
+        "Experience with JavaScript frameworks such as Angular (Angular 2+) and/or React for UI development",
+        "Familiarity with CI/CD pipelines, tools, and Agile methodologies",
+        "Strong problem-solving skills and ability to troubleshoot complex technical issues",
+        "Effective written and verbal communication skills",
+        "Bachelor’s degree in Computer Science or a related discipline from an accredited college or university",
+        "Four (4) additional years of Software Engineering experience on projects with similar software processes may be substituted for a bachelor’s degree on a case-by-case basis",
+        "Minimum of seven (7) years of experience as a Software Engineer supporting programs and contracts of similar scope, type, and complexity",
+        "Must possess an active TS SCI with appropriate Polygraph to be considered for this role"
       ],
       "Benefits": [
-        "Principal, Python Software Engineering: DevOps",
-        "SALARY: $190k - $230k plus 30% bonus"
+        "Be part of a close-knit, employee-first culture where your voice is heard",
+        "Expand your skills through ongoing training, mentorship, and career development",
+        "Enjoy competitive compensation, generous benefits, and work-life balance"
       ],
       "Responsibilities": [
-        "Hybrid 3 days onsite",
-        "Jenkins splunk log review for root cause analysis Kubernetes deployments with helm charts harness aws terraform ansible infrastructure as code IaC"
+        "As a Software Engineer, you will design, develop, deploy, and maintain secure, mission-focused applications supporting distributed operational environments",
+        "You will work across the full software development lifecycle, from design and development through deployment and sustainment, collaborating closely with cross-functional teams to ensure high availability, performance, and reliability",
+        "This role blends hands-on software engineering with operational support and system administration responsibilities across multiple production sites",
+        "Develop, enhance, and maintain applications using Python",
+        "Build, deploy, and manage containerized applications using Docker",
+        "Design, implement, and optimize database solutions using MongoDB",
+        "Collaborate with team members using Git for version control, branching strategies, and code reviews",
+        "Participate in and support CI/CD pipelines and Agile software development processes",
+        "Conduct peer code reviews and provide constructive technical feedback",
+        "Manage and execute deployments to all production sites, including pushing new software versions and validating successful rollouts",
+        "Ensure minimal disruption to business operations during deployments and system updates",
+        "Provide on-site technical support, diagnosing and resolving issues related to hardware, applications, and user environments",
+        "Perform system administration tasks as needed to maintain operational stability across multiple locations",
+        "Collaborate with cross-functional teams to troubleshoot complex issues and maintain high system availability"
       ]
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-principal-python-software-engineer-devops-at-request-technology-4372570290",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "BVOy526pQ6LaP3a2AAAAAA==",
-    "job_title": "Senior Java Backend Engineer - Hybrid, Boot & Microservices",
-    "employer_name": "NTT DATA North America",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Learn4Good",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.learn4good.com/jobs/texas/software_development/4872562197/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/texas/software_development/4872562197/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position: Senior Java Backend Engineer - Hybrid, Spring Boot & Microservices\nLocation: Westlake\n\nA leading technology services company in Westlake, Texas, is seeking an experienced Java Backend Engineer to join their team. This hybrid role focuses on the modernization of clients' enterprise platforms, requiring over 6 years of expertise in full-stack programming, specifically using Java Spring and cloud technologies. The ideal candidate will thrive in a collaborative environment and have strong problem-solving skills.\n\nThis position offers the chance to influence cutting-edge technological solutions and work with a dynamic team.\n#J-18808-Ljbffr",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Westlake, TX",
-    "job_city": "Westlake",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 32.991234999999996,
-    "job_longitude": -97.1950138,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBVOy526pQ6LaP3a2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 80000,
-    "job_max_salary": 100000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "This hybrid role focuses on the modernization of clients' enterprise platforms, requiring over 6 years of expertise in full-stack programming, specifically using Java Spring and cloud technologies",
-        "The ideal candidate will thrive in a collaborative environment and have strong problem-solving skills"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-learn4good-com-jobs-texas-software_development-4872562197-e",
+    "id": "www-linkedin-com-jobs-view-software-engineer-level-1-at-independent-software-inc-4368865469",
     "_source": "new_jobs"
   },
   {
@@ -1318,6 +770,522 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "Q4pCOKTszo44srZ5AAAAAA==",
+    "job_title": "Staff Backend Engineer, Agentic AI",
+    "employer_name": "Artera.io",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJ4rOPqkubDomz-QwECDI2BfSax0wuMo0uN7A&s=0",
+    "employer_website": "https://artera.io",
+    "job_publisher": "Adzuna",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.adzuna.com/details/5631319633?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5631319633?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Artera/Job/Staff-Backend-Engineer,-Agentic-AI/-in-Kansas-City,MO?jid=15c6c2b5f4b3b27e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "JobTarget",
+        "apply_link": "https://www.jobtarget.com/jobs/jt-qgh6u5w49o/staff-backend-engineer-agentic-ai-kansas-city-missouri?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/0e3bb1201360eebb504976751182445a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/1209115647674417152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/amp/job/us-mo-missouri-kansas-staff-backend-engineer-agentic-ai-artera-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Staff Backend Engineer, Agentic AI\n\nABOUT ARTERA\nOur Mission: Make healthcare #1 in customer service.\nWhat We Deliver: Artera, a SaaS leader in digital health, transforms patient experience with AI-powered virtual agents (voice and text) for every step of the patient journey. Trusted by 1,000+ provider organizations including specialty groups, FQHCs, large IDNs and federal agencies engaging 100 million patients annually. Arteras virtual agents support front desk staff to improve patient access including self-scheduling, intake, forms, billing and more. Whether augmenting a team or unleashing a fully autonomous digital workforce, Artera offers multiple virtual agent options to meet healthcare organizations where they are in their AI journey. Artera helps support 2B communications in 109 languages across voice, text and web. A decade of healthcare expertise, powered by AI.\nOur Impact: Trusted by 1,000+ provider organizations including specialty groups, FQHCs, large IDNs and federal agencies engaging 100 million patients annually. Hear from our CEO, Guillaume de Zwirek, about why we are standing at the edge of the biggest technological shift in healthcares history!\nOur award-winning culture: Our award-winning culture: Since founding in 2015, Artera has consistently been recognized for its innovative technology, business growth, and named a top place to work. Examples of these accolades include: Inc. 5000 Fastest Growing Private Companies (2020, 2021, 2022, 2023, 2024); Deloitte Technology Fast 500 (2021, 2022, 2023, 2024, 2025); Built In Best Companies to Work For (2021, 2022, 2023, 2024, 2025, 2026). Artera has also been recognized by Forbes as one of Americas Best Startup Employers, Newsweek as one of the Worlds Best Digital Health Companies, and named one of the top 44 Startups to Bet your Career on in 2024 by Business Insider.\nApplicants must be currently authorized and have the ability to provide proof of full-time, long-term authorization to work in the United States. We are unable to provide visa sponsorship or support visa transfers now or in the future.\nJOB SUMMARY\nArteras Engineering team is seeking a Staff Backend Engineer to help define, evolve, and scale the platform that powers next-generation patient communicationespecially as we accelerate our work in agentic AI, MCP (Model Context Protocol) servers, and high-throughput distributed systems.\nThis role reports directly to the VP of Engineering and is responsible for shaping platform architecture, driving technical excellence across teams, and leading execution on high-risk or high-impact initiatives critical to Arteras long-term success. You will be a multiplier: architecting large-scale systems, mentoring engineers, and ensuring our platform remains resilient, performant, and ready for the next wave of AI-driven patient engagement.\nRESPONSIBILITES\nTechnical Leadership- Serve as a domain expert in backend architecture, distributed systems, and high-throughput IO.- Drive company-wide architectural patterns, platform strategy, and engineering standards.- Lead execution on complex, open-ended projects spanning multiple quartersincluding 2026 initiatives in agentic AI and MCP server infrastructure.- Own cross-team architectural buy-in and guide teams through refactors and modernization efforts.\nExecution & Delivery- Independently design and deliver large-scale features that impact multiple products or services.- Systematically reason through system-wide implications, edge cases, and performance trade-offs.- Identify and eliminate sources of instability, latency, and operational risk.- Build from scratch when neededespecially for distributed IO-intensive systems.\nMentorship & Culture- Model engineering maturity through thoughtful code reviews, documentation, and technical communication.- Mentor engineers across teams; elevate their understanding of architecture, debugging, reliability, and AI-era best practices.- Foster a blameless culture that encourages learning, experimentation, and continuous improvement.- Champion transparency, clear communication, and strong cross-functional collaboration.\nCollaboration- Partner with product, design, and data/ML teams to translate complex technical ideas into practical, user-centered solutions.- Provide architectural guidance on story-level decisions within your domain.- Advocate for engineering-focused improvements in process, tooling, reliability, and developer experience.Requirements\n• Bachelors degree in STEM\n• 10+ years of equivalent professional experience building and scaling cloud-native applications\n• Deep experience with event-sourced, microservice, and distributed architectures\n• Expert at integrating LLMs and agentic tools like Claude Code to automate and enhance development workflows.\n• Advanced TypeScript skills, focusing on building scalable, type-safe, and high-performance backend services.\n• Expert in Node.js and NEST, with a focus on modular system design and enterprise-level API structures.\n• Advanced proficiency in SQL, especially PostgreSQL schema design and optimization\n• Experience with asynchronous, high-volume messaging or event-driven systems\n• Strong commitment to testing, observability, and operational excellence\n• Excellent communicatorable to influence stakeholders and product\n• Proven ability to lead technical initiatives and mentor engineers\n• Strong customer empathy and an understanding of how technical decisions influence user experience\n• Familiarity with Docker & containerized environments, AWS (or similar cloud providers), Python (for platform tools, services, or ML integrations)\nBonus Experience\n• Experience with large-scale remote/hybrid teams\n• Contributions to open source\n• Collaboration/contributions with the open source community\nThe compensation for this role will be based on level of experience and the geographic tier in which you are located. This position also comes with equity and a variety of benefits.Security Requirements for Engineering RolesThis engineering role contributes to a secure, federally compliant platform. Candidates must be eligible for a government background check and operate within strict code management, access, and documentation standards. Security-conscious development and participation in compliance practices are core to the role.\nOUR APPROACH TO WORK LOCATIONArtera has hybrid office locations in Santa Barbara, CA, and Philadelphia (Wayne), PA, where team members typically come in three days a week. Specific frequency can vary depending on your team's needs, manager expectations and/or role responsibilities.\nIn addition to our U.S. office locations, we are intentionally building geographically concentrated teams in several key metropolitan areas, which we call our Hiring Hubs. We are currently hiring remote candidates located within the following hiring hubs:- Boston Metro Area, MA- Chicago Metro Area, IL- Denver Metro Area, CO- Kansas City Metro Area (KS/MO)- Los Angeles Metro Area, CA- San Francisco / Bay Area, CA- Seattle Metro Area, WA\nThis hub-based model helps us cultivate strong local connections and team cohesion, even in a distributed environment.\nTo be eligible for employment at Artera, candidates must reside in one of our hybrid office cities or one of the designated hiring hubs. Specific roles may call out location preferences when relevant.\nAs our hubs grow, we may establish local offices to further enhance in-person connection and collaboration. While there are no current plans in place, should an office open in your area, we anticipate implementing a hybrid model. Any future attendance expectations would be developed thoughtfully, considering factors like typical commute times and access to public transit, to ensure they are fair and practical for the local team.\nWORKING AT ARTERA Company benefits - Full health benefits (medical, dental, and vision), flexible spending accounts, company paid life insurance, company paid short-term & long-term disability, company equity, voluntary benefits, 401(k) and more! Career development - Manager development cohorts, employee development fundsGenerous time off - Company holidays, Winter & Summer break, and flexible time offEmployee Resource Groups (ERGs) - We believe that everyone should belong at their workplace. Our ERGs are available for identifying employees or allies to join.\nEQUAL EMPLOYMENT OPPORTUNITY (EEO) STATEMENTArtera is an Equal Opportunity Employer and is committed to fair and equitable hiring practices. All hiring decisions at Artera are based on strategic business needs, job requirements, and individual qualifications. All candidates are considered without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, genetics, protected veteran status, or any other protected status.\nIn compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.\nArtera is committed to providing employees with a work environment free of discrimination and harassment; Artera will not tolerate discrimination or harassment of any kind. Artera provides reasonable accommodations for applicants and employees in compliance with state and federal laws. If you need an accommodation, please reach out to hr@artera.io.\nDATA PRIVACYArtera values your privacy. By submitting your application, you consent to the processing of your personal information provided in conjunction with your application. For more information please refer to our Privacy Policy.\nSECURITY REQUIREMENTSAll employees are responsible for protecting the confidentiality, integrity, and availability of the organizations systems and data, including safeguarding Arteras sensitive information such as, Personal identifiable Information (PII) and Protected Health Information (PHI). Those with specific security or privacy responsibilities must ensure compliance with organizational policies, regulatory requirements, and applicable standards and frameworks by implementing safeguards, monitoring for threats, reporting incidents, and addressing data handling risks or breaches.\n$140,000 - $200,000 a year\n\nCompensation details: 140000-200000 Yearly Salary\n\nPIff6a31a3ba05-26172-39716263",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Kansas City, MO",
+    "job_city": "Kansas City",
+    "job_state": "Missouri",
+    "job_country": "US",
+    "job_latitude": 39.099726499999996,
+    "job_longitude": -94.5785667,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQ4pCOKTszo44srZ5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 140000,
+    "job_max_salary": 200000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Applicants must be currently authorized and have the ability to provide proof of full-time, long-term authorization to work in the United States",
+        "Bachelors degree in STEM",
+        "10+ years of equivalent professional experience building and scaling cloud-native applications",
+        "Deep experience with event-sourced, microservice, and distributed architectures",
+        "Expert at integrating LLMs and agentic tools like Claude Code to automate and enhance development workflows",
+        "Advanced TypeScript skills, focusing on building scalable, type-safe, and high-performance backend services",
+        "Expert in Node.js and NEST, with a focus on modular system design and enterprise-level API structures",
+        "Advanced proficiency in SQL, especially PostgreSQL schema design and optimization",
+        "Experience with asynchronous, high-volume messaging or event-driven systems",
+        "Strong commitment to testing, observability, and operational excellence",
+        "Excellent communicatorable to influence stakeholders and product",
+        "Proven ability to lead technical initiatives and mentor engineers",
+        "Strong customer empathy and an understanding of how technical decisions influence user experience",
+        "Familiarity with Docker & containerized environments, AWS (or similar cloud providers), Python (for platform tools, services, or ML integrations)",
+        "Experience with large-scale remote/hybrid teams",
+        "Contributions to open source",
+        "Security Requirements for Engineering RolesThis engineering role contributes to a secure, federally compliant platform",
+        "Candidates must be eligible for a government background check and operate within strict code management, access, and documentation standards"
+      ],
+      "Benefits": [
+        "Collaboration/contributions with the open source community",
+        "The compensation for this role will be based on level of experience and the geographic tier in which you are located",
+        "This position also comes with equity and a variety of benefits",
+        "WORKING AT ARTERA Company benefits - Full health benefits (medical, dental, and vision), flexible spending accounts, company paid life insurance, company paid short-term & long-term disability, company equity, voluntary benefits, 401(k) and more!",
+        "Career development - Manager development cohorts, employee development funds",
+        "Generous time off - Company holidays, Winter & Summer break, and flexible time off",
+        "$140,000 - $200,000 a year",
+        "Compensation details: 140000-200000 Yearly Salary"
+      ],
+      "Responsibilities": [
+        "This role reports directly to the VP of Engineering and is responsible for shaping platform architecture, driving technical excellence across teams, and leading execution on high-risk or high-impact initiatives critical to Arteras long-term success",
+        "You will be a multiplier: architecting large-scale systems, mentoring engineers, and ensuring our platform remains resilient, performant, and ready for the next wave of AI-driven patient engagement",
+        "Technical Leadership- Serve as a domain expert in backend architecture, distributed systems, and high-throughput IO.- Drive company-wide architectural patterns, platform strategy, and engineering standards.- Lead execution on complex, open-ended projects spanning multiple quartersincluding 2026 initiatives in agentic AI and MCP server infrastructure.- Own cross-team architectural buy-in and guide teams through refactors and modernization efforts",
+        "Execution & Delivery- Independently design and deliver large-scale features that impact multiple products or services.- Systematically reason through system-wide implications, edge cases, and performance trade-offs.- Identify and eliminate sources of instability, latency, and operational risk.- Build from scratch when neededespecially for distributed IO-intensive systems",
+        "Mentorship & Culture- Model engineering maturity through thoughtful code reviews, documentation, and technical communication.- Mentor engineers across teams; elevate their understanding of architecture, debugging, reliability, and AI-era best practices.- Foster a blameless culture that encourages learning, experimentation, and continuous improvement.- Champion transparency, clear communication, and strong cross-functional collaboration",
+        "Collaboration- Partner with product, design, and data/ML teams to translate complex technical ideas into practical, user-centered solutions.- Provide architectural guidance on story-level decisions within your domain.- Advocate for engineering-focused improvements in process, tooling, reliability, and developer experience",
+        "Security-conscious development and participation in compliance practices are core to the role",
+        "OUR APPROACH TO WORK LOCATIONArtera has hybrid office locations in Santa Barbara, CA, and Philadelphia (Wayne), PA, where team members typically come in three days a week",
+        "Those with specific security or privacy responsibilities must ensure compliance with organizational policies, regulatory requirements, and applicable standards and frameworks by implementing safeguards, monitoring for threats, reporting incidents, and addressing data handling risks or breaches"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-adzuna-com-details-5631319633",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "C0PUnMlnvNGzUELsAAAAAA==",
+    "job_title": "Staff, Software Engineer, Back End",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Staff,-Software-Engineer,-Back-End/-in-Elkins,AR?jid=a3d1c9d1d3913664&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Staff,-Software-Engineer,-Back-End/-in-Elkins,AR?jid=a3d1c9d1d3913664&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-2850-e11696a95512a618ef90d846fe11ad07?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...About Team\nThe Walmart Emerging-Tech group is a group charted to drive the creation of the next generation retail and shopping experiences for both online and in-store. The group leads Walmart’s efforts in the areas of Emerging Content, XR, Conversational AI, Voice Assistants, and more. As the Emerging Content team, we are building completely new capabilities to allow our customers discover and interact with products online. In addition to the end-user experiences the group also builds platform APIs and tools to enable other teams leverage next-generation content. What you'll do:\n• Stay abreast with technical advancements and drive system architecture and software development processes.\n• Lead and mentor teams in the implementation of complex systems, fostering a culture of technical excellence and innovation.\n• Be hands-on in prototyping, researching, and coding scalable, consumer-facing systems.\n• Collaborate with business and product teams to achieve our long-term business goals.\n• Champion operational and engineering excellence.\n• Participate in code reviews, operational reviews, architectural discussions, and troubleshooting sessions to ensure the highest standards of development.\n• Provide mentorship to engineers, managers, and others to help develop great talent.\n\nWhat you'll bring:\n• At least 8+ years of software engineering experience in building highly available systems.\n• BS or MS in Computer Science or related degree.\n• Programming languages, particularly Java.\n• Data engineering and handling large datasets.\n• Databases, including vector and big data technologies.\n• Distributed computing, containerization (Docker/K8s), and multi-cloud.\n• Proven track record of building successful software systems from inception to deployment.\n• Proven track record of building solutions that solve highly complex business problems.\n• Outstanding problem-solving skills, with the ability to make design trade-offs, balancing long-term \"big picture\" considerations with short-term implications of design decisions.\n• Expertise in distributed systems, service-oriented architecture, CI/CD, and operational excellence best practices.\n• Effective communication and collaboration skills, including consensus building, conflict resolution, influence, and persuasion skills.\n• Proven track record of mentoring and coaching engineers in technical problem-solving and career development.\n• Curiosity and strong ability to learn new domains and technologies.\n• Preferred experience with GenAI technologies such as LLMs and RAG and Cloud-based AI platforms like GCP Vertex AI or Azure.\n\nAbout Walmart Global Tech:\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\nWalmart's culture is a competitive advantage, and its fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nYour Career Journey at Walmart\nAt Walmart, we want to make sure your experience connecting with us is seamless and straightforward. Here’s what to expect when interacting with us as recruiters:\nWe’ll reach out via verified LinkedIn profiles or emails ending in \"@walmart.com.” or “@samsclub.com”. All job opportunities and applications are hosted on our official careers site: http://careers.walmart.com. There is no cost or payment required to apply or be considered for a position.\nIf you have any doubts about a communication, feel free to visit our careers page to verify authenticity. Thank you for exploring opportunities at Walmart!\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $110,000.00 - $220,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 4 years’ experience in software engineering or related area.\nOption 2: 6 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 2 years' experience in software engineering or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n805 Se Moberly Ln, Bentonville, AR 72712, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Elkins, AR",
+    "job_city": "Elkins",
+    "job_state": "Arkansas",
+    "job_country": "US",
+    "job_latitude": 36.000651399999995,
+    "job_longitude": -94.0088348,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DC0PUnMlnvNGzUELsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 110000,
+    "job_max_salary": 220000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "At least 8+ years of software engineering experience in building highly available systems",
+        "BS or MS in Computer Science or related degree",
+        "Programming languages, particularly Java",
+        "Data engineering and handling large datasets",
+        "Databases, including vector and big data technologies",
+        "Distributed computing, containerization (Docker/K8s), and multi-cloud",
+        "Proven track record of building successful software systems from inception to deployment",
+        "Proven track record of building solutions that solve highly complex business problems",
+        "Outstanding problem-solving skills, with the ability to make design trade-offs, balancing long-term \"big picture\" considerations with short-term implications of design decisions",
+        "Expertise in distributed systems, service-oriented architecture, CI/CD, and operational excellence best practices",
+        "Effective communication and collaboration skills, including consensus building, conflict resolution, influence, and persuasion skills",
+        "Proven track record of mentoring and coaching engineers in technical problem-solving and career development",
+        "Curiosity and strong ability to learn new domains and technologies",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 4 years’ experience in software engineering or related area",
+        "Option 2: 6 years’ experience in software engineering or related area",
+        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 2 years' experience in software engineering or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $110,000.00 - $220,000.00 Additional compensation includes annual or quarterly performance bonuses"
+      ],
+      "Responsibilities": [
+        "Stay abreast with technical advancements and drive system architecture and software development processes",
+        "Lead and mentor teams in the implementation of complex systems, fostering a culture of technical excellence and innovation",
+        "Be hands-on in prototyping, researching, and coding scalable, consumer-facing systems",
+        "Collaborate with business and product teams to achieve our long-term business goals",
+        "Champion operational and engineering excellence",
+        "Participate in code reviews, operational reviews, architectural discussions, and troubleshooting sessions to ensure the highest standards of development",
+        "Provide mentorship to engineers, managers, and others to help develop great talent",
+        "That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-staff-software-engineer-back-end-in-elkins-ar",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "iJ7ZcdlY4jExtywHAAAAAA==",
+    "job_title": "Software Engineer Backend/Platform Systems II (Full Time) – United States",
+    "employer_name": "Cisco",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLld0q0uTHiqbBA1bpq99O6iafjDhhQQZdzZv&s=0",
+    "employer_website": "https://www.cisco.com",
+    "job_publisher": "LocalJobs.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.localjobs.com/job/atlanta-ga-software-engineer-backend-platform-systems-ii-full-time-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/atlanta-ga-software-engineer-backend-platform-systems-ii-full-time-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-ii-full-time-%E2%80%93-united-states-at-cisco-4337051849?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "USNLX Ability Jobs - National Labor Exchange",
+        "apply_link": "https://ability.usnlx.com/atlanta-ga/software-engineer-security-automation-ii-full-time-united-states/1B1D569039E74C5C9E75B06958F66575/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1220510001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6979269152f3c27ec6456da8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Expertini",
+        "apply_link": "https://us.expertini.com/job/software-engineer-backendplatform-systems-ii-full-time-united-states-atlanta-cisco-bf0cb1ec684e4e118b2c9d8421532d36105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n• *Meet the Team**\n\nOur dedicated team is building the future of Cisco’s AI-driven platforms and data infrastructure, driving innovation across the globe. You will join teams focused on developing advanced data pipelines, machine learning infrastructure, and analytics platforms for business-critical initiatives. As part of this collaborative environment, you will contribute to the advancement of emerging technologies in data and intelligent systems. Explore the opportunities at the intersection of backend engineering and AI, helping to transform how Cisco and its customers harness information and intelligent automation.\n• *Your Impact**\n\nAs a passionate software engineer, you bring expertise in developing scalable backend systems, designing robust analytics platforms, and building infrastructure to support modern cloud and distributed computing initiatives. Your strong background in programming, distributed systems, and cloud platforms enables you to solve complex challenges with innovation and precision. By building and maintaining key software tools and backend infrastructure, you empower Cisco’s business groups to leverage AI and data-driven insights for operational excellence and strategic growth. Your contributions ensure high-quality, reliable platforms that support Cisco’s leadership in intelligent, scalable technology solutions.\n• *Minimum Qualifications**\n\n+ Completion within the past 3 years, or current enrollment with expected completion within 12 months, of a certification or degree program (e.g.,Associates, Apprenticeship, Boot Camp, or Certification in a specialized program + 3 years of relevant experience,High School Diploma + 4 years of relevant experience,Bachelors + 2 years of relevant experience) orMasters + 0 years of relevant experience.\n\n+ Proficiencyin at least one backend programming language: C/C++, Java, or Go.\n\n+ Experience designing and developing microservices and APIs.\n\n+ Strong understanding of Linux and fundamental networking concepts (TCP/IP, DNS, DHCP).\n\n+ Familiarity with cloud platforms such as AWS, Azure, or GCP.\n• *Preferred Qualifications**\n\n+ Conceptual understanding of AI/ML.\n\n+ Experience with automation and software testing (e.g.,pyTest).\n\n+ Familiarity with CI/CD pipelines.\n\n+ Knowledge of networking protocols such as BGP and VLANs.\n• *Why Cisco?**\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n• *Message to applicants applying to work in the U.S. and/or Canada:**\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n\n+ 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n\n+ 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n\n+ Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n\n+ Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n\n+ 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n\n+ Additional paid time away may be requested to deal with critical or emergency issues for family members\n\n+ Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n\n+ .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n\n+ 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n\n+ 1% of incentive target for each 1% of attainment between 75% and 100%; and\n\n+ Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n\n$123,600.00 - $200,100.00\n\nNon-Metro New York state & Washington state:\n\n$109,900.00 - $181,600.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.\n\nCisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.\n\nCisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Atlanta, GA",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 33.7501275,
+    "job_longitude": -84.3885209,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiJ7ZcdlY4jExtywHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "As a passionate software engineer, you bring expertise in developing scalable backend systems, designing robust analytics platforms, and building infrastructure to support modern cloud and distributed computing initiatives",
+        "Completion within the past 3 years, or current enrollment with expected completion within 12 months, of a certification or degree program (e.g.,Associates, Apprenticeship, Boot Camp, or Certification in a specialized program + 3 years of relevant experience,High School Diploma + 4 years of relevant experience,Bachelors + 2 years of relevant experience) or",
+        "Masters + 0 years of relevant experience",
+        "Proficiencyin at least one backend programming language: C/C++, Java, or Go",
+        "Experience designing and developing microservices and APIs",
+        "Strong understanding of Linux and fundamental networking concepts (TCP/IP, DNS, DHCP)",
+        "Familiarity with cloud platforms such as AWS, Azure, or GCP",
+        "Conceptual understanding of AI/ML",
+        "Experience with automation and software testing (e.g.,pyTest)",
+        "Familiarity with CI/CD pipelines",
+        "Knowledge of networking protocols such as BGP and VLANs"
+      ],
+      "Benefits": [
+        "The full salary range for certain locations is listed below",
+        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
+        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
+        "Please see the Cisco careers site to discover more benefits and perks",
+        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
+        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
+        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
+        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
+        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
+        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
+        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
+        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
+        "Optional 10 paid days per full calendar year to volunteer",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
+        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
+        "For quota-based incentive pay, Cisco typically pays as follows:",
+        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
+        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
+        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
+        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
+        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
+        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
+        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
+        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+      ],
+      "Responsibilities": [
+        "As part of this collaborative environment, you will contribute to the advancement of emerging technologies in data and intelligent systems",
+        "Your strong background in programming, distributed systems, and cloud platforms enables you to solve complex challenges with innovation and precision",
+        "By building and maintaining key software tools and backend infrastructure, you empower Cisco’s business groups to leverage AI and data-driven insights for operational excellence and strategic growth",
+        "Your contributions ensure high-quality, reliable platforms that support Cisco’s leadership in intelligent, scalable technology solutions"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-localjobs-com-job-atlanta-ga-software-engineer-backend-platform-systems-ii-full-time-united-states",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "BEbhxioJvACXJVWYAAAAAA==",
+    "job_title": "Software Engineer Intern",
+    "employer_name": "111 ResMed SaaS Holdings Inc.",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Workday",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Atlanta-GA-United-States/Software-Engineer-Intern_JR_047982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Workday",
+        "apply_link": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Atlanta-GA-United-States/Software-Engineer-Intern_JR_047982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobvite",
+        "apply_link": "https://jobs.jobvite.com/laserfiche/job/opPryfwX?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Wd1.Myworkdaysite.com",
+        "apply_link": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer-Intern_R0044581-1?source=BuiltInNationwide&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/software-engineer-intern_7ea1ac6d2192c0b67ddf921a708ba53c1b23a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs",
+        "apply_link": "https://jobs.ashbyhq.com/conductorai/7ced6847-cd04-4a51-ae6e-b9a0a602d44e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=c9e2d6d2e23f5dfd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Wellfound",
+        "apply_link": "https://wellfound.com/jobs/192581-intern-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Work At A Startup",
+        "apply_link": "https://www.workatastartup.com/jobs/75196?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "As an intern at ResMed, you’ll gain hands-on experience, learn from experts, and collaborate with teams that do truly amazing things. Over the course of our 12-week internship experience you will have the opportunity to: Work directly with a mentor in your field of study while finding solutions to real world problems Experience our products up close by working with one of our Digital Health Technologies teams Interact directly with our company leaders Build a lasting professional network through social events and engaging activities Gain the skills and knowledge to become a future leader in the medical technology industry Let’s Talk about Responsibilities: Cloud & Serverless Development Assist in building and deploying AWS Lambda functions Help configure and integrate API Gateway endpoints Work with DynamoDB and S3 for data storage Support infrastructure setup under supervision (CDK / CloudFormation exposure preferred) Participate in debugging, monitoring, and logging in cloud environments Backend Development (.NET) Develop and maintain backend APIs using C# and .NET Implement business logic under guidance Write unit tests for backend services Assist with API validation and data transformations AI & Automation Support implementation of AI agents or AI-driven workflows Integrate LLM APIs into backend systems Assist in building prompt-driven workflows and agent orchestration patterns Evaluate and experiment with AI tools for internal automation Engineering Best Practices Follow secure coding practices Participate in code reviews Write technical documentation Collaborate in sprint planning and retrospectives Learn and apply CI/CD principles Basic Qualifications (Required Skill/Experience): Ability to work full-time for 12 weeks during Summer 2026; program dates are May 18th – August 7th, 2026, OR June 15th – September 4th, 2026. Preference for Cohort B. Currently pursuing Bachelor’s Degree in Computer Science, Software Engineering or related. Hands-on experience with: C# / .NET, REST APIs, Git Exposure to AWS (even academic projects or labs acceptable) Demonstrated experience or strong interest in: AI agents, LLM-based applications, Prompt engineering or AI API integration Strong analytical and problem-solving skills Ability to work in a collaborative team environment Preferred Qualifications (Desired Skills/Experience): Experience with AWS: Lambda, API Gateway, DynamoDB, S3 Familiarity with Infrastructure as Code (CDK, Terraform, CloudFormation) AWS Cloud Practitioner certification Experience building: AI-powered applications, Automation bots, Conversational AI tools Understanding of authentication concepts (JWT, OAuth basics) Pay Range: Please note that the salary information shown below is a general guideline only. Salaries are based upon candidate experience and qualifications, as well as market and business considerations. We are shaping the future at ResMed, and we recognize the need to build on and broaden our existing skills and continue to attract and retain the world’s best talent. All Interns will be hired through our staffing provider partner and will not be a direct employee of ResMed, your Recruiter will provide more details. Individual pay decisions will be made by our staffing provider partner and are based on a variety of factors, such as the candidate’s geographic work location, relevant qualifications, work experience, and skills. Pay Range for this position: $23.25 - $35.75/hour, depending on experience & job classification Equal Opportunity Employer ResMed is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law. #techintern Joining us is more than saying “yes” to making the world a healthier place. It’s discovering a career that’s challenging, supportive and inspiring. Where a culture driven by excellence helps you not only meet your goals, but also create new ones. We focus on creating a diverse and inclusive culture, encouraging individual expression in the workplace and thrive on the innovative ideas this generates. If this sounds like the workplace for you, apply now! We commit to respond to every applicant. Resmed (NYSE:RMD, ASX: RMD) creates life-changing health technologies that people love. We’re relentlessly committed to pioneering innovative technology to empower millions of people in more than 140 countries to live happier, healthier lives. Our AI-powered digital health solutions, cloud-connected devices and intelligent software make home healthcare more personalized, accessible and effective. Ultimately, Resmed envisions a world where every person can achieve their full potential through better sleep and breathing, with care delivered in their own home. Learn more about how we’re redefining sleep health at Resmed.com and follow @Resmed.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBEbhxioJvACXJVWYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "resmed-wd3-myworkdayjobs-com-en-us-resmed_external_careers-job-atlanta-ga-united-states-software-engineer-intern_jr_047982",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "L1CwXs96bwN3u1h_AAAAAA==",
+    "job_title": "Principal Python Software Engineer - DevOps",
+    "employer_name": "Request Technology",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnr-_BO5Pi1Jc10x2bdz-z_g3vypHG9RLUlqV0&s=0",
+    "employer_website": "https://requesttechnology.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/principal-python-software-engineer-devops-at-request-technology-4372570290?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/principal-python-software-engineer-devops-at-request-technology-4372570290?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "NO SPONSORSHIP - NO OPT\n\nPrincipal, Python Software Engineering: DevOps\n\nSALARY: $190k - $230k plus 30% bonus\n\nLOCATION: Chicago, IL OR Dallas, TX\n\nHybrid 3 days onsite\n\n10 years DevOps platform, heavy Python coding experience writing code unit tests. Jenkins splunk log review for root cause analysis Kubernetes deployments with helm charts harness aws terraform ansible infrastructure as code IaC\n\nQualifications:\n• 10+ years ~ of experience on similar DevOps platforms\n• A deep understanding of the Software Development Life Cycle (SDLC)\n• Experience with continuous integration and continuous deployment (CI/CD) tools, techniques, and automation frameworks\n• Python coding experience required, experience writing code unit-tests and following best practices\n• Jenkins job setup and execution analysis – including Splunk log review for Root Cause Analysis (RCA)\n• Ability to manage Kubernetes deployments with helm charts, using continuous deployment tools like Harness.io\n• Ability to manage AWS deployments using Terraform, Ansible, or similar Infrastructure as Code (IaC) frameworks\n\nEducation and/or Experience:\n• Bachelor’s or Master’s Degrees in Computer Science, Information Systems or other related field. Or equivalent work experience",
+    "job_is_remote": false,
+    "job_posted_at": "12 hours ago",
+    "job_posted_at_timestamp": 1771268400,
+    "job_posted_at_datetime_utc": "2026-02-16T19:00:00.000Z",
+    "job_location": "Chicago, IL",
+    "job_city": "Chicago",
+    "job_state": "Illinois",
+    "job_country": "US",
+    "job_latitude": 41.88325,
+    "job_longitude": -87.6323879,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DL1CwXs96bwN3u1h_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "10 years DevOps platform, heavy Python coding experience writing code unit tests",
+        "10+ years ~ of experience on similar DevOps platforms",
+        "A deep understanding of the Software Development Life Cycle (SDLC)",
+        "Experience with continuous integration and continuous deployment (CI/CD) tools, techniques, and automation frameworks",
+        "Python coding experience required, experience writing code unit-tests and following best practices",
+        "Jenkins job setup and execution analysis – including Splunk log review for Root Cause Analysis (RCA)",
+        "Ability to manage Kubernetes deployments with helm charts, using continuous deployment tools like Harness.io",
+        "Ability to manage AWS deployments using Terraform, Ansible, or similar Infrastructure as Code (IaC) frameworks",
+        "Bachelor’s or Master’s Degrees in Computer Science, Information Systems or other related field",
+        "Or equivalent work experience"
+      ],
+      "Benefits": [
+        "Principal, Python Software Engineering: DevOps",
+        "SALARY: $190k - $230k plus 30% bonus"
+      ],
+      "Responsibilities": [
+        "Hybrid 3 days onsite",
+        "Jenkins splunk log review for root cause analysis Kubernetes deployments with helm charts harness aws terraform ansible infrastructure as code IaC"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-principal-python-software-engineer-devops-at-request-technology-4372570290",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "BVOy526pQ6LaP3a2AAAAAA==",
+    "job_title": "Senior Java Backend Engineer - Hybrid, Boot & Microservices",
+    "employer_name": "NTT DATA North America",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Learn4Good",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.learn4good.com/jobs/texas/software_development/4872562197/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/texas/software_development/4872562197/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position: Senior Java Backend Engineer - Hybrid, Spring Boot & Microservices\nLocation: Westlake\n\nA leading technology services company in Westlake, Texas, is seeking an experienced Java Backend Engineer to join their team. This hybrid role focuses on the modernization of clients' enterprise platforms, requiring over 6 years of expertise in full-stack programming, specifically using Java Spring and cloud technologies. The ideal candidate will thrive in a collaborative environment and have strong problem-solving skills.\n\nThis position offers the chance to influence cutting-edge technological solutions and work with a dynamic team.\n#J-18808-Ljbffr",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Westlake, TX",
+    "job_city": "Westlake",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 32.991234999999996,
+    "job_longitude": -97.1950138,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBVOy526pQ6LaP3a2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 80000,
+    "job_max_salary": 100000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "This hybrid role focuses on the modernization of clients' enterprise platforms, requiring over 6 years of expertise in full-stack programming, specifically using Java Spring and cloud technologies",
+        "The ideal candidate will thrive in a collaborative environment and have strong problem-solving skills"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-learn4good-com-jobs-texas-software_development-4872562197-e",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "3yQe_VvJV1vljZ13AAAAAA==",
     "job_title": "Senior Software Engineer - Openflow",
     "employer_name": "Snowflake",
@@ -1384,9 +1352,9 @@
     "job_latitude": 37.452959799999995,
     "job_longitude": -122.18172519999999,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3yQe_VvJV1vljZ13AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1497,8 +1465,8 @@
     "job_longitude": -80.60771319999999,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Du72KdRaqhQ15ubAyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1814,8 +1782,8 @@
     "job_longitude": -94.1629938,
     "job_benefits": [
       "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFDZXZEoUM2_uDTMBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 110000,
@@ -1863,62 +1831,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-walmart-job-staff-software-engineer-backend-java-associate-well-being-in-johnson-ar",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "XT3boiE6ONQSZMs1AAAAAA==",
-    "job_title": "Backend Engineer for AI",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=f6b48915d1a8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=f6b48915d1a8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Backend Engineer, AI.\n\nKey Responsibilities\n\nBuild and operate backend systems that serve AI-powered features in production\n\nDesign inference pipelines, orchestration layers, and service boundaries around models\n\nOwn production concerns including monitoring, logging, alerting, and incident response\n\nRequired Qualifications\n\nStrong backend engineering fundamentals in production environments\n\nExperience running high-throughput, low-latency services\n\nFamiliarity with AI inference patterns (LLMs, embeddings, multimodal)\n\nComfortable debugging distributed systems under load\n\nBias toward shipping and learning from production behavior",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Syracuse, NY",
-    "job_city": "Syracuse",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 43.0494832,
-    "job_longitude": -76.1473977,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXT3boiE6ONQSZMs1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Strong backend engineering fundamentals in production environments",
-        "Experience running high-throughput, low-latency services",
-        "Familiarity with AI inference patterns (LLMs, embeddings, multimodal)",
-        "Comfortable debugging distributed systems under load",
-        "Bias toward shipping and learning from production behavior"
-      ],
-      "Responsibilities": [
-        "Build and operate backend systems that serve AI-powered features in production",
-        "Design inference pipelines, orchestration layers, and service boundaries around models",
-        "Own production concerns including monitoring, logging, alerting, and incident response"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   }
 ]
