@@ -11,7 +11,7 @@
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
-![Backend](https://img.shields.io/badge/Backend-4-red?style=flat&logo=star)
+![Backend](https://img.shields.io/badge/Backend-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -69,14 +69,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>⚙️ <strong>Backend</strong> (4 positions)</h3></summary>
+<summary><h3>⚙️ <strong>Backend</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Infosys LTD** | Dotnet Full Stack Developer | Pennington, New Jersey | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/dotnet-full-stack-developer-pennington-infosys-ltd-1eaad21ae90079f5754f63aef352c7c4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Wanderlog** | Full-Stack Software Engineer (Ne... | San Francisco, California | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ycombinator.com/companies/wanderlog/jobs/NQ2vBFd-full-stack-software-engineer-new-recent-graduates-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Automationtechies** | Full-Stack SW Developer - Python... 🏠 | Raleigh, North Carolina | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/full-stack-sw-developer-python-programmer-at-automationtechies-4371071644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Waste Connections** | Full Stack Developer (ASP MVC .N... | The Woodlands, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.wasteconnections.com/us/en/job/R-93760/Full-Stack-Developer-ASP-MVC-NetCore?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **livingspaces.com LLC** | Front End Web Developer 1 | La Mirada, California | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://livingspaces.wd5.myworkdayjobs.com/en-US/LS/job/Front-End-Web-Developer-1_R42622?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>🎨 <strong>Frontend</strong> (2 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **Aquent** | Web Developer/Designer [207838] | Arlington, Virginia | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/web-developer-designer-207838-at-aquent-4372165932?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **VirtualVocations** | Digital Designer Front-End Devel... | Sterling Heights, Michigan | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=15b484deb20a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -142,14 +150,14 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 1 positions
 - **🏢 Companies**: 4 companies
-- **🏷️ Top Category**: Backend
+- **🏷️ Top Category**: Frontend
 
 <details>
-<summary><h3>⚙️ <strong>Backend</strong> (1 positions)</h3></summary>
+<summary><h3>🎨 <strong>Frontend</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Outside Analytics** | Mid Full Stack Engineer (5000) (... 🏠 | Broomfield, Colorado | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.builtincolorado.com/job/mid-full-stack-engineer-4890-secret-broomfield-co/8363692?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **University of Virginia** | Front End Web Developer | Charlottesville, Virginia | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.a11yjobs.com/jobs/RVM4R-front-end-web-developer-university-of-virginia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
