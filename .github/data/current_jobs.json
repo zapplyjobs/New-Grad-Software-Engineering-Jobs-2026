@@ -161,8 +161,8 @@
     "job_longitude": -77.0280731,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPtQbdcY0X44HyyEHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
@@ -293,9 +293,9 @@
     "job_latitude": 33.6676103,
     "job_longitude": -84.01769039999999,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DY-waqqXVVaEyJou8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -337,6 +337,100 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-ziprecruiter-com-c-pratt-industries-job-ui-ux-front-end-engineer-in-conyers-ga",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "eoAtAp0WDXhzLST0AAAAAA==",
+    "job_title": "Front End Web Software Engineers",
+    "employer_name": "Walmart",
+    "employer_logo": null,
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Front-End-Web-Software-Engineers/-in-Cupertino,CA?jid=50580f2e95e2493d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Front-End-Web-Software-Engineers/-in-Cupertino,CA?jid=50580f2e95e2493d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do... As part of the Emerging Tech team, you’ll build the web foundation for Project Sparky, an AI powered assistant that helps customers manage everyday shopping through intelligent, context aware interactions. In this role, you’ll design and scale high performance frontend platforms and shared web experiences that integrate with generative and agentic AI, partnering with backend, AI/ML, and product teams to bring next generation conversational shopping to life for millions of customers.\n• Immigration Sponsorship is not available in this role\nAbout Emerging Tech:\nOur Emerging Tech team drives Walmart’s AI transformation by building intelligent systems that influence how millions shop every day across our global retail ecosystem. We develop stateoftheart generative and conversational AI that powers more proactive, connected, and personalized experiences. At this scale, every innovation you create not only reaches millions of customers worldwide but also comes to life in the very communities where you live, work, and shop.\n\nSoftware Engineering – Frontend team responsibilities:\n• Build scalable, high-performance web experiences and frontend platforms that millions of customers rely on.\n• Design reusable components and shared UI systems that help teams move faster and deliver consistent experiences.\n• Own decisions around frontend architecture, performance, accessibility, and quality standards.\n• Collaborate with backend, UX, and product partners to translate customer and business needs into intuitive, polished interfaces.\n• Maintain high engineering quality through thoughtful testing, reliable CI/CD practices, and constructive code reviews.\n• Mentor engineers and help raise the bar for frontend best practices across the organization.\n• Stay current with evolving frontend technologies to keep our platforms modern, resilient, and forward looking\n\nWho we are hiring:\nPrincipal / Distinguished Engineers\nYou shape the vision for Walmart’s frontend ecosystem.\n• 10–15+ years of frontend or web engineering experience.\n• Deep expertise with modern frameworks (React, TypeScript) and largescale frontend architecture.\n• Experience designing and scaling web platforms used by large, diverse user bases.\n• Proven leadership in performance, accessibility, coding standards, and system level decision making.\n\nStaff Engineers\nYou lead through technical excellence and collaboration.\n• 7–10+ years of frontend engineering experience.\n• Ownership of major frontend surfaces or platform level capabilities.\n• Strong instincts for system design and partnership with backend and cross functional teams.\n• Experience mentoring engineers and influencing technical direction across teams.\n\nIf you’re excited about building the future of web experiences at Walmart, we encourage you to apply. We’ll review your background and match you to the engineering level that aligns best with your skills, experience, and career goals.\n\nAbout Walmart Global Tech:\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. Thats what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the worlds leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\nWalmart's culture is a competitive advantage, and its fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nYour Career Journey at Walmart\nAt Walmart, we want to make sure your experience connecting with us is seamless and straightforward. Here’s what to expect when interacting with us as recruiters:\nWe’ll reach out via verified LinkedIn profiles or emails ending in \"@walmart.com.” or “@samsclub.com”. All job opportunities and applications are hosted on our official careers site: http://careers.walmart.com. There is no cost or payment required to apply or be considered for a position.\nIf you have any doubts about a communication, feel free to visit our careers page to verify authenticity. Thank you for exploring opportunities at Walmart! At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nSunnyvale, California US-11656: The annual salary range for this position is $143,000.00 - $286,000.00\nBentonville, Arkansas US-10735: The annual salary range for this position is $110,000.00 - $220,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area.\nOption 2: 7 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1375 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Cupertino, CA",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.322997799999996,
+    "job_longitude": -122.03218229999999,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeoAtAp0WDXhzLST0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 143000,
+    "job_max_salary": 286000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "10–15+ years of frontend or web engineering experience",
+        "Deep expertise with modern frameworks (React, TypeScript) and largescale frontend architecture",
+        "Experience designing and scaling web platforms used by large, diverse user bases",
+        "Proven leadership in performance, accessibility, coding standards, and system level decision making",
+        "7–10+ years of frontend engineering experience",
+        "Ownership of major frontend surfaces or platform level capabilities",
+        "Strong instincts for system design and partnership with backend and cross functional teams",
+        "Experience mentoring engineers and influencing technical direction across teams",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area",
+        "Option 2: 7 years’ experience in software engineering or related area",
+        "Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "Sunnyvale, California US-11656: The annual salary range for this position is $143,000.00 - $286,000.00",
+        "Bentonville, Arkansas US-10735: The annual salary range for this position is $110,000.00 - $220,000.00 Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
+      ],
+      "Responsibilities": [
+        "As part of the Emerging Tech team, you’ll build the web foundation for Project Sparky, an AI powered assistant that helps customers manage everyday shopping through intelligent, context aware interactions",
+        "In this role, you’ll design and scale high performance frontend platforms and shared web experiences that integrate with generative and agentic AI, partnering with backend, AI/ML, and product teams to bring next generation conversational shopping to life for millions of customers",
+        "Build scalable, high-performance web experiences and frontend platforms that millions of customers rely on",
+        "Design reusable components and shared UI systems that help teams move faster and deliver consistent experiences",
+        "Own decisions around frontend architecture, performance, accessibility, and quality standards",
+        "Collaborate with backend, UX, and product partners to translate customer and business needs into intuitive, polished interfaces",
+        "Maintain high engineering quality through thoughtful testing, reliable CI/CD practices, and constructive code reviews",
+        "Mentor engineers and help raise the bar for frontend best practices across the organization",
+        "Stay current with evolving frontend technologies to keep our platforms modern, resilient, and forward looking",
+        "You shape the vision for Walmart’s frontend ecosystem",
+        "You lead through technical excellence and collaboration",
+        "That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-ziprecruiter-com-c-walmart-job-front-end-web-software-engineers-in-cupertino-ca",
     "_source": "new_jobs"
   },
   {
@@ -432,105 +526,6 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "jobs-fidelity-com-en-jobs-2124098-principal-front-end-engineer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "2zYEwLG2vR7OHRdHAAAAAA==",
-    "job_title": "Front End Web Software Engineers",
-    "employer_name": "Walmart",
-    "employer_logo": null,
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Front-End-Web-Software-Engineers/-in-San-Mateo,CA?jid=25301dab4915d46d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Front-End-Web-Software-Engineers/-in-San-Mateo,CA?jid=25301dab4915d46d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-2786-ac82d5c2b21fc62fa5123a8ae160b86e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Summary...\n\nWhat you'll do... As part of the Emerging Tech team, you’ll build the web foundation for Project Sparky, an AI powered assistant that helps customers manage everyday shopping through intelligent, context aware interactions. In this role, you’ll design and scale high performance frontend platforms and shared web experiences that integrate with generative and agentic AI, partnering with backend, AI/ML, and product teams to bring next generation conversational shopping to life for millions of customers.\n• Immigration Sponsorship is not available in this role\nAbout Emerging Tech:\nOur Emerging Tech team drives Walmart’s AI transformation by building intelligent systems that influence how millions shop every day across our global retail ecosystem. We develop stateoftheart generative and conversational AI that powers more proactive, connected, and personalized experiences. At this scale, every innovation you create not only reaches millions of customers worldwide but also comes to life in the very communities where you live, work, and shop.\n\nSoftware Engineering – Frontend team responsibilities:\n• Build scalable, high-performance web experiences and frontend platforms that millions of customers rely on.\n• Design reusable components and shared UI systems that help teams move faster and deliver consistent experiences.\n• Own decisions around frontend architecture, performance, accessibility, and quality standards.\n• Collaborate with backend, UX, and product partners to translate customer and business needs into intuitive, polished interfaces.\n• Maintain high engineering quality through thoughtful testing, reliable CI/CD practices, and constructive code reviews.\n• Mentor engineers and help raise the bar for frontend best practices across the organization.\n• Stay current with evolving frontend technologies to keep our platforms modern, resilient, and forward looking\n\nWho we are hiring:\nPrincipal / Distinguished Engineers\nYou shape the vision for Walmart’s frontend ecosystem.\n• 10–15+ years of frontend or web engineering experience.\n• Deep expertise with modern frameworks (React, TypeScript) and largescale frontend architecture.\n• Experience designing and scaling web platforms used by large, diverse user bases.\n• Proven leadership in performance, accessibility, coding standards, and system level decision making.\n\nStaff Engineers\nYou lead through technical excellence and collaboration.\n• 7–10+ years of frontend engineering experience.\n• Ownership of major frontend surfaces or platform level capabilities.\n• Strong instincts for system design and partnership with backend and cross functional teams.\n• Experience mentoring engineers and influencing technical direction across teams.\n\nIf you’re excited about building the future of web experiences at Walmart, we encourage you to apply. We’ll review your background and match you to the engineering level that aligns best with your skills, experience, and career goals.\n\nAbout Walmart Global Tech:\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. Thats what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the worlds leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\nWalmart's culture is a competitive advantage, and its fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nYour Career Journey at Walmart\nAt Walmart, we want to make sure your experience connecting with us is seamless and straightforward. Here’s what to expect when interacting with us as recruiters:\nWe’ll reach out via verified LinkedIn profiles or emails ending in \"@walmart.com.” or “@samsclub.com”. All job opportunities and applications are hosted on our official careers site: http://careers.walmart.com. There is no cost or payment required to apply or be considered for a position.\nIf you have any doubts about a communication, feel free to visit our careers page to verify authenticity. Thank you for exploring opportunities at Walmart! At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nSunnyvale, California US-11656: The annual salary range for this position is $143,000.00 - $286,000.00\nBentonville, Arkansas US-10735: The annual salary range for this position is $110,000.00 - $220,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area.\nOption 2: 7 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1375 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "San Mateo, CA",
-    "job_city": "San Mateo",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.5629917,
-    "job_longitude": -122.32552539999999,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2zYEwLG2vR7OHRdHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 143000,
-    "job_max_salary": 286000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "10–15+ years of frontend or web engineering experience",
-        "Deep expertise with modern frameworks (React, TypeScript) and largescale frontend architecture",
-        "Experience designing and scaling web platforms used by large, diverse user bases",
-        "Proven leadership in performance, accessibility, coding standards, and system level decision making",
-        "7–10+ years of frontend engineering experience",
-        "Ownership of major frontend surfaces or platform level capabilities",
-        "Strong instincts for system design and partnership with backend and cross functional teams",
-        "Experience mentoring engineers and influencing technical direction across teams",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area",
-        "Option 2: 7 years’ experience in software engineering or related area",
-        "Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
-        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "Sunnyvale, California US-11656: The annual salary range for this position is $143,000.00 - $286,000.00",
-        "Bentonville, Arkansas US-10735: The annual salary range for this position is $110,000.00 - $220,000.00 Additional compensation includes annual or quarterly performance bonuses",
-        "Additional compensation for certain positions may also include :"
-      ],
-      "Responsibilities": [
-        "As part of the Emerging Tech team, you’ll build the web foundation for Project Sparky, an AI powered assistant that helps customers manage everyday shopping through intelligent, context aware interactions",
-        "In this role, you’ll design and scale high performance frontend platforms and shared web experiences that integrate with generative and agentic AI, partnering with backend, AI/ML, and product teams to bring next generation conversational shopping to life for millions of customers",
-        "Build scalable, high-performance web experiences and frontend platforms that millions of customers rely on",
-        "Design reusable components and shared UI systems that help teams move faster and deliver consistent experiences",
-        "Own decisions around frontend architecture, performance, accessibility, and quality standards",
-        "Collaborate with backend, UX, and product partners to translate customer and business needs into intuitive, polished interfaces",
-        "Maintain high engineering quality through thoughtful testing, reliable CI/CD practices, and constructive code reviews",
-        "Mentor engineers and help raise the bar for frontend best practices across the organization",
-        "Stay current with evolving frontend technologies to keep our platforms modern, resilient, and forward looking",
-        "You shape the vision for Walmart’s frontend ecosystem",
-        "You lead through technical excellence and collaboration",
-        "That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-walmart-job-front-end-web-software-engineers-in-san-mateo-ca",
     "_source": "new_jobs"
   },
   {
@@ -688,9 +683,9 @@
     "job_latitude": 36.3723561,
     "job_longitude": -94.2102141,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXB4QXYyNELxRWUAXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 143000,
@@ -752,6 +747,109 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-ziprecruiter-com-c-walmart-job-principal-software-engineer-front-end-in-bentonville-ar",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "ILPtyTorNCzqsuvIAAAAAA==",
+    "job_title": "Remote Senior Frontend Developer",
+    "employer_name": "EleonsCo",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/remote-senior-frontend-developer-at-eleonsco-4373532558?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/remote-senior-frontend-developer-at-eleonsco-4373532558?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Cosmoquick",
+        "apply_link": "https://cosmoquick.com/hire-remote-in/raleigh/hire-remote-frontend-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/8daa534f778ea033d39dd4e7fe48c481?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Www.talent.com",
+        "apply_link": "https://www.talent.com/view?id=d587fc10a4de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Www.hayakawa.ne.jp",
+        "apply_link": "https://www.hayakawa.ne.jp/job-library/job/frontend-developer-at-accountingcoach-remote-a3Y2dDJWNXhEZXZyUHJaUGp5R0d4ZGVwMHc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Yulys",
+        "apply_link": "https://yulys.com/jobs/frontend-developer-100-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "100% Remote Work Anywhere In The World",
+        "apply_link": "https://truemote.com/remote-job/remote-senior-frontend-developer-71701cd5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/online_remote/software_development/4851561465/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Senior Roblox Frontend Engineer (UI/UX Systems) — RemoteCompany Description\n\nWe are building a next-generation creature-capturing experience on the Roblox platform focused on scale, polish, and long-term growth. Our team combines strong engineering practices with ambitious game design to create highly interactive, performant experiences enjoyed by millions of players. We value collaboration, ownership, and high standards across both design and technical execution.\nRole Description\n\nWe are hiring a full-time Senior Roblox Frontend Engineer for a remote position. In this role, you will collaborate closely with designers, gameplay engineers, and backend developers to build scalable, high-quality user interfaces and client systems within Roblox Studio.\n\nYou will help shape the player experience by developing polished UI systems, implementing responsive layouts across devices, and improving maintainability using modern Roblox workflows such as Rojo and GitHub-based version control.\n\nThis is a high-impact role suited for engineers who enjoy ownership, solving complex problems, and contributing to a large-scale live game environment.\nKey Responsibilities\n• Build and maintain scalable UI systems using Roblox Studio and Luau.\n• Translate UI/UX designs into polished, responsive in-game interfaces.\n• Develop reusable frontend architecture and component-based UI workflows.\n• Integrate frontend systems with gameplay logic and backend/networked services.\n• Optimize client performance, memory usage, and rendering efficiency.\n• Debug complex client-side issues across devices (PC, mobile, console).\n• Collaborate closely with cross-functional teams in a remote environment.\n• Maintain clean Git workflows and project structure using GitHub + Rojo.\n• Promote usability, maintainability, and high engineering standards.\nQualifications\n• Extensive experience developing client-side systems in Roblox Studio (Luau).\n• Strong understanding of UI architecture and reusable frontend patterns.\n• Proficiency with Git, GitHub workflows, and Rojo-based development.\n• Deep knowledge of responsive design for multi-device Roblox experiences.\n• Experience optimizing Roblox client performance and troubleshooting UI systems.\n• Strong understanding of software development best practices.\n• Excellent problem-solving skills and attention to detail.\n• Strong communication skills and ability to collaborate effectively in a remote team environment.\nPreferred (Nice to Have)\n• Experience working on large-scale Roblox games or live-service projects.\n• Familiarity with design systems or custom UI frameworks.\n• Experience creating internal tools or plugins for Roblox Studio.\n• Understanding of backend/networking concepts.",
+    "job_is_remote": true,
+    "job_posted_at": "22 hours ago",
+    "job_posted_at_timestamp": 1771225200,
+    "job_posted_at_datetime_utc": "2026-02-16T07:00:00.000Z",
+    "job_location": "Hopewell, FL",
+    "job_city": "Hopewell",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 27.92833,
+    "job_longitude": -82.12389,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DILPtyTorNCzqsuvIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Extensive experience developing client-side systems in Roblox Studio (Luau)",
+        "Strong understanding of UI architecture and reusable frontend patterns",
+        "Proficiency with Git, GitHub workflows, and Rojo-based development",
+        "Deep knowledge of responsive design for multi-device Roblox experiences",
+        "Experience optimizing Roblox client performance and troubleshooting UI systems",
+        "Strong understanding of software development best practices",
+        "Excellent problem-solving skills and attention to detail",
+        "Strong communication skills and ability to collaborate effectively in a remote team environment"
+      ],
+      "Responsibilities": [
+        "In this role, you will collaborate closely with designers, gameplay engineers, and backend developers to build scalable, high-quality user interfaces and client systems within Roblox Studio",
+        "You will help shape the player experience by developing polished UI systems, implementing responsive layouts across devices, and improving maintainability using modern Roblox workflows such as Rojo and GitHub-based version control",
+        "This is a high-impact role suited for engineers who enjoy ownership, solving complex problems, and contributing to a large-scale live game environment",
+        "Build and maintain scalable UI systems using Roblox Studio and Luau",
+        "Translate UI/UX designs into polished, responsive in-game interfaces",
+        "Develop reusable frontend architecture and component-based UI workflows",
+        "Integrate frontend systems with gameplay logic and backend/networked services",
+        "Optimize client performance, memory usage, and rendering efficiency",
+        "Debug complex client-side issues across devices (PC, mobile, console)",
+        "Collaborate closely with cross-functional teams in a remote environment",
+        "Maintain clean Git workflows and project structure using GitHub + Rojo",
+        "Promote usability, maintainability, and high engineering standards"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-remote-senior-frontend-developer-at-eleonsco-4373532558",
     "_source": "new_jobs"
   },
   {
@@ -863,109 +961,6 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "careers-adobe-com-us-en-job-r163077-software-engineer-fullstack-front-end-heavy",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "ILPtyTorNCzqsuvIAAAAAA==",
-    "job_title": "Remote Senior Frontend Developer",
-    "employer_name": "EleonsCo",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/remote-senior-frontend-developer-at-eleonsco-4373532558?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/remote-senior-frontend-developer-at-eleonsco-4373532558?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Cosmoquick",
-        "apply_link": "https://cosmoquick.com/hire-remote-in/raleigh/hire-remote-frontend-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/8daa534f778ea033d39dd4e7fe48c481?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Www.talent.com",
-        "apply_link": "https://www.talent.com/view?id=d587fc10a4de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Www.hayakawa.ne.jp",
-        "apply_link": "https://www.hayakawa.ne.jp/job-library/job/frontend-developer-at-accountingcoach-remote-a3Y2dDJWNXhEZXZyUHJaUGp5R0d4ZGVwMHc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Yulys",
-        "apply_link": "https://yulys.com/jobs/frontend-developer-100-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "100% Remote Work Anywhere In The World",
-        "apply_link": "https://truemote.com/remote-job/remote-senior-frontend-developer-71701cd5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/online_remote/software_development/4851561465/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Senior Roblox Frontend Engineer (UI/UX Systems) — RemoteCompany Description\n\nWe are building a next-generation creature-capturing experience on the Roblox platform focused on scale, polish, and long-term growth. Our team combines strong engineering practices with ambitious game design to create highly interactive, performant experiences enjoyed by millions of players. We value collaboration, ownership, and high standards across both design and technical execution.\nRole Description\n\nWe are hiring a full-time Senior Roblox Frontend Engineer for a remote position. In this role, you will collaborate closely with designers, gameplay engineers, and backend developers to build scalable, high-quality user interfaces and client systems within Roblox Studio.\n\nYou will help shape the player experience by developing polished UI systems, implementing responsive layouts across devices, and improving maintainability using modern Roblox workflows such as Rojo and GitHub-based version control.\n\nThis is a high-impact role suited for engineers who enjoy ownership, solving complex problems, and contributing to a large-scale live game environment.\nKey Responsibilities\n• Build and maintain scalable UI systems using Roblox Studio and Luau.\n• Translate UI/UX designs into polished, responsive in-game interfaces.\n• Develop reusable frontend architecture and component-based UI workflows.\n• Integrate frontend systems with gameplay logic and backend/networked services.\n• Optimize client performance, memory usage, and rendering efficiency.\n• Debug complex client-side issues across devices (PC, mobile, console).\n• Collaborate closely with cross-functional teams in a remote environment.\n• Maintain clean Git workflows and project structure using GitHub + Rojo.\n• Promote usability, maintainability, and high engineering standards.\nQualifications\n• Extensive experience developing client-side systems in Roblox Studio (Luau).\n• Strong understanding of UI architecture and reusable frontend patterns.\n• Proficiency with Git, GitHub workflows, and Rojo-based development.\n• Deep knowledge of responsive design for multi-device Roblox experiences.\n• Experience optimizing Roblox client performance and troubleshooting UI systems.\n• Strong understanding of software development best practices.\n• Excellent problem-solving skills and attention to detail.\n• Strong communication skills and ability to collaborate effectively in a remote team environment.\nPreferred (Nice to Have)\n• Experience working on large-scale Roblox games or live-service projects.\n• Familiarity with design systems or custom UI frameworks.\n• Experience creating internal tools or plugins for Roblox Studio.\n• Understanding of backend/networking concepts.",
-    "job_is_remote": true,
-    "job_posted_at": "22 hours ago",
-    "job_posted_at_timestamp": 1771225200,
-    "job_posted_at_datetime_utc": "2026-02-16T07:00:00.000Z",
-    "job_location": "Hopewell, FL",
-    "job_city": "Hopewell",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 27.92833,
-    "job_longitude": -82.12389,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DILPtyTorNCzqsuvIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Extensive experience developing client-side systems in Roblox Studio (Luau)",
-        "Strong understanding of UI architecture and reusable frontend patterns",
-        "Proficiency with Git, GitHub workflows, and Rojo-based development",
-        "Deep knowledge of responsive design for multi-device Roblox experiences",
-        "Experience optimizing Roblox client performance and troubleshooting UI systems",
-        "Strong understanding of software development best practices",
-        "Excellent problem-solving skills and attention to detail",
-        "Strong communication skills and ability to collaborate effectively in a remote team environment"
-      ],
-      "Responsibilities": [
-        "In this role, you will collaborate closely with designers, gameplay engineers, and backend developers to build scalable, high-quality user interfaces and client systems within Roblox Studio",
-        "You will help shape the player experience by developing polished UI systems, implementing responsive layouts across devices, and improving maintainability using modern Roblox workflows such as Rojo and GitHub-based version control",
-        "This is a high-impact role suited for engineers who enjoy ownership, solving complex problems, and contributing to a large-scale live game environment",
-        "Build and maintain scalable UI systems using Roblox Studio and Luau",
-        "Translate UI/UX designs into polished, responsive in-game interfaces",
-        "Develop reusable frontend architecture and component-based UI workflows",
-        "Integrate frontend systems with gameplay logic and backend/networked services",
-        "Optimize client performance, memory usage, and rendering efficiency",
-        "Debug complex client-side issues across devices (PC, mobile, console)",
-        "Collaborate closely with cross-functional teams in a remote environment",
-        "Maintain clean Git workflows and project structure using GitHub + Rojo",
-        "Promote usability, maintainability, and high engineering standards"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-remote-senior-frontend-developer-at-eleonsco-4373532558",
     "_source": "new_jobs"
   },
   {
@@ -1242,9 +1237,9 @@
     "job_latitude": 37.7749295,
     "job_longitude": -122.4194155,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DU9nmryLSJAR0Vjk1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1466,9 +1461,9 @@
     "job_latitude": 38.794595199999996,
     "job_longitude": -106.5348379,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJMfbg_RGZSd9aET5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1574,9 +1569,9 @@
     "job_latitude": 47.6061389,
     "job_longitude": -122.33284809999999,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYB5iNUA5MrwGWMNeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1677,249 +1672,6 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-snagajob-com-jobs-1202829705",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "_jNjH0m8HPj6rm0eAAAAAA==",
-    "job_title": "Senior Frontend Engineer (Discovery Applications), React",
-    "employer_name": "Scribd",
-    "employer_logo": null,
-    "employer_website": "https://www.scribd.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=8bc2fadb6ae707ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=8bc2fadb6ae707ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Scribd/Job/Senior-Frontend-Engineer-(Discovery-Applications),-React/-in-Salt-Lake-City,UT?jid=4782e9f1ea9c8d11&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/senior-frontend-engineer-discovery-applications-react-scribd-JV_IC1128289_KO0,53_KE54,60.htm?jl=1010023713324&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/e6JuJ4DnPJ_T8gnmxnhHsAWqS6v8seJpAeXE7c3gDCfjqSNTYmRPnA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-frontend-engineer-discovery-applications-react-at-scribd-inc-4368939733?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Full-Stack Rails Jobs With Modern Frontends",
-        "apply_link": "https://www.railsfullstack.com/jobs/senior-frontend-engineer-discovery-applications-react-scribd-inc-salt-lake-city?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "About The Company:\n\nAt Scribd Inc. (pronounced “scribbed”), our mission is to spark human curiosity. Join our team as we create a world of stories and knowledge, democratize the exchange of ideas and information, and empower collective expertise through our four products: Everand, Scribd, Slideshare, and Fable.\n\nThis posting reflects an approved, open position within the organization.\n\nWe support a culture where our employees can be real and be bold; where we debate and commit as we embrace plot twists; and where every employee is empowered to take action as we prioritize the customer.\n\nWhen it comes to workplace structure, we believe in balancing individual flexibility and community connections. It’s through our flexible work benefit, Scribd Flex, that employees – in partnership with their manager – can choose the daily work-style that best suits their individual needs. A key tenet of Scribd Flex is our prioritization of intentional in-person moments to build collaboration, culture, and connection. For this reason, occasional in-person attendance is required for all Scribd Inc. employees, regardless of their location.\n\nSo what are we looking for in new team members? Well, we hire for “GRIT”. The textbook definition of GRIT is demonstrating the intersection of passion and perseverance towards long term goals. At Scribd Inc., we are inspired by the potential that this can unlock, and ask each of our employees to pursue a GRIT-ty approach to their work. In a tactical sense, GRIT is also a handy acronym that outlines the standards we hold ourselves and each other to. Here’s what that means for you: we’re looking for someone who showcases the ability to set and achieve Goals, achieve Results within their job responsibilities, contribute Innovative ideas and solutions, and positively influence the broader Team through collaboration and attitude.\n\nAbout the Discovery Applications Team\n\nDiscovery Applications is the face of Scribd’s Machine Learning and Discovery Engineering Division. It is dedicated to building the customer-facing web experiences that power our cutting-edge search, recommendations, and generative AI features. This full stack team builds and owns the end-to-end discovery experience across Scribd and Everand, turning machine learning capabilities into intuitive, customer-facing features.\n\nJoining this team means you will play a key role in delivering the user value of the pioneering machine learning work, creating tangible impacts through exceptional user experiences.\n\nAs a Frontend Engineer on Discovery Applications\n\nOur cross-functional squads often involve deep collaboration with other engineering teams, designers, and product managers. Your excellent communication, both in meetings and asynchronously via slack will be a key tool in driving success.\n\nThis role predominantly focuses on the frontend but comfort and knowledge of the full tech stack is a must as this role works closely with backend and ML engineers to build our complete product. You will build the user-facing experiences that are powered by Machine Learning and Generative AI.\n\nFull-cycle software development will be your primary function, but we'll expect you to contribute in a number of ways, including advising on others' technical design, reviewing code, participating in interviews, and mentoring less experienced engineers.\n\nWhen you are building software, you'll be doing more than just coding a ticket that is handed to you. You'll contribute to the code strategy, architecture, implementation, delivery, and operation of systems, end-to-end. You'll consider testability, upgradeability, scalability, and observability throughout the development process.\n\nMust Have Skills and Experience\n• 3–5 years building and shipping customer-facing frontend applications with React and TypeScript\n• Strong grasp of modern frontend fundamentals: state management, component architecture, accessibility, testing, and UI quality\n• Experience integrating frontends with APIs (REST/GraphQL) and comfort working in a Rails-backed product environment\n• Ability to build high-quality interactive experiences (including real-time/streaming UI patterns) with attention to UX polish\n• Strong understanding of web performance (profiling, bundling, rendering, caching) and a track record of improving it in production\n• Comfortable working in a codebase with shared patterns (monorepos, shared UI libraries, or platform constraints) and collaborating across teams\n• Excellent written and verbal communication; thrives in a remote, documentation-driven culture\n• Highly collaborative: partners closely with product, design, and backend to deliver end-to-end features\n\nNice to Have Skills and Experience\n• Excited to build AI-powered product experiences end-to-end (0 1 prototyping, rapid iteration, and shipping to production).\n• Experience designing search, recommendations, and discovery UX (relevance, ranking, personalization, evaluation).\n• Familiarity with LLM/AI integrations in web apps (streaming UIs, prompt/tool patterns, human-in-the-loop workflows).\n• Experience with Next.js, GraphQL, and modern frontend architecture patterns.\n• Built or evolved a design system / component library that enables fast, consistent product delivery.\n• Comfort operating in high-traffic, high-visibility environments with real customer impact.\n• Ability to diagnose and improve performance, caching, and observability in modern web applications.\n\nAt Scribd, your base pay is one part of your total compensation package and is determined within a range. Our pay ranges are based on the local cost of labor benchmarks for each specific role, level, and geographic location. San Francisco is our highest geographic market in the United States. In the state of California, the reasonably expected salary range is between $146,000 [minimum salary in our lowest geographic market within California] to $227,500 [maximum salary in our highest geographic market within California].\n\nIn the United States, outside of California, the reasonably expected salary range is between $120,000 [minimum salary in our lowest US geographic market outside of California] to $216,500 [maximum salary in our highest US geographic market outside of California].\n\nIn Canada, the reasonably expected salary range is between $152,500 CAD[minimum salary in our lowest geographic market] to $194,500 CAD[maximum salary in our highest geographic market].\n\nWe carefully consider a wide range of factors when determining compensation, including but not limited to experience; job-related skill sets; relevant education or training; and other business and organizational needs. The salary range listed is for the level at which this job has been scoped. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for a competitive equity ownership, and a comprehensive and generous benefits package.\n\nWorking at Scribd Inc.\n\nAre you currently based in a location where Scribd Inc. can employ you?\nEmployees must have their primary residence in or near one of the following cities. This includes surrounding metro areas or locations within a typical commuting distance:\n\nUnited States:\n\nAtlanta | Austin | Boston | Dallas | Denver | Chicago | Houston | Jacksonville | Los Angeles | Miami | New York City | Phoenix | Portland | Sacramento | Salt Lake City | San Diego | San Francisco | Seattle | Washington D.C.\n\nCanada:\n\nOttawa | Toronto | Vancouver\n\nMexico:\n\nMexico City\n\nBenefits, Perks, and Wellbeing at Scribd Inc.\n• Benefits/perks listed may vary depending on the nature of your employment with Scribd Inc. and the geographical location where you work.\n• Healthcare Insurance Coverage (Medical/Dental/Vision): 100% paid for employees\n• 12 weeks paid parental leave\n• Short-term/long-term disability plans\n• 401k/RSP matching\n• Onboarding stipend for home office peripherals + accessories\n• Learning & Development allowance\n• Learning & Development programs\n• Quarterly stipend for Wellness, WiFi, etc.\n• Mental Health support & resources\n• Free subscription to the Scribd Inc. suite of products\n• Referral Bonuses\n• Book Benefit\n• Sabbaticals\n• Company-wide events\n• Team engagement budgets\n• Vacation & Personal Days\n• Paid Holidays (+ winter break)\n• Flexible Sick Time\n• Volunteer Day\n• Company-wide Employee Resource Groups and programs that foster an inclusive and diverse workplace.\n• Access to AI Tools: We provide free access to best-in-class AI tools, empowering you to boost productivity, streamline workflows, and accelerate bold innovation.\n\nWant to learn more about life at Scribd? www.linkedin.com/company/scribd/life\n\nWe want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing accommodations@scribd.com about the need for adjustments at any point in the interview process.\n\nScribd Inc. is committed to equal employment opportunity regardless of race, color, religion, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We encourage people of all backgrounds to apply, and believe that a diversity of perspectives and experiences create a foundation for the best ideas. Come join us in building something meaningful.",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Salt Lake City, UT",
-    "job_city": "Salt Lake City",
-    "job_state": "Utah",
-    "job_country": "US",
-    "job_latitude": 40.7605601,
-    "job_longitude": -111.8881397,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_jNjH0m8HPj6rm0eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 146000,
-    "job_max_salary": 228000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Here’s what that means for you: we’re looking for someone who showcases the ability to set and achieve Goals, achieve Results within their job responsibilities, contribute Innovative ideas and solutions, and positively influence the broader Team through collaboration and attitude",
-        "Joining this team means you will play a key role in delivering the user value of the pioneering machine learning work, creating tangible impacts through exceptional user experiences",
-        "Must Have Skills and Experience",
-        "3–5 years building and shipping customer-facing frontend applications with React and TypeScript",
-        "Strong grasp of modern frontend fundamentals: state management, component architecture, accessibility, testing, and UI quality",
-        "Experience integrating frontends with APIs (REST/GraphQL) and comfort working in a Rails-backed product environment",
-        "Ability to build high-quality interactive experiences (including real-time/streaming UI patterns) with attention to UX polish",
-        "Strong understanding of web performance (profiling, bundling, rendering, caching) and a track record of improving it in production",
-        "Comfortable working in a codebase with shared patterns (monorepos, shared UI libraries, or platform constraints) and collaborating across teams",
-        "Excellent written and verbal communication; thrives in a remote, documentation-driven culture",
-        "Highly collaborative: partners closely with product, design, and backend to deliver end-to-end features",
-        "Nice to Have Skills and Experience",
-        "Excited to build AI-powered product experiences end-to-end (0 1 prototyping, rapid iteration, and shipping to production)",
-        "Experience designing search, recommendations, and discovery UX (relevance, ranking, personalization, evaluation)",
-        "Familiarity with LLM/AI integrations in web apps (streaming UIs, prompt/tool patterns, human-in-the-loop workflows)",
-        "Experience with Next.js, GraphQL, and modern frontend architecture patterns",
-        "Built or evolved a design system / component library that enables fast, consistent product delivery",
-        "Comfort operating in high-traffic, high-visibility environments with real customer impact",
-        "Ability to diagnose and improve performance, caching, and observability in modern web applications",
-        "This includes surrounding metro areas or locations within a typical commuting distance:"
-      ],
-      "Benefits": [
-        "At Scribd, your base pay is one part of your total compensation package and is determined within a range",
-        "Our pay ranges are based on the local cost of labor benchmarks for each specific role, level, and geographic location",
-        "In the state of California, the reasonably expected salary range is between $146,000 [minimum salary in our lowest geographic market within California] to $227,500 [maximum salary in our highest geographic market within California]",
-        "In the United States, outside of California, the reasonably expected salary range is between $120,000 [minimum salary in our lowest US geographic market outside of California] to $216,500 [maximum salary in our highest US geographic market outside of California]",
-        "In Canada, the reasonably expected salary range is between $152,500 CAD[minimum salary in our lowest geographic market] to $194,500 CAD[maximum salary in our highest geographic market]",
-        "We carefully consider a wide range of factors when determining compensation, including but not limited to experience; job-related skill sets; relevant education or training; and other business and organizational needs",
-        "This position is also eligible for a competitive equity ownership, and a comprehensive and generous benefits package",
-        "Benefits/perks listed may vary depending on the nature of your employment with Scribd Inc. and the geographical location where you work",
-        "Healthcare Insurance Coverage (Medical/Dental/Vision): 100% paid for employees",
-        "12 weeks paid parental leave",
-        "Short-term/long-term disability plans",
-        "401k/RSP matching",
-        "Onboarding stipend for home office peripherals + accessories",
-        "Learning & Development allowance",
-        "Learning & Development programs",
-        "Quarterly stipend for Wellness, WiFi, etc",
-        "Mental Health support & resources",
-        "Free subscription to the Scribd Inc. suite of products",
-        "Referral Bonuses",
-        "Book Benefit",
-        "Sabbaticals",
-        "Company-wide events",
-        "Team engagement budgets",
-        "Vacation & Personal Days",
-        "Paid Holidays (+ winter break)",
-        "Flexible Sick Time",
-        "Volunteer Day",
-        "Company-wide Employee Resource Groups and programs that foster an inclusive and diverse workplace",
-        "Access to AI Tools: We provide free access to best-in-class AI tools, empowering you to boost productivity, streamline workflows, and accelerate bold innovation"
-      ],
-      "Responsibilities": [
-        "Our cross-functional squads often involve deep collaboration with other engineering teams, designers, and product managers",
-        "Your excellent communication, both in meetings and asynchronously via slack will be a key tool in driving success",
-        "This role predominantly focuses on the frontend but comfort and knowledge of the full tech stack is a must as this role works closely with backend and ML engineers to build our complete product",
-        "You will build the user-facing experiences that are powered by Machine Learning and Generative AI",
-        "Full-cycle software development will be your primary function, but we'll expect you to contribute in a number of ways, including advising on others' technical design, reviewing code, participating in interviews, and mentoring less experienced engineers",
-        "When you are building software, you'll be doing more than just coding a ticket that is handed to you",
-        "You'll contribute to the code strategy, architecture, implementation, delivery, and operation of systems, end-to-end",
-        "You'll consider testability, upgradeability, scalability, and observability throughout the development process"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-indeed-com-viewjob",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "2iFxIMwlxK8hKMyDAAAAAA==",
-    "job_title": "Senior Frontend Engineer",
-    "employer_name": "Adobe",
-    "employer_logo": null,
-    "employer_website": "https://www.adobe.com",
-    "job_publisher": "Adobe Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R165316/Senior-Frontend-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Adobe Careers",
-        "apply_link": "https://careers.adobe.com/us/en/job/R165316/Senior-Frontend-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Oakwell Hampton",
-        "apply_link": "https://www.oakwellhampton.com/apply/senior-frontend-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Hired-Recruiters/Job/Senior-Frontend-Engineer/-in-New-York,NY?jid=d1f35e2ea51a8dd4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Alldus",
-        "apply_link": "https://alldus.com/job/56474-senior-frontend-engineer-new-york-new-york/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Doctronic.ai",
-        "apply_link": "https://www.doctronic.ai/careers?ashby_jid=6e4e805a-e99c-4d8d-8949-cf6f654d0edb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs",
-        "apply_link": "https://jobs.ashbyhq.com/graphite/006292c8-79b3-4474-8382-98beb88deb1e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=5fa0b47a144509aa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Wellfound",
-        "apply_link": "https://wellfound.com/jobs/3768630-senior-frontend-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "JOB LEVEL\nP50\n\nADDITIONAL JOB LEVELS\nP40\n\n-\n\nEMPLOYEE ROLE\nIndividual Contributor\n\nThe Opportunity\n\nFrame.io, an Adobe Company, is changing the future of how videos are made by helping over 1 million creative professionals seamlessly collaborate from all over the world.\n\nEngineering at Frame.io is about more than just writing code - it's crafting products that inspire creativity and allow our users to do great work. We care deeply about how our products are built, how they look, how they feel, and how they function.\n\nWe're looking for an experienced frontend engineer to join our growing engineering team and help build our flagship web app. Together with your cross-functional product squad, you'll own a significant area of our product and ship revolutionary new features to our platform.\n\nWe’ve designed our tech stack to provide the best possible developer experience so you can focus on solving the right challenges; we obsess over performance, scalability, privacy, and security. On the frontend, you’ll be using React, Next.js, Apollo Client, Typescript, GraphQL Codegen, Jest, Storybook, Styled Components, and Framer Motion.\n\nSuccess in this role is shipping, maintaining and iterating on a best-in-class web app that enables our customers to do their best work.\n\nWhat you'll Do\n• Build our flagship web product by creating fluid interfaces that perform at massive scale\n• Shape, prototype, demo and ship new features with members on your squad from design, product, user insights, QA, backend as well as other frontend engineers\n• Receive and offer technical feedback through pair programming and code reviews\n• Promote engineering excellence with a focus on performance, scalability, privacy, and security\n• Participate in our On Call and Triage rotation to keep our service running smoothly for our customers\n• Receive close guidance and mentorship from our engineering managers and leads\n\nWhat you need to succeed\n• A love of product design, fluid interfaces, and using exceptional products\n• Experience building pixel-perfect, robust, performant and accessible user interfaces on the web\n• Experience implementing complex UI with CSS, animation, orchestration and responsiveness\n• JavaScript/TypeScript fluency using a framework like React (preferred)\n• Experience working with sophisticated application state, e.g. Apollo Client, Redux, MobX or similar\n• A dedication to learning and sharing ideas with your fellow engineers\n• Mastery of breaking down, discussing, and communicating abstract technical concepts\n• GraphQL experience is a plus\n\nFrameio-All1\n\nOur compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $159,200 -- $301,600 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.‌\n\nIn California, the pay range for this position is $208,300 - $301,600 │ In New York, the pay range for this position is $208,300 - $301,600\n\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).\n\nIn addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.\n\nState-Specific Notices:\n\nCalifornia:\n\nFair Chance Ordinances\n\nAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.\n\nColorado:\n\nApplication Window Notice\n\nThere is no deadline to apply to this job posting because Adobe accepts applications for this role on an ongoing basis. The posting will remain open based on hiring needs and position availability.\n\nMassachusetts:\n\nMassachusetts Legal Notice\n\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\nInternal Opportunities\n\nCreativity, curiosity, and constant learning are celebrated aspects of your career growth journey. We’re glad that you’re pursuing a new opportunity at Adobe!\n\nPut your best foot forward:\n\n1. Update your Resume/CV and Workday profile – don’t forget to include your uniquely ‘Adobe’ experiences and volunteer work.\n\n2. Visit the Internal Mobility page on Inside Adobe to learn more about the process and set up a job alert for roles you’re interested in.\n\n3. Check out these tips to help you prep for interviews.\n\n4. If you are applying for a role outside of your current country, ensure you review the International Resources for Relocating Employees on Inside Adobe, including the impacts to your Benefits, AIP, Equity & Payroll.\n\nOnce you apply for a role via Workday, the Talent Team will reach out to you within 2 weeks. If you move into the official interview process with the hiring team, make sure you inform your manager so they can champion your career growth.\n\nAt Adobe, you will be immersed in an exceptional work environment that is recognized around the world. You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely. If you’re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.\n\nAdobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.\n\nAdobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
-    "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "New York, NY",
-    "job_city": "New York",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2iFxIMwlxK8hKMyDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "A love of product design, fluid interfaces, and using exceptional products",
-        "Experience building pixel-perfect, robust, performant and accessible user interfaces on the web",
-        "Experience implementing complex UI with CSS, animation, orchestration and responsiveness",
-        "Experience working with sophisticated application state, e.g",
-        "Apollo Client, Redux, MobX or similar",
-        "A dedication to learning and sharing ideas with your fellow engineers",
-        "Mastery of breaking down, discussing, and communicating abstract technical concepts",
-        "Update your Resume/CV and Workday profile – don’t forget to include your uniquely ‘Adobe’ experiences and volunteer work",
-        "Visit the Internal Mobility page on Inside Adobe to learn more about the process and set up a job alert for roles you’re interested in"
-      ],
-      "Benefits": [
-        "The U.S. pay range for this position is $159,200 -- $301,600 annually",
-        "In California, the pay range for this position is $208,300 - $301,600 │ In New York, the pay range for this position is $208,300 - $301,600",
-        "At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans",
-        "Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP)",
-        "In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award",
-        "Creativity, curiosity, and constant learning are celebrated aspects of your career growth journey",
-        "If you are applying for a role outside of your current country, ensure you review the International Resources for Relocating Employees on Inside Adobe, including the impacts to your Benefits, AIP, Equity & Payroll"
-      ],
-      "Responsibilities": [
-        "On the frontend, you’ll be using React, Next.js, Apollo Client, Typescript, GraphQL Codegen, Jest, Storybook, Styled Components, and Framer Motion",
-        "Success in this role is shipping, maintaining and iterating on a best-in-class web app that enables our customers to do their best work",
-        "Build our flagship web product by creating fluid interfaces that perform at massive scale",
-        "Shape, prototype, demo and ship new features with members on your squad from design, product, user insights, QA, backend as well as other frontend engineers",
-        "Receive and offer technical feedback through pair programming and code reviews",
-        "Promote engineering excellence with a focus on performance, scalability, privacy, and security",
-        "Participate in our On Call and Triage rotation to keep our service running smoothly for our customers",
-        "Receive close guidance and mentorship from our engineering managers and leads"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "careers-adobe-com-us-en-job-r165316-senior-frontend-engineer",
     "_source": "new_jobs"
   },
   {
@@ -2173,6 +1925,115 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-uber-com-careers-list-143745",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "2iFxIMwlxK8hKMyDAAAAAA==",
+    "job_title": "Senior Frontend Engineer",
+    "employer_name": "Adobe",
+    "employer_logo": null,
+    "employer_website": "https://www.adobe.com",
+    "job_publisher": "Adobe Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R165316/Senior-Frontend-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Adobe Careers",
+        "apply_link": "https://careers.adobe.com/us/en/job/R165316/Senior-Frontend-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Oakwell Hampton",
+        "apply_link": "https://www.oakwellhampton.com/apply/senior-frontend-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Hired-Recruiters/Job/Senior-Frontend-Engineer/-in-New-York,NY?jid=d1f35e2ea51a8dd4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Alldus",
+        "apply_link": "https://alldus.com/job/56474-senior-frontend-engineer-new-york-new-york/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Doctronic.ai",
+        "apply_link": "https://www.doctronic.ai/careers?ashby_jid=6e4e805a-e99c-4d8d-8949-cf6f654d0edb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs",
+        "apply_link": "https://jobs.ashbyhq.com/graphite/006292c8-79b3-4474-8382-98beb88deb1e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=5fa0b47a144509aa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Wellfound",
+        "apply_link": "https://wellfound.com/jobs/3768630-senior-frontend-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "JOB LEVEL\nP50\n\nADDITIONAL JOB LEVELS\nP40\n\n-\n\nEMPLOYEE ROLE\nIndividual Contributor\n\nThe Opportunity\n\nFrame.io, an Adobe Company, is changing the future of how videos are made by helping over 1 million creative professionals seamlessly collaborate from all over the world.\n\nEngineering at Frame.io is about more than just writing code - it's crafting products that inspire creativity and allow our users to do great work. We care deeply about how our products are built, how they look, how they feel, and how they function.\n\nWe're looking for an experienced frontend engineer to join our growing engineering team and help build our flagship web app. Together with your cross-functional product squad, you'll own a significant area of our product and ship revolutionary new features to our platform.\n\nWe’ve designed our tech stack to provide the best possible developer experience so you can focus on solving the right challenges; we obsess over performance, scalability, privacy, and security. On the frontend, you’ll be using React, Next.js, Apollo Client, Typescript, GraphQL Codegen, Jest, Storybook, Styled Components, and Framer Motion.\n\nSuccess in this role is shipping, maintaining and iterating on a best-in-class web app that enables our customers to do their best work.\n\nWhat you'll Do\n• Build our flagship web product by creating fluid interfaces that perform at massive scale\n• Shape, prototype, demo and ship new features with members on your squad from design, product, user insights, QA, backend as well as other frontend engineers\n• Receive and offer technical feedback through pair programming and code reviews\n• Promote engineering excellence with a focus on performance, scalability, privacy, and security\n• Participate in our On Call and Triage rotation to keep our service running smoothly for our customers\n• Receive close guidance and mentorship from our engineering managers and leads\n\nWhat you need to succeed\n• A love of product design, fluid interfaces, and using exceptional products\n• Experience building pixel-perfect, robust, performant and accessible user interfaces on the web\n• Experience implementing complex UI with CSS, animation, orchestration and responsiveness\n• JavaScript/TypeScript fluency using a framework like React (preferred)\n• Experience working with sophisticated application state, e.g. Apollo Client, Redux, MobX or similar\n• A dedication to learning and sharing ideas with your fellow engineers\n• Mastery of breaking down, discussing, and communicating abstract technical concepts\n• GraphQL experience is a plus\n\nFrameio-All1\n\nOur compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $159,200 -- $301,600 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.‌\n\nIn California, the pay range for this position is $208,300 - $301,600 │ In New York, the pay range for this position is $208,300 - $301,600\n\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).\n\nIn addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.\n\nState-Specific Notices:\n\nCalifornia:\n\nFair Chance Ordinances\n\nAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.\n\nColorado:\n\nApplication Window Notice\n\nThere is no deadline to apply to this job posting because Adobe accepts applications for this role on an ongoing basis. The posting will remain open based on hiring needs and position availability.\n\nMassachusetts:\n\nMassachusetts Legal Notice\n\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\nInternal Opportunities\n\nCreativity, curiosity, and constant learning are celebrated aspects of your career growth journey. We’re glad that you’re pursuing a new opportunity at Adobe!\n\nPut your best foot forward:\n\n1. Update your Resume/CV and Workday profile – don’t forget to include your uniquely ‘Adobe’ experiences and volunteer work.\n\n2. Visit the Internal Mobility page on Inside Adobe to learn more about the process and set up a job alert for roles you’re interested in.\n\n3. Check out these tips to help you prep for interviews.\n\n4. If you are applying for a role outside of your current country, ensure you review the International Resources for Relocating Employees on Inside Adobe, including the impacts to your Benefits, AIP, Equity & Payroll.\n\nOnce you apply for a role via Workday, the Talent Team will reach out to you within 2 weeks. If you move into the official interview process with the hiring team, make sure you inform your manager so they can champion your career growth.\n\nAt Adobe, you will be immersed in an exceptional work environment that is recognized around the world. You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely. If you’re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.\n\nAdobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.\n\nAdobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2iFxIMwlxK8hKMyDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "A love of product design, fluid interfaces, and using exceptional products",
+        "Experience building pixel-perfect, robust, performant and accessible user interfaces on the web",
+        "Experience implementing complex UI with CSS, animation, orchestration and responsiveness",
+        "Experience working with sophisticated application state, e.g",
+        "Apollo Client, Redux, MobX or similar",
+        "A dedication to learning and sharing ideas with your fellow engineers",
+        "Mastery of breaking down, discussing, and communicating abstract technical concepts",
+        "Update your Resume/CV and Workday profile – don’t forget to include your uniquely ‘Adobe’ experiences and volunteer work",
+        "Visit the Internal Mobility page on Inside Adobe to learn more about the process and set up a job alert for roles you’re interested in"
+      ],
+      "Benefits": [
+        "The U.S. pay range for this position is $159,200 -- $301,600 annually",
+        "In California, the pay range for this position is $208,300 - $301,600 │ In New York, the pay range for this position is $208,300 - $301,600",
+        "At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans",
+        "Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP)",
+        "In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award",
+        "Creativity, curiosity, and constant learning are celebrated aspects of your career growth journey",
+        "If you are applying for a role outside of your current country, ensure you review the International Resources for Relocating Employees on Inside Adobe, including the impacts to your Benefits, AIP, Equity & Payroll"
+      ],
+      "Responsibilities": [
+        "On the frontend, you’ll be using React, Next.js, Apollo Client, Typescript, GraphQL Codegen, Jest, Storybook, Styled Components, and Framer Motion",
+        "Success in this role is shipping, maintaining and iterating on a best-in-class web app that enables our customers to do their best work",
+        "Build our flagship web product by creating fluid interfaces that perform at massive scale",
+        "Shape, prototype, demo and ship new features with members on your squad from design, product, user insights, QA, backend as well as other frontend engineers",
+        "Receive and offer technical feedback through pair programming and code reviews",
+        "Promote engineering excellence with a focus on performance, scalability, privacy, and security",
+        "Participate in our On Call and Triage rotation to keep our service running smoothly for our customers",
+        "Receive close guidance and mentorship from our engineering managers and leads"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "careers-adobe-com-us-en-job-r165316-senior-frontend-engineer",
     "_source": "new_jobs"
   }
 ]
