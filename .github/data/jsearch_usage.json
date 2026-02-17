@@ -1,7 +1,7 @@
 {
   "date": "Tue Feb 17 2026",
-  "requests": 17,
-  "remaining": 13,
+  "requests": 18,
+  "remaining": 12,
   "queries_executed": [
     "software engineer",
     "software developer",
@@ -19,6 +19,7 @@
     "web developer",
     "mobile developer",
     "mobile developer",
+    "ios developer",
     "ios developer"
   ]
 }

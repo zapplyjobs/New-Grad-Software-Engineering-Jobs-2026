@@ -148,8 +148,8 @@
     "job_longitude": -122.03218229999999,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5fXZIcGBU5dCBFrrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 117000,
@@ -318,6 +318,11 @@
         "is_direct": false
       },
       {
+        "publisher": "Jobs | Cognizant",
+        "apply_link": "https://cognizant.dejobs.org/richmond-va/senior-ios-developer-remote/6A0CA3E63622497C8ED1E66C88B5F3AF/job/?vs=0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "WhatJobs",
         "apply_link": "https://www.whatjobs.com/jobs/ios-development?id=2460672738&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -480,9 +485,9 @@
     "job_latitude": 37.322997799999996,
     "job_longitude": -122.03218229999999,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlhtDRpQeQZW47BSTAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 117000,
@@ -572,9 +577,9 @@
     "job_latitude": 43.0759678,
     "job_longitude": -107.29028389999999,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3_RHQeyL_BPjwd6qAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -678,107 +683,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "1MkF9PuI79A21xPnAAAAAA==",
-    "job_title": "IOS Developer",
-    "employer_name": "Hudson Manpower",
-    "employer_logo": null,
-    "employer_website": "https://hudsonmanpower.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=363f5ba9fda93c27&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=363f5ba9fda93c27&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/ios-developer-hudson-manpower-JV_IC1145705_KO0,13_KE14,29.htm?jl=1010031906988&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "OPTnation",
-        "apply_link": "https://www.optnation.com/ios-developer-job-in-cincinnati-oh-view-jobid-27142?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/611e092c3b67b3734b9f941469f6836b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/ios-developer-cincinnati-oh--ecefc317-4c10-40ec-9095-d0a07ea8c4ae?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Iitjobs",
-        "apply_link": "https://www.iitjobs.com/job/ios-developer-cincinnati-oh-usa-83902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698e4ee4f64d441a165084d0?utm_campaign=Software+Engineering&utm_source=1103&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Opender.forum",
-        "apply_link": "https://opender.forum/policies/IKtMsGPn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Overview\n\nWe are seeking a passionate and motivated iOS Developer with 6 months to 4 years of experience in developing mobile applications for Apple devices. The ideal candidate should have strong knowledge of iOS development, be willing to work in an onsite or hybrid environment, and be open to relocating anywhere within the United States.\n\nJob Type: Full-Time (W2)\nWork Authorization: US Citizens and Green Card holders only\nExperience Required: 6 Months – 4 Years\nWork Mode: Onsite / Hybrid\nRelocation: Must be open to relocate anywhere in the United States\n\nKey Responsibilities\n• Design and develop high-quality iOS applications using Swift and/or Objective-C\n• Collaborate with cross-functional teams including UI/UX designers, product managers, and backend developers\n• Write clean, maintainable, and efficient code following best practices\n• Integrate RESTful APIs and third-party libraries\n• Perform unit testing and debugging to ensure application stability\n• Participate in code reviews and Agile/Scrum ceremonies\n• Maintain and enhance existing iOS applications\n\nRequired Skills\n• Strong knowledge of Swift (Objective-C is a plus)\n• Experience with Xcode, iOS SDK, and Interface Builder\n• Understanding of UIKit, Auto Layout, and Apple Human Interface Guidelines\n• Experience integrating REST APIs and handling JSON data\n• Knowledge of Git or other version control systems\n• Familiarity with MVVM/MVC architecture patterns\n• Basic understanding of App Store deployment process\n\nPreferred Qualifications\n• Experience with Core Data, Realm, or other local storage solutions\n• Exposure to CI/CD pipelines\n• Knowledge of unit testing frameworks (XCTest)\n• Understanding of mobile app performance optimization",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Cincinnati, OH",
-    "job_city": "Cincinnati",
-    "job_state": "Ohio",
-    "job_country": "US",
-    "job_latitude": 39.1031182,
-    "job_longitude": -84.5120196,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1MkF9PuI79A21xPnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 30,
-    "job_max_salary": 40,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "We are seeking a passionate and motivated iOS Developer with 6 months to 4 years of experience in developing mobile applications for Apple devices",
-        "The ideal candidate should have strong knowledge of iOS development, be willing to work in an onsite or hybrid environment, and be open to relocating anywhere within the United States",
-        "Job Type: Full-Time (W2)",
-        "Work Authorization: US Citizens and Green Card holders only",
-        "Experience Required: 6 Months – 4 Years",
-        "Relocation: Must be open to relocate anywhere in the United States",
-        "Experience with Xcode, iOS SDK, and Interface Builder",
-        "Understanding of UIKit, Auto Layout, and Apple Human Interface Guidelines",
-        "Experience integrating REST APIs and handling JSON data",
-        "Knowledge of Git or other version control systems",
-        "Familiarity with MVVM/MVC architecture patterns",
-        "Basic understanding of App Store deployment process"
-      ],
-      "Responsibilities": [
-        "Design and develop high-quality iOS applications using Swift and/or Objective-C",
-        "Collaborate with cross-functional teams including UI/UX designers, product managers, and backend developers",
-        "Write clean, maintainable, and efficient code following best practices",
-        "Integrate RESTful APIs and third-party libraries",
-        "Perform unit testing and debugging to ensure application stability",
-        "Participate in code reviews and Agile/Scrum ceremonies",
-        "Maintain and enhance existing iOS applications"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-indeed-com-viewjob",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "wNrchFY97489xYOiAAAAAA==",
     "job_title": "Software Engineer - iOS",
     "employer_name": "Walmart",
@@ -874,86 +778,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "QClIW0Nj-zSLEYkSAAAAAA==",
-    "job_title": "iOS Developer (ONSITE IN MIAMI, FL)",
-    "employer_name": "ProTalent Recruiters",
-    "employer_logo": null,
-    "employer_website": "https://protalent.eu",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=90c526a18888&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=90c526a18888&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/miami/florida/info_technology/4854195855/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Meetquh.live",
-        "apply_link": "https://meetquh.live/metrics/IMmNOf3F?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "We’re looking for iOS Developer for a fast-growing global fintech company building cutting-edge trading solutions for both retail and institutional investors. Our mission is to deliver a seamless, secure, and high-performance trading experience that meets the unique compliance and regulatory requirements of the U.S. market. Joining our team means working alongside top-tier engineers, designers, and analysts in a collaborative environment where innovation and precision drive every decision.\n\nDetails :\n\nExperience : 5+ years\n\nSchedule : ONSITE IN MIAMI, FL\n\nType : Full-time\n\nStart : ASAP\n\nWhat You’ll Do\n\nOwn end-to-end development of the iOS application tailored for U.S. market compliance.\n\nDesign and implement robust architecture using Swift, MVVM, and Dependency Injection (Swinject).\n\nDevelop responsive and interactive UIs using UIKit and SwiftUI.\n\nCollaborate daily with backend, web, QA, and business analyst teams.\n\nContribute to architectural decisions, code reviews, performance optimizations, and feature planning.\n\nWhat We Need From You\n\n5+ years of professional experience in iOS development.\n\nStrong command of Swift and iOS SDKs (UIKit, SwiftUI, Combine, Core Data, Core Animation).\n\nRequired experience with Swift Concurrency and asynchronous programming.\n\nDeep understanding of MVVM architecture and Dependency Injection principles.\n\nExperience with REST APIs, WebSockets, and background services.\n\nFamiliarity with real-time and distributed systems (trading, finance, messaging, etc.).\n\nExperience with APNs and token-based notification flows.\n\nStrong communication skills and the ability to work collaboratively across teams.\n\nBackground building fintech or trading apps (equities, crypto, forex).\n\nFamiliarity with U.S. fintech compliance standards (SEC, CFTC, KYC / AML) and how they impact mobile app flows.\n\nNice to Have\n\nExperience working in Agile teams with JIRA or similar tools.\n\nComfortable working with Figma and collaborating with design teams.\n\nExperience troubleshooting live production issues and rapid bug resolution.\n\nComfortable using AI-powered tools to boost development efficiency.\n\nFamiliarity with Git branching strategies, release management, and CI / CD workflows.\n\nAbility to mentor other developers and participate in team-level technical decisions.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Miami, FL",
-    "job_city": "Miami",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 25.7616798,
-    "job_longitude": -80.1917902,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQClIW0Nj-zSLEYkSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience : 5+ years",
-        "Design and implement robust architecture using Swift, MVVM, and Dependency Injection (Swinject)",
-        "5+ years of professional experience in iOS development",
-        "Strong command of Swift and iOS SDKs (UIKit, SwiftUI, Combine, Core Data, Core Animation)",
-        "Required experience with Swift Concurrency and asynchronous programming",
-        "Deep understanding of MVVM architecture and Dependency Injection principles",
-        "Experience with REST APIs, WebSockets, and background services",
-        "Familiarity with real-time and distributed systems (trading, finance, messaging, etc.)",
-        "Experience with APNs and token-based notification flows",
-        "Strong communication skills and the ability to work collaboratively across teams",
-        "Background building fintech or trading apps (equities, crypto, forex)",
-        "Familiarity with U.S. fintech compliance standards (SEC, CFTC, KYC / AML) and how they impact mobile app flows",
-        "Experience working in Agile teams with JIRA or similar tools",
-        "Comfortable working with Figma and collaborating with design teams",
-        "Experience troubleshooting live production issues and rapid bug resolution",
-        "Comfortable using AI-powered tools to boost development efficiency",
-        "Familiarity with Git branching strategies, release management, and CI / CD workflows",
-        "Ability to mentor other developers and participate in team-level technical decisions"
-      ],
-      "Responsibilities": [
-        "Own end-to-end development of the iOS application tailored for U.S. market compliance",
-        "Develop responsive and interactive UIs using UIKit and SwiftUI",
-        "Collaborate daily with backend, web, QA, and business analyst teams",
-        "Contribute to architectural decisions, code reviews, performance optimizations, and feature planning"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "xTFR_-AdNn-L4CMnAAAAAA==",
     "job_title": "Senior iOS Developer - Srinivasa Kandi - Vienna Mobile 🏆",
     "employer_name": "VALIANT TECHNOLOGIES LLC",
@@ -1019,73 +843,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "devitjobs-com-jobs-valiant-technologies-llc-senior-ios-developer-srinivasa-kandi-vienna",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "m5nKYfDmYLDVYiV9AAAAAA==",
-    "job_title": "IOS Developer",
-    "employer_name": "Hudson Manpower",
-    "employer_logo": null,
-    "employer_website": "https://hudsonmanpower.com",
-    "job_publisher": "Adzuna",
-    "job_employment_type": "Full-time and Contractor",
-    "job_employment_types": [
-      "FULLTIME",
-      "CONTRACTOR"
-    ],
-    "job_apply_link": "https://www.adzuna.com/details/5627265655?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5627265655?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Overview\n\nWe are seeking a passionate and motivated iOS Developer with 6 months to 4 years of experience in developing mobile applications for Apple devices. The ideal candidate should have strong knowledge of iOS development, be willing to work in an onsite or hybrid environment, and be open to relocating anywhere within the United States.\n\nJob Type: Full-Time (W2)\nWork Authorization: US Citizens and Green Card holders only\nExperience Required: 6 Months – 4 Years\nWork Mode: Onsite / Hybrid\nRelocation: Must be open to relocate anywhere in the United States\n\nKey Responsibilities\n• Design and develop high-quality iOS applications using Swift and/or Objective-C\n• Collaborate with cross-functional teams including UI/UX designers, product managers, and backend developers\n• Write clean, maintainable, and efficient code following best practices\n• Integrate RESTful APIs and third-party libraries\n• Perform unit testing and debugging to ensure application stability\n• Participate in code reviews and Agile/Scrum ceremonies\n• Maintain and enhance existing iOS applications\n\nRequired Skills\n• Strong knowledge of Swift (Objective-C is a plus)\n• Experience with Xcode, iOS SDK, and Interface Builder\n• Understanding of UIKit, Auto Layout, and Apple Human Interface Guidelines\n• Experience integrating REST APIs and handling JSON data\n• Knowledge of Git or other version control systems\n• Familiarity with MVVM/MVC architecture patterns\n• Basic understanding of App Store deployment process\n\nPreferred Qualifications\n• Experience with Core Data, Realm, or other local storage solutions\n• Exposure to CI/CD pipelines\n• Knowledge of unit testing frameworks (XCTest)\n• Understanding of mobile app performance optimization",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "San Jose, NM",
-    "job_city": "San Jose",
-    "job_state": "New Mexico",
-    "job_country": "US",
-    "job_latitude": 35.3972656,
-    "job_longitude": -105.4750124,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dm5nKYfDmYLDVYiV9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 30,
-    "job_max_salary": 40,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "We are seeking a passionate and motivated iOS Developer with 6 months to 4 years of experience in developing mobile applications for Apple devices",
-        "The ideal candidate should have strong knowledge of iOS development, be willing to work in an onsite or hybrid environment, and be open to relocating anywhere within the United States",
-        "Job Type: Full-Time (W2)",
-        "Work Authorization: US Citizens and Green Card holders only",
-        "Experience Required: 6 Months – 4 Years",
-        "Relocation: Must be open to relocate anywhere in the United States",
-        "Experience with Xcode, iOS SDK, and Interface Builder",
-        "Understanding of UIKit, Auto Layout, and Apple Human Interface Guidelines",
-        "Experience integrating REST APIs and handling JSON data",
-        "Knowledge of Git or other version control systems",
-        "Familiarity with MVVM/MVC architecture patterns",
-        "Basic understanding of App Store deployment process"
-      ],
-      "Responsibilities": [
-        "Design and develop high-quality iOS applications using Swift and/or Objective-C",
-        "Collaborate with cross-functional teams including UI/UX designers, product managers, and backend developers",
-        "Write clean, maintainable, and efficient code following best practices",
-        "Integrate RESTful APIs and third-party libraries",
-        "Perform unit testing and debugging to ensure application stability",
-        "Participate in code reviews and Agile/Scrum ceremonies",
-        "Maintain and enhance existing iOS applications"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-adzuna-com-details-5627265655",
     "_source": "new_jobs"
   },
   {
@@ -1227,9 +984,9 @@
     "job_latitude": 42.4072107,
     "job_longitude": -71.3824374,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlEEV21NRzfnxBiIhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1305,8 +1062,8 @@
     "job_latitude": 43.8992395,
     "job_longitude": -71.1484028,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlpEkpelFnWh_wc2XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1400,88 +1157,241 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "IXBgSwJZC4cL8beBAAAAAA==",
-    "job_title": "Lead iOS Developer – Remote",
-    "employer_name": "Cognizant",
-    "employer_logo": null,
-    "employer_website": "https://www.cognizant.com",
-    "job_publisher": "Jobrapido",
+    "job_id": "RwEUbU70dy8PAkX8AAAAAA==",
+    "job_title": "FULL-TIME OPPORTUNITY for  iOS Developer.",
+    "employer_name": "Stem Xpert",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIElhsshYOOnJQd8jU31nek9m9jYDkrQucHUGU&s=0",
+    "employer_website": "https://www.stem-xpert.com",
+    "job_publisher": "Trabajo.org",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://us.jobrapido.com/jobpreview/6307091607250272256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://us.trabajo.org/job-4023-26b1d33e798b54ceb547fd6d379ad337?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/6307091607250272256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-4023-26b1d33e798b54ceb547fd6d379ad337?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
       }
     ],
-    "job_description": "Lead iOS Developer – Remote\n\nAbout the Role\n\nCognizant’s Digital Engineering practice is seeking a highly skilled Lead iOS Developer with extensive experience designing, developing, and delivering high‑performing, scalable enterprise mobile applications.\n\nIn this role, you will work on high‑demand digital products while collaborating closely with product managers, designers, and clients. You will provide technical leadership, drive high‑quality engineering practices, and help shape the mobile technology roadmap. Our teams value clean, maintainable code, agile ways of working, and a strong culture of continuous improvement.\n\nAbove all, success is measured by the success of our teams and the satisfaction of our customers.\n\nLocation\n\nRemote – United States\n\nCandidates must be legally authorized to work in the U.S. without the need for employer sponsorship now or in the future.\n\nResponsibilities\n• Evaluate product requirements and determine technical feasibility based on business needs.\n• Provide technical leadership across design, development, code reviews, and production support for both iOS and Android applications.\n• Lead the design and implementation of critical mobile components, systems, and integrations across a full‑stack environment.\n• Mentor and guide technical team members, fostering growth and best practices.\n• Develop and enforce mobile coding standards, patterns, and development guidelines.\n• Collaborate with product, design, engineering, and business stakeholders to define and drive the technical roadmap.\n• Stay current with emerging technologies and industry trends to guide innovation and continuous improvement.\n\nRequired Qualifications\n• 9+ years of professional experience in native iOS\n• 1+ years of hands‑on experience building and debugging both iOS and Android applications.\n• Published 1 or more native mobile applications (iOS and/or Android).\n• Experience designing, developing, and maintaining complex mobile solutions involving multiple stakeholders.\n• Strong experience designing critical mobile features that interact with multiple internal and external systems.\n• Deep understanding of software engineering processes in a distributed team environment.\n• Excellent communication, problem‑solving, and collaboration skills.\n• Proven experience mentoring other engineers and contributing to team success.\n\nBenefits\n\nCognizant offers the following benefits (subject to eligibility):\n• Medical, Dental, Vision, and Life Insurance\n• Paid Holidays + Paid Time Off\n• Long‑term and Short‑term Disability\n• Paid Parental Leave\n• Employee Stock Purchase Plan\n\nDisclaimer\n\nThe salary, compensation, and benefits information provided is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable laws.\n\nTravel\n\n0–5%\n\nWhy Choose Cognizant?\n\nCognizant leads in a rapidly evolving technology landscape because we put human experience at the center of everything we do. Our associates benefit from robust training and development opportunities through our award‑winning Academy program. You’ll have access to hundreds of technical courses and opportunities for certification in emerging technologies.\n\nWe value curiosity, adaptability, and a passion for solving complex problems. If you thrive in dynamic environments and enjoy autonomy, we’d love to hear from you.\n\nCognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.\n\n#J-18808-Ljbffr",
+    "job_description": "Company Description\n\nJob Description\n\nFULL-TIME OPPORTUNITY\n\nLocation: DALLAS,TX\n\nRole: iOS Developer.\n\nResponsibilities\n\n· Design, build, and maintain advanced applications for the iOS platform\n\n· Collaborate with cross-functional teams to define, design, and ship new features.\n\n· Unit-test code for robustness, including edge cases, usability, and general reliability.\n\n· Work on bug fixing and improving application performance.\n\n· Continuously discover, evaluate, and implement new technologies to maximize development efficiency.\n\nSkills & Requirements\n\n· BS/MS degree in Computer Science, Engineering or a related subject\n\n· 7+ years of software development experience\n\n· 4+ years of iOS development\n\n· Expert in Objective-C, Core Services, Media and Cocoa Touch frameworks, developer tools (Xcode 5), and workflows (both manual memory management and ARC, debugging, profiling, unit testing, continuous integration, provisioning, distributing and submission to the App Store)\n\n· Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and Core Text\n\n· Experience working with Java\n\n· Experience with third-party libraries and APIs\n\n· Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies\n\n· A desire to architect great apps and build robust, reusable components\n\n· Solid understanding of the full mobile development life cycle\n\n· A mobile evangelist\n\nAdditional Information\n\nIf interested . please revert your feedback to chris at tekwissen dot com with an updated resume and Visa status in US.",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Phoenix, AZ",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Texas",
+    "job_city": null,
+    "job_state": "Texas",
     "job_country": "US",
-    "job_latitude": 33.4482948,
-    "job_longitude": -112.07254879999999,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIXBgSwJZC4cL8beBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 31.9685988,
+    "job_longitude": -99.9018131,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRwEUbU70dy8PAkX8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Candidates must be legally authorized to work in the U.S. without the need for employer sponsorship now or in the future",
-        "9+ years of professional experience in native iOS",
-        "1+ years of hands‑on experience building and debugging both iOS and Android applications",
-        "Published 1 or more native mobile applications (iOS and/or Android)",
-        "Experience designing, developing, and maintaining complex mobile solutions involving multiple stakeholders",
-        "Strong experience designing critical mobile features that interact with multiple internal and external systems",
-        "Deep understanding of software engineering processes in a distributed team environment",
-        "Excellent communication, problem‑solving, and collaboration skills",
-        "Proven experience mentoring other engineers and contributing to team success"
-      ],
-      "Benefits": [
-        "Cognizant offers the following benefits (subject to eligibility):",
-        "Medical, Dental, Vision, and Life Insurance",
-        "Paid Holidays + Paid Time Off",
-        "Long‑term and Short‑term Disability",
-        "Paid Parental Leave",
-        "Employee Stock Purchase Plan",
-        "You’ll have access to hundreds of technical courses and opportunities for certification in emerging technologies"
+        "BS/MS degree in Computer Science, Engineering or a related subject",
+        "7+ years of software development experience",
+        "4+ years of iOS development",
+        "Expert in Objective-C, Core Services, Media and Cocoa Touch frameworks, developer tools (Xcode 5), and workflows (both manual memory management and ARC, debugging, profiling, unit testing, continuous integration, provisioning, distributing and submission to the App Store)",
+        "Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and Core Text",
+        "Experience working with Java",
+        "Experience with third-party libraries and APIs",
+        "Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies",
+        "A desire to architect great apps and build robust, reusable components",
+        "Solid understanding of the full mobile development life cycle",
+        "A mobile evangelist"
       ],
       "Responsibilities": [
-        "Cognizant’s Digital Engineering practice is seeking a highly skilled Lead iOS Developer with extensive experience designing, developing, and delivering high‑performing, scalable enterprise mobile applications",
-        "In this role, you will work on high‑demand digital products while collaborating closely with product managers, designers, and clients",
-        "You will provide technical leadership, drive high‑quality engineering practices, and help shape the mobile technology roadmap",
-        "Our teams value clean, maintainable code, agile ways of working, and a strong culture of continuous improvement",
-        "Evaluate product requirements and determine technical feasibility based on business needs",
-        "Provide technical leadership across design, development, code reviews, and production support for both iOS and Android applications",
-        "Lead the design and implementation of critical mobile components, systems, and integrations across a full‑stack environment",
-        "Mentor and guide technical team members, fostering growth and best practices",
-        "Develop and enforce mobile coding standards, patterns, and development guidelines",
-        "Collaborate with product, design, engineering, and business stakeholders to define and drive the technical roadmap",
-        "Stay current with emerging technologies and industry trends to guide innovation and continuous improvement"
+        "Design, build, and maintain advanced applications for the iOS platform",
+        "Collaborate with cross-functional teams to define, design, and ship new features",
+        "Unit-test code for robustness, including edge cases, usability, and general reliability",
+        "Work on bug fixing and improving application performance",
+        "Continuously discover, evaluate, and implement new technologies to maximize development efficiency"
       ]
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "us-jobrapido-com-jobpreview-6307091607250272256",
+    "id": "us-trabajo-org-job-4023-26b1d33e798b54ceb547fd6d379ad337",
     "_source": "new_jobs"
   },
   {
-    "job_id": "DxRvHnWEVuXQaT1WAAAAAA==",
+    "job_id": "pY5l4pQoFAuzRJkDAAAAAA==",
+    "job_title": "Mobile Software Engineers, iOS or Android",
+    "employer_name": "Walmart",
+    "employer_logo": null,
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Mobile-Software-Engineers,-iOS-or-Android/-in-Cupertino,CA?jid=079d4a1600cf5202&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Mobile-Software-Engineers,-iOS-or-Android/-in-Cupertino,CA?jid=079d4a1600cf5202&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-2786-3c1df7533e02eae1ef344581c78f9712?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...As part of the Emerging Tech team, you’ll build the mobile foundation for Project Sparky, an AI-powered assistant that helps customers manage everyday shopping through intelligent, context-aware conversations. In this role, you’ll design and scale high-performance iOS and Android systems that integrate deeply with generative and agentic AI while partnering with AI/ML and backend teams to bring next-generation conversational experiences to life for millions of customers.\n• Immigration Sponsorship is not available in this role\n\nAbout Emerging Tech:\nOur Emerging Tech team drives Walmart’s AI transformation by building intelligent systems that influence how millions shop every day across our global retail ecosystem. We develop state-of-the-art generative and conversational AI that powers more proactive, connected, and personalized experiences. At this scale, every innovation you create not only reaches millions of customers worldwide but also comes to life in the very communities where you live, work, and shop.\n\nSoftware Engineering - Mobile team responsibilities:\n• Build and evolve native mobile experiences used by millions of customers every day.\n• Design mobile architectures that balance performance, reliability, and speed so teams can ship value quickly.\n• Partner closely with product, design, and backend teams to deliver polished, intuitive user experiences.\n• Lead discovery, prototyping, and technical direction for new mobile capabilities.\n• Write and maintain production quality code, including debugging, performance tuning, and readiness for release.\n• Mentor teammates and help raise the bar for mobile engineering practices across the organization.\n\nWho we are hiring:\nPrincipal / Distinguished Engineers\nYou’ll bring deep expertise and help shape the future of Walmart’s mobile ecosystem.\n• 10–20+ years of mobile engineering experience.\n• Deep native expertise in Swift/iOS and/or Kotlin/Android with ownership of platform level architecture.\n• Experience leading large, cross functional initiatives with broad technical impact.\n• Proven ability to scale mobile systems, improve performance, and elevate developer workflows.\n\nStaff Engineers\nYou lead through expertise and empower teams to deliver at scale.\n• 7–10+ years of mobile engineering experience with end-to-end feature ownership. (Swift/iOS or Kotlin/Android)\n• Strong understanding of mobile architecture, performance, and CI/CD pipelines.\n• Experience mentoring engineers and influencing technical and design decisions.\n• Comfortable taking features from discovery through production and ongoing iteration.\n\nSoftware Engineer III / Senior Software Engineers\nYou ship high-quality experiences and are ready to grow your impact.\n• 3–7+ years of native mobile development experience. (Swift/iOS or Kotlin/Android)\n• Strong track record of delivering features, debugging complex issues, and improving code quality.\n• Experience integrating backend services and navigating large codebases.\n• Interest in expanding technical leadership and owning larger problem spaces over time.\n\nIf you’re excited about building the future of mobile at Walmart, we encourage you to apply. We’ll review your experience and match you to the level that aligns best with your skills, impact, and career goals.\n\nAbout Walmart Global Tech:\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. Thats what we do at Walmart Global Tech. Were a team of software engineers, data scientists, cybersecurity experts and service professionals within the worlds leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\nWalmart's culture is a competitive advantage, and its fostered by being together. Working together in person allows us to collaborate, align quickly and innovate with greater speed. We use our campuses to create purposeful connection rooted in deepening understanding and investing in the development of our associates.\nOur hubs: Walmart is a global company with offices across the United States and around the world. Our global headquarters is in Bentonville, Arkansas, with primary hubs in the San Francisco Bay area and New York/New Jersey.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nYour Career Journey at Walmart\nAt Walmart, we want to make sure your experience connecting with us is seamless and straightforward. Here’s what to expect when interacting with us as recruiters:\nWe’ll reach out via verified LinkedIn profiles or emails ending in \"@walmart.com.” or “@samsclub.com”. All job opportunities and applications are hosted on our official careers site: http://careers.walmart.com. There is no cost or payment required to apply or be considered for a position.\nIf you have any doubts about a communication, feel free to visit our careers page to verify authenticity. Thank you for exploring opportunities at Walmart!\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\nFor information about PTO, see https://one.walmart.com/notices.\n\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\nFor information about benefits and eligibility, see One.Walmart.\n\nThe annual salary range for this position is $143,000.00 - $286,000.00\n\nAdditional compensation includes annual or quarterly performance bonuses.\n\nAdditional compensation for certain positions may also include :\n\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area.\nOption 2: 7 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n1375 Crossman Ave, Sunnyvale, CA 94089-1114, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Cupertino, CA",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.322997799999996,
+    "job_longitude": -122.03218229999999,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpY5l4pQoFAuzRJkDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 143000,
+    "job_max_salary": 286000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "10–20+ years of mobile engineering experience",
+        "Deep native expertise in Swift/iOS and/or Kotlin/Android with ownership of platform level architecture",
+        "Experience leading large, cross functional initiatives with broad technical impact",
+        "Proven ability to scale mobile systems, improve performance, and elevate developer workflows",
+        "7–10+ years of mobile engineering experience with end-to-end feature ownership. (Swift/iOS or Kotlin/Android)",
+        "Strong understanding of mobile architecture, performance, and CI/CD pipelines",
+        "Experience mentoring engineers and influencing technical and design decisions",
+        "Comfortable taking features from discovery through production and ongoing iteration",
+        "You ship high-quality experiences and are ready to grow your impact",
+        "3–7+ years of native mobile development experience",
+        "(Swift/iOS or Kotlin/Android)",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 5 years’ experience in software engineering or related area",
+        "Option 2: 7 years’ experience in software engineering or related area",
+        "Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $143,000.00 - $286,000.00",
+        "Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
+      ],
+      "Responsibilities": [
+        "What you'll do...As part of the Emerging Tech team, you’ll build the mobile foundation for Project Sparky, an AI-powered assistant that helps customers manage everyday shopping through intelligent, context-aware conversations",
+        "In this role, you’ll design and scale high-performance iOS and Android systems that integrate deeply with generative and agentic AI while partnering with AI/ML and backend teams to bring next-generation conversational experiences to life for millions of customers",
+        "Build and evolve native mobile experiences used by millions of customers every day",
+        "Design mobile architectures that balance performance, reliability, and speed so teams can ship value quickly",
+        "Partner closely with product, design, and backend teams to deliver polished, intuitive user experiences",
+        "Lead discovery, prototyping, and technical direction for new mobile capabilities",
+        "Write and maintain production quality code, including debugging, performance tuning, and readiness for release",
+        "Mentor teammates and help raise the bar for mobile engineering practices across the organization",
+        "You’ll bring deep expertise and help shape the future of Walmart’s mobile ecosystem",
+        "You lead through expertise and empower teams to deliver at scale",
+        "Strong track record of delivering features, debugging complex issues, and improving code quality",
+        "Experience integrating backend services and navigating large codebases",
+        "Interest in expanding technical leadership and owning larger problem spaces over time"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-mobile-software-engineers-ios-or-android-in-cupertino-ca",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "m5nKYfDmYLDVYiV9AAAAAA==",
+    "job_title": "IOS Developer",
+    "employer_name": "Hudson Manpower",
+    "employer_logo": null,
+    "employer_website": "https://hudsonmanpower.com",
+    "job_publisher": "Adzuna",
+    "job_employment_type": "Full-time and Contractor",
+    "job_employment_types": [
+      "FULLTIME",
+      "CONTRACTOR"
+    ],
+    "job_apply_link": "https://www.adzuna.com/details/5627265655?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5627265655?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Overview\n\nWe are seeking a passionate and motivated iOS Developer with 6 months to 4 years of experience in developing mobile applications for Apple devices. The ideal candidate should have strong knowledge of iOS development, be willing to work in an onsite or hybrid environment, and be open to relocating anywhere within the United States.\n\nJob Type: Full-Time (W2)\nWork Authorization: US Citizens and Green Card holders only\nExperience Required: 6 Months – 4 Years\nWork Mode: Onsite / Hybrid\nRelocation: Must be open to relocate anywhere in the United States\n\nKey Responsibilities\n• Design and develop high-quality iOS applications using Swift and/or Objective-C\n• Collaborate with cross-functional teams including UI/UX designers, product managers, and backend developers\n• Write clean, maintainable, and efficient code following best practices\n• Integrate RESTful APIs and third-party libraries\n• Perform unit testing and debugging to ensure application stability\n• Participate in code reviews and Agile/Scrum ceremonies\n• Maintain and enhance existing iOS applications\n\nRequired Skills\n• Strong knowledge of Swift (Objective-C is a plus)\n• Experience with Xcode, iOS SDK, and Interface Builder\n• Understanding of UIKit, Auto Layout, and Apple Human Interface Guidelines\n• Experience integrating REST APIs and handling JSON data\n• Knowledge of Git or other version control systems\n• Familiarity with MVVM/MVC architecture patterns\n• Basic understanding of App Store deployment process\n\nPreferred Qualifications\n• Experience with Core Data, Realm, or other local storage solutions\n• Exposure to CI/CD pipelines\n• Knowledge of unit testing frameworks (XCTest)\n• Understanding of mobile app performance optimization",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "San Jose, NM",
+    "job_city": "San Jose",
+    "job_state": "New Mexico",
+    "job_country": "US",
+    "job_latitude": 35.3972656,
+    "job_longitude": -105.4750124,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dm5nKYfDmYLDVYiV9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 30,
+    "job_max_salary": 40,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "We are seeking a passionate and motivated iOS Developer with 6 months to 4 years of experience in developing mobile applications for Apple devices",
+        "The ideal candidate should have strong knowledge of iOS development, be willing to work in an onsite or hybrid environment, and be open to relocating anywhere within the United States",
+        "Job Type: Full-Time (W2)",
+        "Work Authorization: US Citizens and Green Card holders only",
+        "Experience Required: 6 Months – 4 Years",
+        "Relocation: Must be open to relocate anywhere in the United States",
+        "Experience with Xcode, iOS SDK, and Interface Builder",
+        "Understanding of UIKit, Auto Layout, and Apple Human Interface Guidelines",
+        "Experience integrating REST APIs and handling JSON data",
+        "Knowledge of Git or other version control systems",
+        "Familiarity with MVVM/MVC architecture patterns",
+        "Basic understanding of App Store deployment process"
+      ],
+      "Responsibilities": [
+        "Design and develop high-quality iOS applications using Swift and/or Objective-C",
+        "Collaborate with cross-functional teams including UI/UX designers, product managers, and backend developers",
+        "Write clean, maintainable, and efficient code following best practices",
+        "Integrate RESTful APIs and third-party libraries",
+        "Perform unit testing and debugging to ensure application stability",
+        "Participate in code reviews and Agile/Scrum ceremonies",
+        "Maintain and enhance existing iOS applications"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-adzuna-com-details-5627265655",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "70sFEa57U_a8sHu2AAAAAA==",
     "job_title": "iOS and React Native Developer",
     "employer_name": "VirtualVocations",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
@@ -1491,12 +1401,12 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=0def40b4a0bb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=ed3367a969a7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=0def40b4a0bb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=ed3367a969a7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -1505,14 +1415,14 @@
     "job_posted_at": "2 days ago",
     "job_posted_at_timestamp": 1771113600,
     "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Burbank, CA",
-    "job_city": "Burbank",
-    "job_state": "California",
+    "job_location": "Greensboro, NC",
+    "job_city": "Greensboro",
+    "job_state": "North Carolina",
     "job_country": "US",
-    "job_latitude": 34.1820605,
-    "job_longitude": -118.3074827,
+    "job_latitude": 36.0725632,
+    "job_longitude": -79.791534,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDxRvHnWEVuXQaT1WAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D70sFEa57U_a8sHu2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -1642,6 +1552,86 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "careers-adobe-com-us-en-job-r164093-ios-engineer-adobe-scan",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "QClIW0Nj-zSLEYkSAAAAAA==",
+    "job_title": "iOS Developer (ONSITE IN MIAMI, FL)",
+    "employer_name": "ProTalent Recruiters",
+    "employer_logo": null,
+    "employer_website": "https://protalent.eu",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=90c526a18888&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=90c526a18888&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/miami/florida/info_technology/4854195855/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Meetquh.live",
+        "apply_link": "https://meetquh.live/metrics/IMmNOf3F?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We’re looking for iOS Developer for a fast-growing global fintech company building cutting-edge trading solutions for both retail and institutional investors. Our mission is to deliver a seamless, secure, and high-performance trading experience that meets the unique compliance and regulatory requirements of the U.S. market. Joining our team means working alongside top-tier engineers, designers, and analysts in a collaborative environment where innovation and precision drive every decision.\n\nDetails :\n\nExperience : 5+ years\n\nSchedule : ONSITE IN MIAMI, FL\n\nType : Full-time\n\nStart : ASAP\n\nWhat You’ll Do\n\nOwn end-to-end development of the iOS application tailored for U.S. market compliance.\n\nDesign and implement robust architecture using Swift, MVVM, and Dependency Injection (Swinject).\n\nDevelop responsive and interactive UIs using UIKit and SwiftUI.\n\nCollaborate daily with backend, web, QA, and business analyst teams.\n\nContribute to architectural decisions, code reviews, performance optimizations, and feature planning.\n\nWhat We Need From You\n\n5+ years of professional experience in iOS development.\n\nStrong command of Swift and iOS SDKs (UIKit, SwiftUI, Combine, Core Data, Core Animation).\n\nRequired experience with Swift Concurrency and asynchronous programming.\n\nDeep understanding of MVVM architecture and Dependency Injection principles.\n\nExperience with REST APIs, WebSockets, and background services.\n\nFamiliarity with real-time and distributed systems (trading, finance, messaging, etc.).\n\nExperience with APNs and token-based notification flows.\n\nStrong communication skills and the ability to work collaboratively across teams.\n\nBackground building fintech or trading apps (equities, crypto, forex).\n\nFamiliarity with U.S. fintech compliance standards (SEC, CFTC, KYC / AML) and how they impact mobile app flows.\n\nNice to Have\n\nExperience working in Agile teams with JIRA or similar tools.\n\nComfortable working with Figma and collaborating with design teams.\n\nExperience troubleshooting live production issues and rapid bug resolution.\n\nComfortable using AI-powered tools to boost development efficiency.\n\nFamiliarity with Git branching strategies, release management, and CI / CD workflows.\n\nAbility to mentor other developers and participate in team-level technical decisions.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Miami, FL",
+    "job_city": "Miami",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 25.7616798,
+    "job_longitude": -80.1917902,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQClIW0Nj-zSLEYkSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience : 5+ years",
+        "Design and implement robust architecture using Swift, MVVM, and Dependency Injection (Swinject)",
+        "5+ years of professional experience in iOS development",
+        "Strong command of Swift and iOS SDKs (UIKit, SwiftUI, Combine, Core Data, Core Animation)",
+        "Required experience with Swift Concurrency and asynchronous programming",
+        "Deep understanding of MVVM architecture and Dependency Injection principles",
+        "Experience with REST APIs, WebSockets, and background services",
+        "Familiarity with real-time and distributed systems (trading, finance, messaging, etc.)",
+        "Experience with APNs and token-based notification flows",
+        "Strong communication skills and the ability to work collaboratively across teams",
+        "Background building fintech or trading apps (equities, crypto, forex)",
+        "Familiarity with U.S. fintech compliance standards (SEC, CFTC, KYC / AML) and how they impact mobile app flows",
+        "Experience working in Agile teams with JIRA or similar tools",
+        "Comfortable working with Figma and collaborating with design teams",
+        "Experience troubleshooting live production issues and rapid bug resolution",
+        "Comfortable using AI-powered tools to boost development efficiency",
+        "Familiarity with Git branching strategies, release management, and CI / CD workflows",
+        "Ability to mentor other developers and participate in team-level technical decisions"
+      ],
+      "Responsibilities": [
+        "Own end-to-end development of the iOS application tailored for U.S. market compliance",
+        "Develop responsive and interactive UIs using UIKit and SwiftUI",
+        "Collaborate daily with backend, web, QA, and business analyst teams",
+        "Contribute to architectural decisions, code reviews, performance optimizations, and feature planning"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   }
 ]
