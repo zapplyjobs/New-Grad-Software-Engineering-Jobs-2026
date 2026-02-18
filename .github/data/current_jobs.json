@@ -32,9 +32,9 @@
     "job_latitude": 38.626512399999996,
     "job_longitude": -76.9105483,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dx8_gM8SuQnp6ywXYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
@@ -96,79 +96,6 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-ziprecruiter-com-c-walmart-job-front-end-software-engineer-senior-level-in-waldorf-md",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "D1Z6VsWXZe-mKvHJAAAAAA==",
-    "job_title": "UI/UX Front-End Engineer",
-    "employer_name": "Pratt Industries",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDn_AZ-rLwLDkjUiFPiuHVAhJm-LEry1VOhf7L&s=0",
-    "employer_website": "https://www.prattindustries.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Pratt-Industries/Job/UI-UX-Front-End-Engineer/-in-Conyers,GA?jid=f3fdacddbebac555&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Pratt-Industries/Job/UI-UX-Front-End-Engineer/-in-Conyers,GA?jid=f3fdacddbebac555&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Pratt Industries USA is seeking a full-time UI/UX Front-End Engineer to join our Technology Development (Programming) Team in Atlanta, GA. This role is for a developer who can build production React user interfaces, translate Figma designs into working applications, and collaborate across design and backend teams to deliver high-quality user experiences.\n\nSalary is dependent upon qualifications and experience. Some travel may be required.\nSummary\n\nYou will develop and maintain modern, responsive web interfaces for internal systems and customer-facing applications. The core of the role is writing React/Next.js UI code-building pages, components, UI behavior, and state flows-while coordinating with .NET Core / C# services as needed. You'll help bridge UX intent and engineering implementation, improving usability, consistency, and maintainability across both new and existing systems.\n\nThis is a programming role (not a design role), but it requires strong familiarity with UX/UI workflows and design handoff.\nKey Responsibilities\n• Implement UI features from Figma into production React applications (pages, components, interactions, routing/navigation, forms, validation)\n• Build reusable components aligned with design standards and team conventions\n• Develop responsive layouts using modern CSS (Flexbox/Grid) and ensure cross-browser compatibility\n• Integrate front-end code with .NET Core / C# services (REST APIs, auth flows, data handling) in partnership with backend engineers\n• Improve and refactor existing front-end codebases for performance, usability, and maintainability\n• Collaborate with designers to clarify interaction patterns, edge cases, and accessibility requirements\n• Participate in agile delivery, estimation, code reviews, and testing practices\nRequired Qualifications\n• Bachelor's degree in Computer Science, Software Engineering, or related field (or equivalent experience)\n• Proven ability to develop React front ends (components, UI logic, state management, forms, and application structure)\n• Experience converting Figma designs into high-quality interfaces\n• Strong proficiency in HTML/CSS and modern JavaScript (TypeScript a plus)\n• Working familiarity with .NET Core / C# environments and a desire to grow backend skills (debugging, small enhancements, collaborating on APIs)\n• Strong communication and collaboration skills; comfortable working between design and engineering stakeholders\n• Self-starter mindset and ability to learn quickly\n• Work samples (portfolio/GitHub) demonstrating front-end application work\nPreferred Qualifications / Experience\n• Next.js experience (routing, SSR/SSG concepts, performance optimization)\n• TypeScript, component libraries, and design system implementation\n• Accessibility (WCAG), UI testing (unit/component/e2e), and front-end performance tuning\n• Familiarity with mobile UI presentation layers and patterns for iOS/Android (native UI concepts, mobile-first design, or React Native exposure)\n• Experience modernizing legacy UI systems or migrating to React-based front ends\nWork Environment / Physical Demands\n\nThe work environment characteristics described here are representative of those an employee encounters while performing the functions of this job.\n\nEmployee is regularly required to walk and talk and hear. The employee is frequently required to stand; use hands to finger, handle, or feel; and reach with hands and arms. The employee is occasionally required to sit. Vision requirements include: close vision, distance vision, color vision, peripheral vision, depth perception, and ability to adjust focus.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Conyers, GA",
-    "job_city": "Conyers",
-    "job_state": "Georgia",
-    "job_country": "US",
-    "job_latitude": 33.6676103,
-    "job_longitude": -84.01769039999999,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD1Z6VsWXZe-mKvHJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's degree in Computer Science, Software Engineering, or related field (or equivalent experience)",
-        "Proven ability to develop React front ends (components, UI logic, state management, forms, and application structure)",
-        "Experience converting Figma designs into high-quality interfaces",
-        "Working familiarity with .NET Core / C# environments and a desire to grow backend skills (debugging, small enhancements, collaborating on APIs)",
-        "Strong communication and collaboration skills; comfortable working between design and engineering stakeholders",
-        "Self-starter mindset and ability to learn quickly",
-        "Work samples (portfolio/GitHub) demonstrating front-end application work",
-        "Employee is regularly required to walk and talk and hear",
-        "The employee is frequently required to stand; use hands to finger, handle, or feel; and reach with hands and arms",
-        "The employee is occasionally required to sit",
-        "Vision requirements include: close vision, distance vision, color vision, peripheral vision, depth perception, and ability to adjust focus"
-      ],
-      "Responsibilities": [
-        "This role is for a developer who can build production React user interfaces, translate Figma designs into working applications, and collaborate across design and backend teams to deliver high-quality user experiences",
-        "You will develop and maintain modern, responsive web interfaces for internal systems and customer-facing applications",
-        "The core of the role is writing React/Next.js UI code-building pages, components, UI behavior, and state flows-while coordinating with .NET Core / C# services as needed",
-        "You'll help bridge UX intent and engineering implementation, improving usability, consistency, and maintainability across both new and existing systems",
-        "This is a programming role (not a design role), but it requires strong familiarity with UX/UI workflows and design handoff",
-        "Implement UI features from Figma into production React applications (pages, components, interactions, routing/navigation, forms, validation)",
-        "Build reusable components aligned with design standards and team conventions",
-        "Develop responsive layouts using modern CSS (Flexbox/Grid) and ensure cross-browser compatibility",
-        "Integrate front-end code with .NET Core / C# services (REST APIs, auth flows, data handling) in partnership with backend engineers",
-        "Improve and refactor existing front-end codebases for performance, usability, and maintainability",
-        "Collaborate with designers to clarify interaction patterns, edge cases, and accessibility requirements",
-        "Participate in agile delivery, estimation, code reviews, and testing practices"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-pratt-industries-job-ui-ux-front-end-engineer-in-conyers-ga",
     "_source": "new_jobs"
   },
   {
@@ -295,92 +222,76 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "pn3UUOj09nbgYZeGAAAAAA==",
-    "job_title": "Senior Associate, Front-End Web & Email Developer (Auto - Brand & Marketing)",
-    "employer_name": "Capital One",
-    "employer_logo": null,
-    "employer_website": "https://www.capitalone.com",
-    "job_publisher": "Capital One",
-    "job_employment_type": "Full-time and Part-time",
+    "job_id": "D1Z6VsWXZe-mKvHJAAAAAA==",
+    "job_title": "UI/UX Front-End Engineer",
+    "employer_name": "Pratt Industries",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDn_AZ-rLwLDkjUiFPiuHVAhJm-LEry1VOhf7L&s=0",
+    "employer_website": "https://www.prattindustries.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
     "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
+      "FULLTIME"
     ],
-    "job_apply_link": "https://www.capitalonecareers.com/job/plano/senior-associate-front-end-web-and-email-developer-auto-brand-and-marketing/1732/91837701584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://www.ziprecruiter.com/c/Pratt-Industries/Job/UI-UX-Front-End-Engineer/-in-Conyers,GA?jid=f3fdacddbebac555&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "Capital One",
-        "apply_link": "https://www.capitalonecareers.com/job/plano/senior-associate-front-end-web-and-email-developer-auto-brand-and-marketing/1732/91837701584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ITSMF",
-        "apply_link": "https://jobs.itsmfleaders.org/job/un8478/senior-associate-front-end-web-email-developer-(auto-brand-marketing)/plano/tx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Pratt-Industries/Job/UI-UX-Front-End-Engineer/-in-Conyers,GA?jid=f3fdacddbebac555&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
       }
     ],
-    "job_description": "Senior Associate, Front-End Web & Email Developer (Auto - Brand & Marketing)\n\nCapital One Auto Dealer Brand is seeking a skilled and innovation-driven Senior Associate, Front-End Web & Email Developer. In this role, you will exist to transform curiosity into clarity and ideas into impactful systems. You will play a critical role in the structure, layout, and functionality of our financial services marketing campaigns and touchpoints, ensuring high-quality execution across landing pages, email campaigns, and other experience-driven interactions. You will be responsible for partnering with business partners, brand strategy managers, data partners, and creative teams to produce deliverables as well as helping the team to drive strategy, technical innovation, and operational efficiency. This highly visible role creates a powerful opportunity to act as a subject matter expert, using research, insights and technology.\n\nResponsibilities:\n• Create structure, layout, and functionality of landing pages and websites using HTML5, CSS3, and JavaScript (ES6+).\n• Build and render technically accurate email templates within email clients adhering to common platform limitations (Salesforce Marketing Cloud or other tools).\n• Produce clean, reusable, and technically accurate code files for deployment.\n• Partner on the technical feasibility of creative and strategic concepts. Translate design mockups (Figma) into functional interfaces.\n• Testing & Quality Assurance: Manage ongoing testing and improvement of campaigns. Conduct cross-browser/cross-client compatibility checks and debugging using browser developer tools.\n• Ensure all deliverables adhere to accessibility standards (WCAG), as well as CAN-SPAM and GDPR regulations.\n• Act as an insight-driven beacon on industry trends, driving future-facing standardization by staying current with the state of the art in technology.\n• Act as a proactive technical partner, influencing decisions on tooling, process improvements, and navigating our processes to mitigate risk to deliver exceptional outcomes for our end customers.\n• Manage numerous projects simultaneously in a fast-paced environment, self-managing deadlines on concurrent projects to meet strict timelines without sacrificing quality.\n\nThis Associate should bring:\n• A mindset to Curate with Curiosity, questioning limits and exploring multiple perspectives to uncover better solutions.\n• The ability to Stir Up Serendipity, remaining observant to notice subtle opportunities and patterns for improvement in the teams’ daily work.\n• A drive to Triangulate with Technology, using tools to automate the mundane and create adaptable, scalable systems and create innovation when opportunity arises.\n• A proactive entrepreneurial spirit with the ability to work independently and as part of a collaborative team.\n• Strong problem-solving and analytical skills, with a focus on creating systems that age well.\n• Excellent written and verbal communication and presentation skills to effectively communicate with business strategy partners and data engineers.\n\nBasic Qualifications:\n• At least 5 years of experience in front-end web development (HTML5, CSS3+, JavaScript ES6+).\n• At least 2 years of experience in email development platforms.\n• At least 2 years of experience with Responsive Design principles, modern and mobile-first development.\n• At least 2 years of experience with Ampscript for dynamic personalization and logic within emails.\n\nPreferred Qualifications:\n• Associate’s Degree\n• 2+ years of experience with modern JavaScript & web frameworks (Tailwind, React, Angular, or Vue.js) and TypeScript for robust, type-safe code.\n• 1+ years of experience using Generative AI tools (examples include Gemini, Claude, GitHub Copilot, Windsurf, Cursor) to accelerate coding workflows and iterate on technical solutions.\n• Proficiency with Git and Version Control workflows, CI/CD pipelines, and modern deployment environments.\n• Strong understanding of User Interface (UI) and User Experience (UX) design principles.\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nPlano, TX: $87,700 - $100,100 for Sr. Associate, Marketing\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+    "job_description": "Pratt Industries USA is seeking a full-time UI/UX Front-End Engineer to join our Technology Development (Programming) Team in Atlanta, GA. This role is for a developer who can build production React user interfaces, translate Figma designs into working applications, and collaborate across design and backend teams to deliver high-quality user experiences.\n\nSalary is dependent upon qualifications and experience. Some travel may be required.\nSummary\n\nYou will develop and maintain modern, responsive web interfaces for internal systems and customer-facing applications. The core of the role is writing React/Next.js UI code-building pages, components, UI behavior, and state flows-while coordinating with .NET Core / C# services as needed. You'll help bridge UX intent and engineering implementation, improving usability, consistency, and maintainability across both new and existing systems.\n\nThis is a programming role (not a design role), but it requires strong familiarity with UX/UI workflows and design handoff.\nKey Responsibilities\n• Implement UI features from Figma into production React applications (pages, components, interactions, routing/navigation, forms, validation)\n• Build reusable components aligned with design standards and team conventions\n• Develop responsive layouts using modern CSS (Flexbox/Grid) and ensure cross-browser compatibility\n• Integrate front-end code with .NET Core / C# services (REST APIs, auth flows, data handling) in partnership with backend engineers\n• Improve and refactor existing front-end codebases for performance, usability, and maintainability\n• Collaborate with designers to clarify interaction patterns, edge cases, and accessibility requirements\n• Participate in agile delivery, estimation, code reviews, and testing practices\nRequired Qualifications\n• Bachelor's degree in Computer Science, Software Engineering, or related field (or equivalent experience)\n• Proven ability to develop React front ends (components, UI logic, state management, forms, and application structure)\n• Experience converting Figma designs into high-quality interfaces\n• Strong proficiency in HTML/CSS and modern JavaScript (TypeScript a plus)\n• Working familiarity with .NET Core / C# environments and a desire to grow backend skills (debugging, small enhancements, collaborating on APIs)\n• Strong communication and collaboration skills; comfortable working between design and engineering stakeholders\n• Self-starter mindset and ability to learn quickly\n• Work samples (portfolio/GitHub) demonstrating front-end application work\nPreferred Qualifications / Experience\n• Next.js experience (routing, SSR/SSG concepts, performance optimization)\n• TypeScript, component libraries, and design system implementation\n• Accessibility (WCAG), UI testing (unit/component/e2e), and front-end performance tuning\n• Familiarity with mobile UI presentation layers and patterns for iOS/Android (native UI concepts, mobile-first design, or React Native exposure)\n• Experience modernizing legacy UI systems or migrating to React-based front ends\nWork Environment / Physical Demands\n\nThe work environment characteristics described here are representative of those an employee encounters while performing the functions of this job.\n\nEmployee is regularly required to walk and talk and hear. The employee is frequently required to stand; use hands to finger, handle, or feel; and reach with hands and arms. The employee is occasionally required to sit. Vision requirements include: close vision, distance vision, color vision, peripheral vision, depth perception, and ability to adjust focus.",
     "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771286400,
-    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
-    "job_location": "Plano, TX",
-    "job_city": "Plano",
-    "job_state": "Texas",
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Conyers, GA",
+    "job_city": "Conyers",
+    "job_state": "Georgia",
     "job_country": "US",
-    "job_latitude": 33.0216577,
-    "job_longitude": -96.6979973,
+    "job_latitude": 33.6676103,
+    "job_longitude": -84.01769039999999,
     "job_benefits": [
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dpn3UUOj09nbgYZeGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD1Z6VsWXZe-mKvHJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "A mindset to Curate with Curiosity, questioning limits and exploring multiple perspectives to uncover better solutions",
-        "The ability to Stir Up Serendipity, remaining observant to notice subtle opportunities and patterns for improvement in the teams’ daily work",
-        "A drive to Triangulate with Technology, using tools to automate the mundane and create adaptable, scalable systems and create innovation when opportunity arises",
-        "A proactive entrepreneurial spirit with the ability to work independently and as part of a collaborative team",
-        "Strong problem-solving and analytical skills, with a focus on creating systems that age well",
-        "Excellent written and verbal communication and presentation skills to effectively communicate with business strategy partners and data engineers",
-        "At least 5 years of experience in front-end web development (HTML5, CSS3+, JavaScript ES6+)",
-        "At least 2 years of experience in email development platforms",
-        "At least 2 years of experience with Responsive Design principles, modern and mobile-first development",
-        "At least 2 years of experience with Ampscript for dynamic personalization and logic within emails"
-      ],
-      "Benefits": [
-        "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
-        "Plano, TX: $87,700 - $100,100 for Sr",
-        "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
-        "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
-        "Incentives could be discretionary or non discretionary depending on the plan",
-        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+        "Bachelor's degree in Computer Science, Software Engineering, or related field (or equivalent experience)",
+        "Proven ability to develop React front ends (components, UI logic, state management, forms, and application structure)",
+        "Experience converting Figma designs into high-quality interfaces",
+        "Working familiarity with .NET Core / C# environments and a desire to grow backend skills (debugging, small enhancements, collaborating on APIs)",
+        "Strong communication and collaboration skills; comfortable working between design and engineering stakeholders",
+        "Self-starter mindset and ability to learn quickly",
+        "Work samples (portfolio/GitHub) demonstrating front-end application work",
+        "Employee is regularly required to walk and talk and hear",
+        "The employee is frequently required to stand; use hands to finger, handle, or feel; and reach with hands and arms",
+        "The employee is occasionally required to sit",
+        "Vision requirements include: close vision, distance vision, color vision, peripheral vision, depth perception, and ability to adjust focus"
       ],
       "Responsibilities": [
-        "In this role, you will exist to transform curiosity into clarity and ideas into impactful systems",
-        "You will play a critical role in the structure, layout, and functionality of our financial services marketing campaigns and touchpoints, ensuring high-quality execution across landing pages, email campaigns, and other experience-driven interactions",
-        "You will be responsible for partnering with business partners, brand strategy managers, data partners, and creative teams to produce deliverables as well as helping the team to drive strategy, technical innovation, and operational efficiency",
-        "This highly visible role creates a powerful opportunity to act as a subject matter expert, using research, insights and technology",
-        "Create structure, layout, and functionality of landing pages and websites using HTML5, CSS3, and JavaScript (ES6+)",
-        "Build and render technically accurate email templates within email clients adhering to common platform limitations (Salesforce Marketing Cloud or other tools)",
-        "Produce clean, reusable, and technically accurate code files for deployment",
-        "Partner on the technical feasibility of creative and strategic concepts",
-        "Translate design mockups (Figma) into functional interfaces",
-        "Testing & Quality Assurance: Manage ongoing testing and improvement of campaigns",
-        "Conduct cross-browser/cross-client compatibility checks and debugging using browser developer tools",
-        "Ensure all deliverables adhere to accessibility standards (WCAG), as well as CAN-SPAM and GDPR regulations",
-        "Act as an insight-driven beacon on industry trends, driving future-facing standardization by staying current with the state of the art in technology",
-        "Act as a proactive technical partner, influencing decisions on tooling, process improvements, and navigating our processes to mitigate risk to deliver exceptional outcomes for our end customers",
-        "Manage numerous projects simultaneously in a fast-paced environment, self-managing deadlines on concurrent projects to meet strict timelines without sacrificing quality"
+        "This role is for a developer who can build production React user interfaces, translate Figma designs into working applications, and collaborate across design and backend teams to deliver high-quality user experiences",
+        "You will develop and maintain modern, responsive web interfaces for internal systems and customer-facing applications",
+        "The core of the role is writing React/Next.js UI code-building pages, components, UI behavior, and state flows-while coordinating with .NET Core / C# services as needed",
+        "You'll help bridge UX intent and engineering implementation, improving usability, consistency, and maintainability across both new and existing systems",
+        "This is a programming role (not a design role), but it requires strong familiarity with UX/UI workflows and design handoff",
+        "Implement UI features from Figma into production React applications (pages, components, interactions, routing/navigation, forms, validation)",
+        "Build reusable components aligned with design standards and team conventions",
+        "Develop responsive layouts using modern CSS (Flexbox/Grid) and ensure cross-browser compatibility",
+        "Integrate front-end code with .NET Core / C# services (REST APIs, auth flows, data handling) in partnership with backend engineers",
+        "Improve and refactor existing front-end codebases for performance, usability, and maintainability",
+        "Collaborate with designers to clarify interaction patterns, edge cases, and accessibility requirements",
+        "Participate in agile delivery, estimation, code reviews, and testing practices"
       ]
     },
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
-    "id": "www-capitalonecareers-com-job-plano-senior-associate-front-end-web-and-email-developer-auto-brand-and-marketing-1732-91837701584",
+    "id": "www-ziprecruiter-com-c-pratt-industries-job-ui-ux-front-end-engineer-in-conyers-ga",
     "_source": "new_jobs"
   },
   {
@@ -422,8 +333,8 @@
     "job_longitude": -122.32552539999999,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2zYEwLG2vR7OHRdHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 143000,
@@ -480,101 +391,6 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-ziprecruiter-com-c-walmart-job-front-end-web-software-engineers-in-san-mateo-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Se1slHeX9lcao7yZAAAAAA==",
-    "job_title": "Principal Front End Engineer",
-    "employer_name": "Fidelity Investments Careers",
-    "employer_logo": null,
-    "employer_website": "https://jobs.fidelity.com",
-    "job_publisher": "Fidelity Careers - Fidelity Investments",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.fidelity.com/en/jobs/2124098/principal-front-end-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Fidelity Careers - Fidelity Investments",
-        "apply_link": "https://jobs.fidelity.com/en/jobs/2124098/principal-front-end-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Tech Jobs Personalized",
-        "apply_link": "https://builtin.com/job/principal-front-end-engineer/8493365?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/principal-front-end-engineer-at-fidelity-investments-4372756557?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Fidelity-Investments/Job/Principal-Front-End-Engineer/-in-Smithfield,RI?jid=63500967d57c6678&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/6619ae1fb3e611de97668d5bf9abd8e0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Hire Veterans",
-        "apply_link": "https://hireveterans.com/job/11153672/principal-front-end-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/principal-front-end-engineer-smithfield-fidelity-investments-00adf00dad107b77f03e8c32f4c66d45?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/principal-front-end-engineer-fidelityinvesments-smithfield-ri_85702923?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description:\n\nThe Role\n\nQRIT is building a multi‑asset back testing and research platform for quants that powers hypothesis testing, strategy development, and production‑grade validation across Asset Management. We’re looking for a Principal Full Stack Engineer to lead the end‑to‑end front‑end architecture —designing performant, intuitive, and consistent UIs that help quants and PMs explore data, compare strategies, and make faster decisions.\n\nYou will set the UI vision, lead implementation in Angular (TypeScript/JavaScript), and partner closely with quantitative researchers, platform/backend engineers, and product to translate complex research workflows into elegant, reliable interfaces. Experience with modern Angular, reactive patterns, service integration, and front‑end performance will be critical for success.\n\nThe Expertise & Skills You Bring\n• 8+ years building complex single‑page applications with Angular (v9+) and TypeScript, including component architecture, routing, and change detection optimization.\n• Deep hands‑on expertise with RxJS/NgRx (or equivalent reactive state patterns) for real‑time, high‑volume data UI.\n• Strong experience integrating with RESTful services (bonus: gRPC/WebSockets), handling pagination/virtualization, and front‑end performance tuning.\n• Demonstrated ability to convert complex domain problems into clean UX flows; proficiency with wireframing/prototyping tools (e.g., Figma).\n• Track record establishing UI component libraries/design systems and publishing distributable NPM packages.\n• Solid testing discipline (Jasmine/Jest/Cypress, TDD/contract testing) and CI/CD best practices for front‑end delivery.\n• Working familiarity with at least one mid‑tier framework (Python FastAPI/Flask, Java Spring Boot, or Node.js) and SQL fundamentals to collaborate effectively across the stack.\n• Excellent communication skills; can explain trade‑offs and guide design decisions with quantitative stakeholders.\n• BS/MS in Computer Science or related field, or equivalent practical experience.\n\nThe Team\n\nThe Quantitative Development team is part of Asset Management’s Quantitative Research & Investment Technology group. We build high quality, robust, and highly-responsive solutions that are used to improve Asset Management’s efficiency and decision-making processes.\n\nCertifications:\n\nCategory:\n\nInformation Technology\n\nMost roles at Fidelity are Hybrid, requiring associates to work onsite every other week (all business days, M-F) in a Fidelity office. This does not apply to Remote or fully Onsite roles.\n\nPlease be advised that Fidelity’s business is governed by the provisions of the Securities Exchange Act of 1934, the Investment Advisers Act of 1940, the Investment Company Act of 1940, ERISA, numerous state laws governing securities, investment and retirement-related financial activities and the rules and regulations of numerous self-regulatory organizations, including FINRA, among others. Those laws and regulations may restrict Fidelity from hiring and/or associating with individuals with certain Criminal Histories.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Smithfield, RI",
-    "job_city": "Smithfield",
-    "job_state": "Rhode Island",
-    "job_country": "US",
-    "job_latitude": 41.9220496,
-    "job_longitude": -71.54951009999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSe1slHeX9lcao7yZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience with modern Angular, reactive patterns, service integration, and front‑end performance will be critical for success",
-        "8+ years building complex single‑page applications with Angular (v9+) and TypeScript, including component architecture, routing, and change detection optimization",
-        "Deep hands‑on expertise with RxJS/NgRx (or equivalent reactive state patterns) for real‑time, high‑volume data UI",
-        "Strong experience integrating with RESTful services (bonus: gRPC/WebSockets), handling pagination/virtualization, and front‑end performance tuning",
-        "Demonstrated ability to convert complex domain problems into clean UX flows; proficiency with wireframing/prototyping tools (e.g., Figma)",
-        "Track record establishing UI component libraries/design systems and publishing distributable NPM packages",
-        "Solid testing discipline (Jasmine/Jest/Cypress, TDD/contract testing) and CI/CD best practices for front‑end delivery",
-        "Working familiarity with at least one mid‑tier framework (Python FastAPI/Flask, Java Spring Boot, or Node.js) and SQL fundamentals to collaborate effectively across the stack",
-        "Excellent communication skills; can explain trade‑offs and guide design decisions with quantitative stakeholders",
-        "BS/MS in Computer Science or related field, or equivalent practical experience"
-      ],
-      "Responsibilities": [
-        "QRIT is building a multi‑asset back testing and research platform for quants that powers hypothesis testing, strategy development, and production‑grade validation across Asset Management",
-        "You will set the UI vision, lead implementation in Angular (TypeScript/JavaScript), and partner closely with quantitative researchers, platform/backend engineers, and product to translate complex research workflows into elegant, reliable interfaces"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "jobs-fidelity-com-en-jobs-2124098-principal-front-end-engineer",
     "_source": "new_jobs"
   },
   {
@@ -691,6 +507,185 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "pn3UUOj09nbgYZeGAAAAAA==",
+    "job_title": "Senior Associate, Front-End Web & Email Developer (Auto - Brand & Marketing)",
+    "employer_name": "Capital One",
+    "employer_logo": null,
+    "employer_website": "https://www.capitalone.com",
+    "job_publisher": "Capital One Career",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.capitalonecareers.com/job/plano/senior-associate-front-end-web-and-email-developer-auto-brand-and-marketing/1732/91837701584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Capital One Career",
+        "apply_link": "https://www.capitalonecareers.com/job/plano/senior-associate-front-end-web-and-email-developer-auto-brand-and-marketing/1732/91837701584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Senior Associate, Front-End Web & Email Developer (Auto - Brand & Marketing)\n\nCapital One Auto Dealer Brand is seeking a skilled and innovation-driven Senior Associate, Front-End Web & Email Developer. In this role, you will exist to transform curiosity into clarity and ideas into impactful systems. You will play a critical role in the structure, layout, and functionality of our financial services marketing campaigns and touchpoints, ensuring high-quality execution across landing pages, email campaigns, and other experience-driven interactions. You will be responsible for partnering with business partners, brand strategy managers, data partners, and creative teams to produce deliverables as well as helping the team to drive strategy, technical innovation, and operational efficiency. This highly visible role creates a powerful opportunity to act as a subject matter expert, using research, insights and technology.\n\nResponsibilities:\n• Create structure, layout, and functionality of landing pages and websites using HTML5, CSS3, and JavaScript (ES6+).\n• Build and render technically accurate email templates within email clients adhering to common platform limitations (Salesforce Marketing Cloud or other tools).\n• Produce clean, reusable, and technically accurate code files for deployment.\n• Partner on the technical feasibility of creative and strategic concepts. Translate design mockups (Figma) into functional interfaces.\n• Testing & Quality Assurance: Manage ongoing testing and improvement of campaigns. Conduct cross-browser/cross-client compatibility checks and debugging using browser developer tools.\n• Ensure all deliverables adhere to accessibility standards (WCAG), as well as CAN-SPAM and GDPR regulations.\n• Act as an insight-driven beacon on industry trends, driving future-facing standardization by staying current with the state of the art in technology.\n• Act as a proactive technical partner, influencing decisions on tooling, process improvements, and navigating our processes to mitigate risk to deliver exceptional outcomes for our end customers.\n• Manage numerous projects simultaneously in a fast-paced environment, self-managing deadlines on concurrent projects to meet strict timelines without sacrificing quality.\n\nThis Associate should bring:\n• A mindset to Curate with Curiosity, questioning limits and exploring multiple perspectives to uncover better solutions.\n• The ability to Stir Up Serendipity, remaining observant to notice subtle opportunities and patterns for improvement in the teams’ daily work.\n• A drive to Triangulate with Technology, using tools to automate the mundane and create adaptable, scalable systems and create innovation when opportunity arises.\n• A proactive entrepreneurial spirit with the ability to work independently and as part of a collaborative team.\n• Strong problem-solving and analytical skills, with a focus on creating systems that age well.\n• Excellent written and verbal communication and presentation skills to effectively communicate with business strategy partners and data engineers.\n\nBasic Qualifications:\n• At least 5 years of experience in front-end web development (HTML5, CSS3+, JavaScript ES6+).\n• At least 2 years of experience in email development platforms.\n• At least 2 years of experience with Responsive Design principles, modern and mobile-first development.\n• At least 2 years of experience with Ampscript for dynamic personalization and logic within emails.\n\nPreferred Qualifications:\n• Associate’s Degree\n• 2+ years of experience with modern JavaScript & web frameworks (Tailwind, React, Angular, or Vue.js) and TypeScript for robust, type-safe code.\n• 1+ years of experience using Generative AI tools (examples include Gemini, Claude, GitHub Copilot, Windsurf, Cursor) to accelerate coding workflows and iterate on technical solutions.\n• Proficiency with Git and Version Control workflows, CI/CD pipelines, and modern deployment environments.\n• Strong understanding of User Interface (UI) and User Experience (UX) design principles.\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nPlano, TX: $87,700 - $100,100 for Sr. Associate, Marketing\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771286400,
+    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
+    "job_location": "Plano, TX",
+    "job_city": "Plano",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 33.0216577,
+    "job_longitude": -96.6979973,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dpn3UUOj09nbgYZeGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "A mindset to Curate with Curiosity, questioning limits and exploring multiple perspectives to uncover better solutions",
+        "The ability to Stir Up Serendipity, remaining observant to notice subtle opportunities and patterns for improvement in the teams’ daily work",
+        "A drive to Triangulate with Technology, using tools to automate the mundane and create adaptable, scalable systems and create innovation when opportunity arises",
+        "A proactive entrepreneurial spirit with the ability to work independently and as part of a collaborative team",
+        "Strong problem-solving and analytical skills, with a focus on creating systems that age well",
+        "Excellent written and verbal communication and presentation skills to effectively communicate with business strategy partners and data engineers",
+        "At least 5 years of experience in front-end web development (HTML5, CSS3+, JavaScript ES6+)",
+        "At least 2 years of experience in email development platforms",
+        "At least 2 years of experience with Responsive Design principles, modern and mobile-first development",
+        "At least 2 years of experience with Ampscript for dynamic personalization and logic within emails"
+      ],
+      "Benefits": [
+        "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+        "Plano, TX: $87,700 - $100,100 for Sr",
+        "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+        "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+        "Incentives could be discretionary or non discretionary depending on the plan",
+        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+      ],
+      "Responsibilities": [
+        "In this role, you will exist to transform curiosity into clarity and ideas into impactful systems",
+        "You will play a critical role in the structure, layout, and functionality of our financial services marketing campaigns and touchpoints, ensuring high-quality execution across landing pages, email campaigns, and other experience-driven interactions",
+        "You will be responsible for partnering with business partners, brand strategy managers, data partners, and creative teams to produce deliverables as well as helping the team to drive strategy, technical innovation, and operational efficiency",
+        "This highly visible role creates a powerful opportunity to act as a subject matter expert, using research, insights and technology",
+        "Create structure, layout, and functionality of landing pages and websites using HTML5, CSS3, and JavaScript (ES6+)",
+        "Build and render technically accurate email templates within email clients adhering to common platform limitations (Salesforce Marketing Cloud or other tools)",
+        "Produce clean, reusable, and technically accurate code files for deployment",
+        "Partner on the technical feasibility of creative and strategic concepts",
+        "Translate design mockups (Figma) into functional interfaces",
+        "Testing & Quality Assurance: Manage ongoing testing and improvement of campaigns",
+        "Conduct cross-browser/cross-client compatibility checks and debugging using browser developer tools",
+        "Ensure all deliverables adhere to accessibility standards (WCAG), as well as CAN-SPAM and GDPR regulations",
+        "Act as an insight-driven beacon on industry trends, driving future-facing standardization by staying current with the state of the art in technology",
+        "Act as a proactive technical partner, influencing decisions on tooling, process improvements, and navigating our processes to mitigate risk to deliver exceptional outcomes for our end customers",
+        "Manage numerous projects simultaneously in a fast-paced environment, self-managing deadlines on concurrent projects to meet strict timelines without sacrificing quality"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-capitalonecareers-com-job-plano-senior-associate-front-end-web-and-email-developer-auto-brand-and-marketing-1732-91837701584",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "Se1slHeX9lcao7yZAAAAAA==",
+    "job_title": "Principal Front End Engineer",
+    "employer_name": "Fidelity Investments Careers",
+    "employer_logo": null,
+    "employer_website": "https://jobs.fidelity.com",
+    "job_publisher": "Fidelity Careers - Fidelity Investments",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.fidelity.com/en/jobs/2124098/principal-front-end-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Fidelity Careers - Fidelity Investments",
+        "apply_link": "https://jobs.fidelity.com/en/jobs/2124098/principal-front-end-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Tech Jobs Personalized",
+        "apply_link": "https://builtin.com/job/principal-front-end-engineer/8493365?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/principal-front-end-engineer-at-fidelity-investments-4372756557?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Fidelity-Investments/Job/Principal-Front-End-Engineer/-in-Smithfield,RI?jid=63500967d57c6678&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/6619ae1fb3e611de97668d5bf9abd8e0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hire Veterans",
+        "apply_link": "https://hireveterans.com/job/11153672/principal-front-end-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/principal-front-end-engineer-smithfield-fidelity-investments-00adf00dad107b77f03e8c32f4c66d45?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/principal-front-end-engineer-fidelityinvesments-smithfield-ri_85702923?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description:\n\nThe Role\n\nQRIT is building a multi‑asset back testing and research platform for quants that powers hypothesis testing, strategy development, and production‑grade validation across Asset Management. We’re looking for a Principal Full Stack Engineer to lead the end‑to‑end front‑end architecture —designing performant, intuitive, and consistent UIs that help quants and PMs explore data, compare strategies, and make faster decisions.\n\nYou will set the UI vision, lead implementation in Angular (TypeScript/JavaScript), and partner closely with quantitative researchers, platform/backend engineers, and product to translate complex research workflows into elegant, reliable interfaces. Experience with modern Angular, reactive patterns, service integration, and front‑end performance will be critical for success.\n\nThe Expertise & Skills You Bring\n• 8+ years building complex single‑page applications with Angular (v9+) and TypeScript, including component architecture, routing, and change detection optimization.\n• Deep hands‑on expertise with RxJS/NgRx (or equivalent reactive state patterns) for real‑time, high‑volume data UI.\n• Strong experience integrating with RESTful services (bonus: gRPC/WebSockets), handling pagination/virtualization, and front‑end performance tuning.\n• Demonstrated ability to convert complex domain problems into clean UX flows; proficiency with wireframing/prototyping tools (e.g., Figma).\n• Track record establishing UI component libraries/design systems and publishing distributable NPM packages.\n• Solid testing discipline (Jasmine/Jest/Cypress, TDD/contract testing) and CI/CD best practices for front‑end delivery.\n• Working familiarity with at least one mid‑tier framework (Python FastAPI/Flask, Java Spring Boot, or Node.js) and SQL fundamentals to collaborate effectively across the stack.\n• Excellent communication skills; can explain trade‑offs and guide design decisions with quantitative stakeholders.\n• BS/MS in Computer Science or related field, or equivalent practical experience.\n\nThe Team\n\nThe Quantitative Development team is part of Asset Management’s Quantitative Research & Investment Technology group. We build high quality, robust, and highly-responsive solutions that are used to improve Asset Management’s efficiency and decision-making processes.\n\nCertifications:\n\nCategory:\n\nInformation Technology\n\nMost roles at Fidelity are Hybrid, requiring associates to work onsite every other week (all business days, M-F) in a Fidelity office. This does not apply to Remote or fully Onsite roles.\n\nPlease be advised that Fidelity’s business is governed by the provisions of the Securities Exchange Act of 1934, the Investment Advisers Act of 1940, the Investment Company Act of 1940, ERISA, numerous state laws governing securities, investment and retirement-related financial activities and the rules and regulations of numerous self-regulatory organizations, including FINRA, among others. Those laws and regulations may restrict Fidelity from hiring and/or associating with individuals with certain Criminal Histories.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Smithfield, RI",
+    "job_city": "Smithfield",
+    "job_state": "Rhode Island",
+    "job_country": "US",
+    "job_latitude": 41.9220496,
+    "job_longitude": -71.54951009999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSe1slHeX9lcao7yZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience with modern Angular, reactive patterns, service integration, and front‑end performance will be critical for success",
+        "8+ years building complex single‑page applications with Angular (v9+) and TypeScript, including component architecture, routing, and change detection optimization",
+        "Deep hands‑on expertise with RxJS/NgRx (or equivalent reactive state patterns) for real‑time, high‑volume data UI",
+        "Strong experience integrating with RESTful services (bonus: gRPC/WebSockets), handling pagination/virtualization, and front‑end performance tuning",
+        "Demonstrated ability to convert complex domain problems into clean UX flows; proficiency with wireframing/prototyping tools (e.g., Figma)",
+        "Track record establishing UI component libraries/design systems and publishing distributable NPM packages",
+        "Solid testing discipline (Jasmine/Jest/Cypress, TDD/contract testing) and CI/CD best practices for front‑end delivery",
+        "Working familiarity with at least one mid‑tier framework (Python FastAPI/Flask, Java Spring Boot, or Node.js) and SQL fundamentals to collaborate effectively across the stack",
+        "Excellent communication skills; can explain trade‑offs and guide design decisions with quantitative stakeholders",
+        "BS/MS in Computer Science or related field, or equivalent practical experience"
+      ],
+      "Responsibilities": [
+        "QRIT is building a multi‑asset back testing and research platform for quants that powers hypothesis testing, strategy development, and production‑grade validation across Asset Management",
+        "You will set the UI vision, lead implementation in Angular (TypeScript/JavaScript), and partner closely with quantitative researchers, platform/backend engineers, and product to translate complex research workflows into elegant, reliable interfaces"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "jobs-fidelity-com-en-jobs-2124098-principal-front-end-engineer",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "XB4QXYyNELxRWUAXAAAAAA==",
     "job_title": "Principal, Software Engineer, Front End",
     "employer_name": "Walmart",
@@ -727,9 +722,9 @@
     "job_latitude": 36.3723561,
     "job_longitude": -94.2102141,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXB4QXYyNELxRWUAXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 143000,
@@ -791,117 +786,6 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-ziprecruiter-com-c-walmart-job-principal-software-engineer-front-end-in-bentonville-ar",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "u37o9ScAmykZYoqaAAAAAA==",
-    "job_title": "Software Engineer - Fullstack (Front-end heavy)",
-    "employer_name": "Adobe",
-    "employer_logo": null,
-    "employer_website": "https://www.adobe.com",
-    "job_publisher": "Adobe Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R163077/Software-Engineer-Fullstack-Front-end-heavy?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Adobe Careers",
-        "apply_link": "https://careers.adobe.com/us/en/job/R163077/Software-Engineer-Fullstack-Front-end-heavy?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Workday",
-        "apply_link": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Software-Engineer---Fullstack--Front-end-heavy-_R163077-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/software-engineer-fullstack-front-end-heavy-adobe-JV_IC1147436_KO0,43_KE44,49.htm?jl=1009965215526&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=07ae0d49412fe79d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Adobe/Job/Software-Engineer-Fullstack-(Front-end-heavy)/-in-San-Jose,CA?jid=b3a6ac6081a95069&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/software-engineer-fullstack-front-end-heavy-adobeinc-san-jose-ca_84850937?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/505facf3-0db6-430f-b1a6-bfed9335e524?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6939ac6548a8ce22990da6fe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "JOB LEVEL\nP40\n\nEMPLOYEE ROLE\nIndividual Contributor\n\nThe Opportunity\n\nAre you excited about shaping the future of creativity by streamlining the process of creating captivating content? Look no further. Be a part of the Content Production Engineering team inside Adobe Express Org, where storytellers, tech innovators, and change agents converge!\n\nWe're at the forefront of creativity and innovation, and our team is the driving force behind the inspiring content available on Adobe Express. Our application empowers end users with seamless content lifecycle management, moderation, and curation capabilities. Our mission is to accelerate content production, unlock smarter content & leverage generated content to empower a diverse range of individuals, from students and social influencers to marketers and small businesses. We're enabling everyone with a voice to craft something outstanding that captivates their audience.\n\nWe're on the lookout for a mid-level full-stack engineer (front-end heavy) to join our dynamic and fast-paced team, as we embark on scaling a new creativity platform that's poised to define the future of Creative Cloud and Adobe’s Digital Media business!\n\nWhat you'll Do\n• Design, develop, and deliver innovative product features and enhancements for Content Production Engineering workflow.\n• Take full ownership of your features — from design discussions to implementation, testing, and delivery.\n• Collaborate seamlessly with researchers, engineers, UX designers, and product managers to prototype and create a next-generation web application.\n• Engage in pair programming and peer reviews, collaborating with fellow engineers on an array of challenges, from code-related tasks to novel concepts and methodologies.\n• Has good/practical understanding of design patterns.\n• Operate, monitor, and continuously enhance the systems you develop, focusing on reliability, security, and scalability.\n\nWhat you need to succeed\n• 4-7+ years of experience in building and shipping production software in a product-focused environment.\n• Bachelor’s or Master’s degree in Computer Science or a related field.\n• Experience with developing full-stack modern JavaScript applications and frameworks (e.g. Web Components, React, ES6, TypeScript, Redux / Mobx.)\n• Experience designing and owning backend services (Node.js/Java, or similar).\n• Experience in troubleshooting complex systems and identifying multiple solutions.\n• Able to use good judgement while using AI-powered coding tools and automation tools to enhance productivity.\n• Ability to move fast in ambiguous environments - high ownership and bias for action.\n\nBonus Skills:\n• Have worked directly with AI/LLM APIs using prompt/context engineering techniques.\n• Familiarity with concepts such as functional programming, state management, and immutability.\n• Proficiency in UX Design.\n• Acquaintance with Agile/SCRUM development practices\n\nOur compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $139,000 -- $257,550 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.‌\nIn California, the pay range for this position is $177,900 - $257,550\n\nAt Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).\n\nIn addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.\n\nState-Specific Notices:\n\nCalifornia:\n\nFair Chance Ordinances\n\nAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.\n\nColorado:\n\nApplication Window Notice\n\nIf this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.\n\nMassachusetts:\n\nMassachusetts Legal Notice\n\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\nInternal Opportunities\n\nCreativity, curiosity, and constant learning are celebrated aspects of your career growth journey. We’re glad that you’re pursuing a new opportunity at Adobe!\n\nPut your best foot forward:\n\n1. Update your Resume/CV and Workday profile – don’t forget to include your uniquely ‘Adobe’ experiences and volunteer work.\n\n2. Visit the Internal Mobility page on Inside Adobe to learn more about the process and set up a job alert for roles you’re interested in.\n\n3. Check out these tips to help you prep for interviews.\n\n4. If you are applying for a role outside of your current country, ensure you review the International Resources for Relocating Employees on Inside Adobe, including the impacts to your Benefits, AIP, Equity & Payroll.\n\nOnce you apply for a role via Workday, the Talent Team will reach out to you within 2 weeks. If you move into the official interview process with the hiring team, make sure you inform your manager so they can champion your career growth.\n\nAt Adobe, you will be immersed in an exceptional work environment that is recognized around the world. You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely. If you’re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.\n\nAdobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.\n\nAdobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Du37o9ScAmykZYoqaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "4-7+ years of experience in building and shipping production software in a product-focused environment",
-        "Bachelor’s or Master’s degree in Computer Science or a related field",
-        "Experience with developing full-stack modern JavaScript applications and frameworks (e.g. Web Components, React, ES6, TypeScript, Redux / Mobx.)",
-        "Experience designing and owning backend services (Node.js/Java, or similar)",
-        "Experience in troubleshooting complex systems and identifying multiple solutions",
-        "Able to use good judgement while using AI-powered coding tools and automation tools to enhance productivity",
-        "Ability to move fast in ambiguous environments - high ownership and bias for action",
-        "Have worked directly with AI/LLM APIs using prompt/context engineering techniques",
-        "Familiarity with concepts such as functional programming, state management, and immutability",
-        "Proficiency in UX Design",
-        "Acquaintance with Agile/SCRUM development practices",
-        "Update your Resume/CV and Workday profile – don’t forget to include your uniquely ‘Adobe’ experiences and volunteer work",
-        "Visit the Internal Mobility page on Inside Adobe to learn more about the process and set up a job alert for roles you’re interested in"
-      ],
-      "Benefits": [
-        "The U.S. pay range for this position is $139,000 -- $257,550 annually",
-        "In California, the pay range for this position is $177,900 - $257,550",
-        "At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans",
-        "Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP)",
-        "In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award",
-        "Creativity, curiosity, and constant learning are celebrated aspects of your career growth journey",
-        "If you are applying for a role outside of your current country, ensure you review the International Resources for Relocating Employees on Inside Adobe, including the impacts to your Benefits, AIP, Equity & Payroll"
-      ],
-      "Responsibilities": [
-        "Design, develop, and deliver innovative product features and enhancements for Content Production Engineering workflow",
-        "Take full ownership of your features — from design discussions to implementation, testing, and delivery",
-        "Collaborate seamlessly with researchers, engineers, UX designers, and product managers to prototype and create a next-generation web application",
-        "Engage in pair programming and peer reviews, collaborating with fellow engineers on an array of challenges, from code-related tasks to novel concepts and methodologies",
-        "Has good/practical understanding of design patterns",
-        "Operate, monitor, and continuously enhance the systems you develop, focusing on reliability, security, and scalability"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "careers-adobe-com-us-en-job-r163077-software-engineer-fullstack-front-end-heavy",
     "_source": "new_jobs"
   },
   {
@@ -1022,9 +906,9 @@
     "job_latitude": 38.627427999999995,
     "job_longitude": -90.1982439,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEsOEXnC9yueqfjOBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1065,6 +949,161 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "jobs-baesystems-com-global-en-job-117694br-mms-front-end-web-developer-va",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "U9nmryLSJAR0Vjk1AAAAAA==",
+    "job_title": "Front End Engineer - US - San Francisco (Hybrid)",
+    "employer_name": "HomeVision",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIjq9CDWY9nrZtAP5quY-ILIT6BRd8NHnEAWu&s=0",
+    "employer_website": "https://homevision.co",
+    "job_publisher": "Built In San Francisco",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.builtinsf.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Built In San Francisco",
+        "apply_link": "https://www.builtinsf.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/HomeVision/Job/Front-End-Engineer-US-San-Francisco-(Hybrid)/-in-San-Francisco,CA?jid=76984ccb2665aa3c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Tech Jobs Personalized",
+        "apply_link": "https://builtin.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/lead-software-engineer-front-end-bangkok-based-relocation-provided-at-agoda-4299773447?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobzMall",
+        "apply_link": "https://www.jobzmall.com/salesforce/job/lead-software-engineer-front-end-infrastructure?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/68c3f8e214bb275ce0190379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/web-development?id=2455131335&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "At HomeVision, we’re enabling the home valuation and appraisal industry to efficiently value a $40 trillion asset class, bringing equity and transparency to the US housing market. We’re funded by Initialized Capital and seeing good traction and revenue growth. We are looking for a talented Frontend Engineer to help evolve our products and delight our customers.\n\nStrong empathy for our end users and an ability to think holistically about the product are essential to succeed in this role.\n\nWhat you’ll do:\n\nYou’ll work on a modern React/Typescript and Golang stack, building workflow automation products for our core user base of home appraisal professionals.\n\nHomeVision engineers are empowered to work on the entire product, not just a specific layer of the stack. This could range from productionizing a valuation model to optimizing customer onboarding to building frontend data visualizations that communicate results in a humane, intuitive way.\n\nWhat you’ll bring:\n• Strong experience in full-stack development on both backend and frontend systems and frameworks.\n• Proven working experience in Unix/Linux environments and on distributed systems\n• Ability to learn and master new programming languages and technologies.\n\nBonus points:\n• Experience in one or more of the following technologies: Go, Python, React/Typescript, Elasticsearch, and Docker.\n• Experience in scientific and numerical computing (e.g., numpy, scipy, scikit-learn, tensorflow, pytorch, jupyter) considered a plus.\n\nWhat we'll offer you:\n• A competitive salary and a meaningful equity package\n• Medical, Dental, and Vision coverage\n• 401k\n• Paternity/maternity leave\n• Flexible vacation policy\n• A high degree of autonomy and ownership of your work\n• Support for your professional goals and learning within and beyond the company, through your manager and peers",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "San Francisco, CA",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.7749295,
+    "job_longitude": -122.4194155,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DU9nmryLSJAR0Vjk1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Strong empathy for our end users and an ability to think holistically about the product are essential to succeed in this role",
+        "Strong experience in full-stack development on both backend and frontend systems and frameworks",
+        "Proven working experience in Unix/Linux environments and on distributed systems",
+        "Ability to learn and master new programming languages and technologies",
+        "Experience in one or more of the following technologies: Go, Python, React/Typescript, Elasticsearch, and Docker"
+      ],
+      "Benefits": [
+        "A competitive salary and a meaningful equity package",
+        "Medical, Dental, and Vision coverage",
+        "401k",
+        "Paternity/maternity leave",
+        "Flexible vacation policy",
+        "A high degree of autonomy and ownership of your work",
+        "Support for your professional goals and learning within and beyond the company, through your manager and peers"
+      ],
+      "Responsibilities": [
+        "You’ll work on a modern React/Typescript and Golang stack, building workflow automation products for our core user base of home appraisal professionals",
+        "HomeVision engineers are empowered to work on the entire product, not just a specific layer of the stack",
+        "This could range from productionizing a valuation model to optimizing customer onboarding to building frontend data visualizations that communicate results in a humane, intuitive way"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-builtinsf-com-job-front-end-engineer-us-san-francisco-hybrid-7284394",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "6scIeXQsrLvjqr3HAAAAAA==",
+    "job_title": "Front-End Developer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=88e627b99a11&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=88e627b99a11&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Front-End Developer to join their dynamic team remotely.\n\nKey Responsibilities\n\nDevelop and maintain user-friendly web applications using HTML5, CSS3, JavaScript, and frameworks like React.js and Angular\n\nCollaborate with cross-functional teams to implement UI / UX best practices and ensure responsive web design\n\nParticipate in coding tests and maintain code quality through Git and CI / CD pipelines\n\nRequired Qualifications\n\n3 to 5 years of real-time experience in front-end development\n\nProficiency in HTML5, CSS3, JavaScript, TypeScript, and frameworks such as React.js and Angular\n\nExperience with RESTful APIs, JSON, Redux, Bootstrap, and Material UI\n\nFamiliarity with Agile methodologies and cross-browser compatibility\n\nMust be eligible for H1B sponsorship for the year 2027 quota",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Darnestown, MD",
+    "job_city": "Darnestown",
+    "job_state": "Maryland",
+    "job_country": "US",
+    "job_latitude": 39.103440899999995,
+    "job_longitude": -77.2908166,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6scIeXQsrLvjqr3HAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "3 to 5 years of real-time experience in front-end development",
+        "Proficiency in HTML5, CSS3, JavaScript, TypeScript, and frameworks such as React.js and Angular",
+        "Experience with RESTful APIs, JSON, Redux, Bootstrap, and Material UI",
+        "Familiarity with Agile methodologies and cross-browser compatibility",
+        "Must be eligible for H1B sponsorship for the year 2027 quota"
+      ],
+      "Responsibilities": [
+        "Develop and maintain user-friendly web applications using HTML5, CSS3, JavaScript, and frameworks like React.js and Angular",
+        "Collaborate with cross-functional teams to implement UI / UX best practices and ensure responsive web design",
+        "Participate in coding tests and maintain code quality through Git and CI / CD pipelines"
+      ]
+    },
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1171,102 +1210,63 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "U9nmryLSJAR0Vjk1AAAAAA==",
-    "job_title": "Front End Engineer - US - San Francisco (Hybrid)",
-    "employer_name": "HomeVision",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIjq9CDWY9nrZtAP5quY-ILIT6BRd8NHnEAWu&s=0",
-    "employer_website": "https://homevision.co",
-    "job_publisher": "Built In San Francisco",
+    "job_id": "pLSv_-aB08YnGdLoAAAAAA==",
+    "job_title": "Full Stack Engineer (Agentic AI) - US",
+    "employer_name": "Lyzr AI",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-nFzJoLperJjA1Na3B2KS6g0KAPG4dwL4m6a&s=0",
+    "employer_website": "https://www.lyzr.ai",
+    "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.builtinsf.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/full-stack-engineer-agentic-ai-us-at-lyzr-ai-4372876598?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Built In San Francisco",
-        "apply_link": "https://www.builtinsf.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/HomeVision/Job/Front-End-Engineer-US-San-Francisco-(Hybrid)/-in-San-Francisco,CA?jid=76984ccb2665aa3c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Tech Jobs Personalized",
-        "apply_link": "https://builtin.com/job/front-end-engineer-us-san-francisco-hybrid/7284394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/lead-software-engineer-front-end-bangkok-based-relocation-provided-at-agoda-4299773447?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JobzMall",
-        "apply_link": "https://www.jobzmall.com/salesforce/job/lead-software-engineer-front-end-infrastructure?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/68c3f8e214bb275ce0190379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/web-development?id=2455131335&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/full-stack-engineer-agentic-ai-us-at-lyzr-ai-4372876598?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "At HomeVision, we’re enabling the home valuation and appraisal industry to efficiently value a $40 trillion asset class, bringing equity and transparency to the US housing market. We’re funded by Initialized Capital and seeing good traction and revenue growth. We are looking for a talented Frontend Engineer to help evolve our products and delight our customers.\n\nStrong empathy for our end users and an ability to think holistically about the product are essential to succeed in this role.\n\nWhat you’ll do:\n\nYou’ll work on a modern React/Typescript and Golang stack, building workflow automation products for our core user base of home appraisal professionals.\n\nHomeVision engineers are empowered to work on the entire product, not just a specific layer of the stack. This could range from productionizing a valuation model to optimizing customer onboarding to building frontend data visualizations that communicate results in a humane, intuitive way.\n\nWhat you’ll bring:\n• Strong experience in full-stack development on both backend and frontend systems and frameworks.\n• Proven working experience in Unix/Linux environments and on distributed systems\n• Ability to learn and master new programming languages and technologies.\n\nBonus points:\n• Experience in one or more of the following technologies: Go, Python, React/Typescript, Elasticsearch, and Docker.\n• Experience in scientific and numerical computing (e.g., numpy, scipy, scikit-learn, tensorflow, pytorch, jupyter) considered a plus.\n\nWhat we'll offer you:\n• A competitive salary and a meaningful equity package\n• Medical, Dental, and Vision coverage\n• 401k\n• Paternity/maternity leave\n• Flexible vacation policy\n• A high degree of autonomy and ownership of your work\n• Support for your professional goals and learning within and beyond the company, through your manager and peers",
+    "job_description": "About Lyzr\n\nLyzr is a Series A–backed enterprise AI company building a full-stack agent infrastructure platform that helps organizations design, deploy, and govern AI agents. Our platform enables enterprises to move beyond isolated AI use cases and into reliable, production-grade agentic workflows with strong controls around security, accuracy, and compliance.\n\nRecognized by Accenture and Harvard Business School–led innovation ecosystems, Lyzr works with global enterprises to reimagine complex workflows using agentic AI. We focus on making AI agents dependable at scale - so teams can replace fragmented tool stacks with a unified, governed intelligence layer.\n\nAbout The Job\n\nYou won't just be building interfaces; you will be architecting the future of work. You’ll be at the forefront of the \"Third Way\" of enterprise AI—combining open-source flexibility with enterprise-grade security. You will build Agentic apps on Lyzr, solving complex client requirements by turning fragmented processes into autonomous, intelligent workflows.\n\nWhat You’ll Do\n\nBuild & Orchestrate: Design and deploy sophisticated AI Agents using the Lyzr Agent Studio and SDKs.\n\nFull-Stack Ownership: Develop end-to-end applications with a heavy focus on Python backends and React frontends.\n\nClient Success: Work closely with enterprise clients to translate business requirements into high-performing agentic architectures.\n\nAI Innovation: Implement multi-agent collaboration, memory systems, and RAG-driven orchestrations.\n\nWhat You Bring\n\nExperience: 4+ years of professional full-stack development.\n\nTech Stack: Deep proficiency in Python (FastAPI/Django) and React.js.\n\nAI-Native Workflow: You don’t just use a terminal; you leverage Cursor, Claude Code, and other LLM-powered coding tools to ship 10x faster.\n\nLLM Fluency: Familiarity with LLM orchestration, prompt engineering, and the agentic AI landscape.\n\nLocation: Based in or willing to work in New York (This is an immediate, onsite/hybrid position).\n\nWhy Lyzr?\n\nImpact: Build on the infrastructure backed by Accenture and used by the world’s leading financial and healthcare institutions.\n\nSpeed: We operate in a high-velocity environment where we release improvements every two weeks.\n\nOwnership: You’ll have the autonomy to own your projects from diagnosis to production.",
     "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "San Francisco, CA",
-    "job_city": "San Francisco",
-    "job_state": "California",
+    "job_posted_at": "15 hours ago",
+    "job_posted_at_timestamp": 1771336800,
+    "job_posted_at_datetime_utc": "2026-02-17T14:00:00.000Z",
+    "job_location": "New Jersey",
+    "job_city": null,
+    "job_state": "New Jersey",
     "job_country": "US",
-    "job_latitude": 37.7749295,
-    "job_longitude": -122.4194155,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DU9nmryLSJAR0Vjk1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 40.0583238,
+    "job_longitude": -74.4056612,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpLSv_-aB08YnGdLoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Strong empathy for our end users and an ability to think holistically about the product are essential to succeed in this role",
-        "Strong experience in full-stack development on both backend and frontend systems and frameworks",
-        "Proven working experience in Unix/Linux environments and on distributed systems",
-        "Ability to learn and master new programming languages and technologies",
-        "Experience in one or more of the following technologies: Go, Python, React/Typescript, Elasticsearch, and Docker"
-      ],
-      "Benefits": [
-        "A competitive salary and a meaningful equity package",
-        "Medical, Dental, and Vision coverage",
-        "401k",
-        "Paternity/maternity leave",
-        "Flexible vacation policy",
-        "A high degree of autonomy and ownership of your work",
-        "Support for your professional goals and learning within and beyond the company, through your manager and peers"
+        "Experience: 4+ years of professional full-stack development",
+        "Tech Stack: Deep proficiency in Python (FastAPI/Django) and React.js",
+        "AI-Native Workflow: You don’t just use a terminal; you leverage Cursor, Claude Code, and other LLM-powered coding tools to ship 10x faster",
+        "LLM Fluency: Familiarity with LLM orchestration, prompt engineering, and the agentic AI landscape",
+        "Location: Based in or willing to work in New York (This is an immediate, onsite/hybrid position)"
       ],
       "Responsibilities": [
-        "You’ll work on a modern React/Typescript and Golang stack, building workflow automation products for our core user base of home appraisal professionals",
-        "HomeVision engineers are empowered to work on the entire product, not just a specific layer of the stack",
-        "This could range from productionizing a valuation model to optimizing customer onboarding to building frontend data visualizations that communicate results in a humane, intuitive way"
+        "You won't just be building interfaces; you will be architecting the future of work",
+        "You’ll be at the forefront of the \"Third Way\" of enterprise AI—combining open-source flexibility with enterprise-grade security",
+        "You will build Agentic apps on Lyzr, solving complex client requirements by turning fragmented processes into autonomous, intelligent workflows",
+        "Build & Orchestrate: Design and deploy sophisticated AI Agents using the Lyzr Agent Studio and SDKs",
+        "Full-Stack Ownership: Develop end-to-end applications with a heavy focus on Python backends and React frontends",
+        "Client Success: Work closely with enterprise clients to translate business requirements into high-performing agentic architectures",
+        "Ownership: You’ll have the autonomy to own your projects from diagnosis to production"
       ]
     },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-builtinsf-com-job-front-end-engineer-us-san-francisco-hybrid-7284394",
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-full-stack-engineer-agentic-ai-us-at-lyzr-ai-4372876598",
     "_source": "new_jobs"
   },
   {
@@ -1435,9 +1435,9 @@
     "job_latitude": 38.794595199999996,
     "job_longitude": -106.5348379,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzW5QiUNEGLucIA41AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1549,59 +1549,46 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "6scIeXQsrLvjqr3HAAAAAA==",
-    "job_title": "Front-End Developer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
+    "job_id": "eobxZ6j1Jn_ddUSEAAAAAA==",
+    "job_title": "Senior Frontend Engineer – Hashicorp Vault",
+    "employer_name": "International Business Machines Corporation",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORF7mBhAVXWaRFsrtceplv5CCggAYyLmnJX1P&s=0",
+    "employer_website": null,
+    "job_publisher": "Tallo",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=88e627b99a11&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://tallo.com/jobs/technology/web-developer/ca/santa-clara/senior-frontend-engineer-hashicorp-vault-3f8cfc8346c0/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=88e627b99a11&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Tallo",
+        "apply_link": "https://tallo.com/jobs/technology/web-developer/ca/santa-clara/senior-frontend-engineer-hashicorp-vault-3f8cfc8346c0/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A company is looking for a Front-End Developer to join their dynamic team remotely.\n\nKey Responsibilities\n\nDevelop and maintain user-friendly web applications using HTML5, CSS3, JavaScript, and frameworks like React.js and Angular\n\nCollaborate with cross-functional teams to implement UI / UX best practices and ensure responsive web design\n\nParticipate in coding tests and maintain code quality through Git and CI / CD pipelines\n\nRequired Qualifications\n\n3 to 5 years of real-time experience in front-end development\n\nProficiency in HTML5, CSS3, JavaScript, TypeScript, and frameworks such as React.js and Angular\n\nExperience with RESTful APIs, JSON, Redux, Bootstrap, and Material UI\n\nFamiliarity with Agile methodologies and cross-browser compatibility\n\nMust be eligible for H1B sponsorship for the year 2027 quota",
+    "job_description": "This job listing in Santa Clara - CA has been recently added. Tallo will add a summary here for this job shortly.",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Darnestown, MD",
-    "job_city": "Darnestown",
-    "job_state": "Maryland",
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Santa Clara, CA",
+    "job_city": "Santa Clara",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 39.103440899999995,
-    "job_longitude": -77.2908166,
+    "job_latitude": 37.354107899999995,
+    "job_longitude": -121.9552356,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6scIeXQsrLvjqr3HAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeobxZ6j1Jn_ddUSEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "3 to 5 years of real-time experience in front-end development",
-        "Proficiency in HTML5, CSS3, JavaScript, TypeScript, and frameworks such as React.js and Angular",
-        "Experience with RESTful APIs, JSON, Redux, Bootstrap, and Material UI",
-        "Familiarity with Agile methodologies and cross-browser compatibility",
-        "Must be eligible for H1B sponsorship for the year 2027 quota"
-      ],
-      "Responsibilities": [
-        "Develop and maintain user-friendly web applications using HTML5, CSS3, JavaScript, and frameworks like React.js and Angular",
-        "Collaborate with cross-functional teams to implement UI / UX best practices and ensure responsive web design",
-        "Participate in coding tests and maintain code quality through Git and CI / CD pipelines"
-      ]
-    },
+    "job_highlights": {},
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
+    "id": "tallo-com-jobs-technology-web-developer-ca-santa-clara-senior-frontend-engineer-hashicorp-vault-3f8cfc8346c0",
     "_source": "new_jobs"
   },
   {
@@ -1712,191 +1699,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "eobxZ6j1Jn_ddUSEAAAAAA==",
-    "job_title": "Senior Frontend Engineer – Hashicorp Vault",
-    "employer_name": "International Business Machines Corporation",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORF7mBhAVXWaRFsrtceplv5CCggAYyLmnJX1P&s=0",
-    "employer_website": null,
-    "job_publisher": "Tallo",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://tallo.com/jobs/technology/web-developer/ca/santa-clara/senior-frontend-engineer-hashicorp-vault-3f8cfc8346c0/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Tallo",
-        "apply_link": "https://tallo.com/jobs/technology/web-developer/ca/santa-clara/senior-frontend-engineer-hashicorp-vault-3f8cfc8346c0/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "This job listing in Santa Clara - CA has been recently added. Tallo will add a summary here for this job shortly.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Santa Clara, CA",
-    "job_city": "Santa Clara",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.354107899999995,
-    "job_longitude": -121.9552356,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeobxZ6j1Jn_ddUSEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "tallo-com-jobs-technology-web-developer-ca-santa-clara-senior-frontend-engineer-hashicorp-vault-3f8cfc8346c0",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "YB5iNUA5MrwGWMNeAAAAAA==",
-    "job_title": "FPI Frontend Engineer - Full-time",
-    "employer_name": "Ford Motor Company",
-    "employer_logo": null,
-    "employer_website": "https://www.ford.com",
-    "job_publisher": "Snagajob",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1202829705?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1202829705?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/seattle/washington/software_development/4833588584/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "**Product Development** uses design thinking & user experience methods to deliver breakthrough products and services that delight our customers. We bring innovative, exciting, and sustainable ideas to life. We have opportunities around the world for you to contribute to advancements in autonomy, electrification, smart mobility technologies, and more!\n• *What you'll do...**\n\nThe Software Engineer will work on a full stack software engineering team with a focus in front end development, and collaborate with the other Software Engineers, Designers, and Product Managers to deliver new features and capabilities in connected frontend applications and APIs. The Software Engineer will be responsible for the development and ongoing support/maintenance of the applications and services.\n\n+ Product And Requirements Management: Participate in and/or lead the development of requirements, features, user stories, use cases, and test cases. Participate in stand-up operations meetings.\n\n+ Author: Process, Technical Design and Support Documents.\n\n+ Design/Develop/Test/Deploy: Collaborate with the broader FPI Telematics team on solution designs, development, and deployment.\n\n+ Incident, Problem, Change/Service Requests: Participate and/or lead incident, problem, change and service request-related activities. Includes root cause analysis. Includes proactive problem management/defect prevention activities.\n\n+ Delivery of products that include React frontends and Spring/Cloud services that enable customers to access and manage the data and capabilities of their vehicle fleets.\n• *You'll have...**\n\n+ English proficiency (written and verbal).\n\n+ 5 or more years of experience in web development.\n\n+ Bachelor’s degree in computer science, computer engineering or a combination of education and equivalent work experience.\n\n+ Experience with front-end development in languages like React, Vue, or Angular.\n\n+ Readiness to collaborate daily with team members.\n\n+ Experience with CI/CD tools and pipelines.\n• Experience with testing frameworks like Jest or Karma.\n\n+ Experience with Spring Frameworks and back-end development in languages like Kotlin or Java.\n\n+ Ability to follow and improve coding practices, coding standards, design standards, and team Agile Practices.\n• *Even better, you may have...**\n\n+ Highly effective in working with other technical experts, Product Managers, Dev Ops, Big Data, UI/UX Designers, and business stakeholders.\n\n+ Experience with restful interfaces and OAS standards.\n\n+ Comfortable with Continuous Integration/Continuous Delivery tools and pipelines.\n\n+ Experience with backlogs, user stories, Jira or similar Agile Tools.\n\n+ Experience in the development of frontends.\n\n+ Experience with GCP or other cloud providers such as AWS or Azure.\n\n+ Strong analytical and problem-solving skills.\n\n+ Demonstrate a proactive approach to navigating ambiguity and embracing continuous learning.\n\n+ Demonstrates proficiency in onboarding established systems and contributing innovative architectural improvements.\n\nYou may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!\n\nAs an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:\n\n• Immediate medical, dental, vision and prescription drug coverage\n\n• Flexible family care days, paid parental leave, new parent ramp-up programs, subsidized back-up child care and more\n\n• Family building benefits including adoption and surrogacy expense reimbursement, fertility treatments, and more\n\n• Vehicle discount program for employees and family members and management leases\n\n• Tuition assistance\n\n• Established and active employee resource groups\n\n• Paid time off for individual and team community service\n\n• A generous schedule of paid holidays, including the week between Christmas and New Year’s Day\n\n• Paid time off and the option to purchase additional vacation time.\n\nThis position is a salary grade 2.\n\nFor more information on salary and benefits, click here: https://fordcareers.co/GSRSP2 (https://urldefense.com/v3/\\_\\_https:/fordcareers.co/GSRSP2\\_\\_;!!N\\_LtwI-RPugbI9wg0dJn!DPDyUu06-WsrcOOiaC0uFefqjt80M5gAMIkkRMBE4LRhUPBl87SkbijqEYk1Klun-ETy2yR\\_JsHd0w$)\n\nThis position is a range of salary grades 6-8 .\n\nVisa sponsorship is not available for this position.\n\nCandidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.\n\nWe are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.\n\nThis position is hybrid. Candidates who are in commuting distance to a Ford hub location may be required to be onsite four or more days per week. #LI-Hybrid\n\n\\#LI-CH2\n• *Requisition ID** : 55723\n• *Product Development** uses design thinking & user experience methods to deliver breakthrough products and services that delight our customers. We bring innovative, exciting, and sustainable ideas to life. We have opportunities around the world for you to contribute to advancements in autonomy, electrification, smart mobility technologies, and more!\n• *What you'll do...**\n\nThe Software Engineer will work on a full stack software engineering team with a focus in front end development, and collaborate with the other Software Engineers, Designers, and Product Managers to deliver new features and capabilities in connected frontend applications and APIs. The Software Engineer will be responsible for the development and ongoing support/maintenance of the applications and services.\n\n+ Product And Requirements Management: Participate in and/or lead the development of requirements, features, user stories, use cases, and test cases. Participate in stand-up operations meetings.\n\n+ Author: Process, Technical Design and Support Documents.\n\n+ Design/Develop/Test/Deploy: Collaborate with the broader FPI Telematics team on solution designs, development, and deployment.\n\n+ Incident, Problem, Change/Service Requests: Participate and/or lead incident, problem, change and service request-related activities. Includes root cause analysis. Includes proactive problem management/defect prevention activities.\n\n+ Delivery of products that include React frontends and Spring/Cloud services that enable customers to access and manage the data and capabilities of their vehicle fleets.\n• *You'll have...**\n\n+ English proficiency (written and verbal).\n\n+ 5 or more years of experience in web development.\n\n+ Bachelor’s degree in computer science, computer engineering or a combination of education and equivalent work experience.\n\n+ Experience with front-end development in languages like React, Vue, or Angular.\n\n+ Readiness to collaborate daily with team members.\n\n+ Experience with CI/CD tools and pipelines.\n• Experience with testing frameworks like Jest or Karma.\n\n+ Experience with Spring Frameworks and back-end development in languages like Kotlin or Java.\n\n+ Ability to follow and improve coding practices, coding standards, design standards, and team Agile Practices.\n• *Even better, you may have...**\n\n+ Highly effective in working with other technical experts, Product Managers, Dev Ops, Big Data, UI/UX Designers, and business stakeholders.\n\n+ Experience with restful interfaces and OAS standards.\n\n+ Comfortable with Continuous Integration/Continuous Delivery tools and pipelines.\n\n+ Experience with backlogs, user stories, Jira or similar Agile Tools.\n\n+ Experience in the development of frontends.\n\n+ Experience with GCP or other cloud providers such as AWS or Azure.\n\n+ Strong analytical and problem-solving skills.\n\n+ Demonstrate a proactive approach to navigating ambiguity and embracing continuous learning.\n\n+ Demonstrates proficiency in onboarding established systems and contributing innovative architectural improvements.\n\nYou may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!\n\nAs an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:\n\n• Immediate medical, dental, vision and prescription drug coverage\n\n• Flexible family care days, paid parental leave, new parent ramp-up programs, subsidized back-up child care and more\n\n• Family building benefits including adoption and surrogacy expense reimbursement, fertility treatments, and more\n\n• Vehicle discount program for employees and family members and management leases\n\n• Tuition assistance\n\n• Established and active employee resource groups\n\n• Paid time off for individual and team community service\n\n• A generous schedule of paid holidays, including the week between Christmas and New Year’s Day\n\n• Paid time off and the option to purchase additional vacation time.\n\nThis position is a salary grade 2.\n\nFor more information on salary and benefits, click here: https://fordcareers.co/GSRSP2 (https://urldefense.com/v3/\\_\\_https:/fordcareers.co/GSRSP2\\_\\_;!!N\\_LtwI-RPugbI9wg0dJn!DPDyUu06-WsrcOOiaC0uFefqjt80M5gAMIkkRMBE4LRhUPBl87SkbijqEYk1Klun-ETy2yR\\_JsHd0w$)\n\nThis position is a range of salary grades 6-8 .\n\nVisa sponsorship is not available for this position.\n\nCandidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.\n\nWe are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.\n\nThis position is hybrid. Candidates who are in commuting distance to a Ford hub location may be required to be onsite four or more days per week. #LI-Hybrid\n\n\\#LI-CH2\n• *Requisition ID** : 55723",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Seattle, WA",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_country": "US",
-    "job_latitude": 47.6061389,
-    "job_longitude": -122.33284809999999,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYB5iNUA5MrwGWMNeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "English proficiency (written and verbal)",
-        "5 or more years of experience in web development",
-        "Bachelor’s degree in computer science, computer engineering or a combination of education and equivalent work experience",
-        "Experience with front-end development in languages like React, Vue, or Angular",
-        "Experience with testing frameworks like Jest or Karma",
-        "Experience with Spring Frameworks and back-end development in languages like Kotlin or Java",
-        "Ability to follow and improve coding practices, coding standards, design standards, and team Agile Practices",
-        "Highly effective in working with other technical experts, Product Managers, Dev Ops, Big Data, UI/UX Designers, and business stakeholders",
-        "Experience with restful interfaces and OAS standards",
-        "Comfortable with Continuous Integration/Continuous Delivery tools and pipelines",
-        "Experience with backlogs, user stories, Jira or similar Agile Tools",
-        "Experience in the development of frontends",
-        "Experience with GCP or other cloud providers such as AWS or Azure",
-        "Strong analytical and problem-solving skills",
-        "Verification of employment eligibility will be required at the time of hire",
-        "English proficiency (written and verbal)",
-        "5 or more years of experience in web development",
-        "Bachelor’s degree in computer science, computer engineering or a combination of education and equivalent work experience",
-        "Experience with front-end development in languages like React, Vue, or Angular",
-        "Experience with CI/CD tools and pipelines",
-        "Experience with testing frameworks like Jest or Karma",
-        "Experience with Spring Frameworks and back-end development in languages like Kotlin or Java",
-        "Ability to follow and improve coding practices, coding standards, design standards, and team Agile Practices",
-        "Highly effective in working with other technical experts, Product Managers, Dev Ops, Big Data, UI/UX Designers, and business stakeholders",
-        "Experience with restful interfaces and OAS standards",
-        "Comfortable with Continuous Integration/Continuous Delivery tools and pipelines",
-        "Experience with backlogs, user stories, Jira or similar Agile Tools",
-        "Experience in the development of frontends",
-        "Experience with GCP or other cloud providers such as AWS or Azure",
-        "Strong analytical and problem-solving skills",
-        "Demonstrate a proactive approach to navigating ambiguity and embracing continuous learning"
-      ],
-      "Benefits": [
-        "Immediate medical, dental, vision and prescription drug coverage",
-        "Flexible family care days, paid parental leave, new parent ramp-up programs, subsidized back-up child care and more",
-        "Family building benefits including adoption and surrogacy expense reimbursement, fertility treatments, and more",
-        "Vehicle discount program for employees and family members and management leases",
-        "Tuition assistance",
-        "Established and active employee resource groups",
-        "Paid time off for individual and team community service",
-        "A generous schedule of paid holidays, including the week between Christmas and New Year’s Day",
-        "Paid time off and the option to purchase additional vacation time",
-        "This position is a salary grade 2",
-        "For more information on salary and benefits, click here: https://fordcareers.co/GSRSP2 (https://urldefense.com/v3/\\_\\_https:/fordcareers.co/GSRSP2\\_\\_;!!N\\_LtwI-RPugbI9wg0dJn!DPDyUu06-WsrcOOiaC0uFefqjt80M5gAMIkkRMBE4LRhUPBl87SkbijqEYk1Klun-ETy2yR\\_JsHd0w$)",
-        "This position is a range of salary grades 6-8 ",
-        "Immediate medical, dental, vision and prescription drug coverage",
-        "Flexible family care days, paid parental leave, new parent ramp-up programs, subsidized back-up child care and more",
-        "Family building benefits including adoption and surrogacy expense reimbursement, fertility treatments, and more",
-        "Vehicle discount program for employees and family members and management leases",
-        "Tuition assistance",
-        "Established and active employee resource groups",
-        "Paid time off for individual and team community service",
-        "A generous schedule of paid holidays, including the week between Christmas and New Year’s Day",
-        "Paid time off and the option to purchase additional vacation time",
-        "This position is a salary grade 2",
-        "For more information on salary and benefits, click here: https://fordcareers.co/GSRSP2 (https://urldefense.com/v3/\\_\\_https:/fordcareers.co/GSRSP2\\_\\_;!!N\\_LtwI-RPugbI9wg0dJn!DPDyUu06-WsrcOOiaC0uFefqjt80M5gAMIkkRMBE4LRhUPBl87SkbijqEYk1Klun-ETy2yR\\_JsHd0w$)"
-      ],
-      "Responsibilities": [
-        "The Software Engineer will work on a full stack software engineering team with a focus in front end development, and collaborate with the other Software Engineers, Designers, and Product Managers to deliver new features and capabilities in connected frontend applications and APIs",
-        "The Software Engineer will be responsible for the development and ongoing support/maintenance of the applications and services",
-        "Product And Requirements Management: Participate in and/or lead the development of requirements, features, user stories, use cases, and test cases",
-        "Participate in stand-up operations meetings",
-        "Author: Process, Technical Design and Support Documents",
-        "Design/Develop/Test/Deploy: Collaborate with the broader FPI Telematics team on solution designs, development, and deployment",
-        "Incident, Problem, Change/Service Requests: Participate and/or lead incident, problem, change and service request-related activities",
-        "Includes root cause analysis",
-        "Includes proactive problem management/defect prevention activities",
-        "Delivery of products that include React frontends and Spring/Cloud services that enable customers to access and manage the data and capabilities of their vehicle fleets",
-        "Readiness to collaborate daily with team members",
-        "Experience with CI/CD tools and pipelines",
-        "Demonstrate a proactive approach to navigating ambiguity and embracing continuous learning",
-        "Demonstrates proficiency in onboarding established systems and contributing innovative architectural improvements",
-        "Candidates who are in commuting distance to a Ford hub location may be required to be onsite four or more days per week",
-        "*Requisition ID** : 55723",
-        "*Product Development** uses design thinking & user experience methods to deliver breakthrough products and services that delight our customers",
-        "The Software Engineer will work on a full stack software engineering team with a focus in front end development, and collaborate with the other Software Engineers, Designers, and Product Managers to deliver new features and capabilities in connected frontend applications and APIs",
-        "The Software Engineer will be responsible for the development and ongoing support/maintenance of the applications and services",
-        "Product And Requirements Management: Participate in and/or lead the development of requirements, features, user stories, use cases, and test cases",
-        "Participate in stand-up operations meetings",
-        "Author: Process, Technical Design and Support Documents",
-        "Design/Develop/Test/Deploy: Collaborate with the broader FPI Telematics team on solution designs, development, and deployment",
-        "Incident, Problem, Change/Service Requests: Participate and/or lead incident, problem, change and service request-related activities",
-        "Includes root cause analysis",
-        "Includes proactive problem management/defect prevention activities",
-        "Delivery of products that include React frontends and Spring/Cloud services that enable customers to access and manage the data and capabilities of their vehicle fleets",
-        "Readiness to collaborate daily with team members",
-        "Demonstrates proficiency in onboarding established systems and contributing innovative architectural improvements"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-snagajob-com-jobs-1202829705",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "KqUn80MI0P8kKrb9AAAAAA==",
     "job_title": "Senior, Software Engineer (Front End)",
     "employer_name": "Walmart",
@@ -1963,9 +1765,9 @@
     "job_latitude": 37.368829999999996,
     "job_longitude": -122.0363496,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKqUn80MI0P8kKrb9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 117000,
@@ -2118,71 +1920,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "pLSv_-aB08YnGdLoAAAAAA==",
-    "job_title": "Full Stack Engineer (Agentic AI) - US",
-    "employer_name": "Lyzr AI",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-nFzJoLperJjA1Na3B2KS6g0KAPG4dwL4m6a&s=0",
-    "employer_website": "https://www.lyzr.ai",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/full-stack-engineer-agentic-ai-us-at-lyzr-ai-4372876598?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/full-stack-engineer-agentic-ai-us-at-lyzr-ai-4372876598?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6994f653ce78e77b4fd90a09?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "About Lyzr\n\nLyzr is a Series A–backed enterprise AI company building a full-stack agent infrastructure platform that helps organizations design, deploy, and govern AI agents. Our platform enables enterprises to move beyond isolated AI use cases and into reliable, production-grade agentic workflows with strong controls around security, accuracy, and compliance.\n\nRecognized by Accenture and Harvard Business School–led innovation ecosystems, Lyzr works with global enterprises to reimagine complex workflows using agentic AI. We focus on making AI agents dependable at scale - so teams can replace fragmented tool stacks with a unified, governed intelligence layer.\n\nAbout The Job\n\nYou won't just be building interfaces; you will be architecting the future of work. You’ll be at the forefront of the \"Third Way\" of enterprise AI—combining open-source flexibility with enterprise-grade security. You will build Agentic apps on Lyzr, solving complex client requirements by turning fragmented processes into autonomous, intelligent workflows.\n\nWhat You’ll Do\n\nBuild & Orchestrate: Design and deploy sophisticated AI Agents using the Lyzr Agent Studio and SDKs.\n\nFull-Stack Ownership: Develop end-to-end applications with a heavy focus on Python backends and React frontends.\n\nClient Success: Work closely with enterprise clients to translate business requirements into high-performing agentic architectures.\n\nAI Innovation: Implement multi-agent collaboration, memory systems, and RAG-driven orchestrations.\n\nWhat You Bring\n\nExperience: 4+ years of professional full-stack development.\n\nTech Stack: Deep proficiency in Python (FastAPI/Django) and React.js.\n\nAI-Native Workflow: You don’t just use a terminal; you leverage Cursor, Claude Code, and other LLM-powered coding tools to ship 10x faster.\n\nLLM Fluency: Familiarity with LLM orchestration, prompt engineering, and the agentic AI landscape.\n\nLocation: Based in or willing to work in New York (This is an immediate, onsite/hybrid position).\n\nWhy Lyzr?\n\nImpact: Build on the infrastructure backed by Accenture and used by the world’s leading financial and healthcare institutions.\n\nSpeed: We operate in a high-velocity environment where we release improvements every two weeks.\n\nOwnership: You’ll have the autonomy to own your projects from diagnosis to production.",
-    "job_is_remote": false,
-    "job_posted_at": "14 hours ago",
-    "job_posted_at_timestamp": 1771340400,
-    "job_posted_at_datetime_utc": "2026-02-17T15:00:00.000Z",
-    "job_location": "New Jersey",
-    "job_city": null,
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 40.0583238,
-    "job_longitude": -74.4056612,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpLSv_-aB08YnGdLoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience: 4+ years of professional full-stack development",
-        "Tech Stack: Deep proficiency in Python (FastAPI/Django) and React.js",
-        "AI-Native Workflow: You don’t just use a terminal; you leverage Cursor, Claude Code, and other LLM-powered coding tools to ship 10x faster",
-        "LLM Fluency: Familiarity with LLM orchestration, prompt engineering, and the agentic AI landscape",
-        "Location: Based in or willing to work in New York (This is an immediate, onsite/hybrid position)"
-      ],
-      "Responsibilities": [
-        "You won't just be building interfaces; you will be architecting the future of work",
-        "You’ll be at the forefront of the \"Third Way\" of enterprise AI—combining open-source flexibility with enterprise-grade security",
-        "You will build Agentic apps on Lyzr, solving complex client requirements by turning fragmented processes into autonomous, intelligent workflows",
-        "Build & Orchestrate: Design and deploy sophisticated AI Agents using the Lyzr Agent Studio and SDKs",
-        "Full-Stack Ownership: Develop end-to-end applications with a heavy focus on Python backends and React frontends",
-        "Client Success: Work closely with enterprise clients to translate business requirements into high-performing agentic architectures",
-        "Ownership: You’ll have the autonomy to own your projects from diagnosis to production"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-full-stack-engineer-agentic-ai-us-at-lyzr-ai-4372876598",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "Y7tiOv7ZRNzxpkaMAAAAAA==",
     "job_title": "Senior Frontend Engineer, Marketplace Configuration",
     "employer_name": "Uber",
@@ -2285,140 +2022,6 @@
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
     "id": "www-uber-com-careers-list-143745",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "_jNjH0m8HPj6rm0eAAAAAA==",
-    "job_title": "Senior Frontend Engineer (Discovery Applications), React",
-    "employer_name": "Scribd",
-    "employer_logo": null,
-    "employer_website": "https://www.scribd.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=8bc2fadb6ae707ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=8bc2fadb6ae707ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Scribd/Job/Senior-Frontend-Engineer-(Discovery-Applications),-React/-in-Salt-Lake-City,UT?jid=4782e9f1ea9c8d11&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/senior-frontend-engineer-discovery-applications-react-scribd-JV_IC1128289_KO0,53_KE54,60.htm?jl=1010023713324&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/e6JuJ4DnPJ_T8gnmxnhHsAWqS6v8seJpAeXE7c3gDCfjqSNTYmRPnA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-frontend-engineer-discovery-applications-react-at-scribd-inc-4368939733?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Full-Stack Rails Jobs With Modern Frontends",
-        "apply_link": "https://www.railsfullstack.com/jobs/senior-frontend-engineer-discovery-applications-react-scribd-inc-salt-lake-city?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "About The Company:\n\nAt Scribd Inc. (pronounced “scribbed”), our mission is to spark human curiosity. Join our team as we create a world of stories and knowledge, democratize the exchange of ideas and information, and empower collective expertise through our four products: Everand, Scribd, Slideshare, and Fable.\n\nThis posting reflects an approved, open position within the organization.\n\nWe support a culture where our employees can be real and be bold; where we debate and commit as we embrace plot twists; and where every employee is empowered to take action as we prioritize the customer.\n\nWhen it comes to workplace structure, we believe in balancing individual flexibility and community connections. It’s through our flexible work benefit, Scribd Flex, that employees – in partnership with their manager – can choose the daily work-style that best suits their individual needs. A key tenet of Scribd Flex is our prioritization of intentional in-person moments to build collaboration, culture, and connection. For this reason, occasional in-person attendance is required for all Scribd Inc. employees, regardless of their location.\n\nSo what are we looking for in new team members? Well, we hire for “GRIT”. The textbook definition of GRIT is demonstrating the intersection of passion and perseverance towards long term goals. At Scribd Inc., we are inspired by the potential that this can unlock, and ask each of our employees to pursue a GRIT-ty approach to their work. In a tactical sense, GRIT is also a handy acronym that outlines the standards we hold ourselves and each other to. Here’s what that means for you: we’re looking for someone who showcases the ability to set and achieve Goals, achieve Results within their job responsibilities, contribute Innovative ideas and solutions, and positively influence the broader Team through collaboration and attitude.\n\nAbout the Discovery Applications Team\n\nDiscovery Applications is the face of Scribd’s Machine Learning and Discovery Engineering Division. It is dedicated to building the customer-facing web experiences that power our cutting-edge search, recommendations, and generative AI features. This full stack team builds and owns the end-to-end discovery experience across Scribd and Everand, turning machine learning capabilities into intuitive, customer-facing features.\n\nJoining this team means you will play a key role in delivering the user value of the pioneering machine learning work, creating tangible impacts through exceptional user experiences.\n\nAs a Frontend Engineer on Discovery Applications\n\nOur cross-functional squads often involve deep collaboration with other engineering teams, designers, and product managers. Your excellent communication, both in meetings and asynchronously via slack will be a key tool in driving success.\n\nThis role predominantly focuses on the frontend but comfort and knowledge of the full tech stack is a must as this role works closely with backend and ML engineers to build our complete product. You will build the user-facing experiences that are powered by Machine Learning and Generative AI.\n\nFull-cycle software development will be your primary function, but we'll expect you to contribute in a number of ways, including advising on others' technical design, reviewing code, participating in interviews, and mentoring less experienced engineers.\n\nWhen you are building software, you'll be doing more than just coding a ticket that is handed to you. You'll contribute to the code strategy, architecture, implementation, delivery, and operation of systems, end-to-end. You'll consider testability, upgradeability, scalability, and observability throughout the development process.\n\nMust Have Skills and Experience\n• 3–5 years building and shipping customer-facing frontend applications with React and TypeScript\n• Strong grasp of modern frontend fundamentals: state management, component architecture, accessibility, testing, and UI quality\n• Experience integrating frontends with APIs (REST/GraphQL) and comfort working in a Rails-backed product environment\n• Ability to build high-quality interactive experiences (including real-time/streaming UI patterns) with attention to UX polish\n• Strong understanding of web performance (profiling, bundling, rendering, caching) and a track record of improving it in production\n• Comfortable working in a codebase with shared patterns (monorepos, shared UI libraries, or platform constraints) and collaborating across teams\n• Excellent written and verbal communication; thrives in a remote, documentation-driven culture\n• Highly collaborative: partners closely with product, design, and backend to deliver end-to-end features\n\nNice to Have Skills and Experience\n• Excited to build AI-powered product experiences end-to-end (0 1 prototyping, rapid iteration, and shipping to production).\n• Experience designing search, recommendations, and discovery UX (relevance, ranking, personalization, evaluation).\n• Familiarity with LLM/AI integrations in web apps (streaming UIs, prompt/tool patterns, human-in-the-loop workflows).\n• Experience with Next.js, GraphQL, and modern frontend architecture patterns.\n• Built or evolved a design system / component library that enables fast, consistent product delivery.\n• Comfort operating in high-traffic, high-visibility environments with real customer impact.\n• Ability to diagnose and improve performance, caching, and observability in modern web applications.\n\nAt Scribd, your base pay is one part of your total compensation package and is determined within a range. Our pay ranges are based on the local cost of labor benchmarks for each specific role, level, and geographic location. San Francisco is our highest geographic market in the United States. In the state of California, the reasonably expected salary range is between $146,000 [minimum salary in our lowest geographic market within California] to $227,500 [maximum salary in our highest geographic market within California].\n\nIn the United States, outside of California, the reasonably expected salary range is between $120,000 [minimum salary in our lowest US geographic market outside of California] to $216,500 [maximum salary in our highest US geographic market outside of California].\n\nIn Canada, the reasonably expected salary range is between $152,500 CAD[minimum salary in our lowest geographic market] to $194,500 CAD[maximum salary in our highest geographic market].\n\nWe carefully consider a wide range of factors when determining compensation, including but not limited to experience; job-related skill sets; relevant education or training; and other business and organizational needs. The salary range listed is for the level at which this job has been scoped. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for a competitive equity ownership, and a comprehensive and generous benefits package.\n\nWorking at Scribd Inc.\n\nAre you currently based in a location where Scribd Inc. can employ you?\nEmployees must have their primary residence in or near one of the following cities. This includes surrounding metro areas or locations within a typical commuting distance:\n\nUnited States:\n\nAtlanta | Austin | Boston | Dallas | Denver | Chicago | Houston | Jacksonville | Los Angeles | Miami | New York City | Phoenix | Portland | Sacramento | Salt Lake City | San Diego | San Francisco | Seattle | Washington D.C.\n\nCanada:\n\nOttawa | Toronto | Vancouver\n\nMexico:\n\nMexico City\n\nBenefits, Perks, and Wellbeing at Scribd Inc.\n• Benefits/perks listed may vary depending on the nature of your employment with Scribd Inc. and the geographical location where you work.\n• Healthcare Insurance Coverage (Medical/Dental/Vision): 100% paid for employees\n• 12 weeks paid parental leave\n• Short-term/long-term disability plans\n• 401k/RSP matching\n• Onboarding stipend for home office peripherals + accessories\n• Learning & Development allowance\n• Learning & Development programs\n• Quarterly stipend for Wellness, WiFi, etc.\n• Mental Health support & resources\n• Free subscription to the Scribd Inc. suite of products\n• Referral Bonuses\n• Book Benefit\n• Sabbaticals\n• Company-wide events\n• Team engagement budgets\n• Vacation & Personal Days\n• Paid Holidays (+ winter break)\n• Flexible Sick Time\n• Volunteer Day\n• Company-wide Employee Resource Groups and programs that foster an inclusive and diverse workplace.\n• Access to AI Tools: We provide free access to best-in-class AI tools, empowering you to boost productivity, streamline workflows, and accelerate bold innovation.\n\nWant to learn more about life at Scribd? www.linkedin.com/company/scribd/life\n\nWe want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing accommodations@scribd.com about the need for adjustments at any point in the interview process.\n\nScribd Inc. is committed to equal employment opportunity regardless of race, color, religion, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We encourage people of all backgrounds to apply, and believe that a diversity of perspectives and experiences create a foundation for the best ideas. Come join us in building something meaningful.",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Salt Lake City, UT",
-    "job_city": "Salt Lake City",
-    "job_state": "Utah",
-    "job_country": "US",
-    "job_latitude": 40.7605601,
-    "job_longitude": -111.8881397,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_jNjH0m8HPj6rm0eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 146000,
-    "job_max_salary": 228000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Here’s what that means for you: we’re looking for someone who showcases the ability to set and achieve Goals, achieve Results within their job responsibilities, contribute Innovative ideas and solutions, and positively influence the broader Team through collaboration and attitude",
-        "Joining this team means you will play a key role in delivering the user value of the pioneering machine learning work, creating tangible impacts through exceptional user experiences",
-        "Must Have Skills and Experience",
-        "3–5 years building and shipping customer-facing frontend applications with React and TypeScript",
-        "Strong grasp of modern frontend fundamentals: state management, component architecture, accessibility, testing, and UI quality",
-        "Experience integrating frontends with APIs (REST/GraphQL) and comfort working in a Rails-backed product environment",
-        "Ability to build high-quality interactive experiences (including real-time/streaming UI patterns) with attention to UX polish",
-        "Strong understanding of web performance (profiling, bundling, rendering, caching) and a track record of improving it in production",
-        "Comfortable working in a codebase with shared patterns (monorepos, shared UI libraries, or platform constraints) and collaborating across teams",
-        "Excellent written and verbal communication; thrives in a remote, documentation-driven culture",
-        "Highly collaborative: partners closely with product, design, and backend to deliver end-to-end features",
-        "Nice to Have Skills and Experience",
-        "Excited to build AI-powered product experiences end-to-end (0 1 prototyping, rapid iteration, and shipping to production)",
-        "Experience designing search, recommendations, and discovery UX (relevance, ranking, personalization, evaluation)",
-        "Familiarity with LLM/AI integrations in web apps (streaming UIs, prompt/tool patterns, human-in-the-loop workflows)",
-        "Experience with Next.js, GraphQL, and modern frontend architecture patterns",
-        "Built or evolved a design system / component library that enables fast, consistent product delivery",
-        "Comfort operating in high-traffic, high-visibility environments with real customer impact",
-        "Ability to diagnose and improve performance, caching, and observability in modern web applications",
-        "This includes surrounding metro areas or locations within a typical commuting distance:"
-      ],
-      "Benefits": [
-        "At Scribd, your base pay is one part of your total compensation package and is determined within a range",
-        "Our pay ranges are based on the local cost of labor benchmarks for each specific role, level, and geographic location",
-        "In the state of California, the reasonably expected salary range is between $146,000 [minimum salary in our lowest geographic market within California] to $227,500 [maximum salary in our highest geographic market within California]",
-        "In the United States, outside of California, the reasonably expected salary range is between $120,000 [minimum salary in our lowest US geographic market outside of California] to $216,500 [maximum salary in our highest US geographic market outside of California]",
-        "In Canada, the reasonably expected salary range is between $152,500 CAD[minimum salary in our lowest geographic market] to $194,500 CAD[maximum salary in our highest geographic market]",
-        "We carefully consider a wide range of factors when determining compensation, including but not limited to experience; job-related skill sets; relevant education or training; and other business and organizational needs",
-        "This position is also eligible for a competitive equity ownership, and a comprehensive and generous benefits package",
-        "Benefits/perks listed may vary depending on the nature of your employment with Scribd Inc. and the geographical location where you work",
-        "Healthcare Insurance Coverage (Medical/Dental/Vision): 100% paid for employees",
-        "12 weeks paid parental leave",
-        "Short-term/long-term disability plans",
-        "401k/RSP matching",
-        "Onboarding stipend for home office peripherals + accessories",
-        "Learning & Development allowance",
-        "Learning & Development programs",
-        "Quarterly stipend for Wellness, WiFi, etc",
-        "Mental Health support & resources",
-        "Free subscription to the Scribd Inc. suite of products",
-        "Referral Bonuses",
-        "Book Benefit",
-        "Sabbaticals",
-        "Company-wide events",
-        "Team engagement budgets",
-        "Vacation & Personal Days",
-        "Paid Holidays (+ winter break)",
-        "Flexible Sick Time",
-        "Volunteer Day",
-        "Company-wide Employee Resource Groups and programs that foster an inclusive and diverse workplace",
-        "Access to AI Tools: We provide free access to best-in-class AI tools, empowering you to boost productivity, streamline workflows, and accelerate bold innovation"
-      ],
-      "Responsibilities": [
-        "Our cross-functional squads often involve deep collaboration with other engineering teams, designers, and product managers",
-        "Your excellent communication, both in meetings and asynchronously via slack will be a key tool in driving success",
-        "This role predominantly focuses on the frontend but comfort and knowledge of the full tech stack is a must as this role works closely with backend and ML engineers to build our complete product",
-        "You will build the user-facing experiences that are powered by Machine Learning and Generative AI",
-        "Full-cycle software development will be your primary function, but we'll expect you to contribute in a number of ways, including advising on others' technical design, reviewing code, participating in interviews, and mentoring less experienced engineers",
-        "When you are building software, you'll be doing more than just coding a ticket that is handed to you",
-        "You'll contribute to the code strategy, architecture, implementation, delivery, and operation of systems, end-to-end",
-        "You'll consider testability, upgradeability, scalability, and observability throughout the development process"
-      ]
-    },
-    "job_onet_soc": "15113400",
-    "job_onet_job_zone": "3",
-    "id": "www-indeed-com-viewjob",
     "_source": "new_jobs"
   }
 ]
