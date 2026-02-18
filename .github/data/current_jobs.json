@@ -1,7 +1,7 @@
 [
   {
-    "job_id": "e0k-lK6t1CnrMfi7AAAAAA==",
-    "job_title": "Java, Javascript, Python, NodeJS Software Engineer",
+    "job_id": "PtQbdcY0X44HyyEHAAAAAA==",
+    "job_title": "Front End Software Engineer - Senior Level",
     "employer_name": "Walmart",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
     "employer_website": "https://corporate.walmart.com",
@@ -11,22 +11,17 @@
       "FULLTIME",
       "PARTTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Java,-Javascript,-Python,-NodeJS-Software-Engineer/-in-Alexandria,VA?jid=c59822dd13273e66&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Front-End-Software-Engineer-Senior-Level/-in-Silver-Spring,MD?jid=ccf88505a878ad25&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": true,
     "apply_options": [
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Java,-Javascript,-Python,-NodeJS-Software-Engineer/-in-Alexandria,VA?jid=c59822dd13273e66&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Front-End-Software-Engineer-Senior-Level/-in-Silver-Spring,MD?jid=ccf88505a878ad25&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "Jobs.appcast.io",
-        "apply_link": "https://jobs.appcast.io/walmart/java-javascript-python-nodejs-software-engineer/39017847721?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Digitalhire",
-        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/ji3YYvca2cxM1BD8yexiz?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/1shWD3ss9yd7pBqMcT2fR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       }
     ],
@@ -35,18 +30,18 @@
     "job_posted_at": "4 days ago",
     "job_posted_at_timestamp": 1771027200,
     "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Alexandria, VA",
-    "job_city": "Alexandria",
-    "job_state": "Virginia",
+    "job_location": "Silver Spring, MD",
+    "job_city": "Silver Spring",
+    "job_state": "Maryland",
     "job_country": "US",
-    "job_latitude": 38.804693,
-    "job_longitude": -77.0435257,
+    "job_latitude": 38.9960671,
+    "job_longitude": -77.0280731,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De0k-lK6t1CnrMfi7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPtQbdcY0X44HyyEHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 108000,
     "job_max_salary": 216000,
     "job_salary_period": "YEAR",
@@ -105,7 +100,7 @@
     },
     "job_onet_soc": "15113400",
     "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-walmart-job-java-javascript-python-nodejs-software-engineer-in-alexandria-va",
+    "id": "www-ziprecruiter-com-c-walmart-job-front-end-software-engineer-senior-level-in-silver-spring-md",
     "_source": "new_jobs"
   },
   {
@@ -266,9 +261,9 @@
     "job_latitude": 39.195504199999995,
     "job_longitude": -76.7228227,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUpRRo1nX37BYoa-PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -323,69 +318,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "5LDYNp6FHLGLQ1fLAAAAAA==",
-    "job_title": "Software Engineer Level 1 - 3 TS / SCI / FS Poly ONLY",
-    "employer_name": "Altamira Technologies",
-    "employer_logo": null,
-    "employer_website": "https://www.altamiracorp.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=85dd871e58b3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=85dd871e58b3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description\n\nSoftware Engineer Levels 1 - 3 - TS / SCI / FS Poly clearance only\n\nAltamira Technologies has a long and successful history of providing innovative solutions throughout the U.S. National Security community. Headquartered in McLean, Virginia, Altamira serves the defense, intelligence, and homeland security communities worldwide by focusing on creating innovative solutions leveraging common standards in architecture, data, and security. Altamira believes that our people and company culture differentiate us from other companies.\n\nPosition Description : We are seeking Software Engineer levels 1-3. The Software Engineer develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements. Works individually or as part of a team. Reviews and tests software components for adherence to the design requirements and documents test results. Resolves software problem reports. Utilizes software development and software design methodologies appropriate to the development environment. Provides specific input to the software components of system design to include hardware / software tradeoffs, software reuse, use of Commercial Off-the-shelf (COTS) / Government Off the shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components.\n\nLocations : Annapolis Junction / Ft. Meade MD\n\nRole and Responsibiliies\n• Program experience in; C, C++, Java, Perl, or Python.\n• TS / SCI / Full Scope Poly clearance only\n• Provide / author documentation, participate in design, code, and software readiness reviews as prescribed by the Government's software development procedures and processes.\n• Develops, maintains, and enhances complex and diverse software systems\n• Reviews and tests software components for adherence to the design requirements and documents test results.\n• Provide / author and participate in technical presentations on assigned projects.\n\nRequired Skills :\n• Requires a bachelor’s degree in a relevant discipline (e.g., computer science, information systems, and network engineering) from an accredited college or university and eight (8) years of relevant programming experience in the field (e.g., computer science, information systems and network engineering).\n• A master’s degree in a relevant discipline may be substituted for two (2) years of experience, reducing the requirement to six (6) years of relevant experience. In lieu of a Bachelor's Degree, an additional four (4) years of relevant programming experience in the field may be substituted for a total of 12 years\n\nAltamira is an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. We focus on recruiting talented, self-motivated employees that find a way to get things done. Join our team of experts as we engineer national security!",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Annapolis, MD",
-    "job_city": "Annapolis",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 38.9764364,
-    "job_longitude": -76.489642,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5LDYNp6FHLGLQ1fLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Program experience in; C, C++, Java, Perl, or Python",
-        "TS / SCI / Full Scope Poly clearance only",
-        "Requires a bachelor’s degree in a relevant discipline (e.g., computer science, information systems, and network engineering) from an accredited college or university and eight (8) years of relevant programming experience in the field (e.g., computer science, information systems and network engineering)",
-        "A master’s degree in a relevant discipline may be substituted for two (2) years of experience, reducing the requirement to six (6) years of relevant experience",
-        "In lieu of a Bachelor's Degree, an additional four (4) years of relevant programming experience in the field may be substituted for a total of 12 years"
-      ],
-      "Responsibilities": [
-        "The Software Engineer develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements",
-        "Works individually or as part of a team",
-        "Reviews and tests software components for adherence to the design requirements and documents test results",
-        "Resolves software problem reports",
-        "Utilizes software development and software design methodologies appropriate to the development environment",
-        "Provides specific input to the software components of system design to include hardware / software tradeoffs, software reuse, use of Commercial Off-the-shelf (COTS) / Government Off the shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components",
-        "Provide / author documentation, participate in design, code, and software readiness reviews as prescribed by the Government's software development procedures and processes",
-        "Develops, maintains, and enhances complex and diverse software systems",
-        "Reviews and tests software components for adherence to the design requirements and documents test results",
-        "Provide / author and participate in technical presentations on assigned projects"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "1linxk9LeQsxSY5nAAAAAA==",
     "job_title": "Principal Software Developer - DevOps Automation (US Citizenship Required)",
     "employer_name": "Oracle",
@@ -423,8 +355,8 @@
     "job_longitude": -77.0369274,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1linxk9LeQsxSY5nAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -669,6 +601,291 @@
     "job_onet_soc": "53601100",
     "job_onet_job_zone": "1",
     "id": "www-efinancialcareers-com-jobs-usa-pa-king_of_prussia-software_test_engineer-_summer_intern-id23798030",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "5ECzcbC8JZ0kkY3oAAAAAA==",
+    "job_title": "Technical Software Support",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=15c1d6b183c7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=15c1d6b183c7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Technical Software Support.\n\nKey Responsibilities\n\nRespond to helpdesk queries and resolve software / technical issues\n\nRemotely troubleshoot, diagnose and escalate complex matters when required\n\nLog all support activities accurately in CRM and support installs, upgrades, and maintenance\n\nRequired Qualifications\n\nDegree in IT or related field or equivalent experience\n\nStrong troubleshooting skills across software, application layer, networks, infrastructure, and Windows / Linux environments\n\nExperience with Microsoft SQL server, Microsoft Azure, Citrix, and VMware / virtual environments\n\nUnderstanding of ITIL and best practices for IT support\n\nEligibility to work in New Zealand",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Washington, DC",
+    "job_city": "Washington",
+    "job_state": "District of Columbia",
+    "job_country": "US",
+    "job_latitude": 38.9072873,
+    "job_longitude": -77.0369274,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5ECzcbC8JZ0kkY3oAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Degree in IT or related field or equivalent experience",
+        "Strong troubleshooting skills across software, application layer, networks, infrastructure, and Windows / Linux environments",
+        "Experience with Microsoft SQL server, Microsoft Azure, Citrix, and VMware / virtual environments",
+        "Understanding of ITIL and best practices for IT support",
+        "Eligibility to work in New Zealand"
+      ],
+      "Responsibilities": [
+        "Respond to helpdesk queries and resolve software / technical issues",
+        "Remotely troubleshoot, diagnose and escalate complex matters when required",
+        "Log all support activities accurately in CRM and support installs, upgrades, and maintenance"
+      ]
+    },
+    "job_onet_soc": "15115100",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "jqtBqkbM3VCROlSKAAAAAA==",
+    "job_title": "Forward Deployed Software Engineer (FDE)- Python",
+    "employer_name": "Paychex",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNbq9fz5p5pNB3hAc0EZw8tm0SnswVsOLX4zo&s=0",
+    "employer_website": "https://www.paychex.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-fde-python-at-paychex-4364708763?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-fde-python-at-paychex-4364708763?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-4112-fec22f82a2a3c1dc32a404063a9a7dc4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Imagine Your Future with Us! Since 1971, Paychex has been at the forefront of simplifying HR, payroll, and benefits for American businesses. Our digital HR technology and advisory solutions cater to the changing needs of employers and their employees. With our award-winning training and endless opportunities for growth and development, you can build a lifelong career with us. We pride ourselves on fostering an inclusive and innovative culture. Our leaders are here to support your career journey; they and our dedicated employees embody the values that drive us to support each other, our clients, and our communities. Join us to pursue your passion and unleash your potential.\n\nOverview\n\nWe are seeking a Forward Deployed Software Engineer (FDE) embeds directly with customers to implement, customize, and operationalize complex software, acting as a bridge between engineering and customer success by solving specific problems, unblocking integrations, and feeding insights back to product teams, blending technical skills with customer empathy and often involving travel to client sites. They adapt core products to unique needs, accelerating adoption and delivering value in real-world environments\n\nYou will act as the senior technical lead for customizing and extending our embedded platform—owning integrations, API‑driven experiences, application‑layer enhancements, and customer solution delivery.\n\nThis role includes hands-on development work across Python, React, AWS, and Django, as well as direct collaboration with customers, partners, and indirect channel teams to ensure successful adoption of our platform\n\nResponsibilities\n\nCustomer Collaboration & Developer Relations\n• Serve as the primary technical interface for customers, partners, and indirect channel teams.\n• Host technical discussions, requirement‑gathering sessions, and architecture reviews directly with customers.\n• Provide developer support, guidance, and best practices for integration and implementation.\n• Represent the embedded team in developer‑facing demos, product enablement, and partner technical workshops.\n• Translate customer needs into actionable engineering tasks, ensuring platform capabilities align with business goals.\n\nPlatform Customization & Embedded Engineering\n• Lead the design and implementation of custom features, enhancements, and integrations across our platform.\n• Develop application‑layer components and service extensions using Python, Django, and REST‑based APIs.\n• Build and integrate customer‑facing portal/UI components in React.\n• Leverage AWS services to build scalable, cloud-backed integrations.\n\nArchitecture, API & Systems Integration\n• Own the documentation and development of APIs, SDKs, and interface design documents (IDDs).\n• Ensure seamless integration between on‑device components, microservices, and customer systems.\n\nTechnical Troubleshooting & Tier‑3 Support\n• Diagnose and resolve complex issues.\n• Provide senior‑level technical escalation support for customers and internal teams.\n• Lead root‑cause analysis and drive long‑term corrective improvements across the platform.\n\nProject Delivery & Leadership\n• Lead customer‑specific development initiatives from ideation through deployment.\n• Own timelines, deliverables, and technical direction for customization projects.\n• Mentor junior engineers and influence cross‑team engineering best practices.\n\nQualifications\n• Bachelor's Degree in Computer related discipline or equivalent work experience\n• 7 years of experience in Related field or the equivalent combination of education and experience.\n• Expertise in Python, with experience building backend services or integration layers (Django strongly preferred).\n• Proficiency in React for developing customer‑facing interfaces or partner tools.\n• Experience with AWS (Lambda, API Gateway, S3, CloudWatch, IAM, or related services).\n• Strong experience with embedded systems development.\n• Experience with API design, interface documentation, and integration workflows.\n• Excellent communication skills with the ability to convey complex technical concepts to diverse audiences, including customers and indirect channel partners.\n• Proven success in customer-facing engineering, developer support, or solutions engineering roles.\n\nCompensation\n\nIn the spirit of pay transparency, we are excited to share that the starting base pay range for this position is $133,630 - $209,990. Please keep in mind that this range is the base pay only and does not consider other components that make up the total rewards package for the position. If you are hired at Paychex, your overall compensation will be determined based on factors such as geographic location, skills, education, and/or experience which may result in total compensation outside of this range.\n\nLive the Paychex Values\n• Act with uncompromising integrity.\n• Provide outstanding service and build trusted relationships.\n• Drive innovation in our products and services and continually improve our processes.\n• Work in partnership and support each other.\n• Be personally accountable and deliver on commitments.\n• Treat each other with respect and dignity.\n\nWhat's in it for you?\n• We value your well-being: We provide over 21 comprehensive rewards, including medical coverage, virtual wellness classes, tuition reimbursement, 401(k) + employer match, adoption assistance, financial assistance, and much more.\n• We value your time: From paid time off to company holidays, culture days, and comprehensive work-life balance programs, we will ensure you have the flexibility you need to be your best.\n• We value your development: Our award-winning training and development programs empower our employees with ongoing learning opportunities to give you the building blocks to grow your career.\n• We value your perspective: Our company culture reflects the diversity of our employees. We want you to be you and your voice to be heard.\n• We value our communities: We offer paid time off for volunteerism and promote many company-wide and local initiatives that benefit organizations you care about.\n\nNote: The benefits described apply to full-time employees. Benefits for part-time, contract, and intern roles may vary.\n\nNot sure if you meet every requirement?\n\nAt Paychex, we know that great talent comes in many forms. If you're passionate about the role but don't check every box, we still encourage you to apply. You might be the right fit - either for this position or another opportunity with us.\n\nPaychex is an equal opportunity employer. We are committed to fostering a respectful and inclusive workplace where all individuals are treated fairly and evaluated based on their qualifications, experience, and merit. We comply with all applicable federal, state, and local laws prohibiting discrimination in employment.",
+    "job_is_remote": false,
+    "job_posted_at": "22 hours ago",
+    "job_posted_at_timestamp": 1771293600,
+    "job_posted_at_datetime_utc": "2026-02-17T02:00:00.000Z",
+    "job_location": "Allentown, PA",
+    "job_city": "Allentown",
+    "job_state": "Pennsylvania",
+    "job_country": "US",
+    "job_latitude": 40.6022939,
+    "job_longitude": -75.4714098,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjqtBqkbM3VCROlSKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 133630,
+    "job_max_salary": 209990,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Build and integrate customer‑facing portal/UI components in React",
+        "Bachelor's Degree in Computer related discipline or equivalent work experience",
+        "7 years of experience in Related field or the equivalent combination of education and experience",
+        "Proficiency in React for developing customer‑facing interfaces or partner tools",
+        "Experience with AWS (Lambda, API Gateway, S3, CloudWatch, IAM, or related services)",
+        "Strong experience with embedded systems development",
+        "Experience with API design, interface documentation, and integration workflows",
+        "Excellent communication skills with the ability to convey complex technical concepts to diverse audiences, including customers and indirect channel partners",
+        "Proven success in customer-facing engineering, developer support, or solutions engineering roles"
+      ],
+      "Benefits": [
+        "In the spirit of pay transparency, we are excited to share that the starting base pay range for this position is $133,630 - $209,990",
+        "If you are hired at Paychex, your overall compensation will be determined based on factors such as geographic location, skills, education, and/or experience which may result in total compensation outside of this range",
+        "We value your well-being: We provide over 21 comprehensive rewards, including medical coverage, virtual wellness classes, tuition reimbursement, 401(k) + employer match, adoption assistance, financial assistance, and much more",
+        "We value your time: From paid time off to company holidays, culture days, and comprehensive work-life balance programs, we will ensure you have the flexibility you need to be your best",
+        "We value your development: Our award-winning training and development programs empower our employees with ongoing learning opportunities to give you the building blocks to grow your career",
+        "We value your perspective: Our company culture reflects the diversity of our employees",
+        "We value our communities: We offer paid time off for volunteerism and promote many company-wide and local initiatives that benefit organizations you care about",
+        "Benefits for part-time, contract, and intern roles may vary"
+      ],
+      "Responsibilities": [
+        "We are seeking a Forward Deployed Software Engineer (FDE) embeds directly with customers to implement, customize, and operationalize complex software, acting as a bridge between engineering and customer success by solving specific problems, unblocking integrations, and feeding insights back to product teams, blending technical skills with customer empathy and often involving travel to client sites",
+        "They adapt core products to unique needs, accelerating adoption and delivering value in real-world environments",
+        "You will act as the senior technical lead for customizing and extending our embedded platform—owning integrations, API‑driven experiences, application‑layer enhancements, and customer solution delivery",
+        "This role includes hands-on development work across Python, React, AWS, and Django, as well as direct collaboration with customers, partners, and indirect channel teams to ensure successful adoption of our platform",
+        "Customer Collaboration & Developer Relations",
+        "Serve as the primary technical interface for customers, partners, and indirect channel teams",
+        "Host technical discussions, requirement‑gathering sessions, and architecture reviews directly with customers",
+        "Provide developer support, guidance, and best practices for integration and implementation",
+        "Represent the embedded team in developer‑facing demos, product enablement, and partner technical workshops",
+        "Translate customer needs into actionable engineering tasks, ensuring platform capabilities align with business goals",
+        "Platform Customization & Embedded Engineering",
+        "Lead the design and implementation of custom features, enhancements, and integrations across our platform",
+        "Develop application‑layer components and service extensions using Python, Django, and REST‑based APIs",
+        "Leverage AWS services to build scalable, cloud-backed integrations",
+        "Architecture, API & Systems Integration",
+        "Own the documentation and development of APIs, SDKs, and interface design documents (IDDs)",
+        "Ensure seamless integration between on‑device components, microservices, and customer systems",
+        "Technical Troubleshooting & Tier‑3 Support",
+        "Diagnose and resolve complex issues",
+        "Provide senior‑level technical escalation support for customers and internal teams",
+        "Lead root‑cause analysis and drive long‑term corrective improvements across the platform",
+        "Project Delivery & Leadership",
+        "Lead customer‑specific development initiatives from ideation through deployment",
+        "Own timelines, deliverables, and technical direction for customization projects",
+        "Mentor junior engineers and influence cross‑team engineering best practices",
+        "Act with uncompromising integrity",
+        "Provide outstanding service and build trusted relationships",
+        "Drive innovation in our products and services and continually improve our processes",
+        "Work in partnership and support each other",
+        "Be personally accountable and deliver on commitments",
+        "Treat each other with respect and dignity"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-forward-deployed-software-engineer-fde-python-at-paychex-4364708763",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "lA1WMASgcFPsK_8oAAAAAA==",
+    "job_title": "Software Engineer Intern, Embedded Systems",
+    "employer_name": "Roku",
+    "employer_logo": null,
+    "employer_website": "https://www.roku.com",
+    "job_publisher": "Roku Jobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.weareroku.com/jobs/software-engineer-intern-embedded-systems-san-jose-california-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Roku Jobs",
+        "apply_link": "https://www.weareroku.com/jobs/software-engineer-intern-embedded-systems-san-jose-california-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-intern-embedded-systems-at-roku-4370578182?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/software-engineer-intern-embedded-systems-san-jose-roku-9ed5624c737b8b5e39848c62fdf19288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Startup Jobs",
+        "apply_link": "https://startup.jobs/software-engineer-intern-embedded-systems-roku-7739141?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Built In San Francisco",
+        "apply_link": "https://www.builtinsf.com/job/software-engineer-intern-embedded-systems/8443364?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Tech Jobs Personalized",
+        "apply_link": "https://builtin.com/job/software-engineer-intern-embedded-systems/8443364?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/3cf670f1d9d73889937dcffb665a6e65?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698a38f84db8972cecff77ec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Teamwork makes the stream work.\n\nRoku is changing how the world watches TV\n\nRoku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.\n\nFrom your first day at Roku, you'll make a valuable - and valued - contribution. We're a fast-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.\n\nBuild the future of streaming with real ownership\n\nJoin Roku’s 12-week Graduate Internship and accelerate your growth by solving complex engineering problems that power the world’s leading TV streaming platform. You’ll ship code, learn from senior engineers, and see your work make a visible impact for customers globally.\n\nWhy this program stands out\n• High-impact work, not side projects. You’ll be matched to a scoped, production-grade project aligned to real business outcomes.\n• Clear success metrics. Define and track KPIs with your team, so progress and value are obvious from day one.\n• Senior mentorship. A dedicated senior engineer supervises your journey and gives you direct, actionable feedback.\n• Velocity + autonomy. Expect rapid iteration, ownership of decisions, and a culture that favors building over bureaucracy.\n• Tech breadth + depth. Exposure to Core OS, Cloud Infrastructure, Advertising Technology, Platform Portability, Advanced Development, and ML—with opportunities to go deep where you’re strongest.\n• Global collaboration. Partner with experts across the US and internationally (including Cambridge) on cross-functional initiatives.\n\nWhat you’ll be doing\n• Own a scoped project end-to-end: design, implement, test, and ship.\n• Define, agree, and track KPIs that measure technical and business impact.\n• Collaborate effectively across engineering, product, and partner teams to deliver outcomes.\n• Share learnings broadly—write, demo, and document insights to level-up others.\n• Leverage modern tech including innovative AI applications where relevant to your project.\n\nWe're excited if you have\n• Pursuing a MS preferred in Computer Science, Computer Engineering, Software Engineering, or a related technical field\n• Previous development internship experience\n• Strong fundamentals in data structures, algorithms, OOD, and systems design.\n• Practical experience in C/C++, Python, Bash, developing/debugging on Linux based embedded systems\n• Understanding of Linux kernel concepts, multi-threading primitives, Linux tools, libraries and open-source development\n• Awareness of or experience with generative AI tools (e.g., GitHub Copilot, OpenAI API) for enhancing development productivity.\n• Familiarity with one or more machine learning frameworks like TensorFlow, Tensorflow Lite, TensorflowMicro, PyTorch, or scikit-learn through coursework or personal projects.\n• Exposure to Cloud (AWS/Azure/GCP), Machine Learning, SDK/API design, and integration testing.\n• Comfort with Agile and collaborative tools (JIRA, Confluence, GitHub).\n• A builder’s mindset—creative, resilient, and proactive with a bias to ship.\n• Demonstrated “real world” impact: shipped projects, prior internships, notable contributions (e.g., opensource, publications).\n\nProgram details\n• Duration: 12 weeks, Summer 2026\n• Locations: Boston, San Jose, New York, Austin (on-site expectations vary by team)\n• Project matching: Based on your skills, interests, and team needs—clearly defined, challenging to complete, and easy to start.\n• Career visibility: Understand what full-time life at Roku looks like through mentorship, collaboration, and showcasing your outcomes to engineering leaders and peers.\n\nFor California Only - The estimated hourly rate for this position is between $34 - $66 annually. Compensation packages are based on factors unique to each candidate, including but not limited to skill set, certifications, and specific geographical location. This role is eligible for health insurance, equity awards, life insurance, disability benefits, parental leave, wellness benefits, and paid time off.\n\nHow to apply\n• Submit your resume and a brief note on the impact you want to make this summer. Include links to GitHub, portfolio, publications, or notable projects.\n• Highlight the systems you’ve built, the decisions you owned, and the measurable outcomes you drove.\n\nReady to build at streaming scale? Let’s talk.\n\nOur Hybrid Work Approach\n\nRoku fosters an inclusive and collaborative environment where teams work in the office Monday through Thursday. Fridays are flexible for remote work except for employees whose roles are required to be in the office five days a week or employees who are in offices with a five day in office policy.\n\nBenefits\n\nRoku is committed to offering a diverse range of benefits as part of our compensation package to support our employees and their families. Our comprehensive benefits include global access to mental health and financial wellness support and resources. Local benefits include statutory and voluntary benefits which may include healthcare (medical, dental, and vision), life, accident, disability, commuter, and retirement options (401(k)/pension). Our employees can take time off work for vacation and other personal reasons to balance their evolving work and life needs. It's important to note that not every benefit is available in all locations or for every role. For details specific to your location, please consult with your recruiter.\n\nAccommodations\n\nRoku welcomes applicants of all backgrounds and provides reasonable accommodations and adjustments in accordance with applicable law. If you require reasonable accommodation at any point in the hiring process, please direct your inquiries to EmployeeRelations@Roku.com.\n\nThe Roku Culture\n\nRoku is a great place for people who want to work in a fast-paced environment where everyone is focused on the company's success rather than their own. We try to surround ourselves with people who are great at their jobs, who are easy to work with, and who keep their egos in check. We appreciate a sense of humor. We believe a fewer number of very talented folks can do more for less cost than a larger number of less talented teams. We're independent thinkers with big ideas who act boldly, move fast and accomplish extraordinary things through collaboration and trust. In short, at Roku you'll be part of a company that's changing how the world watches TV. \n\nWe have a unique culture that we are proud of. We think of ourselves primarily as problem-solvers, which itself is a two-part idea. We come up with the solution, but the solution isn't real until it is built and delivered to the customer. That penchant for action gives us a pragmatic approach to innovation, one that has served us well since 2002. \n\nTo learn more about Roku, our global footprint, and how we've grown, visit https://www.weareroku.com/factsheet.\n\nBy providing your information, you acknowledge that you want Roku to contact you about job roles, that you have read Roku's Applicant Privacy Notice, and understand that Roku will use your information as described in that notice. If you do not wish to receive any communications from Roku regarding this role or similar roles in the future, you may unsubscribe at any time by emailing WorkforcePrivacy@Roku.com.",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlA1WMASgcFPsK_8oAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Previous development internship experience",
+        "Strong fundamentals in data structures, algorithms, OOD, and systems design",
+        "Practical experience in C/C++, Python, Bash, developing/debugging on Linux based embedded systems",
+        "Understanding of Linux kernel concepts, multi-threading primitives, Linux tools, libraries and open-source development",
+        "Awareness of or experience with generative AI tools (e.g., GitHub Copilot, OpenAI API) for enhancing development productivity",
+        "Familiarity with one or more machine learning frameworks like TensorFlow, Tensorflow Lite, TensorflowMicro, PyTorch, or scikit-learn through coursework or personal projects",
+        "Exposure to Cloud (AWS/Azure/GCP), Machine Learning, SDK/API design, and integration testing",
+        "Comfort with Agile and collaborative tools (JIRA, Confluence, GitHub)",
+        "A builder’s mindset—creative, resilient, and proactive with a bias to ship"
+      ],
+      "Benefits": [
+        "Define and track KPIs with your team, so progress and value are obvious from day one",
+        "A dedicated senior engineer supervises your journey and gives you direct, actionable feedback",
+        "Demonstrated “real world” impact: shipped projects, prior internships, notable contributions (e.g., opensource, publications)",
+        "Career visibility: Understand what full-time life at Roku looks like through mentorship, collaboration, and showcasing your outcomes to engineering leaders and peers",
+        "For California Only - The estimated hourly rate for this position is between $34 - $66 annually",
+        "Compensation packages are based on factors unique to each candidate, including but not limited to skill set, certifications, and specific geographical location",
+        "This role is eligible for health insurance, equity awards, life insurance, disability benefits, parental leave, wellness benefits, and paid time off",
+        "Roku is committed to offering a diverse range of benefits as part of our compensation package to support our employees and their families",
+        "Our comprehensive benefits include global access to mental health and financial wellness support and resources",
+        "Local benefits include statutory and voluntary benefits which may include healthcare (medical, dental, and vision), life, accident, disability, commuter, and retirement options (401(k)/pension)",
+        "Our employees can take time off work for vacation and other personal reasons to balance their evolving work and life needs"
+      ],
+      "Responsibilities": [
+        "You’ll ship code, learn from senior engineers, and see your work make a visible impact for customers globally",
+        "You’ll be matched to a scoped, production-grade project aligned to real business outcomes",
+        "Clear success metrics",
+        "Velocity + autonomy",
+        "Expect rapid iteration, ownership of decisions, and a culture that favors building over bureaucracy",
+        "Partner with experts across the US and internationally (including Cambridge) on cross-functional initiatives",
+        "Own a scoped project end-to-end: design, implement, test, and ship",
+        "Define, agree, and track KPIs that measure technical and business impact",
+        "Collaborate effectively across engineering, product, and partner teams to deliver outcomes",
+        "Share learnings broadly—write, demo, and document insights to level-up others",
+        "Leverage modern tech including innovative AI applications where relevant to your project",
+        "Duration: 12 weeks, Summer 2026",
+        "Project matching: Based on your skills, interests, and team needs—clearly defined, challenging to complete, and easy to start",
+        "Include links to GitHub, portfolio, publications, or notable projects",
+        "Highlight the systems you’ve built, the decisions you owned, and the measurable outcomes you drove"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-weareroku-com-jobs-software-engineer-intern-embedded-systems-san-jose-california-united-states",
     "_source": "new_jobs"
   },
   {
@@ -985,224 +1202,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "7Izqh1QXyZJhWSBkAAAAAA==",
-    "job_title": "(USA) Senior Software Engineer, Mobile",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Senior-Software-Engineer,-Mobile/-in-Gravette,AR?jid=bf5153186e373659&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Senior-Software-Engineer,-Mobile/-in-Gravette,AR?jid=bf5153186e373659&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Jobs.appcast.io",
-        "apply_link": "https://jobs.appcast.io/walmart/usa-senior-software-engineer-mobile/52626720412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Summary...We are seeking a highly skilled and passionate React Native Developer to join our team and help build world-class mobile applications. The ideal candidate will have deep expertise in React Native, a solid understanding of native mobile development, and hands-on experience with the full app lifecycle—from development to publishing on the App Store and Google Play.\n\nWhat you'll do...\n\nKey Responsibilities\n• Design, develop, and maintain high-performance mobile applications using React Native.\n• Own the end-to-end app lifecycle, including publishing, updates, and store compliance (App Store & Play Store).\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Integrate third-party APIs, libraries, and native modules as needed.\n• Implement and monitor analytics, Crashlytics, and performance metrics (CPU, battery usage).\n• Build and maintain functional automation tests using Appium or similar frameworks.\n• Ensure code quality through unit testing, code reviews, and CI/CD pipelines.\n• Create clear and functional technical documentation and charts to communicate architecture and workflows.\n• Stay up-to-date with emerging mobile technologies and trends.\n\nRequired Qualifications\n• 3–5 years of experience in mobile and desktop user experience development.\n• Strong expertise in React Native, with recent hands-on experience.\n• Solid understanding of native mobile development (iOS/Android) and ability to bridge native modules.\n• Experience in publishing apps to App Store and Play Store, including handling store requirements and updates.\n• Proficiency in ReactJS, Redux, and GraphQL.\n• Familiarity with front-end design patterns, data structures, and algorithms.\n• Experience with Appium or other open-source automation frameworks.\n• Clear and effective communication skills, both verbal and written.\n• Ability to multitask and manage multiple features and requirements concurrently.\n• Experience with cloud-native technologies, CI/CD pipelines, and DevOps practices.\n• Strong analytical and problem-solving skills.\n• A genuine passion for technology and continuous learning.\n\nNice to Have\n• Backend development experience in Java or Node.js.\n• Experience with native mobile development (Swift, Kotlin, Objective-C) is a plus.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\n‎\n\n‎\n\n‎\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\n‎\n\nFor information about PTO, see https://one.walmart.com/notices.\n\n‎\n\n‎\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\n‎\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\n‎\n\nFor information about benefits and eligibility, see One.Walmart.\n\n‎\nThe annual salary range for this position is $90,000.00-$180,000.00\n\n‎\nAdditional compensation includes annual or quarterly performance bonuses.\n\n‎\nAdditional compensation for certain positions may also include:\n\n‎\n\n‎\n- Stock\n\n‎\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n805 Se Moberly Ln, Bentonville, AR 72712, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Gravette, AR",
-    "job_city": "Gravette",
-    "job_state": "Arkansas",
-    "job_country": "US",
-    "job_latitude": 36.422294799999996,
-    "job_longitude": -94.4518839,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7Izqh1QXyZJhWSBkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 90000,
-    "job_max_salary": 180000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate will have deep expertise in React Native, a solid understanding of native mobile development, and hands-on experience with the full app lifecycle—from development to publishing on the App Store and Google Play",
-        "3–5 years of experience in mobile and desktop user experience development",
-        "Strong expertise in React Native, with recent hands-on experience",
-        "Solid understanding of native mobile development (iOS/Android) and ability to bridge native modules",
-        "Experience in publishing apps to App Store and Play Store, including handling store requirements and updates",
-        "Proficiency in ReactJS, Redux, and GraphQL",
-        "Familiarity with front-end design patterns, data structures, and algorithms",
-        "Experience with Appium or other open-source automation frameworks",
-        "Clear and effective communication skills, both verbal and written",
-        "Ability to multitask and manage multiple features and requirements concurrently",
-        "Experience with cloud-native technologies, CI/CD pipelines, and DevOps practices",
-        "Strong analytical and problem-solving skills",
-        "A genuine passion for technology and continuous learning",
-        "Backend development experience in Java or Node.js",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
-        "Option 2: 5 years’ experience in software engineering or related area",
-        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $90,000.00-$180,000.00",
-        "Additional compensation includes annual or quarterly performance bonuses"
-      ],
-      "Responsibilities": [
-        "Design, develop, and maintain high-performance mobile applications using React Native",
-        "Own the end-to-end app lifecycle, including publishing, updates, and store compliance (App Store & Play Store)",
-        "Collaborate with cross-functional teams to define, design, and ship new features",
-        "Integrate third-party APIs, libraries, and native modules as needed",
-        "Implement and monitor analytics, Crashlytics, and performance metrics (CPU, battery usage)",
-        "Build and maintain functional automation tests using Appium or similar frameworks",
-        "Ensure code quality through unit testing, code reviews, and CI/CD pipelines",
-        "Create clear and functional technical documentation and charts to communicate architecture and workflows",
-        "Stay up-to-date with emerging mobile technologies and trends"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-walmart-job-usa-senior-software-engineer-mobile-in-gravette-ar",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "D5rVDrynyJhWv_3dAAAAAA==",
-    "job_title": "Full stack Software Engineer – Mobile",
-    "employer_name": "McAfee",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeVnag4Ap6cV7sr3OLeYEOhLnDZorAc_5B9V7&s=0",
-    "employer_website": "https://www.mcafee.com",
-    "job_publisher": "Careers At McAfee",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.mcafee.com/global/en/job/JR0032298/Full-stack-Software-Engineer-Mobile?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Careers At McAfee",
-        "apply_link": "https://careers.mcafee.com/global/en/job/JR0032298/Full-stack-Software-Engineer-Mobile?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=62b7d3993271737b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Workday",
-        "apply_link": "https://mcafee.wd1.myworkdayjobs.com/en-US/External/job/Full-stack-Software-Engineer---Mobile_JR0032298?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/07ea9ded89932d4944443dd5788b1931?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-%E2%80%93-mobile-at-mcafee-4356639418?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Tech Jobs Personalized",
-        "apply_link": "https://builtin.com/job/full-stack-software-engineer-mobile/8354025?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/697c7695137a051025657160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Hispanic Today",
-        "apply_link": "https://hispanic-today.com/frisco-tx/full-stack-software-engineer-mobile/9D0910C939F044FAA9B17A9F4145A934/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Role Overview:\n\nWe are seeking a Full stack Software Engineer – Mobile who can design and development of mobile applications in a fast-paced, innovation-driven environment. We are looking for a smart engineer who leverages Generative AI to accelerate coding and SDLC process and has the appetite to work in tight schedules without compromising on quality.\n\nThis is a Hybrid position located in Frisco, TX. You will be required to be on-site on an as-needed basis; when you are not working on-site, you will work from your home office. You must be within commutable distance to Frisco, TX. We are not offering relocation assistance.\n\nAbout the Role\n• As a software engineer, you will be responsible for leading the development of mobile applications and services that handle all types of transactions.\n• You will work in a fast-paced environment where continuous innovation and experimentation are a given. You will demonstrate mastery in innovation and security.\n• This individual must have a “start-up” mentality who hits the ground running with minimal supervision.\n• You will collaborate with other engineers and developers throughout the development process.\n• You will collaborate with the other team or 3rd party vendors to integrate functional component.\n• You will understand user requirements; design and develop applications and APIs for devices that meet real world scenarios.\n• You will solve and articulate complex problems with application design, development, and user experiences.\n• You will use Generative AI for code and build Agentic AI App experience\n\nAbout You\n• 7-10 years of experience in software development of which 5+ years of experience Mobile application design &development.\n• You should have hands on experience on both front end [Android and/or iOS] and backend technologies.\n• Familiarity with RESTful APIs to connect Android/iOS applications to back-end services\n• You should have experience in Unit Test cases, Code Coverage, Automation and Design patterns.\n• You should have experience in Instruments: Allocation, Leaks Crash Analysis and Debugging skills.\n• Proficient understanding of code versioning tools, such as Git.\n• Familiarity with continuous integration & deployment process\n• Able to independently build E2E flows on mobile which includes building the UEX and integration of backend APIs.\n• A knack for benchmarking and optimization\n• Experience in Gradle / Maven/iOS build systems.\n• Experience of using GenAI in SDLC\n\n#LI-Hybrid\n\nCompany Overview\n\nMcAfee is a leader in personal security for consumers. Focused on protecting people, not just devices, McAfee consumer solutions adapt to users’ needs in an always online world, empowering them to live securely through integrated, intuitive solutions that protects their families and communities with the right security at the right moment.\n\nCompany Benefits and Perks:\n\nWe work hard to embrace diversity and inclusion and encourage everyone at McAfee to bring their authentic selves to work every day. We’re proud to be Great Place to Work® Certified in 10 countries, a reflection of the supportive, empowering environment we’ve built where people feel seen, valued, and energized to reach their full potential and thrive.\n\nWe offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees.\n• Bonus Program\n• Pension and Retirement Plans\n• Medical, Dental and Vision Coverage\n• Paid Time Off\n• Paid Parental Leave\n• Support for Community Involvement\n\nWe're serious about our commitment to diversity which is why McAfee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-    "job_location": "Frisco, TX",
-    "job_city": "Frisco",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 33.1496718,
-    "job_longitude": -96.835567,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD5rVDrynyJhWv_3dAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "We are looking for a smart engineer who leverages Generative AI to accelerate coding and SDLC process and has the appetite to work in tight schedules without compromising on quality",
-        "This individual must have a “start-up” mentality who hits the ground running with minimal supervision",
-        "You will use Generative AI for code and build Agentic AI App experience",
-        "7-10 years of experience in software development of which 5+ years of experience Mobile application design &development",
-        "You should have hands on experience on both front end [Android and/or iOS] and backend technologies",
-        "Familiarity with RESTful APIs to connect Android/iOS applications to back-end services",
-        "You should have experience in Unit Test cases, Code Coverage, Automation and Design patterns",
-        "You should have experience in Instruments: Allocation, Leaks Crash Analysis and Debugging skills",
-        "Proficient understanding of code versioning tools, such as Git",
-        "Familiarity with continuous integration & deployment process",
-        "Able to independently build E2E flows on mobile which includes building the UEX and integration of backend APIs",
-        "A knack for benchmarking and optimization",
-        "Experience in Gradle / Maven/iOS build systems",
-        "Experience of using GenAI in SDLC"
-      ],
-      "Benefits": [
-        "We offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees",
-        "Bonus Program",
-        "Pension and Retirement Plans",
-        "Medical, Dental and Vision Coverage",
-        "Paid Time Off",
-        "Paid Parental Leave",
-        "Support for Community Involvement"
-      ],
-      "Responsibilities": [
-        "You will be required to be on-site on an as-needed basis; when you are not working on-site, you will work from your home office",
-        "As a software engineer, you will be responsible for leading the development of mobile applications and services that handle all types of transactions",
-        "You will work in a fast-paced environment where continuous innovation and experimentation are a given",
-        "You will demonstrate mastery in innovation and security",
-        "You will collaborate with other engineers and developers throughout the development process",
-        "You will collaborate with the other team or 3rd party vendors to integrate functional component",
-        "You will understand user requirements; design and develop applications and APIs for devices that meet real world scenarios",
-        "You will solve and articulate complex problems with application design, development, and user experiences"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "careers-mcafee-com-global-en-job-jr0032298-full-stack-software-engineer-mobile",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "j3KttFMzV7GCr0kcAAAAAA==",
     "job_title": "SaaS and IoT Software Engineering Intern",
     "employer_name": "Impinj",
@@ -1334,6 +1333,224 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "D5rVDrynyJhWv_3dAAAAAA==",
+    "job_title": "Full stack Software Engineer – Mobile",
+    "employer_name": "McAfee",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeVnag4Ap6cV7sr3OLeYEOhLnDZorAc_5B9V7&s=0",
+    "employer_website": "https://www.mcafee.com",
+    "job_publisher": "Careers At McAfee",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.mcafee.com/global/en/job/JR0032298/Full-stack-Software-Engineer-Mobile?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Careers At McAfee",
+        "apply_link": "https://careers.mcafee.com/global/en/job/JR0032298/Full-stack-Software-Engineer-Mobile?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=62b7d3993271737b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://mcafee.wd1.myworkdayjobs.com/en-US/External/job/Full-stack-Software-Engineer---Mobile_JR0032298?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/07ea9ded89932d4944443dd5788b1931?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-%E2%80%93-mobile-at-mcafee-4356639418?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Tech Jobs Personalized",
+        "apply_link": "https://builtin.com/job/full-stack-software-engineer-mobile/8354025?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/697c7695137a051025657160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hispanic Today",
+        "apply_link": "https://hispanic-today.com/frisco-tx/full-stack-software-engineer-mobile/9D0910C939F044FAA9B17A9F4145A934/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Role Overview:\n\nWe are seeking a Full stack Software Engineer – Mobile who can design and development of mobile applications in a fast-paced, innovation-driven environment. We are looking for a smart engineer who leverages Generative AI to accelerate coding and SDLC process and has the appetite to work in tight schedules without compromising on quality.\n\nThis is a Hybrid position located in Frisco, TX. You will be required to be on-site on an as-needed basis; when you are not working on-site, you will work from your home office. You must be within commutable distance to Frisco, TX. We are not offering relocation assistance.\n\nAbout the Role\n• As a software engineer, you will be responsible for leading the development of mobile applications and services that handle all types of transactions.\n• You will work in a fast-paced environment where continuous innovation and experimentation are a given. You will demonstrate mastery in innovation and security.\n• This individual must have a “start-up” mentality who hits the ground running with minimal supervision.\n• You will collaborate with other engineers and developers throughout the development process.\n• You will collaborate with the other team or 3rd party vendors to integrate functional component.\n• You will understand user requirements; design and develop applications and APIs for devices that meet real world scenarios.\n• You will solve and articulate complex problems with application design, development, and user experiences.\n• You will use Generative AI for code and build Agentic AI App experience\n\nAbout You\n• 7-10 years of experience in software development of which 5+ years of experience Mobile application design &development.\n• You should have hands on experience on both front end [Android and/or iOS] and backend technologies.\n• Familiarity with RESTful APIs to connect Android/iOS applications to back-end services\n• You should have experience in Unit Test cases, Code Coverage, Automation and Design patterns.\n• You should have experience in Instruments: Allocation, Leaks Crash Analysis and Debugging skills.\n• Proficient understanding of code versioning tools, such as Git.\n• Familiarity with continuous integration & deployment process\n• Able to independently build E2E flows on mobile which includes building the UEX and integration of backend APIs.\n• A knack for benchmarking and optimization\n• Experience in Gradle / Maven/iOS build systems.\n• Experience of using GenAI in SDLC\n\n#LI-Hybrid\n\nCompany Overview\n\nMcAfee is a leader in personal security for consumers. Focused on protecting people, not just devices, McAfee consumer solutions adapt to users’ needs in an always online world, empowering them to live securely through integrated, intuitive solutions that protects their families and communities with the right security at the right moment.\n\nCompany Benefits and Perks:\n\nWe work hard to embrace diversity and inclusion and encourage everyone at McAfee to bring their authentic selves to work every day. We’re proud to be Great Place to Work® Certified in 10 countries, a reflection of the supportive, empowering environment we’ve built where people feel seen, valued, and energized to reach their full potential and thrive.\n\nWe offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees.\n• Bonus Program\n• Pension and Retirement Plans\n• Medical, Dental and Vision Coverage\n• Paid Time Off\n• Paid Parental Leave\n• Support for Community Involvement\n\nWe're serious about our commitment to diversity which is why McAfee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771200000,
+    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_location": "Frisco, TX",
+    "job_city": "Frisco",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 33.1496718,
+    "job_longitude": -96.835567,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD5rVDrynyJhWv_3dAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "We are looking for a smart engineer who leverages Generative AI to accelerate coding and SDLC process and has the appetite to work in tight schedules without compromising on quality",
+        "This individual must have a “start-up” mentality who hits the ground running with minimal supervision",
+        "You will use Generative AI for code and build Agentic AI App experience",
+        "7-10 years of experience in software development of which 5+ years of experience Mobile application design &development",
+        "You should have hands on experience on both front end [Android and/or iOS] and backend technologies",
+        "Familiarity with RESTful APIs to connect Android/iOS applications to back-end services",
+        "You should have experience in Unit Test cases, Code Coverage, Automation and Design patterns",
+        "You should have experience in Instruments: Allocation, Leaks Crash Analysis and Debugging skills",
+        "Proficient understanding of code versioning tools, such as Git",
+        "Familiarity with continuous integration & deployment process",
+        "Able to independently build E2E flows on mobile which includes building the UEX and integration of backend APIs",
+        "A knack for benchmarking and optimization",
+        "Experience in Gradle / Maven/iOS build systems",
+        "Experience of using GenAI in SDLC"
+      ],
+      "Benefits": [
+        "We offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees",
+        "Bonus Program",
+        "Pension and Retirement Plans",
+        "Medical, Dental and Vision Coverage",
+        "Paid Time Off",
+        "Paid Parental Leave",
+        "Support for Community Involvement"
+      ],
+      "Responsibilities": [
+        "You will be required to be on-site on an as-needed basis; when you are not working on-site, you will work from your home office",
+        "As a software engineer, you will be responsible for leading the development of mobile applications and services that handle all types of transactions",
+        "You will work in a fast-paced environment where continuous innovation and experimentation are a given",
+        "You will demonstrate mastery in innovation and security",
+        "You will collaborate with other engineers and developers throughout the development process",
+        "You will collaborate with the other team or 3rd party vendors to integrate functional component",
+        "You will understand user requirements; design and develop applications and APIs for devices that meet real world scenarios",
+        "You will solve and articulate complex problems with application design, development, and user experiences"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "careers-mcafee-com-global-en-job-jr0032298-full-stack-software-engineer-mobile",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "7Izqh1QXyZJhWSBkAAAAAA==",
+    "job_title": "(USA) Senior Software Engineer, Mobile",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Senior-Software-Engineer,-Mobile/-in-Gravette,AR?jid=bf5153186e373659&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Senior-Software-Engineer,-Mobile/-in-Gravette,AR?jid=bf5153186e373659&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Jobs.appcast.io",
+        "apply_link": "https://jobs.appcast.io/walmart/usa-senior-software-engineer-mobile/52626720412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position Summary...We are seeking a highly skilled and passionate React Native Developer to join our team and help build world-class mobile applications. The ideal candidate will have deep expertise in React Native, a solid understanding of native mobile development, and hands-on experience with the full app lifecycle—from development to publishing on the App Store and Google Play.\n\nWhat you'll do...\n\nKey Responsibilities\n• Design, develop, and maintain high-performance mobile applications using React Native.\n• Own the end-to-end app lifecycle, including publishing, updates, and store compliance (App Store & Play Store).\n• Collaborate with cross-functional teams to define, design, and ship new features.\n• Integrate third-party APIs, libraries, and native modules as needed.\n• Implement and monitor analytics, Crashlytics, and performance metrics (CPU, battery usage).\n• Build and maintain functional automation tests using Appium or similar frameworks.\n• Ensure code quality through unit testing, code reviews, and CI/CD pipelines.\n• Create clear and functional technical documentation and charts to communicate architecture and workflows.\n• Stay up-to-date with emerging mobile technologies and trends.\n\nRequired Qualifications\n• 3–5 years of experience in mobile and desktop user experience development.\n• Strong expertise in React Native, with recent hands-on experience.\n• Solid understanding of native mobile development (iOS/Android) and ability to bridge native modules.\n• Experience in publishing apps to App Store and Play Store, including handling store requirements and updates.\n• Proficiency in ReactJS, Redux, and GraphQL.\n• Familiarity with front-end design patterns, data structures, and algorithms.\n• Experience with Appium or other open-source automation frameworks.\n• Clear and effective communication skills, both verbal and written.\n• Ability to multitask and manage multiple features and requirements concurrently.\n• Experience with cloud-native technologies, CI/CD pipelines, and DevOps practices.\n• Strong analytical and problem-solving skills.\n• A genuine passion for technology and continuous learning.\n\nNice to Have\n• Backend development experience in Java or Node.js.\n• Experience with native mobile development (Swift, Kotlin, Objective-C) is a plus.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\n‎\n\n‎\n\n‎\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\n‎\n\nFor information about PTO, see https://one.walmart.com/notices.\n\n‎\n\n‎\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\n‎\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\n‎\n\nFor information about benefits and eligibility, see One.Walmart.\n\n‎\nThe annual salary range for this position is $90,000.00-$180,000.00\n\n‎\nAdditional compensation includes annual or quarterly performance bonuses.\n\n‎\nAdditional compensation for certain positions may also include:\n\n‎\n\n‎\n- Stock\n\n‎\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.\nOption 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n805 Se Moberly Ln, Bentonville, AR 72712, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Gravette, AR",
+    "job_city": "Gravette",
+    "job_state": "Arkansas",
+    "job_country": "US",
+    "job_latitude": 36.422294799999996,
+    "job_longitude": -94.4518839,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7Izqh1QXyZJhWSBkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 90000,
+    "job_max_salary": 180000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have deep expertise in React Native, a solid understanding of native mobile development, and hands-on experience with the full app lifecycle—from development to publishing on the App Store and Google Play",
+        "3–5 years of experience in mobile and desktop user experience development",
+        "Strong expertise in React Native, with recent hands-on experience",
+        "Solid understanding of native mobile development (iOS/Android) and ability to bridge native modules",
+        "Experience in publishing apps to App Store and Play Store, including handling store requirements and updates",
+        "Proficiency in ReactJS, Redux, and GraphQL",
+        "Familiarity with front-end design patterns, data structures, and algorithms",
+        "Experience with Appium or other open-source automation frameworks",
+        "Clear and effective communication skills, both verbal and written",
+        "Ability to multitask and manage multiple features and requirements concurrently",
+        "Experience with cloud-native technologies, CI/CD pipelines, and DevOps practices",
+        "Strong analytical and problem-solving skills",
+        "A genuine passion for technology and continuous learning",
+        "Backend development experience in Java or Node.js",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area",
+        "Option 2: 5 years’ experience in software engineering or related area",
+        "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $90,000.00-$180,000.00",
+        "Additional compensation includes annual or quarterly performance bonuses"
+      ],
+      "Responsibilities": [
+        "Design, develop, and maintain high-performance mobile applications using React Native",
+        "Own the end-to-end app lifecycle, including publishing, updates, and store compliance (App Store & Play Store)",
+        "Collaborate with cross-functional teams to define, design, and ship new features",
+        "Integrate third-party APIs, libraries, and native modules as needed",
+        "Implement and monitor analytics, Crashlytics, and performance metrics (CPU, battery usage)",
+        "Build and maintain functional automation tests using Appium or similar frameworks",
+        "Ensure code quality through unit testing, code reviews, and CI/CD pipelines",
+        "Create clear and functional technical documentation and charts to communicate architecture and workflows",
+        "Stay up-to-date with emerging mobile technologies and trends"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-usa-senior-software-engineer-mobile-in-gravette-ar",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "jWBzC9U2aLvefFfDAAAAAA==",
     "job_title": "Senior Software Engineer | Remote",
     "employer_name": "Crossing Hurdles",
@@ -1459,9 +1676,9 @@
     "job_latitude": 33.5185892,
     "job_longitude": -86.8103567,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcZrkdt-5NWFnoFyeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 127767,
@@ -1581,9 +1798,9 @@
     "job_latitude": 39.5500507,
     "job_longitude": -105.78206739999999,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnvMCtTNYnxHite2YAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 104000,
@@ -1627,71 +1844,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "spacecrew-com-space-jobs-mlbznmys-northrop-grumman-principalsr-principal-software-engineer-java-and-cloud-solutions-tssci-ci-poly",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "fFX0iu8HerBoPbq_AAAAAA==",
-    "job_title": "Senior Software Engineer, Back End | Richmond, VA, USA",
-    "employer_name": "Capital One Financial Corporation",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DwTUNrD-zd4Oo2-_DPtfDmshk0PqhNb2MpZK&s=0",
-    "employer_website": "https://investor.capitalone.com",
-    "job_publisher": "EFinancialCareers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-VA-Richmond-Senior_Software_Engineer_Back_End.id23746560?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "EFinancialCareers",
-        "apply_link": "https://www.efinancialcareers.com/jobs-USA-VA-Richmond-Senior_Software_Engineer_Back_End.id23746560?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Senior Software Engineer, Back End\n\nSenior Software Engineer, Back End\n\nDo you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs. We are seeking Back End Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Software Engineer, you'll have the opportunity to be on the forefront of driving a major transformation within Capital One.\n\nWhat You'll Do:\n\n• Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies\n• Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community\n• Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment\n• Utilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services\nBasic Qualifications:\n\n• Bachelor's Degree\n• At least 3 years of professional software engineering experience (Internship experience does not apply)\nPreferred Qualifications:\n\n• 5+ years of experience in at least one of the following: Java, Scala, Python, Go, or Node.js\n• 1+ years of experience with AWS, GCP, Azure, or another cloud service\n• 3+ years of experience in open source frameworks\n• 2+ years of experience in Agile practices\nAt this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-2, E-3, L-1 and O-1, or any EADs or other forms of work authorization that require immigration support from an employer).\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nRichmond, VA: $147,100 - $167,900 for Senior Software Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate's offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City's Fair Chance Act; Philadelphia's Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Richmond, VA",
-    "job_city": "Richmond",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 37.5407246,
-    "job_longitude": -77.4360481,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfFX0iu8HerBoPbq_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's Degree",
-        "At least 3 years of professional software engineering experience (Internship experience does not apply)",
-        "At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-2, E-3, L-1 and O-1, or any EADs or other forms of work authorization that require immigration support from an employer)"
-      ],
-      "Benefits": [
-        "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
-        "Richmond, VA: $147,100 - $167,900 for Senior Software Engineer",
-        "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate's offer letter",
-        "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
-        "Incentives could be discretionary or non discretionary depending on the plan",
-        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
-      ],
-      "Responsibilities": [
-        "Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies",
-        "Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, mentoring other members of the engineering community",
-        "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment",
-        "Utilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and services"
-      ]
-    },
-    "job_onet_soc": "11905100",
-    "job_onet_job_zone": "2",
-    "id": "www-efinancialcareers-com-jobs-usa-va-richmond-senior_software_engineer_back_end-id23746560",
     "_source": "new_jobs"
   },
   {
@@ -1756,6 +1908,152 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-linkedin-com-jobs-view-principal-python-software-engineer-devops-at-request-technology-4372570290",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "qIEhlwoeCqEayGv9AAAAAA==",
+    "job_title": "Software Engineering Group Mgr - Retail Run The Bank",
+    "employer_name": "PNC",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMDDfrrdVo9uslWBzUxEQS5QrjMW2wtDNfmYi&s=0",
+    "employer_website": null,
+    "job_publisher": "PNC Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.pnc.com/global/en/job/R211590/Software-Engineering-Group-Mgr-Retail-Run-The-Bank?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "PNC Careers",
+        "apply_link": "https://careers.pnc.com/global/en/job/R211590/Software-Engineering-Group-Mgr-Retail-Run-The-Bank?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/software-engineering-group-mgr-retail-run-the-bank_7ea1a389b8012d4d0be909eb6e6e642b85974?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/software-engineering-group-mgr-retail-run-the-bank-farmers-branch-tx-usa-56095599?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "PNGAS Job Board",
+        "apply_link": "https://pngas.jobboardhq.com/job/myuug3/software-engineering-group-mgr-retail-run-the-bank-r211590/farmers-branch/tx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/pnc-financial-services-group/farmers-branch-tx/software-engineering-manager/23d762ac71d570d84691cb71bc3b6620?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "J-O-B-Z",
+        "apply_link": "https://j-o-b-z.com/seo/job/136372619/tx/farmersbranch/software-engineering-group-mgr---retail-run-the-bank?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Job Abstracts",
+        "apply_link": "https://jobabstracts.com/Job/Single/?id1=136372619&hash=153130003227232070192086233057100122081158057179107190003088003248097109004155208252102220157081077071143133117041160231242195202230133177204112&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-tx-farmers-branch-software-engineering-group-mgr-retail-run-bank?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position Overview\n\nAt PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all our employees feel respected, valued and have an opportunity to contribute to the company’s success.\n\nAs a Software Engineering Group Manager within PNC's Technology organization, you will sit in Dallas TX.\n• **PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position.***\n\nThe Software Engineering Group Manager – Retail RTB is a senior engineering leader responsible for ensuring the stability, availability, and operational excellence of PNC’s critical Retail banking applications. This role leads multiple engineering, SRE, and application support teams that maintain high‑visibility customer‑servicing platforms—including Mobile, Online, Care Center Technologies, Branch systems, ATMs, Deposits, and related Retail technology ecosystems.\n\nThe leader in this role owns production reliability, operational maturity, and RTB execution, while also driving risk reduction, deep technical analysis, and continuous improvement across a broad portfolio of mission‑critical systems.\n\nCore Responsibilities\n- Ensure the stability, availability, and performance of mission‑critical Retail applications.\n- Oversee and mature incident, problem, and change management processes including P1/P2 handling, MTTR reduction, change success rate improvement, and operational guardrail enforcement.\n- Own SLA adherence across key customer‑servicing channels and ensure resilience against operational risk.\n- Lead operational readiness efforts including UAT, business continuity testing, lifecycle events, vulnerability remediation, and certificate renewals.\n- Lead multi‑layer teams including Engineering Managers, Senior Engineers, Architects, SREs, and Application Support Specialists.\n- Drive deep technical reviews to improve system understanding, failure‑mode readiness, observability, alerting, automation, and overall operational maturity.\n- Apply strong technical judgment to evaluate feasibility, make informed tradeoffs, and ensure system integrity.\n- Enhance and expand SRE practices tied to incident, problem, and event management.\n- Partner with Product, Architecture, Security, CTB Engineering, Infrastructure, Operations, and Retail LOB leaders to ensure aligned objectives and reduce systemic risk.\n- Communicate program and operational status clearly to senior leadership through concise reporting, dashboards, and executive storytelling.\n- Facilitate collaboration across engineering, QA, design, and business partners to maintain customer‑first service commitments.\n- Identify operational, technical, and systemic risks and drive mitigation strategies proactively.\n- Lead ongoing operational uplift through automation, monitoring, runbook quality improvements, and maturity scoring.\n- Track key reliability metrics (P1/P2 volumes, MTTR, SLA adherence, change success rate, remediation commitments).\n\nSuccess Measures\n- Operational Stability: Reduced P1/P2 incidents, faster MTTR, and improved change success.\n- SLA & Availability: Consistent achievement of performance, uptime, and response‑time commitments.\n- Risk Mitigation: On‑time completion of vulnerabilities, lifecycle, and certificate work.\n- Operational Maturity: Better observability, automation, alerting coverage, and runbook depth.\n- Team Leadership: Strong organizational health and effective coaching of engineering leaders.\n\nRequired Skills & Experience\n- 8–10+ years in software engineering, production operations, SRE, or application support preferred.\n- Proven leadership of engineering and operational teams supporting mission‑critical distributed systems.\n- Deep expertise in incidents, problems, and change management.\n- Strong understanding of Retail banking systems, real‑time transaction flows, integrations, and operational risk domains.\n- Ability to lead effectively during high‑severity incidents and communicate clearly at all organizational levels.\n\nPreferred Qualifications\n- Experience supporting large‑scale customer‑servicing platforms.\n- Background in observability tooling, automation, and operational excellence practices.\n- Experience in financial‑services or regulated industries.\n• **PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position.***\n\nPNC is an in-office company that fosters a supportive culture where employees can thrive and achieve balance. We encourage candidates to connect with their recruiter and hiring manager to understand workplace expectations and ensure the role aligns with their goals.\n\nPNC will not provide sponsorship for employment visas or participate in STEM OPT for this position.\n\nJob Description\n• Manages multiple development projects, development groups and/or application support functions for a major business segment.\n• Oversees the development and implementation of multiple, complex, organization-wide systems .\n• Allocates and ensures resource arrangements during the application development life cycle .\n• Maintains relationships with clients to ensure the implementation quality of application systems .\n• Provides solutions or recommendations on complicated technology issues for application development and implementation .\n\nPNC Employees take pride in our reputation and to continue building upon that we expect our employees to be:\n• Customer Focused - Knowledgeable of the values and practices that align customer needs and satisfaction as primary considerations in all business decisions and able to leverage that information in creating customized customer solutions.\n• Managing Risk - Assessing and effectively managing all of the risks associated with their business objectives and activities to ensure they adhere to and support PNC's Enterprise Risk Management Framework.\n\nPNC also has fundamental expectations of our people managers. As a manager of talent in PNC, you will be expected to:\n• Include Intentionally - Cultivates diverse teams and inclusive workplaces to expand thinking.\n• Live the Values - Role models our values with transparency and courage.\n• Enable Change - Takes action to drive change and innovation that will transform our business.\n• Achieve Results - Takes personal ownership to deliver results. Empowers and trusts others in decision making.\n• Develop the Best - Raises the bar with every talent decision and guides the achievement of all employees and customers.\n\nQualifications\n\nSuccessful candidates must demonstrate appropriate knowledge, skills, and abilities for a role. Listed below are skills, competencies, work experience, education, and required certifications/licensures needed to be successful in this position.\n\nPreferred Skills\nApplication Development, Business Management, Communication, Customer Solutions, Design, Financial Services, Group Problem Solving, Process Improvements, Release Management, Retail Applications, Software Solutions, User Experience (UX) Design\n\nCompetencies\nApplication Delivery Process, Application Development (Client/Server), Application Development (Object-Oriented), Application Development Tools, Application Localization and Internationalization, IT Environment, Software Process Improvement (SPI)\n\nWork Experience\nRoles at this level typically require a university / college degree. Higher level education such as a Masters degree, PhD, or certifications is desirable. Industry-relevant experience is typically 8+ years. At least 5 years of prior management experience is typically required. Proven leadership experience with a moderate to large scope of responsibility is required. In lieu of a degree, a comparable combination of education, job specific certification(s), and experience (including military service) may be considered.\n\nEducation\nBachelors\n\nCertifications\nNo Required Certification(s)\n\nLicenses\nNo Required License(s)\n\nBenefits\n\nPNC offers a comprehensive range of benefits to help meet your needs now and in the future. Depending on your eligibility, options for full-time employees include: medical/prescription drug coverage (with a Health Savings Account feature), dental and vision options; employee and spouse/child life insurance; short and long-term disability protection; 401(k) with PNC match, pension and stock purchase plans; dependent care reimbursement account; back-up child/elder care; adoption, surrogacy, and doula reimbursement; educational assistance, including select programs fully paid; a robust wellness program with financial incentives.\n\nIn addition, PNC generally provides the following paid time off, depending on your eligibility: maternity and/or parental leave; up to 11 paid holidays each year; 9 occasional absence days each year, unless otherwise required by law; between 15 to 25 vacation days each year, depending on career level; and years of service.\n\nTo learn more about these and other programs, including benefits for full time and part-time employees, visit pncthrive.com.\n\nDisability Accommodations Statement\n\nIf an accommodation is required to participate in the application process, please contact us via email at AccommodationRequest@pnc.com. Please include “accommodation request” in the subject line title and be sure to include your name, the job ID, and your preferred method of contact in the body of the email. Emails not related to accommodation requests will not receive responses. Applicants may also call 877-968-7762 and say \"Workday\" for accommodation assistance. All information provided will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nAt PNC we foster an inclusive and accessible workplace. We provide reasonable accommodations to employment applicants and qualified individuals with a disability who need an accommodation to perform the essential functions of their positions.\n\nEqual Employment Opportunity (EEO)\n\nPNC provides equal employment opportunity to qualified persons regardless of race, color, sex, religion, national origin, age, sexual orientation, gender identity, disability, veteran status, or other categories protected by law.\n\nThis position is subject to the requirements of Section 19 of the Federal Deposit Insurance Act (FDIA) and, for any registered role, the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 (SAFE Act) and/or the Financial Industry Regulatory Authority (FINRA), which prohibit the hiring of individuals with certain criminal history.\n\nCalifornia Residents\n\nRefer to the California Consumer Privacy Act Privacy Notice to gain understanding of how PNC may use or disclose your personal information in our hiring practices.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Farmers Branch, TX",
+    "job_city": "Farmers Branch",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 32.9265137,
+    "job_longitude": -96.89611509999999,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqIEhlwoeCqEayGv9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Team Leadership: Strong organizational health and effective coaching of engineering leaders",
+        "Proven leadership of engineering and operational teams supporting mission‑critical distributed systems",
+        "Deep expertise in incidents, problems, and change management",
+        "Strong understanding of Retail banking systems, real‑time transaction flows, integrations, and operational risk domains",
+        "Ability to lead effectively during high‑severity incidents and communicate clearly at all organizational levels",
+        "Successful candidates must demonstrate appropriate knowledge, skills, and abilities for a role",
+        "Listed below are skills, competencies, work experience, education, and required certifications/licensures needed to be successful in this position",
+        "Application Development, Business Management, Communication, Customer Solutions, Design, Financial Services, Group Problem Solving, Process Improvements, Release Management, Retail Applications, Software Solutions, User Experience (UX) Design",
+        "Application Delivery Process, Application Development (Client/Server), Application Development (Object-Oriented), Application Development Tools, Application Localization and Internationalization, IT Environment, Software Process Improvement (SPI)",
+        "Roles at this level typically require a university / college degree",
+        "Industry-relevant experience is typically 8+ years",
+        "At least 5 years of prior management experience is typically required",
+        "Proven leadership experience with a moderate to large scope of responsibility is required",
+        "In lieu of a degree, a comparable combination of education, job specific certification(s), and experience (including military service) may be considered",
+        "Bachelors",
+        "No Required Certification(s)",
+        "No Required License(s)"
+      ],
+      "Benefits": [
+        "PNC offers a comprehensive range of benefits to help meet your needs now and in the future",
+        "Depending on your eligibility, options for full-time employees include: medical/prescription drug coverage (with a Health Savings Account feature), dental and vision options; employee and spouse/child life insurance; short and long-term disability protection; 401(k) with PNC match, pension and stock purchase plans; dependent care reimbursement account; back-up child/elder care; adoption, surrogacy, and doula reimbursement; educational assistance, including select programs fully paid; a robust wellness program with financial incentives",
+        "In addition, PNC generally provides the following paid time off, depending on your eligibility: maternity and/or parental leave; up to 11 paid holidays each year; 9 occasional absence days each year, unless otherwise required by law; between 15 to 25 vacation days each year, depending on career level; and years of service",
+        "To learn more about these and other programs, including benefits for full time and part-time employees, visit pncthrive.com"
+      ],
+      "Responsibilities": [
+        "**PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position.***",
+        "The Software Engineering Group Manager – Retail RTB is a senior engineering leader responsible for ensuring the stability, availability, and operational excellence of PNC’s critical Retail banking applications",
+        "This role leads multiple engineering, SRE, and application support teams that maintain high‑visibility customer‑servicing platforms—including Mobile, Online, Care Center Technologies, Branch systems, ATMs, Deposits, and related Retail technology ecosystems",
+        "The leader in this role owns production reliability, operational maturity, and RTB execution, while also driving risk reduction, deep technical analysis, and continuous improvement across a broad portfolio of mission‑critical systems",
+        "Ensure the stability, availability, and performance of mission‑critical Retail applications",
+        "Oversee and mature incident, problem, and change management processes including P1/P2 handling, MTTR reduction, change success rate improvement, and operational guardrail enforcement",
+        "Own SLA adherence across key customer‑servicing channels and ensure resilience against operational risk",
+        "Lead operational readiness efforts including UAT, business continuity testing, lifecycle events, vulnerability remediation, and certificate renewals",
+        "Lead multi‑layer teams including Engineering Managers, Senior Engineers, Architects, SREs, and Application Support Specialists",
+        "Drive deep technical reviews to improve system understanding, failure‑mode readiness, observability, alerting, automation, and overall operational maturity",
+        "Apply strong technical judgment to evaluate feasibility, make informed tradeoffs, and ensure system integrity",
+        "Enhance and expand SRE practices tied to incident, problem, and event management",
+        "Partner with Product, Architecture, Security, CTB Engineering, Infrastructure, Operations, and Retail LOB leaders to ensure aligned objectives and reduce systemic risk",
+        "Communicate program and operational status clearly to senior leadership through concise reporting, dashboards, and executive storytelling",
+        "Facilitate collaboration across engineering, QA, design, and business partners to maintain customer‑first service commitments",
+        "Identify operational, technical, and systemic risks and drive mitigation strategies proactively",
+        "Lead ongoing operational uplift through automation, monitoring, runbook quality improvements, and maturity scoring",
+        "Track key reliability metrics (P1/P2 volumes, MTTR, SLA adherence, change success rate, remediation commitments)",
+        "Operational Stability: Reduced P1/P2 incidents, faster MTTR, and improved change success",
+        "SLA & Availability: Consistent achievement of performance, uptime, and response‑time commitments",
+        "Risk Mitigation: On‑time completion of vulnerabilities, lifecycle, and certificate work",
+        "Operational Maturity: Better observability, automation, alerting coverage, and runbook depth",
+        "Manages multiple development projects, development groups and/or application support functions for a major business segment",
+        "Oversees the development and implementation of multiple, complex, organization-wide systems ",
+        "Allocates and ensures resource arrangements during the application development life cycle ",
+        "Maintains relationships with clients to ensure the implementation quality of application systems ",
+        "Provides solutions or recommendations on complicated technology issues for application development and implementation ",
+        "Customer Focused - Knowledgeable of the values and practices that align customer needs and satisfaction as primary considerations in all business decisions and able to leverage that information in creating customized customer solutions",
+        "Managing Risk - Assessing and effectively managing all of the risks associated with their business objectives and activities to ensure they adhere to and support PNC's Enterprise Risk Management Framework",
+        "PNC also has fundamental expectations of our people managers",
+        "Include Intentionally - Cultivates diverse teams and inclusive workplaces to expand thinking",
+        "Live the Values - Role models our values with transparency and courage",
+        "Enable Change - Takes action to drive change and innovation that will transform our business",
+        "Achieve Results - Takes personal ownership to deliver results",
+        "Empowers and trusts others in decision making",
+        "Develop the Best - Raises the bar with every talent decision and guides the achievement of all employees and customers"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "careers-pnc-com-global-en-job-r211590-software-engineering-group-mgr-retail-run-the-bank",
     "_source": "new_jobs"
   },
   {
@@ -1933,228 +2231,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "careers-snowflake-com-us-en-job-sncous2b6f6b0290c14e87ab17c54f71654b88externalenusafa654dd0431403098781e48c27465bd-senior-software-engineer-openflow",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "WCp1_d0ZFFajupGmAAAAAA==",
-    "job_title": "Senior Software Engineer-Full Stack",
-    "employer_name": "Sony Interactive Entertainment (SIE)",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-DQBuIyvdkvbCf4XjFlOB8kh7hJ9BMP06GSe&s=0",
-    "employer_website": null,
-    "job_publisher": "PlayStation Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.playstation.com/senior-software-engineer-full-stack/job/5674513004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "PlayStation Careers",
-        "apply_link": "https://careers.playstation.com/senior-software-engineer-full-stack/job/5674513004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=8620804bf2c5d66e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Sony-Interactive-Entertainment-(SIE)/Job/Senior-Software-Engineer-Full-Stack/-in-San-Diego,CA?jid=f2439ca11595a42e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "ShowbizJobs",
-        "apply_link": "https://www.showbizjobs.com/jobs/playstation-senior-software-engineer-full-stack-in-san-diego/jid-36v6qq?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Milwaukee Jobs",
-        "apply_link": "https://www.milwaukeejobs.com/job/detail/85341048/Senior-Software-Engineer-Full-Stack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "GameJobs.co",
-        "apply_link": "https://gamejobs.co/Senior-Software-Engineer-For-Application-Security-at-Sony-Playstation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/senior-software-engineer-full-stack/7741405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/n4uuZxIubtKBwbJDpTVwsDdQs1SQCSsqQcyhtEdc01KPLvFfnptdKA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Why PlayStation?\n\nPlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.\n\nPlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.\n\nThe PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.\n\nDo you want to help bring PlayStation technology to a worldwide audience? Are you passionate about securing infrastructure that constantly pushes the boundary of the gaming industry? Are you ready to work with innovative technology, forward-thinking engineers, and a passionate security team? If so, join us!\n\nAs a member of our automation team in Product Security, you will craft, develop software services to realize true automated application security in order to protect our customers, our product and our business.\n\nStrong technical background and analytical thinking is expected, and the ideal candidate will be heavily involved in designing, creating and maintaining Java, Javascript and React code, as well as providing component and system level designs for Application Security automation.\nResponsibilities\n• Work with other architects and engineers to plan and design how engineering components will fit together\n• Design, implement and test Web Application and RESTful Web Services API for DevSecOps\n• Research and integrate third party security solutions into our system\n• Onboard internal applications to DevSecOps pipeline\n• Produce excellent, detailed design and development documentation\n• Work under tight time constraints and respond to evolving requirements\n• Collaborate with other engineers in development technologies, tools, and processes\n• Provide engineering analysis for new features\n• Drives technical objectives and architectural initiatives\n• Mentor engineers on procedures for developing quality software.\nQualifications\n• 7+ years of full stack software engineering experience with Javascript/Typescript experience with the ReactJS framework and Java with Spring framework.\n• Experience building and maintaining web server applications, object-oriented design and design patterns, and passionate about writing high quality and well-architected code\n• Experience in building high-performance web services. Experience with design and implementation of modern web app architecture or web services architecture and API frameworks\n• Experience working with relational databases with strong SQL and database design skills.\n• Experience with public cloud design like AWS, Azure or GCE\n• Ability to technical deep dive into code and deployment\n• Strong understanding of engineering standard methodologies – requirement gathering and analysis, design and develop secure and scalable code with unit tests, participate in code reviews and documentation, experience with multiple technology stacks\n• Strong written and verbal communication skills\n• Experience testing software and writing automated tests.\n• Bachelor's Degree in Computer Science or an equivalent combination of education and experience; Master's degree a plus.\nUseful but not required\n• Experience to integrate tools in CI/CD pipeline\n• Experience with Application Security Tool like SAST, SCA, and DAST\n• Experience with multiple development methodologies such as Agile, DevOps etc.\n• Experience with Python and Go.\n\n#LI-GM1\n\nPlease refer to our Candidate Privacy Notice for more information about how we process your personal information, and your data protection rights.\n\nAt SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.\n\nPlease note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.\n\nIn addition, this role is eligible for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click here to learn more.\n\nThe estimated base pay range for this role is listed below.\n$177,300—$265,900 USD\n\nPlease note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.\n\nPlease refer to our Candidate Privacy Notice for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.\n\nEqual Opportunity Statement:\n\nSony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.\n\nWe strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.\n\nPlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "San Diego, CA",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 32.715738,
-    "job_longitude": -117.1610838,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWCp1_d0ZFFajupGmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Strong technical background and analytical thinking is expected, and the ideal candidate will be heavily involved in designing, creating and maintaining Java, Javascript and React code, as well as providing component and system level designs for Application Security automation",
-        "7+ years of full stack software engineering experience with Javascript/Typescript experience with the ReactJS framework and Java with Spring framework",
-        "Experience building and maintaining web server applications, object-oriented design and design patterns, and passionate about writing high quality and well-architected code",
-        "Experience in building high-performance web services",
-        "Experience with design and implementation of modern web app architecture or web services architecture and API frameworks",
-        "Experience working with relational databases with strong SQL and database design skills",
-        "Experience with public cloud design like AWS, Azure or GCE",
-        "Ability to technical deep dive into code and deployment",
-        "Strong understanding of engineering standard methodologies – requirement gathering and analysis, design and develop secure and scalable code with unit tests, participate in code reviews and documentation, experience with multiple technology stacks",
-        "Strong written and verbal communication skills",
-        "Experience testing software and writing automated tests",
-        "Useful but not required",
-        "Experience to integrate tools in CI/CD pipeline",
-        "Experience with Application Security Tool like SAST, SCA, and DAST",
-        "Experience with multiple development methodologies such as Agile, DevOps etc",
-        "Experience with Python and Go"
-      ],
-      "Benefits": [
-        "In addition, this role is eligible for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products",
-        "This role also may be eligible for a bonus package",
-        "$177,300—$265,900 USD"
-      ],
-      "Responsibilities": [
-        "As a member of our automation team in Product Security, you will craft, develop software services to realize true automated application security in order to protect our customers, our product and our business",
-        "Work with other architects and engineers to plan and design how engineering components will fit together",
-        "Design, implement and test Web Application and RESTful Web Services API for DevSecOps",
-        "Research and integrate third party security solutions into our system",
-        "Onboard internal applications to DevSecOps pipeline",
-        "Produce excellent, detailed design and development documentation",
-        "Work under tight time constraints and respond to evolving requirements",
-        "Collaborate with other engineers in development technologies, tools, and processes",
-        "Provide engineering analysis for new features",
-        "Drives technical objectives and architectural initiatives",
-        "Mentor engineers on procedures for developing quality software"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "careers-playstation-com-senior-software-engineer-full-stack-job-5674513004",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "tQA0CCBSLmEXb3zmAAAAAA==",
-    "job_title": "Software Engineer (C++, OOD/OOP, Linux)",
-    "employer_name": "KLA Corporation",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Career.io",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://career.io/job/software-engineer-oodoop-linux-hpc-milpitas-kla-corporation-26308da48ffa7c2a8a7afbe01e1bdfe5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/software-engineer-oodoop-linux-hpc-milpitas-kla-corporation-26308da48ffa7c2a8a7afbe01e1bdfe5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Orbotech/Job/Software-Engineer-(C++,-OOD-OOP,-Linux)/-in-Milpitas,CA?jid=814703c540a65f9c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/software-engineer-c-ood-oop-linux-kla-JV_IC1147428_KO0,33_KE34,37.htm?jl=1010001829220&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Purpose Jobs",
-        "apply_link": "https://www.purpose.jobs/discover/companies/kla-corporation/jobs/65431626-software-engineer-c-ood-oop-linux?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Tech Jobs Personalized",
-        "apply_link": "https://builtin.com/job/software-engineer-c-ood-oop-linux/8237162?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/software-engineer-intern-c-linux-summer-2026_0df5bc4d-7733-4922-97e8-309b51f8424a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=3ad303060b0092d6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/7f8e98d6-fb51-4248-a038-67175841df42?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Company Overview\n\nKLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world's leading technology providers to accelerate the delivery of tomorrow's electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us.\n\nGroup/Division\n\nWith over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA's metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. The RAPID division is the world leading provider of reticle inspection solutions for the semiconductor industry. The company provides inspection solutions to both the mask shops and the semiconductor fabs to ensure that lithography yields are consistently high thus enabling cost-effective manufacturing.\n\nJob Description/Preferred Qualifications\n\nResponsibilities\n\nThe best candidates for this position will be a highly motivated self-driven individual who has strong C++ programming skill and troubleshooting, debugging skill with thorough knowledge in multi-threaded programming environments and application software.\n\nWhile primarily working on inspection software for mask inspection systems, the candidate will interact with multidisciplinary engineering teams including electrical, mechanical, optical, algorithm, and other SW teams to acquire in-depth domain knowledge and troubleshoot system problems.\n\nQualifications\n• BS, MS or PhD, in Computer Science / Engineering or similar fields.\n• C++ programming experience is required.\n• Strong technical skills in OOD/OOP, design patterns, interface definitions are essential.\n• Demonstrated multitasking/threading programming experience are required.\n• Strong software diagnostic and troubleshooting skills are required.\n• Experience with QT or modern GUI technology is a plus.\n• Linux administration knowledge is a plus.\n• Knowledge in AI/computer vision is a plus.\n• Strong team player and motivated by team success.\n• Experience in semiconductor fab operations/manufacturing technology (optional).\n\nMinimum Qualifications\n\nDoctorate (Academic) Degree and 0 years related work experience; Master's Level Degree and related work experience of 3 years; Bachelor's Level Degree and related work experience of 5 years\n\nBase Pay Range: $136,300.00 - $231,700.00 Annually\n\nPrimary Location: USA-CA-Milpitas-KLA\n\nKLA's total rewards package for employees may also include participation in performance incentive programs and eligibility for additional benefits including but not limited to: medical, dental, vision, life, and other voluntary benefits, 401(K) including company matching, employee stock purchase program (ESPP), student debt assistance, tuition reimbursement program, development and career growth opportunities and programs, financial planning benefits, wellness benefits including an employee assistance program (EAP), paid time off and paid company holidays, and family care and bonding leave.\n\nInterns are eligible for some of the benefits listed. Our pay ranges are determined by role, level, and location. The range displayed reflects the pay for this position in the primary location identified in this posting. Actual pay depends on several factors, including state minimum pay wage rates, location, job-related skills, experience, and relevant education level or training. We are committed to complying with all applicable federal and state minimum wage requirements where applicable. If applicable, your recruiter can share more about the specific pay range for your preferred location during the hiring process.\n\nKLA is proud to be an Equal Opportunity Employer. We will ensure that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us at talent.acquisition@kla.com or at +1-408-352-2808 to request accommodation.\n\nBe aware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as KLA employees. KLA never asks for any financial compensation to be considered for an interview, to become an employee, or for equipment. Further, KLA does not work with any recruiters or third parties who charge such fees either directly or on behalf of KLA. Please ensure that you have searched KLA's Careers website for legitimate job postings. KLA follows a recruiting process that involves multiple interviews in person or on video conferencing with our hiring managers. If you are concerned that a communication, an interview, an offer of employment, or that an employee is not legitimate, please send an email to talent.acquisition@kla.com to confirm the person you are communicating with is an employee. We take your privacy very seriously and confidentially handle your information.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Milpitas, CA",
-    "job_city": "Milpitas",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.4323341,
-    "job_longitude": -121.8995741,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DtQA0CCBSLmEXb3zmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 136000,
-    "job_max_salary": 232000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "The best candidates for this position will be a highly motivated self-driven individual who has strong C++ programming skill and troubleshooting, debugging skill with thorough knowledge in multi-threaded programming environments and application software",
-        "BS, MS or PhD, in Computer Science / Engineering or similar fields",
-        "C++ programming experience is required",
-        "Strong technical skills in OOD/OOP, design patterns, interface definitions are essential",
-        "Demonstrated multitasking/threading programming experience are required",
-        "Strong software diagnostic and troubleshooting skills are required",
-        "Strong team player and motivated by team success",
-        "Experience in semiconductor fab operations/manufacturing technology (optional)",
-        "Doctorate (Academic) Degree and 0 years related work experience; Master's Level Degree and related work experience of 3 years; Bachelor's Level Degree and related work experience of 5 years"
-      ],
-      "Benefits": [
-        "Base Pay Range: $136,300.00 - $231,700.00 Annually",
-        "KLA's total rewards package for employees may also include participation in performance incentive programs and eligibility for additional benefits including but not limited to: medical, dental, vision, life, and other voluntary benefits, 401(K) including company matching, employee stock purchase program (ESPP), student debt assistance, tuition reimbursement program, development and career growth opportunities and programs, financial planning benefits, wellness benefits including an employee assistance program (EAP), paid time off and paid company holidays, and family care and bonding leave",
-        "Interns are eligible for some of the benefits listed",
-        "Our pay ranges are determined by role, level, and location",
-        "The range displayed reflects the pay for this position in the primary location identified in this posting"
-      ],
-      "Responsibilities": [
-        "While primarily working on inspection software for mask inspection systems, the candidate will interact with multidisciplinary engineering teams including electrical, mechanical, optical, algorithm, and other SW teams to acquire in-depth domain knowledge and troubleshoot system problems"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "career-io-job-software-engineer-oodoop-linux-hpc-milpitas-kla-corporation-26308da48ffa7c2a8a7afbe01e1bdfe5",
     "_source": "new_jobs"
   }
 ]
