@@ -61,9 +61,9 @@
     "job_latitude": 41.88325,
     "job_longitude": -87.6323879,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwIjv9WC7cK7mfHsSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -108,80 +108,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "careers-united-com-us-en-job-whq00025938-senior-mobile-developer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "ZWxYNDtebgDQcEcEAAAAAA==",
-    "job_title": "Junior Mobile Developer",
-    "employer_name": "Tech Consulting",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU79DrcmFHX0Q06CKgG4Emnk4WA5_yZmunXspF&s=0",
-    "employer_website": null,
-    "job_publisher": "Digitalhire",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2AfDuWUM15oHL2Fx54m22L?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Digitalhire",
-        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/2AfDuWUM15oHL2Fx54m22L?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Position Overview\n\nJob Title: Jr. Mobile Developer (Urgent hiring). Location: New York, NY. Employment type: Fulltime. Duration: 2 years. Experience: 1-4 years (Entry level). Educational Qualification: Bachelor’s/Master’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field. Are you excited about taking your technical career to new heights with a full-time, W-2 role as a consultant in a dynamic and rapidly growing company? NO SPONSORSHIP applies.\n\nKey Responsibilities\n• 1-4 years of IT developer experience after your degree.\n• Must have basic coding knowledge of frameworks and languages like Java, C#, C, C++, Python, React Native, JavaScript, TypeScript, Flutter, Dart, Kotlin & Java.\n• Basic knowledge of iOS & experience with mobile technologies preferred.\n• Sound understanding of the entire Software Development Lifecycle.\n• Strong knowledge of software design patterns, data structures, and best practices.\n• Hands-on experience in:\n• Developing software with Agile Scrum or Kanban methodologies\n• Interacting with REST Web APIs (JSON/XML) using a VCS like Git or SVN\n• Working with XCode\n• Testing using various testing tools\n• Using software integration tools like JIRA, Jenkins & FastLane\n\nRequired Qualifications\n• Willingness to relocate anywhere in the US on a client project-to-project basis; this is an onsite, in-office position.\n• Strong English communication skills, both written and verbal.\n• Bachelor’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field.\n\nBenefits & Perks\n• Gain valuable, career-enhancing experience working with our Fortune 1,000 clients.\n• Relocation support for training and project assignments, as required.\n• Enjoy comprehensive W-2 employee benefits.\n• Access full coverage medical, dental, and vision insurance.\n• Qualify for 401K eligibility after one year of employment.\n• Benefit from basic life/AD&D and dependent disability (short/long term) coverage.",
-    "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771286400,
-    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
-    "job_location": "New York, NY",
-    "job_city": "New York",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZWxYNDtebgDQcEcEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience: 1-4 years (Entry level)",
-        "Educational Qualification: Bachelor’s/Master’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field",
-        "Must have basic coding knowledge of frameworks and languages like Java, C#, C, C++, Python, React Native, JavaScript, TypeScript, Flutter, Dart, Kotlin & Java",
-        "Strong knowledge of software design patterns, data structures, and best practices",
-        "Hands-on experience in:",
-        "Willingness to relocate anywhere in the US on a client project-to-project basis; this is an onsite, in-office position",
-        "Strong English communication skills, both written and verbal",
-        "Bachelor’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field"
-      ],
-      "Benefits": [
-        "Gain valuable, career-enhancing experience working with our Fortune 1,000 clients",
-        "Relocation support for training and project assignments, as required",
-        "Enjoy comprehensive W-2 employee benefits",
-        "Access full coverage medical, dental, and vision insurance",
-        "Qualify for 401K eligibility after one year of employment",
-        "Benefit from basic life/AD&D and dependent disability (short/long term) coverage"
-      ],
-      "Responsibilities": [
-        "1-4 years of IT developer experience after your degree",
-        "Sound understanding of the entire Software Development Lifecycle",
-        "Developing software with Agile Scrum or Kanban methodologies",
-        "Interacting with REST Web APIs (JSON/XML) using a VCS like Git or SVN",
-        "Working with XCode",
-        "Testing using various testing tools",
-        "Using software integration tools like JIRA, Jenkins & FastLane"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "jobs-digitalhire-com-job-listing-opening-2afduwum15ohl2fx54m22l",
     "_source": "new_jobs"
   },
   {
@@ -304,6 +230,80 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "worldvision-wd1-myworkdayjobs-com-en-us-worldvisioninternational-job-android-application-developer-intern_jr48094",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "ZWxYNDtebgDQcEcEAAAAAA==",
+    "job_title": "Junior Mobile Developer",
+    "employer_name": "Tech Consulting",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU79DrcmFHX0Q06CKgG4Emnk4WA5_yZmunXspF&s=0",
+    "employer_website": null,
+    "job_publisher": "Digitalhire",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2AfDuWUM15oHL2Fx54m22L?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Digitalhire",
+        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/2AfDuWUM15oHL2Fx54m22L?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Overview\n\nJob Title: Jr. Mobile Developer (Urgent hiring). Location: New York, NY. Employment type: Fulltime. Duration: 2 years. Experience: 1-4 years (Entry level). Educational Qualification: Bachelor’s/Master’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field. Are you excited about taking your technical career to new heights with a full-time, W-2 role as a consultant in a dynamic and rapidly growing company? NO SPONSORSHIP applies.\n\nKey Responsibilities\n• 1-4 years of IT developer experience after your degree.\n• Must have basic coding knowledge of frameworks and languages like Java, C#, C, C++, Python, React Native, JavaScript, TypeScript, Flutter, Dart, Kotlin & Java.\n• Basic knowledge of iOS & experience with mobile technologies preferred.\n• Sound understanding of the entire Software Development Lifecycle.\n• Strong knowledge of software design patterns, data structures, and best practices.\n• Hands-on experience in:\n• Developing software with Agile Scrum or Kanban methodologies\n• Interacting with REST Web APIs (JSON/XML) using a VCS like Git or SVN\n• Working with XCode\n• Testing using various testing tools\n• Using software integration tools like JIRA, Jenkins & FastLane\n\nRequired Qualifications\n• Willingness to relocate anywhere in the US on a client project-to-project basis; this is an onsite, in-office position.\n• Strong English communication skills, both written and verbal.\n• Bachelor’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field.\n\nBenefits & Perks\n• Gain valuable, career-enhancing experience working with our Fortune 1,000 clients.\n• Relocation support for training and project assignments, as required.\n• Enjoy comprehensive W-2 employee benefits.\n• Access full coverage medical, dental, and vision insurance.\n• Qualify for 401K eligibility after one year of employment.\n• Benefit from basic life/AD&D and dependent disability (short/long term) coverage.",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771286400,
+    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZWxYNDtebgDQcEcEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience: 1-4 years (Entry level)",
+        "Educational Qualification: Bachelor’s/Master’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field",
+        "Must have basic coding knowledge of frameworks and languages like Java, C#, C, C++, Python, React Native, JavaScript, TypeScript, Flutter, Dart, Kotlin & Java",
+        "Strong knowledge of software design patterns, data structures, and best practices",
+        "Hands-on experience in:",
+        "Willingness to relocate anywhere in the US on a client project-to-project basis; this is an onsite, in-office position",
+        "Strong English communication skills, both written and verbal",
+        "Bachelor’s Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or a related quantitative field"
+      ],
+      "Benefits": [
+        "Gain valuable, career-enhancing experience working with our Fortune 1,000 clients",
+        "Relocation support for training and project assignments, as required",
+        "Enjoy comprehensive W-2 employee benefits",
+        "Access full coverage medical, dental, and vision insurance",
+        "Qualify for 401K eligibility after one year of employment",
+        "Benefit from basic life/AD&D and dependent disability (short/long term) coverage"
+      ],
+      "Responsibilities": [
+        "1-4 years of IT developer experience after your degree",
+        "Sound understanding of the entire Software Development Lifecycle",
+        "Developing software with Agile Scrum or Kanban methodologies",
+        "Interacting with REST Web APIs (JSON/XML) using a VCS like Git or SVN",
+        "Working with XCode",
+        "Testing using various testing tools",
+        "Using software integration tools like JIRA, Jenkins & FastLane"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "jobs-digitalhire-com-job-listing-opening-2afduwum15ohl2fx54m22l",
     "_source": "new_jobs"
   },
   {
@@ -474,8 +474,8 @@
     "job_longitude": -96.835567,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD5rVDrynyJhWv_3dAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -613,9 +613,9 @@
     "job_latitude": 36.453844,
     "job_longitude": -94.1151555,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBCepVu4RW1ONnuk0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
@@ -659,8 +659,8 @@
     "job_latitude": 37.0854844,
     "job_longitude": -94.5134312,
     "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dn0bgvx5TjG14pguAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -819,7 +819,7 @@
     "job_title": "Lead Mobile Engineer",
     "employer_name": "Cape",
     "employer_logo": null,
-    "employer_website": "https://www.cape.co",
+    "employer_website": "https://capecompany.com",
     "job_publisher": "ZipRecruiter",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -876,9 +876,9 @@
     "job_latitude": 40.7127753,
     "job_longitude": -74.0059728,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzQzLPq-_VDWUC0qdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
