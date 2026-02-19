@@ -4084,31 +4084,5 @@
     "_source": "aggregator",
     "_original_source": "unknown",
     "job_posted_at": "2026-02-06T10:04:45-05:00"
-  },
-  {
-    "job_id": "lever-spotify-ad5ef898-b800-4213-a63e-e39a97df9cfb",
-    "job_title": "Site Reliability Engineer - Backstage",
-    "employer_name": "spotify",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb/apply",
-    "job_posted_at_datetime_utc": "2026-02-05T16:14:24.357Z",
-    "job_description": "Are you excited by the idea of building fast, reliable, and intelligent infrastructure for a product used by engineering teams around the world?  We’re looking for a Site Reliability Engineer to join the Backstage team at Spotify. We are building the next generation of our developer platform—one that doesn't just manage software, but actively helps create and maintain it through AI-native workflows.\n\nIn 2026, SRE isn't just about uptime; it's about symbiosis. As part of our growing engineering team, you’ll help design, build, and operate the cloud infrastructure behind our external developer portal product and our internal fleet of background coding agents. You’ll collaborate closely with experienced engineers (both human and synthetic) while gaining hands-on experience with real-world scale, observability, and the unique security challenges of an agentic production environment.  This is a great opportunity for someone who thrives in a startup-like setting, enjoys working at the forefront of infrastructure-for-AI, and wants to grow their impact by supporting a product that is redefining \"developer experience\" globally.\n\nBackstage is more than just a platform—it’s a ground-breaking force in the developer community. Born out of Spotify’s quest for better developer tooling, Backstage is now a powerhouse driving the future of developer portals across the globe.\nBut we didn't stop at catalogs and templates. Today, Backstage is the command center for AI-native engineering. From industry titans orchestrating thousands of autonomous migrations to lean teams using AI to skyrocket satisfaction, our solutions set the new gold standard.\n\nAs part of the Backstage team, you’ll shape the developer experience for companies big and small, for our thriving open-source community, and for Spotify itself. You’ll have the unique opportunity to be at the forefront of agentic developer tooling, driving innovation that touches millions.\n",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "c2bad3c1615478456a8b791ebf68a43ced411fe7b7a0e78a9a4fbc8d066c81fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [],
-      "experience": "3_plus_years",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "unknown",
-    "job_posted_at": "2026-02-05T16:14:24.357Z"
   }
 ]
