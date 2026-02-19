@@ -135,9 +135,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **dropbox** | Fullstack Product Software Engineer | Remote - Canada: Select locations | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/6330405?gh_jid=6330405) |
 | 🏢 **vercel** | Software Engineer, CDN Security 🏠 | Remote - United States | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5473266004) |
 | 🏢 **vercel** | Software Engineer, Support Platform | Hybrid - San Francisco | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5611527004) |
-| 🏢 **dropbox** | Fullstack Product Software Engin... | Remote - US: Select locations | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344968?gh_jid=7344968) |
-| 🏢 **dropbox** | Fullstack Product Software Engin... | Remote - Canada: Select locations | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344971?gh_jid=7344971) |
-| 🏢 **dropbox** | Infrastructure Software Engineer... | Remote - Poland | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7341950?gh_jid=7341950) |
+| 🏢 **dropbox** | Fullstack Product Software Engin... | Remote - US: Select locations | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344968?gh_jid=7344968) |
+| 🏢 **dropbox** | Fullstack Product Software Engin... | Remote - Canada: Select locations | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344971?gh_jid=7344971) |
+| 🏢 **dropbox** | Infrastructure Software Engineer... | Remote - Poland | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7341950?gh_jid=7341950) |
 | 🏢 **samsara** | Software Engineer - Training 🏠 | Remote - SF Bay Area | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7306930?gh_jid=7306930) |
 | 🏢 **reddit** | Android Software Engineer, Ad Fo... | New York City | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415013) |
 | 🏢 **reddit** | Android Software Engineer, Ad Fo... | San Francisco | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414993) |
@@ -158,7 +158,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **datadog** | Technical Curriculum Developer -... | California | 22h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7627229/?gh_jid=7627229) |
+| 🏢 **datadog** | Technical Curriculum Developer -... | California | 23h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7627229/?gh_jid=7627229) |
 
 </details>
 
