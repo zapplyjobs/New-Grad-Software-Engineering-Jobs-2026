@@ -22,8 +22,8 @@ module.exports = {
   tagline: '',  // No tagline for SEO repos
 
   // Description paragraphs (with template variables)
-  descriptionLine1: '🚀 Real-time software engineering, programming, and IT jobs from {totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new graduates, CS students, and entry-level software developers.',
-  descriptionLine2: '🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.',
+  descriptionLine1: '🚀 Real-time software engineering, programming, and IT jobs from {totalCompanies}+ top companies like Stripe, Datadog, and Vercel. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new graduates, CS students, and entry-level software developers.',
+  descriptionLine2: '🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Stripe, Datadog, and Vercel.',
 
   // Note box
   noteType: 'TIP',
@@ -39,5 +39,5 @@ module.exports = {
   },
 
   // Job categorization
-  defaultCategory: 'full_stack'  // Fallback for uncategorized jobs
+  defaultCategory: 'backend'  // Fallback for uncategorized jobs
 };
