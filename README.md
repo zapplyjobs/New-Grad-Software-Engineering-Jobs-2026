@@ -14,7 +14,7 @@
 ![Software Engine](https://img.shields.io/badge/Software_Engineering-554-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 12:30 PM CST
+> ⏱ Last updated: Mar 1, 12:38 PM CST
 
 
 
@@ -173,11 +173,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Booz Allen Hamilton** | DevOps Engineer | 2 Locations | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/job/McLean-VA/DevOps-Engineer_R0234946) |
-| 🏢 **Lucid Motors** | Service Advisor, Miami | Miami, FL | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063440007) |
+| 🏢 **Lucid Motors** | Service Advisor, Miami | Miami, FL | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063440007) |
 | 🏢 **Lucid Motors** | ADAS Software Integration Engineer | Newark, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4954042007) |
 | 🏢 **Lucid Motors** | Mobile Service Technician - Orlando, FL | Orlando, FL | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5002640007) |
 | 🏢 **Lucid Motors** | Service Advisor, Coolidge | Coolidge, AZ | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5004291007) |
-| 🏢 **Lucid Motors** | Studio Associate | Roswell, GA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4913933007) |
+| 🏢 **Lucid Motors** | Studio Associate | Roswell, GA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4913933007) |
 | 🏢 **MongoDB** | Software Engineer 3, Insights and Telemetry | New York City | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7571347) |
 | 🏢 **The MITRE Corporation** | Entry Level - Software Engineering or Computer Science | McLean | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115689/Entry-Level-Software-Engineering-or-Computer-Science) |
 | 🏢 **Anthropic** | Research Engineer / Research Scientist, Tokens | New York City, NY | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4951814008) |
@@ -205,7 +205,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Mevion Medical Systems** | Software Engineer l 🏠 | Littleton | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-l-at-mevion-medical-systems-4377956299?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Anduril** | Systems Engineer, Ghost | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5056823007?gh_jid=5056823007) |
 | 🏢 **Twilio** | Software Engineer 🏠 | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7605743) |
-| 🏢 **SpaceX** | New Graduate Engineer, Software (Starlink) | Bastrop, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) |
+| 🏢 **SpaceX** | New Graduate Engineer, Software (Starlink) | Bastrop, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) |
 | 🏢 **Motorola Solutions** | Software Engineer, Linux Operations | Culver City, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/job/Culver-City-CA/Software-Engineer--Linux-Operations_R60825) |
 | 🏢 **Cadence** | Software Engineer ll (New College Grad 2026) | SAN JOSE 11 | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE-11/Software-Engineer-ll--New-College-Grad-2026-_R52927-1) |
 | 🏢 **Boeing** | Software Engineer - Anti Tamper (Expert or Consultant) | Oklahoma City, OK | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/job/USA---Oklahoma-City-OK/Software-Engineer---Anti-Tamper--Expert-or-Consultant-_JR2025482740-1) |
