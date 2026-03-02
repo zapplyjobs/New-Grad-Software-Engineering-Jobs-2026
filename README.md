@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Anduril** | Tactical C2 Software Engineer, Android | Atlanta | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4827337007?gh_jid=4827337007) |
+| 🏢 **Anduril** | Tactical C2 Software Engineer, Android | Atlanta | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4827337007?gh_jid=4827337007) |
 | 🏢 **OpenAI** | iOS Software Engineer, ChatGPT Engineering | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/295506f0-c4f7-4890-af93-08d4384a3330/application) |
 | 🏢 **OpenAI** | Android Engineer, ChatGPT Engineering | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/c47bd03b-800f-4e17-8240-e83c68766937/application) |
 | 🏢 **102 ResMed Digital Health Inc.** | GL3 iOS Associate Developer Position | San Diego | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/GL3-iOS-Associate-Developer-Position_JR_047663-1) |
@@ -240,7 +240,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Twilio** | Software Engineer - Video | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7661919) |
 | 🏢 **Datadog** | Container Runtime Engineer | Boston | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7572940/?gh_jid=7572940) |
 | 🏢 **EUROPEAN DYNAMICS** | Junior Java Developer | Glouster | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1066912174?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Anduril** | Tactical C2 Software Engineer, Mobile | Atlanta | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4990225007?gh_jid=4990225007) |
+| 🏢 **Anduril** | Tactical C2 Software Engineer, Mobile | Atlanta | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4990225007?gh_jid=4990225007) |
 | 🏢 **Anduril** | Business Operations Associate, Production | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4619191007?gh_jid=4619191007) |
 | 🏢 **Anduril** | Business Planning Analyst, TRS | Atlanta | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5063829007?gh_jid=5063829007) |
 | 🏢 **Anduril** | Cloud Infrastructure Engineer, Security | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5040112007?gh_jid=5040112007) |
