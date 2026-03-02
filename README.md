@@ -175,8 +175,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Lucid Motors** | Service Advisor, Miami | Miami, FL | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063440007) |
 | 🏢 **Lucid Motors** | ADAS Software Integration Engineer | Newark, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4954042007) |
 | 🏢 **Lucid Motors** | Mobile Service Technician - Orlando, FL | Orlando, FL | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5002640007) |
-| 🏢 **Lucid Motors** | Service Advisor, Coolidge | Coolidge, AZ | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5004291007) |
-| 🏢 **Lucid Motors** | Studio Associate | Roswell, GA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4913933007) |
+| 🏢 **Lucid Motors** | Service Advisor, Coolidge | Coolidge, AZ | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5004291007) |
+| 🏢 **Lucid Motors** | Studio Associate | Roswell, GA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4913933007) |
 | 🏢 **Leidos** | Junior Software Engineer 🇺🇸 | Meridianville | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/meridianville-al/junior-software-engineer-898611/) |
 | 🏢 **MongoDB** | Software Engineer 3, Insights and Telemetry | New York City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7571347) |
 | 🏢 **The MITRE Corporation** | Entry Level - Software Engineering or Computer Science | McLean | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115689/Entry-Level-Software-Engineering-or-Computer-Science) |
