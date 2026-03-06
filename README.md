@@ -9,16 +9,16 @@
 
 # Software Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1312-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1313-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-237-blue?style=flat&logo=building)
-![Software Engine](https://img.shields.io/badge/Software_Engineering-1119-red?style=flat&logo=star)
+![Software Engine](https://img.shields.io/badge/Software_Engineering-1120-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 237+ top companies like Stripe, Datadog, and Vercel. Updated every 15 minutes with 1312+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 237+ top companies like Stripe, Datadog, and Vercel. Updated every 15 minutes with 1313+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Stripe, Datadog, and Vercel.</p>
 
@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Twilio** | Android Engineer - P3 - Security + Identity | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7229383) |
+| 🏢 **Twilio** | Android Engineer - P3 - Security + Identity | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7229383) |
 | 🏢 **Moloco** | Android Engineer - SDK | Menlo Park | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/moloco/jobs/6086320003) |
 | 🏢 **Airtable** | Software Engineer, Android | San Francisco, CA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7953553002) |
 | 🏢 **xAI** | Mobile Android Engineer | New York, NY | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4892323007) |
@@ -185,8 +185,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Anthropic** | Design Engineer, Web | San Francisco, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5116525008) |
-| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, Frontend | Costa Mesa | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673956007?gh_jid=4673956007) |
 | 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, Frontend | Seattle | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674088007?gh_jid=4674088007) |
+| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, Frontend | Costa Mesa | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673956007?gh_jid=4673956007) |
 | 🏢 **Verkada** | Embedded UI Engineer | San Mateo, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5035823007) |
 | 🏢 **Verkada** | Frontend Engineer - Search & Computer Vision | San Mateo, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4128663007) |
 | 🏢 **Verkada** | Frontend Software Engineer - University Graduate 2026 | San Mateo, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5026067007) |
@@ -287,18 +287,21 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **CACI** | Software Developer | US MD Bethesda | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Bethesda/Software-Developer_318184-1) |
 | 🏢 **Intermountain Health** | Software Engineer | Murray | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/SelectHealth---Murray/Software-Engineer_R163478) |
 | 🏢 **Adobe** | Software Developer Engineer 4 | Lehi | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Senior-Software-Developer_R157106) |
 | 🏢 **Adobe** | Backend Software Engineer | Seattle | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Software-Development-Engineer_R164609) |
-| 🏢 **Okta** | Solutions Engineer, Okta | Florida; New York... | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/6948361?gh_jid=6948361) |
-| 🏢 **Anthropic** | Research Engineer, Agents | Friendly (Travel-... | 17m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4017544008) |
-| 🏢 **SpaceX** | Embedded Software Engineer (Starlink) | Hawthorne, CA | 19m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8379277002?gh_jid=8379277002) |
-| 🏢 **Anduril** | Robotics Engineer, Maritime | Quincy | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5047315007?gh_jid=5047315007) |
-| 🏢 **Anduril** | Robotics Engineer, Maritime | Costa Mesa | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051580007?gh_jid=5051580007) |
-| 🏢 **Anduril** | Software Engineer, Maritime | Quincy | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5049648007?gh_jid=5049648007) |
-| 🏢 **Anduril** | Software Engineer, Maritime | Costa Mesa | 28m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051550007?gh_jid=5051550007) |
-| 🏢 **Anduril** | Electrical Engineering Technician | Huntsville | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5049191007?gh_jid=5049191007) |
-| 🏢 **Anduril** | JMPS Engineer | Costa Mesa | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4835435007?gh_jid=4835435007) |
+| 🏢 **Boeing** | Experienced Embedded Software Engineer | 2 Locations | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Experienced-Embedded-Software-Engineer_JR2025485213-1) |
+| 🏢 **Boeing** | Associate Embedded Software Engineers | 2 Locations | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Associate-Embedded-Software-Engineers_JR2025489635-1) |
+| 🏢 **Anduril** | Software Engineer, Maritime | Costa Mesa | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051550007?gh_jid=5051550007) |
+| 🏢 **Anduril** | Software Engineer, Maritime | Quincy | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5049648007?gh_jid=5049648007) |
+| 🏢 **Anduril** | Robotics Engineer, Maritime | Costa Mesa | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051580007?gh_jid=5051580007) |
+| 🏢 **Anduril** | Robotics Engineer, Maritime | Quincy | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5047315007?gh_jid=5047315007) |
+| 🏢 **Okta** | Solutions Engineer, Okta | Florida; New York... | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/6948361?gh_jid=6948361) |
+| 🏢 **Anthropic** | Research Engineer, Agents | Friendly (Travel-... | 32m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4017544008) |
+| 🏢 **SpaceX** | Embedded Software Engineer (Starlink) | Hawthorne, CA | 34m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8379277002?gh_jid=8379277002) |
+| 🏢 **Anduril** | Electrical Engineering Technician | Huntsville | 45m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5049191007?gh_jid=5049191007) |
+| 🏢 **Anduril** | JMPS Engineer | Costa Mesa | 48m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4835435007?gh_jid=4835435007) |
 | 🏢 **SpaceX** | Security Software Engineer, Applied Computing (Starshield) | Hawthorne, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8440980002?gh_jid=8440980002) |
 | 🏢 **Anthropic** | Applied AI Engineer, Beneficial Deployments | San Francisco, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5068226008) |
 | 🏢 **Anthropic** | Applied AI Engineer (Digital Natives Business) | San Francisco, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5057647008) |
@@ -339,14 +342,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **IMC Trading** | Quantitative Researcher - Data Curation | Chicago | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4660792101) |
 | 🏢 **IMC Trading** | Software Engineer, Early Career | Chicago | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) |
 | 🏢 **IMC Trading** | Trading Engineer - Strategy | Chicago | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4439286101) |
-| 🏢 **Twilio** | Software Engineer (L2) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7671815) |
-| 🏢 **Twilio** | Software Engineer | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7070250) |
+| 🏢 **Twilio** | Software Engineer (L2) | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7671815) |
+| 🏢 **Twilio** | Software Engineer | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7070250) |
 | 🏢 **Grafana Labs** | Software Engineer - Platform InfraSec   USA   Remote | United States (Re... | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/grafanalabs/jobs/5819644004) |
-| 🏢 **Lucid Motors** | Service Advisor, Miami | Miami, FL | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063440007) |
-| 🏢 **Lucid Motors** | Service Advisor, Tysons Galleria | McLean, VA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063438007) |
+| 🏢 **Lucid Motors** | Service Advisor, Miami | Miami, FL | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063440007) |
+| 🏢 **Lucid Motors** | Service Advisor, Tysons Galleria | McLean, VA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063438007) |
 | 🏢 **Lucid Motors** | Mobile Service Technician, Scottsdale | Scottsdale, AZ | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5042086007) |
 | 🏢 **Lucid Motors** | Mobile Service Technician - Orlando, FL | Orlando, FL | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5002640007) |
-| 🏢 **Lucid Motors** | Mobile Service Technician - Riviera Beach, FL | Riviera Beach, FL | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5032268007) |
+| 🏢 **Lucid Motors** | Mobile Service Technician - Riviera Beach, FL | Riviera Beach, FL | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5032268007) |
 | 🏢 **Coinbase** | Software Engineer - Salesforce Platform (EAA) | Remote | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
 | 🏢 **Coinbase** | Software Engineer | Remote | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536) |
 | 🏢 **Coinbase** | Software Engineer, DevSec | Remote | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352) |
@@ -361,7 +364,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SpaceX** | GNC Engineer, ADCS (Starshield) | Hawthorne, CA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8397623002?gh_jid=8397623002) |
 | 🏢 **SpaceX** | GNC Engineer, Beam Planning | Hawthorne, CA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8218276002?gh_jid=8218276002) |
 | 🏢 **Anduril** | Business Operations Associate, Production | Costa Mesa | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4619191007?gh_jid=4619191007) |
-| 🏢 **Anduril** | Business Planning Analyst, TRS | Atlanta | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5063829007?gh_jid=5063829007) |
+| 🏢 **Anduril** | Business Planning Analyst, TRS | Atlanta | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4840176007?gh_jid=4840176007) |
 | 🏢 **Anduril** | Cloud Infrastructure Engineer, Security | Costa Mesa | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5040112007?gh_jid=5040112007) |
 | 🏢 **Anduril** | Data Integration Engineer | Costa Mesa | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4801692007?gh_jid=4801692007) |
 | 🏢 **Anduril** | DevOps Engineer | Reston | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5039332007?gh_jid=5039332007) |
@@ -384,9 +387,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Mechanical Engineer, Rocket Motor Systems | Huntsville | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5011389007?gh_jid=5011389007) |
 | 🏢 **Anduril** | Mission Autonomy Integration Engineer | Costa Mesa | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4370563007?gh_jid=4370563007) |
 | 🏢 **Anduril** | Mission Software Engineer | Costa Mesa | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5047469007?gh_jid=5047469007) |
-| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, C++ | Costa Mesa | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673932007?gh_jid=4673932007) |
-| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, C++ | Washington | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674096007?gh_jid=4674096007) |
-| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, GenSWE | Costa Mesa | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4672848007?gh_jid=4672848007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -451,7 +451,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1312 current opportunities from 237 companies**
+**🎯 1313 current opportunities from 237 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
