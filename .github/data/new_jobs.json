@@ -7651,35 +7651,6 @@
     "job_posted_at": "2026-03-05T19:12:07-05:00"
   },
   {
-    "job_id": "js-lockheed-martin-gnbswqvqocrgcchwaaaaaa==",
-    "job_title": "Software Engineer- Clearance Required",
-    "employer_name": "Lockheed Martin",
-    "job_city": "Hanover",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/hanover/software-engineer-clearance-required/694/90838136480",
-    "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "58a9dbc5069607396fe45e383314623143c2ff2bbf94c041ea3d40354f6be40b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-06T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-504c38cc-30fd-439b-bcb6-8a75eefbc2c4",
     "job_title": "Software Development Engineer, Sponsored Brands Advertising",
     "employer_name": "Amazon.com Services LLC",
@@ -7896,6 +7867,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-lockheed-martin-gnbswqvqocrgcchwaaaaaa==",
+    "job_title": "Software Engineer- Clearance Required",
+    "employer_name": "Lockheed Martin",
+    "job_city": "Hanover",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/hanover/software-engineer-clearance-required/694/90838136480",
+    "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "58a9dbc5069607396fe45e383314623143c2ff2bbf94c041ea3d40354f6be40b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-06T00:00:00.000Z"
   },
   {
@@ -9082,7 +9082,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday---Techo-Functional--Finance-_R237407-1",
-    "job_posted_at_datetime_utc": "2026-03-05T08:02:58.817Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:18:29.314Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "702d959c17cc5d9e24fd9ed9cfe9a47ff2a4adb0503dccdb4ffa0282f818275b",
@@ -9099,7 +9099,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:02:58.817Z"
+    "job_posted_at": "2026-03-05T08:18:29.314Z"
   },
   {
     "job_id": "workday-motorola-solutions-R61766",
@@ -13086,6 +13086,90 @@
     "job_posted_at": "2026-03-03T10:54:37-05:00"
   },
   {
+    "job_id": "workday-salesforce-JR328096",
+    "job_title": "Software Engineering SMTS - Cloud Reliability",
+    "employer_name": "Salesforce",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-SMTS---Cloud-Reliability_JR328096",
+    "job_posted_at_datetime_utc": "2026-03-03T08:18:35.957Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "940be1f08188daa343c7cc2fa11c855336cc3d776c790c9810d13a58a2205cd1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:18:35.957Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR328098",
+    "job_title": "Software Engineering MTS - Security Automation",
+    "employer_name": "Salesforce",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-MTS---Security-Automation_JR328098",
+    "job_posted_at_datetime_utc": "2026-03-03T08:18:35.957Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "19d94ea352e2de9e5ea499c66a73fb0bdef0a0e451e775ef65cfd316d5b6bd0a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:18:35.957Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR328097",
+    "job_title": "Software Engineering LMTS - Cloud Platform",
+    "employer_name": "Salesforce",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-LMTS---Cloud-Platform_JR328097-1",
+    "job_posted_at_datetime_utc": "2026-03-03T08:18:35.957Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d73e3824461075f76b4f5c3542fdf1b2c63f14a593ab88b7232b0420335adf2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:18:35.957Z"
+  },
+  {
     "job_id": "greenhouse-robinhood-7489770",
     "job_title": "Software Engineer, Streaming Infrastructure",
     "employer_name": "Robinhood",
@@ -13114,90 +13198,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-03T03:04:02-05:00"
-  },
-  {
-    "job_id": "workday-salesforce-JR328096",
-    "job_title": "Software Engineering SMTS - Cloud Reliability",
-    "employer_name": "Salesforce",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-SMTS---Cloud-Reliability_JR328096",
-    "job_posted_at_datetime_utc": "2026-03-03T08:03:05.819Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "940be1f08188daa343c7cc2fa11c855336cc3d776c790c9810d13a58a2205cd1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:03:05.819Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR328098",
-    "job_title": "Software Engineering MTS - Security Automation",
-    "employer_name": "Salesforce",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-MTS---Security-Automation_JR328098",
-    "job_posted_at_datetime_utc": "2026-03-03T08:03:05.819Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "19d94ea352e2de9e5ea499c66a73fb0bdef0a0e451e775ef65cfd316d5b6bd0a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:03:05.819Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR328097",
-    "job_title": "Software Engineering LMTS - Cloud Platform",
-    "employer_name": "Salesforce",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-LMTS---Cloud-Platform_JR328097-1",
-    "job_posted_at_datetime_utc": "2026-03-03T08:03:05.819Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d73e3824461075f76b4f5c3542fdf1b2c63f14a593ab88b7232b0420335adf2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:03:05.819Z"
   },
   {
     "job_id": "workday-leidos-R-00171656",
@@ -15333,7 +15333,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Software-Engineer--Full-Stack_R236664-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:02:58.821Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:18:29.316Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1d64ce6b7965b3af012de4395a96e266b3346105b1dc52405307b89c32845b5e",
@@ -15350,7 +15350,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:02:58.821Z"
+    "job_posted_at": "2026-03-02T08:18:29.316Z"
   },
   {
     "job_id": "workday-nvidia-JR2011587",
@@ -15383,18 +15383,18 @@
     "job_posted_at": "2026-03-02T07:03:21.287Z"
   },
   {
-    "job_id": "js-sacred-heart-university-oy764hxvdhpy-kmraaaaaa==",
-    "job_title": "Software Engineer New Grad",
-    "employer_name": "Sacred Heart University",
-    "job_city": "Fairfield",
+    "job_id": "js-ascensus-0nhslqw87l4p7kyqaaaaaa==",
+    "job_title": "Associate Software Engineer,",
+    "employer_name": "Ascensus",
+    "job_city": "Pennsylvania",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/software-engineer-new-grad--fairfield--ef1b7b8ea7dbc3ffed04932eefb0b09a7",
+    "job_apply_link": "https://www.tryapplynow.com/jobs/ascensus-associate-software-engineer-a4ee5075-2281-4ff2-9710-f95c1db3648f",
     "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "92a3f9c2d5705a0473a9fb073b96796ce02df960839413fa31f023eb836eb877",
+    "fingerprint": "49c9ec2c901cebe0744e59fca11760587045de29d0c49d5457d6fd45b634b9a3",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -15404,7 +15404,7 @@
         "us",
         "on_site"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -15568,18 +15568,18 @@
     "job_posted_at": "2026-03-02T00:00:00.000Z"
   },
   {
-    "job_id": "js-ascensus-0nhslqw87l4p7kyqaaaaaa==",
-    "job_title": "Associate Software Engineer,",
-    "employer_name": "Ascensus",
-    "job_city": "Pennsylvania",
+    "job_id": "js-sacred-heart-university-oy764hxvdhpy-kmraaaaaa==",
+    "job_title": "Software Engineer New Grad",
+    "employer_name": "Sacred Heart University",
+    "job_city": "Fairfield",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.tryapplynow.com/jobs/ascensus-associate-software-engineer-a4ee5075-2281-4ff2-9710-f95c1db3648f",
+    "job_apply_link": "https://www.jobleads.com/us/job/software-engineer-new-grad--fairfield--ef1b7b8ea7dbc3ffed04932eefb0b09a7",
     "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "49c9ec2c901cebe0744e59fca11760587045de29d0c49d5457d6fd45b634b9a3",
+    "fingerprint": "92a3f9c2d5705a0473a9fb073b96796ce02df960839413fa31f023eb836eb877",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -15589,7 +15589,7 @@
         "us",
         "on_site"
       ],
-      "experience": "entry_level",
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -16153,35 +16153,6 @@
     "job_posted_at": "2026-03-01T06:50:17.391Z"
   },
   {
-    "job_id": "js-leidos-cnn7nbzr6os2vflraaaaaa==",
-    "job_title": "Junior Software Engineer - TS/SCI",
-    "employer_name": "Leidos",
-    "job_city": "Pepper Mill Village",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/peppermill-village-md/junior-software-engineer-ts-sci-937997/",
-    "job_posted_at_datetime_utc": "2026-03-01T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "5e754acf9282183b53ab340c9d8f0194cda8167b096d790755553cd981315d15",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-01T00:00:00.000Z"
-  },
-  {
     "job_id": "js-morningstar-l4xh367nyx3tym1vaaaaaa==",
     "job_title": "Associate Software Engineer",
     "employer_name": "Morningstar",
@@ -16204,6 +16175,35 @@
         "on_site"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-01T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-leidos-cnn7nbzr6os2vflraaaaaa==",
+    "job_title": "Junior Software Engineer - TS/SCI",
+    "employer_name": "Leidos",
+    "job_city": "Pepper Mill Village",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.womenforhire.com/job/usa/peppermill-village-md/junior-software-engineer-ts-sci-937997/",
+    "job_posted_at_datetime_utc": "2026-03-01T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "5e754acf9282183b53ab340c9d8f0194cda8167b096d790755553cd981315d15",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -29324,7 +29324,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Data-Infrastructure---Slack_JR331617-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:03:05.821Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:18:35.958Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4740c0cb8c336bfa5838e1fb6ce6298968058baca34d098c4aa8545317e5e902",
@@ -29341,7 +29341,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:03:05.821Z"
+    "job_posted_at": "2026-02-27T08:18:35.958Z"
   },
   {
     "job_id": "workday-salesforce-JR331613",
@@ -29352,7 +29352,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Infrastructure_JR331613-2",
-    "job_posted_at_datetime_utc": "2026-02-27T08:03:05.821Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:18:35.958Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fec3289bbbaee5ba375063486e59770f04a306f65202e62a4f64915e2d73510f",
@@ -29369,7 +29369,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:03:05.821Z"
+    "job_posted_at": "2026-02-27T08:18:35.958Z"
   },
   {
     "job_id": "workday-capital-one-R236983",
@@ -29380,7 +29380,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday--Functional-_R236983-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:02:58.821Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:18:29.316Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4b85e9b43547a406eedef8cde1328dd66dae7b4af29a1038eb7bc9f2742b4ae",
@@ -29397,7 +29397,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:02:58.821Z"
+    "job_posted_at": "2026-02-27T08:18:29.316Z"
   },
   {
     "job_id": "workday-motorola-solutions-R62389",
