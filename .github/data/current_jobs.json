@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/SelectHealth---Murray/Software-Engineer_R163478",
-    "job_posted_at_datetime_utc": "2026-03-07T07:18:22.476Z",
+    "job_posted_at_datetime_utc": "2026-03-07T07:33:04.129Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5e9411b74012132fb1098a352b78537303a15dcc9325e9595bbbc02684644ae4",
@@ -25,7 +25,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T07:18:22.476Z"
+    "job_posted_at": "2026-03-07T07:33:04.129Z"
   },
   {
     "job_id": "workday-boeing-JR2026494817",
@@ -4925,14 +4925,14 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5063829007",
+    "job_id": "greenhouse-andurilindustries-4840176007",
     "job_title": "Business Planning Analyst, TRS",
     "employer_name": "Anduril",
     "job_city": "Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5063829007?gh_jid=5063829007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4840176007?gh_jid=4840176007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -4953,14 +4953,14 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4840176007",
+    "job_id": "greenhouse-andurilindustries-5063829007",
     "job_title": "Business Planning Analyst, TRS",
     "employer_name": "Anduril",
     "job_city": "Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4840176007?gh_jid=4840176007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5063829007?gh_jid=5063829007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -5209,18 +5209,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4497427007",
+    "job_id": "greenhouse-andurilindustries-4767772007",
     "job_title": "Ground Software Engineer, Space",
     "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
+    "job_city": "Washington",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4497427007?gh_jid=4497427007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4767772007?gh_jid=4767772007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ccc2a178659fafe4a115d29fa3c783fa36d09c778a731fc45b7d3c20edbab34f",
+    "fingerprint": "6da50fabc500903a2aad44fdc9f93298efd2248732f39f7198273bad25ebfd80",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5237,18 +5237,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4767772007",
+    "job_id": "greenhouse-andurilindustries-4497427007",
     "job_title": "Ground Software Engineer, Space",
     "employer_name": "Anduril",
-    "job_city": "Washington",
+    "job_city": "Costa Mesa",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4767772007?gh_jid=4767772007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4497427007?gh_jid=4497427007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "6da50fabc500903a2aad44fdc9f93298efd2248732f39f7198273bad25ebfd80",
+    "fingerprint": "ccc2a178659fafe4a115d29fa3c783fa36d09c778a731fc45b7d3c20edbab34f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5436,34 +5436,6 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4674096007",
-    "job_title": "Mission Software Engineer, Air Vehicle Autonomy, C++",
-    "employer_name": "Anduril",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4674096007?gh_jid=4674096007",
-    "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "42b73ccbcc268d20b0c0303d5e5a8a0a6cf6154aec7ec5ad04ef635709330b1a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-05T21:27:35-05:00"
-  },
-  {
     "job_id": "greenhouse-andurilindustries-4673932007",
     "job_title": "Mission Software Engineer, Air Vehicle Autonomy, C++",
     "employer_name": "Anduril",
@@ -5492,18 +5464,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4674088007",
-    "job_title": "Mission Software Engineer, Air Vehicle Autonomy, Frontend",
+    "job_id": "greenhouse-andurilindustries-4674096007",
+    "job_title": "Mission Software Engineer, Air Vehicle Autonomy, C++",
     "employer_name": "Anduril",
-    "job_city": "Seattle",
+    "job_city": "Washington",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4674088007?gh_jid=4674088007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4674096007?gh_jid=4674096007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4284a8ef61af9fd39aac55d2e5bd194a47987b669c05e5e1eaaf3f6879a119b6",
+    "fingerprint": "42b73ccbcc268d20b0c0303d5e5a8a0a6cf6154aec7ec5ad04ef635709330b1a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5532,6 +5504,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0a8cfa50fb9657e4f0befc34e5c2e5eff05adaae545d3cadf49fb7e29ae288e4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-05T21:27:35-05:00"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-4674088007",
+    "job_title": "Mission Software Engineer, Air Vehicle Autonomy, Frontend",
+    "employer_name": "Anduril",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4674088007?gh_jid=4674088007",
+    "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4284a8ef61af9fd39aac55d2e5bd194a47987b669c05e5e1eaaf3f6879a119b6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6119,34 +6119,6 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4930986007",
-    "job_title": "Software Engineer, Air Defense",
-    "employer_name": "Anduril",
-    "job_city": "Irvine",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4930986007?gh_jid=4930986007",
-    "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "20c7243bb4c9426cd855450b53de0f6d1b4a27e11ae3e03628592cdb452eb839",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-05T21:27:35-05:00"
-  },
-  {
     "job_id": "greenhouse-andurilindustries-5016812007",
     "job_title": "Software Engineer, Air Defense",
     "employer_name": "Anduril",
@@ -6175,18 +6147,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5008367007",
-    "job_title": "Software Engineer, C++",
+    "job_id": "greenhouse-andurilindustries-4930986007",
+    "job_title": "Software Engineer, Air Defense",
     "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
+    "job_city": "Irvine",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5008367007?gh_jid=5008367007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4930986007?gh_jid=4930986007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f38e69e7318ad3c73ebff30b6948f963ee95b032c922735bbc2bba404996f2a9",
+    "fingerprint": "20c7243bb4c9426cd855450b53de0f6d1b4a27e11ae3e03628592cdb452eb839",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6231,6 +6203,34 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
+    "job_id": "greenhouse-andurilindustries-5008367007",
+    "job_title": "Software Engineer, C++",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5008367007?gh_jid=5008367007",
+    "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f38e69e7318ad3c73ebff30b6948f963ee95b032c922735bbc2bba404996f2a9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-05T21:27:35-05:00"
+  },
+  {
     "job_id": "greenhouse-andurilindustries-4541903007",
     "job_title": "Software Engineer, Connected Warfare",
     "employer_name": "Anduril",
@@ -6259,18 +6259,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4776690007",
+    "job_id": "greenhouse-andurilindustries-4596297007",
     "job_title": "Software Engineer, Connected Warfare",
     "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
+    "job_city": "Washington",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4596297007?gh_jid=4596297007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "7d960726e4cbc3ed3620033f9dae68ccb7b0dd23943ab846aad15ed09e3ea014",
+    "fingerprint": "c02767ae488378a54221f15d41b55c7c5bb9dab13e547a01e8b1a35ca874a9b5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6287,18 +6287,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4596297007",
+    "job_id": "greenhouse-andurilindustries-4776690007",
     "job_title": "Software Engineer, Connected Warfare",
     "employer_name": "Anduril",
-    "job_city": "Washington",
+    "job_city": "Costa Mesa",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4596297007?gh_jid=4596297007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c02767ae488378a54221f15d41b55c7c5bb9dab13e547a01e8b1a35ca874a9b5",
+    "fingerprint": "7d960726e4cbc3ed3620033f9dae68ccb7b0dd23943ab846aad15ed09e3ea014",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6344,18 +6344,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5038025007",
+    "job_id": "greenhouse-andurilindustries-4981660007",
     "job_title": "Software Engineer, DevOps, Discovery",
     "employer_name": "Anduril",
-    "job_city": "Seattle",
+    "job_city": "Washington",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5038025007?gh_jid=5038025007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4981660007?gh_jid=4981660007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4132f9606da3ae422637560ec6c9a7d41b117ba3033efd01f7b6f136209e668c",
+    "fingerprint": "275c5cd0724c83f86545f5783a8b8dba0155fc170f4f751110890676954f85fd",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6373,18 +6373,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4981660007",
+    "job_id": "greenhouse-andurilindustries-5038025007",
     "job_title": "Software Engineer, DevOps, Discovery",
     "employer_name": "Anduril",
-    "job_city": "Washington",
+    "job_city": "Seattle",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4981660007?gh_jid=4981660007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5038025007?gh_jid=5038025007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "275c5cd0724c83f86545f5783a8b8dba0155fc170f4f751110890676954f85fd",
+    "fingerprint": "4132f9606da3ae422637560ec6c9a7d41b117ba3033efd01f7b6f136209e668c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6601,18 +6601,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5008378007",
+    "job_id": "greenhouse-andurilindustries-5009206007",
     "job_title": "Software Engineer, Guidance, Navigation, Control",
     "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
+    "job_city": "Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5008378007?gh_jid=5008378007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5009206007?gh_jid=5009206007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2e8ccea692bf1daf7efecdf0fe2d4d483237a76a91c9f7095e62e825992da8ae",
+    "fingerprint": "1da484b0763417c65c322c844ba3bf5af38d5c868cb956a5f21ca19bd552d3b4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6629,18 +6629,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5009206007",
+    "job_id": "greenhouse-andurilindustries-5008378007",
     "job_title": "Software Engineer, Guidance, Navigation, Control",
     "employer_name": "Anduril",
-    "job_city": "Atlanta",
+    "job_city": "Costa Mesa",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5009206007?gh_jid=5009206007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5008378007?gh_jid=5008378007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1da484b0763417c65c322c844ba3bf5af38d5c868cb956a5f21ca19bd552d3b4",
+    "fingerprint": "2e8ccea692bf1daf7efecdf0fe2d4d483237a76a91c9f7095e62e825992da8ae",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6769,18 +6769,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5009182007",
+    "job_id": "greenhouse-andurilindustries-5008369007",
     "job_title": "Software Engineer, Modeling & Simulation",
     "employer_name": "Anduril",
-    "job_city": "Irvine",
+    "job_city": "Costa Mesa",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5009182007?gh_jid=5009182007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5008369007?gh_jid=5008369007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "fcdcddc16cd06e8f73fd9e051c0560e1b98a383e0d5f8500a2c9f8fc5f8aaab0",
+    "fingerprint": "fedf3f60c326b5c75c799ab2d2739d3477022076e89c0833934e2df169b64cd8",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6797,18 +6797,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5008369007",
+    "job_id": "greenhouse-andurilindustries-5009182007",
     "job_title": "Software Engineer, Modeling & Simulation",
     "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
+    "job_city": "Irvine",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5008369007?gh_jid=5008369007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5009182007?gh_jid=5009182007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "fedf3f60c326b5c75c799ab2d2739d3477022076e89c0833934e2df169b64cd8",
+    "fingerprint": "fcdcddc16cd06e8f73fd9e051c0560e1b98a383e0d5f8500a2c9f8fc5f8aaab0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7746,14 +7746,14 @@
     "job_posted_at": "2026-03-06T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-bae87a95-0890-45cf-9592-e74cf5c4eb88",
+    "job_id": "amazon-27f656f0-7abe-46eb-af7e-a3b4f22d0f34",
     "job_title": "Security Systems Engineer, DCE Security Solutions Engineering",
     "employer_name": "Amazon Data Services, Inc.",
     "job_city": "Austin",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3198559/security-systems-engineer-dce-security-solutions-engineering",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3198551/security-systems-engineer-dce-security-solutions-engineering",
     "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -7777,14 +7777,14 @@
     "job_posted_at": "2026-03-06T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-27f656f0-7abe-46eb-af7e-a3b4f22d0f34",
+    "job_id": "amazon-bae87a95-0890-45cf-9592-e74cf5c4eb88",
     "job_title": "Security Systems Engineer, DCE Security Solutions Engineering",
     "employer_name": "Amazon Data Services, Inc.",
     "job_city": "Austin",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3198551/security-systems-engineer-dce-security-solutions-engineering",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3198559/security-systems-engineer-dce-security-solutions-engineering",
     "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -11429,7 +11429,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-SMTS---Cloud-Reliability_JR328096",
-    "job_posted_at_datetime_utc": "2026-03-04T07:18:00.149Z",
+    "job_posted_at_datetime_utc": "2026-03-04T07:32:46.269Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "940be1f08188daa343c7cc2fa11c855336cc3d776c790c9810d13a58a2205cd1",
@@ -11446,7 +11446,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T07:18:00.149Z"
+    "job_posted_at": "2026-03-04T07:32:46.269Z"
   },
   {
     "job_id": "workday-salesforce-JR328098",
@@ -11457,7 +11457,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-MTS---Security-Automation_JR328098",
-    "job_posted_at_datetime_utc": "2026-03-04T07:18:00.149Z",
+    "job_posted_at_datetime_utc": "2026-03-04T07:32:46.269Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "19d94ea352e2de9e5ea499c66a73fb0bdef0a0e451e775ef65cfd316d5b6bd0a",
@@ -11474,7 +11474,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T07:18:00.149Z"
+    "job_posted_at": "2026-03-04T07:32:46.269Z"
   },
   {
     "job_id": "workday-salesforce-JR328097",
@@ -11485,7 +11485,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-LMTS---Cloud-Platform_JR328097-1",
-    "job_posted_at_datetime_utc": "2026-03-04T07:18:00.149Z",
+    "job_posted_at_datetime_utc": "2026-03-04T07:32:46.269Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7d73e3824461075f76b4f5c3542fdf1b2c63f14a593ab88b7232b0420335adf2",
@@ -11502,7 +11502,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T07:18:00.149Z"
+    "job_posted_at": "2026-03-04T07:32:46.269Z"
   },
   {
     "job_id": "workday-blue-origin-R59831",
@@ -12047,18 +12047,18 @@
     "job_posted_at": "2026-03-04T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-a5117a0b-23cd-4c32-b54d-f9394d4b17a2",
-    "job_title": "Software Development Engineer, Ads Experience Framework",
+    "job_id": "amazon-f44e5c69-b776-47b0-bbdd-42c14eeeb4fd",
+    "job_title": "Software Development Engineer, Sponsored Brands Advertising",
     "employer_name": "Amazon.com Services LLC",
     "job_city": "New York",
     "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3196080/software-development-engineer-ads-experience-framework",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3196281/software-development-engineer-sponsored-brands-advertising",
     "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "6572a0b0d75260b5b84ef84354d44324af84f1be43cb2527f077ec7e3699ae45",
+    "fingerprint": "55639f991b928196d343026bf9c77a1bc470a8ff05c1b1b6a62a37b98bf16790",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12078,18 +12078,18 @@
     "job_posted_at": "2026-03-04T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-f44e5c69-b776-47b0-bbdd-42c14eeeb4fd",
-    "job_title": "Software Development Engineer, Sponsored Brands Advertising",
+    "job_id": "amazon-a5117a0b-23cd-4c32-b54d-f9394d4b17a2",
+    "job_title": "Software Development Engineer, Ads Experience Framework",
     "employer_name": "Amazon.com Services LLC",
     "job_city": "New York",
     "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3196281/software-development-engineer-sponsored-brands-advertising",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3196080/software-development-engineer-ads-experience-framework",
     "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "55639f991b928196d343026bf9c77a1bc470a8ff05c1b1b6a62a37b98bf16790",
+    "fingerprint": "6572a0b0d75260b5b84ef84354d44324af84f1be43cb2527f077ec7e3699ae45",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -13178,7 +13178,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Software-Engineer--Full-Stack_R236664-1",
-    "job_posted_at_datetime_utc": "2026-03-03T07:17:52.993Z",
+    "job_posted_at_datetime_utc": "2026-03-03T07:32:38.852Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1d64ce6b7965b3af012de4395a96e266b3346105b1dc52405307b89c32845b5e",
@@ -13195,7 +13195,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T07:17:52.993Z"
+    "job_posted_at": "2026-03-03T07:32:38.852Z"
   },
   {
     "job_id": "workday-leidos-R-00171656",
@@ -14983,34 +14983,6 @@
     "job_posted_at": "2026-03-02T12:43:24-05:00"
   },
   {
-    "job_id": "greenhouse-samsara-7291579",
-    "job_title": "Customer Success Associate",
-    "employer_name": "Samsara",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.samsara.com/company/careers/roles/7291579?gh_jid=7291579",
-    "job_posted_at_datetime_utc": "2026-03-02T12:35:39-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0cf348fec8531ca606bd67b4daefcabfe52bdb6a754720bcba1f279f99adcc15",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-02T12:35:39-05:00"
-  },
-  {
     "job_id": "greenhouse-samsara-7539744",
     "job_title": "Customer Success Associate",
     "employer_name": "Samsara",
@@ -15031,6 +15003,34 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-02T12:35:39-05:00"
+  },
+  {
+    "job_id": "greenhouse-samsara-7291579",
+    "job_title": "Customer Success Associate",
+    "employer_name": "Samsara",
+    "job_city": "Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.samsara.com/company/careers/roles/7291579?gh_jid=7291579",
+    "job_posted_at_datetime_utc": "2026-03-02T12:35:39-05:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0cf348fec8531ca606bd67b4daefcabfe52bdb6a754720bcba1f279f99adcc15",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "mid_level",
       "special": []
@@ -16363,7 +16363,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Data-Infrastructure---Slack_JR331617-1",
-    "job_posted_at_datetime_utc": "2026-02-28T07:18:00.151Z",
+    "job_posted_at_datetime_utc": "2026-02-28T07:32:46.270Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4740c0cb8c336bfa5838e1fb6ce6298968058baca34d098c4aa8545317e5e902",
@@ -16380,7 +16380,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T07:18:00.151Z"
+    "job_posted_at": "2026-02-28T07:32:46.270Z"
   },
   {
     "job_id": "workday-salesforce-JR331613",
@@ -16391,7 +16391,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Infrastructure_JR331613-2",
-    "job_posted_at_datetime_utc": "2026-02-28T07:18:00.151Z",
+    "job_posted_at_datetime_utc": "2026-02-28T07:32:46.270Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fec3289bbbaee5ba375063486e59770f04a306f65202e62a4f64915e2d73510f",
@@ -16408,7 +16408,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T07:18:00.151Z"
+    "job_posted_at": "2026-02-28T07:32:46.270Z"
   },
   {
     "job_id": "workday-capital-one-R236983",
@@ -16419,7 +16419,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday--Functional-_R236983-1",
-    "job_posted_at_datetime_utc": "2026-02-28T07:17:52.994Z",
+    "job_posted_at_datetime_utc": "2026-02-28T07:32:38.852Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4b85e9b43547a406eedef8cde1328dd66dae7b4af29a1038eb7bc9f2742b4ae",
@@ -16436,7 +16436,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T07:17:52.994Z"
+    "job_posted_at": "2026-02-28T07:32:38.852Z"
   },
   {
     "job_id": "workday-cadence-R52927",
@@ -34181,18 +34181,18 @@
     "job_posted_at": "2026-02-24T16:35:46-05:00"
   },
   {
-    "job_id": "greenhouse-sigmacomputing-7639849003",
+    "job_id": "greenhouse-sigmacomputing-7639850003",
     "job_title": "Technical Support Engineer",
     "employer_name": "Sigma Computing",
-    "job_city": "New York City",
-    "job_state": "NY",
+    "job_city": "San Francisco",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7639849003",
+    "job_apply_link": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7639850003",
     "job_posted_at_datetime_utc": "2026-02-24T16:35:46-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "8ca09348f4a59133d280e5b678a13f6eb01226ee9ccfaa75ed6c09f71126f2e1",
+    "fingerprint": "59ff131f707a70848fd1003068cbb9c0760241710918753a68d6d4723920f38c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -34209,18 +34209,18 @@
     "job_posted_at": "2026-02-24T16:35:46-05:00"
   },
   {
-    "job_id": "greenhouse-sigmacomputing-7639850003",
+    "job_id": "greenhouse-sigmacomputing-7639849003",
     "job_title": "Technical Support Engineer",
     "employer_name": "Sigma Computing",
-    "job_city": "San Francisco",
-    "job_state": "CA",
+    "job_city": "New York City",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7639850003",
+    "job_apply_link": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7639849003",
     "job_posted_at_datetime_utc": "2026-02-24T16:35:46-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "59ff131f707a70848fd1003068cbb9c0760241710918753a68d6d4723920f38c",
+    "fingerprint": "8ca09348f4a59133d280e5b678a13f6eb01226ee9ccfaa75ed6c09f71126f2e1",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -38043,61 +38043,5 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-02-22T00:00:00.000Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234466",
-    "job_title": "Software Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Engineer_R0234466",
-    "job_posted_at_datetime_utc": "2026-02-21T07:34:06.563Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ce9fae05d5c8c1c396ae80a2630da5c3c3609d2c1b32d65a0ff65138b396cc20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-21T07:34:06.563Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233862",
-    "job_title": "Software Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fayetteville",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Software-Developer_R0233862",
-    "job_posted_at_datetime_utc": "2026-02-21T07:34:06.563Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f19c5c430c3d932fd472a1d174a56cc88e1f9794ee64f411821a1351bdec69db",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-21T07:34:06.563Z"
   }
 ]
