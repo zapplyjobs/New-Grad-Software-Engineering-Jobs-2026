@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/SelectHealth---Murray/Software-Engineer_R163478",
-    "job_posted_at_datetime_utc": "2026-03-07T07:33:04.129Z",
+    "job_posted_at_datetime_utc": "2026-03-07T07:48:12.971Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5e9411b74012132fb1098a352b78537303a15dcc9325e9595bbbc02684644ae4",
@@ -25,7 +25,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T07:33:04.129Z"
+    "job_posted_at": "2026-03-07T07:48:12.971Z"
   },
   {
     "job_id": "workday-boeing-JR2026494817",
@@ -7746,14 +7746,14 @@
     "job_posted_at": "2026-03-06T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-27f656f0-7abe-46eb-af7e-a3b4f22d0f34",
+    "job_id": "amazon-bae87a95-0890-45cf-9592-e74cf5c4eb88",
     "job_title": "Security Systems Engineer, DCE Security Solutions Engineering",
     "employer_name": "Amazon Data Services, Inc.",
     "job_city": "Austin",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3198551/security-systems-engineer-dce-security-solutions-engineering",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3198559/security-systems-engineer-dce-security-solutions-engineering",
     "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -7777,14 +7777,14 @@
     "job_posted_at": "2026-03-06T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-bae87a95-0890-45cf-9592-e74cf5c4eb88",
+    "job_id": "amazon-27f656f0-7abe-46eb-af7e-a3b4f22d0f34",
     "job_title": "Security Systems Engineer, DCE Security Solutions Engineering",
     "employer_name": "Amazon Data Services, Inc.",
     "job_city": "Austin",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3198559/security-systems-engineer-dce-security-solutions-engineering",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3198551/security-systems-engineer-dce-security-solutions-engineering",
     "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -11429,7 +11429,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-SMTS---Cloud-Reliability_JR328096",
-    "job_posted_at_datetime_utc": "2026-03-04T07:32:46.269Z",
+    "job_posted_at_datetime_utc": "2026-03-04T07:47:53.541Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "940be1f08188daa343c7cc2fa11c855336cc3d776c790c9810d13a58a2205cd1",
@@ -11446,7 +11446,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T07:32:46.269Z"
+    "job_posted_at": "2026-03-04T07:47:53.541Z"
   },
   {
     "job_id": "workday-salesforce-JR328098",
@@ -11457,7 +11457,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-MTS---Security-Automation_JR328098",
-    "job_posted_at_datetime_utc": "2026-03-04T07:32:46.269Z",
+    "job_posted_at_datetime_utc": "2026-03-04T07:47:53.541Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "19d94ea352e2de9e5ea499c66a73fb0bdef0a0e451e775ef65cfd316d5b6bd0a",
@@ -11474,7 +11474,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T07:32:46.269Z"
+    "job_posted_at": "2026-03-04T07:47:53.541Z"
   },
   {
     "job_id": "workday-salesforce-JR328097",
@@ -11485,7 +11485,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-LMTS---Cloud-Platform_JR328097-1",
-    "job_posted_at_datetime_utc": "2026-03-04T07:32:46.269Z",
+    "job_posted_at_datetime_utc": "2026-03-04T07:47:53.541Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7d73e3824461075f76b4f5c3542fdf1b2c63f14a593ab88b7232b0420335adf2",
@@ -11502,7 +11502,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T07:32:46.269Z"
+    "job_posted_at": "2026-03-04T07:47:53.541Z"
   },
   {
     "job_id": "workday-blue-origin-R59831",
@@ -12047,18 +12047,18 @@
     "job_posted_at": "2026-03-04T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-f44e5c69-b776-47b0-bbdd-42c14eeeb4fd",
-    "job_title": "Software Development Engineer, Sponsored Brands Advertising",
+    "job_id": "amazon-a5117a0b-23cd-4c32-b54d-f9394d4b17a2",
+    "job_title": "Software Development Engineer, Ads Experience Framework",
     "employer_name": "Amazon.com Services LLC",
     "job_city": "New York",
     "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3196281/software-development-engineer-sponsored-brands-advertising",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3196080/software-development-engineer-ads-experience-framework",
     "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "55639f991b928196d343026bf9c77a1bc470a8ff05c1b1b6a62a37b98bf16790",
+    "fingerprint": "6572a0b0d75260b5b84ef84354d44324af84f1be43cb2527f077ec7e3699ae45",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12078,18 +12078,18 @@
     "job_posted_at": "2026-03-04T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-a5117a0b-23cd-4c32-b54d-f9394d4b17a2",
-    "job_title": "Software Development Engineer, Ads Experience Framework",
+    "job_id": "amazon-f44e5c69-b776-47b0-bbdd-42c14eeeb4fd",
+    "job_title": "Software Development Engineer, Sponsored Brands Advertising",
     "employer_name": "Amazon.com Services LLC",
     "job_city": "New York",
     "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3196080/software-development-engineer-ads-experience-framework",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3196281/software-development-engineer-sponsored-brands-advertising",
     "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "6572a0b0d75260b5b84ef84354d44324af84f1be43cb2527f077ec7e3699ae45",
+    "fingerprint": "55639f991b928196d343026bf9c77a1bc470a8ff05c1b1b6a62a37b98bf16790",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -13178,7 +13178,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Software-Engineer--Full-Stack_R236664-1",
-    "job_posted_at_datetime_utc": "2026-03-03T07:32:38.852Z",
+    "job_posted_at_datetime_utc": "2026-03-03T07:47:46.244Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1d64ce6b7965b3af012de4395a96e266b3346105b1dc52405307b89c32845b5e",
@@ -13195,7 +13195,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T07:32:38.852Z"
+    "job_posted_at": "2026-03-03T07:47:46.244Z"
   },
   {
     "job_id": "workday-leidos-R-00171656",
@@ -16363,7 +16363,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Data-Infrastructure---Slack_JR331617-1",
-    "job_posted_at_datetime_utc": "2026-02-28T07:32:46.270Z",
+    "job_posted_at_datetime_utc": "2026-02-28T07:47:53.543Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4740c0cb8c336bfa5838e1fb6ce6298968058baca34d098c4aa8545317e5e902",
@@ -16380,7 +16380,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T07:32:46.270Z"
+    "job_posted_at": "2026-02-28T07:47:53.543Z"
   },
   {
     "job_id": "workday-salesforce-JR331613",
@@ -16391,7 +16391,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Infrastructure_JR331613-2",
-    "job_posted_at_datetime_utc": "2026-02-28T07:32:46.270Z",
+    "job_posted_at_datetime_utc": "2026-02-28T07:47:53.543Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fec3289bbbaee5ba375063486e59770f04a306f65202e62a4f64915e2d73510f",
@@ -16408,7 +16408,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T07:32:46.270Z"
+    "job_posted_at": "2026-02-28T07:47:53.543Z"
   },
   {
     "job_id": "workday-capital-one-R236983",
@@ -16419,7 +16419,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday--Functional-_R236983-1",
-    "job_posted_at_datetime_utc": "2026-02-28T07:32:38.852Z",
+    "job_posted_at_datetime_utc": "2026-02-28T07:47:46.244Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4b85e9b43547a406eedef8cde1328dd66dae7b4af29a1038eb7bc9f2742b4ae",
@@ -16436,7 +16436,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T07:32:38.852Z"
+    "job_posted_at": "2026-02-28T07:47:46.244Z"
   },
   {
     "job_id": "workday-cadence-R52927",
