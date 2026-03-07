@@ -1,5 +1,37 @@
 [
   {
+    "job_id": "greenhouse-coinbase-7642536",
+    "job_title": "Software Engineer",
+    "employer_name": "Coinbase",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536",
+    "job_posted_at_datetime_utc": "2026-03-07T03:30:11-05:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "000fc339150c2b914bfee002d0a0f525c39a2dc4d8eb58a8987a48ed89765776",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-07T03:30:11-05:00"
+  },
+  {
     "job_id": "workday-boeing-JR2026494817",
     "job_title": "Associate Software Engineer– Secure Networks & Protocols",
     "employer_name": "Boeing",
@@ -1359,37 +1391,6 @@
     "job_posted_at": "2026-03-07T00:00:00.000Z"
   },
   {
-    "job_id": "js-emonics-llc-x0--glyv-kifs9kdaaaaaa==",
-    "job_title": "Machine Learning Engineer, Entry Level",
-    "employer_name": "Emonics LLC",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2RxSahiKNlfsGh8l6MrOs4",
-    "job_posted_at_datetime_utc": "2026-03-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "63580d78442d8186adce89cb1a9a24490fd6cf3005f6d0f7ad47f54997faf186",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-07T00:00:00.000Z"
-  },
-  {
     "job_id": "greenhouse-xai-5052040007",
     "job_title": "Software Engineer, Compute Infra",
     "employer_name": "xAI",
@@ -2041,6 +2042,37 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-06T18:06:33-05:00"
+  },
+  {
+    "job_id": "js-emonics-llc-x0--glyv-kifs9kdaaaaaa==",
+    "job_title": "Machine Learning Engineer, Entry Level",
+    "employer_name": "Emonics LLC",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2RxSahiKNlfsGh8l6MrOs4",
+    "job_posted_at_datetime_utc": "2026-03-06T23:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "63580d78442d8186adce89cb1a9a24490fd6cf3005f6d0f7ad47f54997faf186",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-06T23:00:00.000Z"
   },
   {
     "job_id": "greenhouse-imc-4793783101",
@@ -4596,38 +4628,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-06T00:55:00-05:00"
-  },
-  {
-    "job_id": "greenhouse-coinbase-7642536",
-    "job_title": "Software Engineer",
-    "employer_name": "Coinbase",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536",
-    "job_posted_at_datetime_utc": "2026-03-06T00:54:58-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "000fc339150c2b914bfee002d0a0f525c39a2dc4d8eb58a8987a48ed89765776",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-06T00:54:58-05:00"
   },
   {
     "job_id": "greenhouse-coinbase-7595352",
@@ -9082,7 +9082,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday---Techo-Functional--Finance-_R237407-1",
-    "job_posted_at_datetime_utc": "2026-03-05T08:18:29.314Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:33:04.460Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "702d959c17cc5d9e24fd9ed9cfe9a47ff2a4adb0503dccdb4ffa0282f818275b",
@@ -9099,7 +9099,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:18:29.314Z"
+    "job_posted_at": "2026-03-05T08:33:04.460Z"
   },
   {
     "job_id": "workday-motorola-solutions-R61766",
@@ -13094,7 +13094,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-SMTS---Cloud-Reliability_JR328096",
-    "job_posted_at_datetime_utc": "2026-03-03T08:18:35.957Z",
+    "job_posted_at_datetime_utc": "2026-03-03T08:33:12.571Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "940be1f08188daa343c7cc2fa11c855336cc3d776c790c9810d13a58a2205cd1",
@@ -13111,7 +13111,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:18:35.957Z"
+    "job_posted_at": "2026-03-03T08:33:12.571Z"
   },
   {
     "job_id": "workday-salesforce-JR328098",
@@ -13122,7 +13122,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-MTS---Security-Automation_JR328098",
-    "job_posted_at_datetime_utc": "2026-03-03T08:18:35.957Z",
+    "job_posted_at_datetime_utc": "2026-03-03T08:33:12.571Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "19d94ea352e2de9e5ea499c66a73fb0bdef0a0e451e775ef65cfd316d5b6bd0a",
@@ -13139,7 +13139,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:18:35.957Z"
+    "job_posted_at": "2026-03-03T08:33:12.571Z"
   },
   {
     "job_id": "workday-salesforce-JR328097",
@@ -13150,7 +13150,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-LMTS---Cloud-Platform_JR328097-1",
-    "job_posted_at_datetime_utc": "2026-03-03T08:18:35.957Z",
+    "job_posted_at_datetime_utc": "2026-03-03T08:33:12.571Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7d73e3824461075f76b4f5c3542fdf1b2c63f14a593ab88b7232b0420335adf2",
@@ -13167,7 +13167,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:18:35.957Z"
+    "job_posted_at": "2026-03-03T08:33:12.571Z"
   },
   {
     "job_id": "greenhouse-robinhood-7489770",
@@ -15333,7 +15333,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Software-Engineer--Full-Stack_R236664-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:18:29.316Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:33:04.461Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1d64ce6b7965b3af012de4395a96e266b3346105b1dc52405307b89c32845b5e",
@@ -15350,7 +15350,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:18:29.316Z"
+    "job_posted_at": "2026-03-02T08:33:04.461Z"
   },
   {
     "job_id": "workday-nvidia-JR2011587",
@@ -15381,35 +15381,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-02T07:03:21.287Z"
-  },
-  {
-    "job_id": "js-ascensus-0nhslqw87l4p7kyqaaaaaa==",
-    "job_title": "Associate Software Engineer,",
-    "employer_name": "Ascensus",
-    "job_city": "Pennsylvania",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.tryapplynow.com/jobs/ascensus-associate-software-engineer-a4ee5075-2281-4ff2-9710-f95c1db3648f",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "49c9ec2c901cebe0744e59fca11760587045de29d0c49d5457d6fd45b634b9a3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-02T00:00:00.000Z"
   },
   {
     "job_id": "amazon-af6587ae-10e2-4fa4-a489-c64193ff77c1",
@@ -15565,6 +15536,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ascensus-0nhslqw87l4p7kyqaaaaaa==",
+    "job_title": "Associate Software Engineer,",
+    "employer_name": "Ascensus",
+    "job_city": "Pennsylvania",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.tryapplynow.com/jobs/ascensus-associate-software-engineer-a4ee5075-2281-4ff2-9710-f95c1db3648f",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "49c9ec2c901cebe0744e59fca11760587045de29d0c49d5457d6fd45b634b9a3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-02T00:00:00.000Z"
   },
   {
@@ -29324,7 +29324,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Data-Infrastructure---Slack_JR331617-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:18:35.958Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:33:12.572Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4740c0cb8c336bfa5838e1fb6ce6298968058baca34d098c4aa8545317e5e902",
@@ -29341,7 +29341,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:18:35.958Z"
+    "job_posted_at": "2026-02-27T08:33:12.572Z"
   },
   {
     "job_id": "workday-salesforce-JR331613",
@@ -29352,7 +29352,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Infrastructure_JR331613-2",
-    "job_posted_at_datetime_utc": "2026-02-27T08:18:35.958Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:33:12.572Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fec3289bbbaee5ba375063486e59770f04a306f65202e62a4f64915e2d73510f",
@@ -29369,7 +29369,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:18:35.958Z"
+    "job_posted_at": "2026-02-27T08:33:12.572Z"
   },
   {
     "job_id": "workday-capital-one-R236983",
@@ -29380,7 +29380,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday--Functional-_R236983-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:18:29.316Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:33:04.461Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4b85e9b43547a406eedef8cde1328dd66dae7b4af29a1038eb7bc9f2742b4ae",
@@ -29397,7 +29397,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:18:29.316Z"
+    "job_posted_at": "2026-02-27T08:33:04.461Z"
   },
   {
     "job_id": "workday-motorola-solutions-R62389",
