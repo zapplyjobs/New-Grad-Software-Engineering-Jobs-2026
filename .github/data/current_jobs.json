@@ -9054,7 +9054,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday---Techo-Functional--Finance-_R237407-1",
-    "job_posted_at_datetime_utc": "2026-03-05T08:48:25.354Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:03:23.309Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "702d959c17cc5d9e24fd9ed9cfe9a47ff2a4adb0503dccdb4ffa0282f818275b",
@@ -9071,7 +9071,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:48:25.354Z"
+    "job_posted_at": "2026-03-05T09:03:23.309Z"
   },
   {
     "job_id": "greenhouse-lucidmotors-5002636007",
@@ -13094,7 +13094,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-SMTS---Cloud-Reliability_JR328096",
-    "job_posted_at_datetime_utc": "2026-03-03T08:48:33.093Z",
+    "job_posted_at_datetime_utc": "2026-03-03T09:03:31.296Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "940be1f08188daa343c7cc2fa11c855336cc3d776c790c9810d13a58a2205cd1",
@@ -13111,7 +13111,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:48:33.093Z"
+    "job_posted_at": "2026-03-03T09:03:31.296Z"
   },
   {
     "job_id": "workday-salesforce-JR328098",
@@ -13122,7 +13122,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-MTS---Security-Automation_JR328098",
-    "job_posted_at_datetime_utc": "2026-03-03T08:48:33.093Z",
+    "job_posted_at_datetime_utc": "2026-03-03T09:03:31.296Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "19d94ea352e2de9e5ea499c66a73fb0bdef0a0e451e775ef65cfd316d5b6bd0a",
@@ -13139,7 +13139,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:48:33.093Z"
+    "job_posted_at": "2026-03-03T09:03:31.296Z"
   },
   {
     "job_id": "workday-salesforce-JR328097",
@@ -13150,7 +13150,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-LMTS---Cloud-Platform_JR328097-1",
-    "job_posted_at_datetime_utc": "2026-03-03T08:48:33.093Z",
+    "job_posted_at_datetime_utc": "2026-03-03T09:03:31.296Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7d73e3824461075f76b4f5c3542fdf1b2c63f14a593ab88b7232b0420335adf2",
@@ -13167,7 +13167,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:48:33.093Z"
+    "job_posted_at": "2026-03-03T09:03:31.296Z"
   },
   {
     "job_id": "greenhouse-robinhood-7489770",
@@ -15333,7 +15333,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Software-Engineer--Full-Stack_R236664-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:48:25.355Z",
+    "job_posted_at_datetime_utc": "2026-03-02T09:03:23.311Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1d64ce6b7965b3af012de4395a96e266b3346105b1dc52405307b89c32845b5e",
@@ -15350,7 +15350,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:48:25.355Z"
+    "job_posted_at": "2026-03-02T09:03:23.311Z"
   },
   {
     "job_id": "workday-nvidia-JR2011587",
@@ -29296,7 +29296,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Data-Infrastructure---Slack_JR331617-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:48:33.094Z",
+    "job_posted_at_datetime_utc": "2026-02-27T09:03:31.297Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4740c0cb8c336bfa5838e1fb6ce6298968058baca34d098c4aa8545317e5e902",
@@ -29313,7 +29313,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:48:33.094Z"
+    "job_posted_at": "2026-02-27T09:03:31.297Z"
   },
   {
     "job_id": "workday-salesforce-JR331613",
@@ -29324,7 +29324,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Infrastructure_JR331613-2",
-    "job_posted_at_datetime_utc": "2026-02-27T08:48:33.094Z",
+    "job_posted_at_datetime_utc": "2026-02-27T09:03:31.297Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fec3289bbbaee5ba375063486e59770f04a306f65202e62a4f64915e2d73510f",
@@ -29341,7 +29341,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:48:33.094Z"
+    "job_posted_at": "2026-02-27T09:03:31.297Z"
   },
   {
     "job_id": "workday-capital-one-R236983",
@@ -29352,7 +29352,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday--Functional-_R236983-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:48:25.356Z",
+    "job_posted_at_datetime_utc": "2026-02-27T09:03:23.311Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4b85e9b43547a406eedef8cde1328dd66dae7b4af29a1038eb7bc9f2742b4ae",
@@ -29369,7 +29369,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:48:25.356Z"
+    "job_posted_at": "2026-02-27T09:03:23.311Z"
   },
   {
     "job_id": "greenhouse-imc-4749998101",
