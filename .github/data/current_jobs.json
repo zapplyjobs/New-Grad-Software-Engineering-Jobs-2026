@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "greenhouse-lucidmotors-5042086007",
+    "job_title": "Mobile Service Technician, Scottsdale",
+    "employer_name": "Lucid Motors",
+    "job_city": "Scottsdale",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/5042086007",
+    "job_posted_at_datetime_utc": "2026-03-07T03:46:18-05:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "718b73ecb2a15848f4d3eb9baf31c90f6940d88cc70d8b5a7764679757d649db",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-07T03:46:18-05:00"
+  },
+  {
+    "job_id": "greenhouse-lucidmotors-4913933007",
+    "job_title": "Studio Associate",
+    "employer_name": "Lucid Motors",
+    "job_city": "Roswell",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/4913933007",
+    "job_posted_at_datetime_utc": "2026-03-07T03:31:44-05:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "137b4259f8b7a2b35cf26ae3d2db1c35bc403efbb119a295f32152f7448d2a4e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-07T03:31:44-05:00"
+  },
+  {
     "job_id": "greenhouse-coinbase-7642536",
     "job_title": "Software Engineer",
     "employer_name": "Coinbase",
@@ -4514,34 +4570,6 @@
     "job_posted_at": "2026-03-06T04:08:52-05:00"
   },
   {
-    "job_id": "greenhouse-lucidmotors-5042086007",
-    "job_title": "Mobile Service Technician, Scottsdale",
-    "employer_name": "Lucid Motors",
-    "job_city": "Scottsdale",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/5042086007",
-    "job_posted_at_datetime_utc": "2026-03-06T03:31:40-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "718b73ecb2a15848f4d3eb9baf31c90f6940d88cc70d8b5a7764679757d649db",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-06T03:31:40-05:00"
-  },
-  {
     "job_id": "greenhouse-lucidmotors-5002640007",
     "job_title": "Mobile Service Technician - Orlando, FL",
     "employer_name": "Lucid Motors",
@@ -9018,6 +9046,34 @@
     "job_posted_at": "2026-03-05T04:20:44-05:00"
   },
   {
+    "job_id": "workday-capital-one-R237407",
+    "job_title": "Platform Engineer, Workday - Techo-Functional (Finance)",
+    "employer_name": "Capital One",
+    "job_city": "8 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday---Techo-Functional--Finance-_R237407-1",
+    "job_posted_at_datetime_utc": "2026-03-05T08:48:25.354Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "702d959c17cc5d9e24fd9ed9cfe9a47ff2a4adb0503dccdb4ffa0282f818275b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T08:48:25.354Z"
+  },
+  {
     "job_id": "greenhouse-lucidmotors-5002636007",
     "job_title": "Service Advisor - Goose Island",
     "employer_name": "Lucid Motors",
@@ -9044,62 +9100,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-05T03:39:43-05:00"
-  },
-  {
-    "job_id": "greenhouse-lucidmotors-4913933007",
-    "job_title": "Studio Associate",
-    "employer_name": "Lucid Motors",
-    "job_city": "Roswell",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/4913933007",
-    "job_posted_at_datetime_utc": "2026-03-05T03:37:20-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "137b4259f8b7a2b35cf26ae3d2db1c35bc403efbb119a295f32152f7448d2a4e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-05T03:37:20-05:00"
-  },
-  {
-    "job_id": "workday-capital-one-R237407",
-    "job_title": "Platform Engineer, Workday - Techo-Functional (Finance)",
-    "employer_name": "Capital One",
-    "job_city": "8 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday---Techo-Functional--Finance-_R237407-1",
-    "job_posted_at_datetime_utc": "2026-03-05T08:33:04.460Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "702d959c17cc5d9e24fd9ed9cfe9a47ff2a4adb0503dccdb4ffa0282f818275b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:33:04.460Z"
   },
   {
     "job_id": "workday-motorola-solutions-R61766",
@@ -13094,7 +13094,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-SMTS---Cloud-Reliability_JR328096",
-    "job_posted_at_datetime_utc": "2026-03-03T08:33:12.571Z",
+    "job_posted_at_datetime_utc": "2026-03-03T08:48:33.093Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "940be1f08188daa343c7cc2fa11c855336cc3d776c790c9810d13a58a2205cd1",
@@ -13111,7 +13111,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:33:12.571Z"
+    "job_posted_at": "2026-03-03T08:48:33.093Z"
   },
   {
     "job_id": "workday-salesforce-JR328098",
@@ -13122,7 +13122,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-MTS---Security-Automation_JR328098",
-    "job_posted_at_datetime_utc": "2026-03-03T08:33:12.571Z",
+    "job_posted_at_datetime_utc": "2026-03-03T08:48:33.093Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "19d94ea352e2de9e5ea499c66a73fb0bdef0a0e451e775ef65cfd316d5b6bd0a",
@@ -13139,7 +13139,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:33:12.571Z"
+    "job_posted_at": "2026-03-03T08:48:33.093Z"
   },
   {
     "job_id": "workday-salesforce-JR328097",
@@ -13150,7 +13150,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-LMTS---Cloud-Platform_JR328097-1",
-    "job_posted_at_datetime_utc": "2026-03-03T08:33:12.571Z",
+    "job_posted_at_datetime_utc": "2026-03-03T08:48:33.093Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7d73e3824461075f76b4f5c3542fdf1b2c63f14a593ab88b7232b0420335adf2",
@@ -13167,7 +13167,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:33:12.571Z"
+    "job_posted_at": "2026-03-03T08:48:33.093Z"
   },
   {
     "job_id": "greenhouse-robinhood-7489770",
@@ -15333,7 +15333,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Software-Engineer--Full-Stack_R236664-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:33:04.461Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:48:25.355Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1d64ce6b7965b3af012de4395a96e266b3346105b1dc52405307b89c32845b5e",
@@ -15350,7 +15350,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:33:04.461Z"
+    "job_posted_at": "2026-03-02T08:48:25.355Z"
   },
   {
     "job_id": "workday-nvidia-JR2011587",
@@ -29288,6 +29288,90 @@
     "job_posted_at": "2026-02-27T07:06:59-05:00"
   },
   {
+    "job_id": "workday-salesforce-JR331617",
+    "job_title": "Software Engineer, Search Data Infrastructure  -Slack",
+    "employer_name": "Salesforce",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Data-Infrastructure---Slack_JR331617-1",
+    "job_posted_at_datetime_utc": "2026-02-27T08:48:33.094Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4740c0cb8c336bfa5838e1fb6ce6298968058baca34d098c4aa8545317e5e902",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-27T08:48:33.094Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR331613",
+    "job_title": "Software Engineer, Search Infrastructure - Slack",
+    "employer_name": "Salesforce",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Infrastructure_JR331613-2",
+    "job_posted_at_datetime_utc": "2026-02-27T08:48:33.094Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fec3289bbbaee5ba375063486e59770f04a306f65202e62a4f64915e2d73510f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-27T08:48:33.094Z"
+  },
+  {
+    "job_id": "workday-capital-one-R236983",
+    "job_title": "Platform Engineer, Workday (Functional)",
+    "employer_name": "Capital One",
+    "job_city": "7 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday--Functional-_R236983-1",
+    "job_posted_at_datetime_utc": "2026-02-27T08:48:25.356Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d4b85e9b43547a406eedef8cde1328dd66dae7b4af29a1038eb7bc9f2742b4ae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-27T08:48:25.356Z"
+  },
+  {
     "job_id": "greenhouse-imc-4749998101",
     "job_title": "Workplace Experience Specialist",
     "employer_name": "IMC Trading",
@@ -29314,90 +29398,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-27T03:38:19-05:00"
-  },
-  {
-    "job_id": "workday-salesforce-JR331617",
-    "job_title": "Software Engineer, Search Data Infrastructure  -Slack",
-    "employer_name": "Salesforce",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Data-Infrastructure---Slack_JR331617-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:33:12.572Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4740c0cb8c336bfa5838e1fb6ce6298968058baca34d098c4aa8545317e5e902",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:33:12.572Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR331613",
-    "job_title": "Software Engineer, Search Infrastructure - Slack",
-    "employer_name": "Salesforce",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Infrastructure_JR331613-2",
-    "job_posted_at_datetime_utc": "2026-02-27T08:33:12.572Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fec3289bbbaee5ba375063486e59770f04a306f65202e62a4f64915e2d73510f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:33:12.572Z"
-  },
-  {
-    "job_id": "workday-capital-one-R236983",
-    "job_title": "Platform Engineer, Workday (Functional)",
-    "employer_name": "Capital One",
-    "job_city": "7 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday--Functional-_R236983-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:33:04.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d4b85e9b43547a406eedef8cde1328dd66dae7b4af29a1038eb7bc9f2742b4ae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:33:04.461Z"
   },
   {
     "job_id": "workday-motorola-solutions-R62389",
