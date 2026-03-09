@@ -9,16 +9,16 @@
 
 # Software Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1430-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-226-blue?style=flat&logo=building)
-![Software Engine](https://img.shields.io/badge/Software_Engineering-1236-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1431-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-227-blue?style=flat&logo=building)
+![Software Engine](https://img.shields.io/badge/Software_Engineering-1237-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 226+ top companies like Stripe, Datadog, and Vercel. Updated every 15 minutes with 1430+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 227+ top companies like Stripe, Datadog, and Vercel. Updated every 15 minutes with 1431+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Stripe, Datadog, and Vercel.</p>
 
@@ -132,7 +132,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **xAI** | Fullstack Engineer - Education (Spanish Bilingual) | Palo Alto, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5026678007) |
 | 🏢 **SpaceX** | Full Stack Software Engineer (Starlink) | Sunnyvale, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8444944002?gh_jid=8444944002) |
 | 🏢 **Anthropic** | Full Stack Software Engineer, Reinforcement Learning | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5098984008) |
-| 🏢 **Coinbase** | Software Engineer - Full Stack (EAA - Compliance) | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) |
+| 🏢 **Coinbase** | Software Engineer - Full Stack (EAA - Compliance) | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) |
 | 🏢 **Booz Allen Hamilton** | Full Stack Software Engineer | Langley AFB, VA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0234883) |
 | 🏢 **Anduril** | Software Engineer, Full Stack | Irvine | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4836302007?gh_jid=4836302007) |
 | 🏢 **Patreon** | Fullstack Software Engineer (New Grad) | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/patreon/7302033c-d884-4e13-b6d4-74fcb16fe08a/application) |
@@ -179,8 +179,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Quality Engineer | Fort Collins | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030676007?gh_jid=5030676007) |
 | 🏢 **Anduril** | Software QA Engineer | Lexington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5036888007?gh_jid=5036888007) |
 | 🏢 **Vercel** | Compliance Automation Engineer | United States | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5787037004) |
-| 🏢 **Leidos** | Systems Integration and Test Engineer | Gaithersburg, MD | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Systems-Integration-and-Test-Engineer_R-00176465-1) |
 | 🏢 **HPE** | Performance Automation Engineer | 7 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Performance-Automation-Engineer_1202564) |
+| 🏢 **Leidos** | Systems Integration and Test Engineer | Gaithersburg, MD | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Systems-Integration-and-Test-Engineer_R-00176465-1) |
 | 🏢 **Leidos** | Software Test Engineer | San Diego, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Test-Engineer_R-00176864) |
 | 🏢 **Northrop Grumman** | Sentinel Associate Software Test Engineer/ Software Test Engineer - 17784* - R10224030 | Austin | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69a12c8f6b458d060735e622) |
 | 🏢 **HPE** | Specialist Software Development Engineer in Test (SDET) | 3 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Specialist-Software-Development-Engineer-in-Test--SDET-_1201919) |
@@ -199,12 +199,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Boeing** | Interiors Fabricator and Assembler Mech C - 20503 | Everett, WA | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Interiors-Fabricator-and-Assembler-Mech-C---20503_JR2025476486-1) |
-| 🏢 **HPE** | AI and Machine Learning Engineer | San Francisco | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Francisco-California-United-States-of-America/AI-and-Machine-Learning-Engineer_1200354) |
+| 🏢 **HPE** | AI and Machine Learning Engineer | San Francisco | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Francisco-California-United-States-of-America/AI-and-Machine-Learning-Engineer_1200354) |
+| 🏢 **Point72** | Software Engineer, Investor and Fund Administration Technology | United States | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8372892002?gh_jid=8372892002) |
 | 🏢 **Sigma Computing** | Technical Support Engineer | San Francisco, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657085003) |
 | 🏢 **Sigma Computing** | Technical Support Engineer | New York City, NY | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657084003) |
 | 🏢 **Sigma Computing** | Software Engineer (New Grad Program) | San Francisco, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657082003) |
-| 🏢 **Handshake** | Game Developer - AI Trainer | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/7d4f5006-c35d-48ae-bebf-fd1dc7acc870/application) |
-| 🏢 **Snorkel AI** | Applied AI Engineer - AI Solutions | New York City, NY | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5709067004) |
+| 🏢 **Handshake** | Game Developer - AI Trainer | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/7d4f5006-c35d-48ae-bebf-fd1dc7acc870/application) |
+| 🏢 **Snorkel AI** | Applied AI Engineer - AI Solutions | New York City, NY | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5709067004) |
 | 🏢 **Major League Baseball** | Associate Software Engineer, Publishing Services | New York | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.theladders.com/job/associate-software-engineer-publishing-services-los-angeles-dodgers-new-york-ny_82355581) |
 | 🏢 **Evolent** | Associate Software Engineer | Annapolis | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://talents.vaia.com/companies/evolent/associate-software-engineer-34179780/) |
 | 🏢 **Northrop Grumman** | Associate Software Engineer | Redondo Beach | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobzmall.com/northrop-grumman/job/associate-software-engineer-y7u1rabhlh) |
@@ -216,21 +217,21 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Airtable** | Professional Services Engineer (East Coast) | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8432883002) |
 | 🏢 **Coinbase** | Software Engineer | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536) |
 | 🏢 **NVIDIA** | Site Reliability Engineer - Hardware Infrastructure | US, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Site-Reliability-Engineer---Hardware-Infrastructure_JR2011168) |
-| 🏢 **Caterpillar** | Embedded Software Engineer | Mossville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000353015) |
-| 🏢 **Boeing** | Associate Mission Systems Software Developer | Daytona Beach, FL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Mission-Systems-Software-Developer--Experienced---Senior-_JR2026492503-1) |
 | 🏢 **CACI** | Software Developer | US MD Bethesda | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Bethesda/Software-Developer_318184-1) |
 | 🏢 **Intermountain Health** | Software Engineer | Murray | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/SelectHealth---Murray/Software-Engineer_R163478) |
 | 🏢 **Adobe** | Software Developer Engineer 4 | Lehi | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Senior-Software-Developer_R157106) |
 | 🏢 **Adobe** | Backend Software Engineer | Seattle | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Software-Development-Engineer_R164609) |
 | 🏢 **Mastercard** | Consultant, Business Experimentation | 5 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Consultant--Business-Experimentation_R-268802) |
 | 🏢 **Boeing** | Experienced Embedded Software Engineer | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Experienced-Embedded-Software-Engineer_JR2025485213-1) |
+| 🏢 **Boeing** | Associate Embedded Software Engineers | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Associate-Embedded-Software-Engineers_JR2025489635-1) |
 | 🏢 **Leidos** | Associate Hardware Systems Engineer | Gaithersburg, MD | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Associate-Hardware-Systems-Engineer_R-00177682) |
 | 🏢 **Leidos** | Software Engineer | Huntsville, AL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00177701) |
 | 🏢 **Leidos** | Systems Engineer | North Charleston, SC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/North-Charleston-SC/Systems-Engineer_R-00177674) |
-| 🏢 **Booz Allen Hamilton** | Artificial Intelligence & Machine Learning Engineer, Junior | Charleston, SC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Artificial-Intelligence---Machine-Learning-Engineer--Junior_R0235305) |
-| 🏢 **Booz Allen Hamilton** | Data Scientist | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0234405) |
 | 🏢 **Booz Allen Hamilton** | AI DevOps Engineer | Washington, DC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-DevOps-Engineer_R0235352) |
+| 🏢 **Booz Allen Hamilton** | All-Source Intelligence Analyst | Washington, DC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0233277) |
+| 🏢 **Booz Allen Hamilton** | Computer Vision Software Engineer | Dayton, OH | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/Computer-Vision-Software-Engineer_R0235344-1) |
 | 🏢 **AT&T** | Call Center Sales Representative | Richardson | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Richardson-Texas/Call-Center-Sales-Representative_R-99295) |
+| 🏢 **Caterpillar** | Embedded Software Engineer | Mossville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000353015) |
 | 🏢 **Capital One** | Full Time Branch Ambassador - Central Suffolk Area | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Ronkonkoma-NY/Full-Time-Branch-Ambassador---Central-Suffolk-Area_R237024-2) |
 | 🏢 **Capital One** | Part Time Branch Ambassador - New Jersey Market | 6 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plainfield-NJ/Part-Time-Branch-Ambassador---New-Jersey-Market_R237537-2) |
 | 🏢 **Capital One** | Full Time Branch Ambassador - New Jersey Market | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plainfield-NJ/Full-Time-Branch-Ambassador---New-Jersey-Market_R237535-1) |
@@ -244,9 +245,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Strategic Finance, Product Development | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5054062007?gh_jid=5054062007) |
 | 🏢 **Anduril** | Electrical Engineering Technician | Huntsville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5049191007?gh_jid=5049191007) |
 | 🏢 **Anduril** | Machine Learning Engineer, Quality Analytics | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034660007?gh_jid=5034660007) |
+| 🏢 **Emonics LLC** | Machine Learning Engineer, Entry Level | Los Angeles | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/2RxSahiKNlfsGh8l6MrOs4) |
 | 🏢 **Amazon.com Services LLC** | Software Development Engineer - Robotics, Frontier AI Robotics | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3198929/software-development-engineer-robotics-frontier-ai-robotics) |
 | 🏢 **Abbott Laboratories** | Software Engineer, Mobile Applications | Orlando | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobs.abbott/us/en/job/31141121/Software-Engineer-Mobile-Applications) |
-| 🏢 **Emonics LLC** | Machine Learning Engineer, Entry Level | Los Angeles | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/2RxSahiKNlfsGh8l6MrOs4) |
 | 🏢 **xAI** | Software Engineer, Compute Infra | Palo Alto, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5052040007) |
 | 🏢 **xAI** | Software Engineer, ML & Data Infra | Palo Alto, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5052033007) |
 | 🏢 **xAI** | Software Engineer, Grok Chat Product | Palo Alto, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5051984007) |
@@ -275,10 +276,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Twilio** | Software Engineer (L2) | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7671815) |
 | 🏢 **Twilio** | Software Engineer | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7070250) |
 | 🏢 **Grafana Labs** | Software Engineer - Platform InfraSec   USA   Remote | United States (Re... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/grafanalabs/jobs/5819644004) |
-| 🏢 **Coinbase** | Software Engineer - Salesforce Platform (EAA) | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
-| 🏢 **Coinbase** | Software Engineer, DevSec | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352) |
-| 🏢 **Scale AI** | Software Engineer, Platform | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4594879005) |
+| 🏢 **Coinbase** | Software Engineer - Salesforce Platform (EAA) | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
+| 🏢 **Coinbase** | Software Engineer, DevSec | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352) |
 | 🏢 **Intel** | Infrastructure and DevOps Engineer | US | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Infrastructure-and-DevOps-Engineer_JR0281488) |
+| 🏢 **Scale AI** | Software Engineer, Platform | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4594879005) |
 | 🏢 **KBR** | Entry-Level Software Developer (Command) | Houston | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Developer--Command-_R2119997) |
 | 🏢 **KBR** | Entry-Level Software Developer (Communication) | Houston | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Developer--Communication-_R2119998) |
 | 🏢 **KBR** | Entry Level Software Engineer (External Interfaces) | Houston | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Engineer--External-Interfaces-_R2119990) |
@@ -334,11 +335,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Glean** | Machine Learning Engineer - LLM Evals + Observability | San Francisco Bay... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4669417005) |
 | 🏢 **Illumio** | Software Engineer, Cloud Security | Sunnyvale | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/illumio/76ce84c7-c7ff-44e9-9f8e-78f39c63c9f1/application) |
 | 🏢 **Bridgewater Associates** | Management Coordinator, TPS | Westport, CT | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/bridgewater89/jobs/8445070002) |
+| 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Proactive Security | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3196646/software-development-engineer-aws-proactive-security) |
+| 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, EC2 Cross Region Peering | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3196444/software-development-engineer-ec2-cross-region-peering) |
 | 🏢 **General Motors** | Software Engineer, Autonomous Vehicles Software Systems - Early Career | Warren | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://search-careers.gm.com/en/jobs/jr-202604759/software-engineer-autonomous-vehicles-software-systems-early-career/) |
 | 🏢 **Globus Medical** | Associate Software Engineer | Pennsylvania | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/associate-software-engineer/8227162) |
 | 🏢 **Virtual Vocations Inc** | Associate Software Engineer | Virginia Beach | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.tryapplynow.com/jobs/virtual-vocations-inc-associate-software-engineer-5b55e18e-22ca-42f9-ab19-96b4a0ef669a) |
-| 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Proactive Security | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3196646/software-development-engineer-aws-proactive-security) |
-| 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, EC2 Cross Region Peering | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3196444/software-development-engineer-ec2-cross-region-peering) |
 | 🏢 **Lockheed Martin** | Software Engineer- Clearance Required | Hanover | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.lockheedmartinjobs.com/job/hanover/software-engineer-clearance-required/694/90838136480) |
 | 🏢 **Mesa Associates, Inc.** | Entry Level Electrical Engineer - Engineering Associate I at Mesa Associates, Inc. Knoxville, TN | Knoxville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://virginiacommons.com/samples/job/entry-level-electrical-engineer-engineering-associate-i-at-mesa-associates-inc-knoxville-tn-UXNicHE4REYvVzhWbzlsNTdQbXBpWW5Hbnc9PQ==) |
 | 🏢 **Uptime Crew** | Entry Level AI Software Engineer | Decatur | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.disabledperson.com/jobs/70611649-entry-level-ai-software-engineer) |
@@ -378,8 +379,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Handshake** | Software Developer - AI Trainer (Remote) | New York, NY | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/246bf902-93c7-4a5f-9f2b-cf81003bf504/application) |
 | 🏢 **Astranis** | Avionics Test Specialist | San Francisco | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4594819006) |
 | 🏢 **Astranis** | Technical Recruiter - (Fixed Term) | San Francisco | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4594971006) |
-| 🏢 **Parsons Corporation** | Junior Software Developer - TS/SCI | Chantilly | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.parsons.com/jobs/junior-software-developer-ts-sci-chantilly-r-178165-jobs--software-development--) |
 | 🏢 **Amazon Web Services, Inc.** | Data Infrastructure Engineer, Amazon Interactive Video Service (IVS) | Seattle, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3196046/data-infrastructure-engineer-amazon-interactive-video-service-ivs) |
+| 🏢 **Parsons Corporation** | Junior Software Developer - TS/SCI | Chantilly | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.parsons.com/jobs/junior-software-developer-ts-sci-chantilly-r-178165-jobs--software-development--) |
 | 🏢 **Mayo Clinic** | Software Engineer | Rochester | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.mayoclinic.org/job/rochester/software-engineer/33647/92477303120) |
 | 🏢 **General Motors** | Software Engineer AV HIL Platform and Services – University Grad | Sunnyvale | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://simplify.jobs/p/0a4def13-9b3a-4f3a-b3c9-5a90b20c870b/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad) |
 | 🏢 **Uptime Crew** | Entry Level AI Software Engineer | Poway | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.disabledperson.com/jobs/70611657-entry-level-ai-software-engineer) |
@@ -397,7 +398,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **EliseAI** | Partner Solutions Engineer | New York City | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/eliseai/14ef788e-2bbd-4de8-ae20-7feb18f4a7c6/application) |
 | 🏢 **Rockstar Games** | Associate Production Coordinator: Commerce | Manhattan | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rockstargames/jobs/7646957003) |
 | 🏢 **Snowflake** | Software Engineer - Jobs Platform | US-CA-Menlo Park | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/0511cce9-51d7-43c7-94ff-30ee183156af/application) |
-| 🏢 **Ramp** | Customer Experience Agent | New York, NY | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -462,7 +462,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1430 current opportunities from 226 companies**
+**🎯 1431 current opportunities from 227 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
