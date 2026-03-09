@@ -41547,33 +41547,5 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-02-23T22:24:58.636+00:00"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234586",
-    "job_title": "Software Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Software-Engineer_R0234586",
-    "job_posted_at_datetime_utc": "2026-02-23T22:05:32.229Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5bd0836a461ef0349d2a9e1e7b90ce79498dcee8e3f8af0cbea60323a7ab7f27",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T22:05:32.229Z"
   }
 ]
