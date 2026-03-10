@@ -50725,33 +50725,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-24T14:57:23-05:00"
-  },
-  {
-    "job_id": "workday-leidos-R-00176838",
-    "job_title": "Security Verification Test(SVT) Software Engineer TS/SCI Polygraph",
-    "employer_name": "Leidos",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Security-Verification-Test-SVT--Software-Engineer-TS-SCI-Polygraph_R-00176838",
-    "job_posted_at_datetime_utc": "2026-02-24T19:20:00.851Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0ff4f637970415479c99001b7bd493d8ea16eaf84eb10cf2e6b16fb27a745fed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T19:20:00.851Z"
   }
 ]
