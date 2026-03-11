@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Software-Engineer_R0000356600",
-    "job_posted_at_datetime_utc": "2026-03-11T08:44:46.424Z",
+    "job_posted_at_datetime_utc": "2026-03-11T09:00:23.882Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "14561c7f2cb0a5c2dd978aa92bdb55782be7336be27f324ef17b0c56254a7232",
@@ -25,7 +25,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-11T08:44:46.424Z"
+    "job_posted_at": "2026-03-11T09:00:23.882Z"
   },
   {
     "job_id": "greenhouse-lucidmotors-5024625007",
@@ -3237,6 +3237,34 @@
     "job_posted_at": "2026-03-10T13:14:28-04:00"
   },
   {
+    "job_id": "greenhouse-lucidmotors-5072851007",
+    "job_title": "Mobile Service Technician",
+    "employer_name": "Lucid Motors",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/5072851007",
+    "job_posted_at_datetime_utc": "2026-03-10T13:00:00-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5a1724dbd237c2cd9aaed2628e0b9da42b9cfbd816ddc76e585b52414409c4ff",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-10T13:00:00-04:00"
+  },
+  {
     "job_id": "js-amentum-hd73dr5inl9mg3ziaaaaaa==",
     "job_title": "Junior Software Engineer for Naval Research Technology",
     "employer_name": "Amentum",
@@ -3264,34 +3292,6 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-03-10T17:00:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-lucidmotors-5072851007",
-    "job_title": "Mobile Service Technician",
-    "employer_name": "Lucid Motors",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/5072851007",
-    "job_posted_at_datetime_utc": "2026-03-10T13:00:00-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5a1724dbd237c2cd9aaed2628e0b9da42b9cfbd816ddc76e585b52414409c4ff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-10T13:00:00-04:00"
   },
   {
     "job_id": "workday-crowdstrike-R26644",
@@ -14973,6 +14973,35 @@
     "job_posted_at": "2026-03-10T00:00:27.566+00:00"
   },
   {
+    "job_id": "js-major-league-baseball-dkja6wur8yipsdxdaaaaaa==",
+    "job_title": "Associate Software Engineer, Publishing Services",
+    "employer_name": "Major League Baseball",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/1icyY9hZbWxq0MwjGaPS5I",
+    "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "f9cb3f68eddbebcd617df2b8872d006ac4b3182a73fd155cc152ad9de028ce70",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-10T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-53cff798-9a2b-476e-89b8-cbbbfab7776e",
     "job_title": "Software Development Engineer, Discovery & Countermeasures Engineering",
     "employer_name": "Amazon.com Services LLC",
@@ -15064,35 +15093,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-03-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-major-league-baseball-dkja6wur8yipsdxdaaaaaa==",
-    "job_title": "Associate Software Engineer, Publishing Services",
-    "employer_name": "Major League Baseball",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/1icyY9hZbWxq0MwjGaPS5I",
-    "job_posted_at_datetime_utc": "2026-03-10T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "f9cb3f68eddbebcd617df2b8872d006ac4b3182a73fd155cc152ad9de028ce70",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-03-10T00:00:00.000Z"
   },
   {
@@ -15327,14 +15327,14 @@
     "job_posted_at": "2026-03-09T21:58:54.240+00:00"
   },
   {
-    "job_id": "greenhouse-lightspeedhq-7677178",
+    "job_id": "greenhouse-lightspeedhq-7607464",
     "job_title": "Content Specialist, Growth",
     "employer_name": "Lightspeed",
     "job_city": "Tbilisi",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lightspeedhq/jobs/7677178",
+    "job_apply_link": "https://job-boards.greenhouse.io/lightspeedhq/jobs/7607464",
     "job_posted_at_datetime_utc": "2026-03-09T17:32:26-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -15355,14 +15355,14 @@
     "job_posted_at": "2026-03-09T17:32:26-04:00"
   },
   {
-    "job_id": "greenhouse-lightspeedhq-7607464",
+    "job_id": "greenhouse-lightspeedhq-7677178",
     "job_title": "Content Specialist, Growth",
     "employer_name": "Lightspeed",
     "job_city": "Tbilisi",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lightspeedhq/jobs/7607464",
+    "job_apply_link": "https://job-boards.greenhouse.io/lightspeedhq/jobs/7677178",
     "job_posted_at_datetime_utc": "2026-03-09T17:32:26-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -17347,6 +17347,62 @@
     "job_posted_at": "2026-03-09T09:30:47-04:00"
   },
   {
+    "job_id": "workday-state-street-R-785488",
+    "job_title": "Software Engineering and Development",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineering-and-Development_R-785488",
+    "job_posted_at_datetime_utc": "2026-03-09T09:03:28.575Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b1215ad872b904d548e48a5c935ba8b99f0fe946dfc41557b47c8eeec81b7a63",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-09T09:03:28.575Z"
+  },
+  {
+    "job_id": "workday-state-street-R-785495",
+    "job_title": "SW Engineer I – Full Stack, Officer",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495",
+    "job_posted_at_datetime_utc": "2026-03-09T09:03:28.575Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cac91222628578f6cd0e9d79e360bd89c3e0567b0313d680bc29a1b73df67683",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-09T09:03:28.575Z"
+  },
+  {
     "job_id": "workday-kla-2530896",
     "job_title": "Software Engineer (C++, Linux, Multi-threaded)",
     "employer_name": "KLA",
@@ -17355,7 +17411,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer--OOP--Linux--HPC-_2530896",
-    "job_posted_at_datetime_utc": "2026-03-09T08:47:39.639Z",
+    "job_posted_at_datetime_utc": "2026-03-09T09:03:26.332Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1f6b26f3cec278e3a56d3e4aab5366d2dd3eb53255928bb4e216f1abb68d1e97",
@@ -17372,7 +17428,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:47:39.639Z"
+    "job_posted_at": "2026-03-09T09:03:26.332Z"
   },
   {
     "job_id": "workday-kla-2634321",
@@ -17383,7 +17439,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Systems-Software-Engineer_2634321",
-    "job_posted_at_datetime_utc": "2026-03-09T08:47:39.639Z",
+    "job_posted_at_datetime_utc": "2026-03-09T09:03:26.332Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "dc1e61bb7d136bf9653ca73955cebefdbd7951a4c3d1997c9142b554472e452f",
@@ -17400,7 +17456,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:47:39.639Z"
+    "job_posted_at": "2026-03-09T09:03:26.332Z"
   },
   {
     "job_id": "workday-moog-R-26-16578",
@@ -17411,7 +17467,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Software-Engineer_R-26-16578",
-    "job_posted_at_datetime_utc": "2026-03-09T08:47:32.590Z",
+    "job_posted_at_datetime_utc": "2026-03-09T09:03:17.346Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "376e03be38c46749abfa0edae76277d53df7996eec4466627220da1f2940c60c",
@@ -17429,63 +17485,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:47:32.590Z"
-  },
-  {
-    "job_id": "workday-state-street-R-785488",
-    "job_title": "Software Engineering and Development",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineering-and-Development_R-785488",
-    "job_posted_at_datetime_utc": "2026-03-09T08:47:32.137Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b1215ad872b904d548e48a5c935ba8b99f0fe946dfc41557b47c8eeec81b7a63",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:47:32.137Z"
-  },
-  {
-    "job_id": "workday-state-street-R-785495",
-    "job_title": "SW Engineer I – Full Stack, Officer",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495",
-    "job_posted_at_datetime_utc": "2026-03-09T08:47:32.137Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cac91222628578f6cd0e9d79e360bd89c3e0567b0313d680bc29a1b73df67683",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:47:32.137Z"
+    "job_posted_at": "2026-03-09T09:03:17.346Z"
   },
   {
     "job_id": "workday-ncino-R6043",
@@ -17496,7 +17496,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ncino.wd5.myworkdayjobs.com/ncinoCareers/job/US---Utah---Lehi/Software-Engineer---nCino-Mortgage-Technology_R6043",
-    "job_posted_at_datetime_utc": "2026-03-09T08:46:27.691Z",
+    "job_posted_at_datetime_utc": "2026-03-09T09:02:09.061Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "edb0f08e085ce3939dcf3687dbd3fe391bc3116ee6b047b8b8b4e1dc192eca80",
@@ -17513,7 +17513,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:46:27.691Z"
+    "job_posted_at": "2026-03-09T09:02:09.061Z"
   },
   {
     "job_id": "workday-kbr-R2119852",
@@ -17524,7 +17524,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Software-Engineer_R2119852",
-    "job_posted_at_datetime_utc": "2026-03-09T08:45:43.178Z",
+    "job_posted_at_datetime_utc": "2026-03-09T09:01:25.794Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1fa0b673b106676ca3fe00f3d0b4b63945780ad8f807c5cefa6b8dc83c7c9e8b",
@@ -17541,7 +17541,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:45:43.178Z"
+    "job_posted_at": "2026-03-09T09:01:25.794Z"
   },
   {
     "job_id": "workday-kbr-R2119114",
@@ -17552,7 +17552,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Bedford-Massachusetts/Embedded-Software-Developer_R2119114",
-    "job_posted_at_datetime_utc": "2026-03-09T08:45:43.178Z",
+    "job_posted_at_datetime_utc": "2026-03-09T09:01:25.794Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f24144b3608fe5b7c92d1dddab8c010a06e481fbc68482e1d0663470239d34af",
@@ -17570,63 +17570,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:45:43.178Z"
-  },
-  {
-    "job_id": "workday-caci-322672",
-    "job_title": "Software Developer",
-    "employer_name": "CACI",
-    "job_city": "US MD Aberdeen Proving Ground",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Software-Developer_322672",
-    "job_posted_at_datetime_utc": "2026-03-09T08:45:34.099Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef7f62cea10bd0224a0eaad8f5bd466500e4e107288bca6acc89c38876184b87",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:45:34.099Z"
-  },
-  {
-    "job_id": "workday-caci-322674",
-    "job_title": "Full Stack Developer",
-    "employer_name": "CACI",
-    "job_city": "US MD Aberdeen Proving Ground",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Full-Stack-Developer_322674",
-    "job_posted_at_datetime_utc": "2026-03-09T08:45:34.099Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fce5ffd47b393f6180a86f9fcae918e564354be920d900bcf85d0c61a2af1db7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:45:34.099Z"
+    "job_posted_at": "2026-03-09T09:01:25.794Z"
   },
   {
     "job_id": "workday-caci-323008",
@@ -17637,7 +17581,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Cyber-Software-Engineer_323008",
-    "job_posted_at_datetime_utc": "2026-03-09T08:45:34.097Z",
+    "job_posted_at_datetime_utc": "2026-03-09T09:01:24.031Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2cc2152de1a4a457092ae66e5ee8ef7b8cf77005c4e6f0791ed2985643e39714",
@@ -17654,7 +17598,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:45:34.097Z"
+    "job_posted_at": "2026-03-09T09:01:24.031Z"
   },
   {
     "job_id": "workday-caci-322320",
@@ -17665,7 +17609,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Full-Stack-Java-Developer_322320",
-    "job_posted_at_datetime_utc": "2026-03-09T08:45:34.097Z",
+    "job_posted_at_datetime_utc": "2026-03-09T09:01:24.031Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b1252bced8425024d61d75ece76792f7ad2ccb0ac59c64907a7f8cd12110b69e",
@@ -17682,21 +17626,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:45:34.097Z"
+    "job_posted_at": "2026-03-09T09:01:24.031Z"
   },
   {
-    "job_id": "workday-caterpillar-R0000348628",
-    "job_title": "Positioning and Controls Software Engineer",
-    "employer_name": "Caterpillar",
-    "job_city": "Mossville",
+    "job_id": "workday-caci-322672",
+    "job_title": "Software Developer",
+    "employer_name": "CACI",
+    "job_city": "US MD Aberdeen Proving Ground",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Positioning-and-Controls-Software-Engineer_R0000348628",
-    "job_posted_at_datetime_utc": "2026-03-09T08:44:46.425Z",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Software-Developer_322672",
+    "job_posted_at_datetime_utc": "2026-03-09T09:01:24.031Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "dd4617008af50db155939d1e99f1b99e66605a31f098a9c1e4e5327f48f2decf",
+    "fingerprint": "ef7f62cea10bd0224a0eaad8f5bd466500e4e107288bca6acc89c38876184b87",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -17710,7 +17654,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:44:46.425Z"
+    "job_posted_at": "2026-03-09T09:01:24.031Z"
+  },
+  {
+    "job_id": "workday-caci-322674",
+    "job_title": "Full Stack Developer",
+    "employer_name": "CACI",
+    "job_city": "US MD Aberdeen Proving Ground",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Full-Stack-Developer_322674",
+    "job_posted_at_datetime_utc": "2026-03-09T09:01:24.031Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fce5ffd47b393f6180a86f9fcae918e564354be920d900bcf85d0c61a2af1db7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-09T09:01:24.031Z"
   },
   {
     "job_id": "workday-caterpillar-R0000354642",
@@ -17721,7 +17693,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist_R0000354642",
-    "job_posted_at_datetime_utc": "2026-03-09T08:44:46.425Z",
+    "job_posted_at_datetime_utc": "2026-03-09T09:00:23.885Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0dbc9e2e2e1a0a04b4a38aab5d76e61d57559aabeb56893d4e5aa9ebcca6a07a",
@@ -17739,7 +17711,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:44:46.425Z"
+    "job_posted_at": "2026-03-09T09:00:23.885Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000348628",
+    "job_title": "Positioning and Controls Software Engineer",
+    "employer_name": "Caterpillar",
+    "job_city": "Mossville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Positioning-and-Controls-Software-Engineer_R0000348628",
+    "job_posted_at_datetime_utc": "2026-03-09T09:00:23.884Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dd4617008af50db155939d1e99f1b99e66605a31f098a9c1e4e5327f48f2decf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-09T09:00:23.884Z"
   },
   {
     "job_id": "workday-boeing-JR2026498267",
@@ -17750,7 +17750,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Developer--Associate-or-Experienced-_JR2026498267-1",
-    "job_posted_at_datetime_utc": "2026-03-09T08:44:22.672Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:56.616Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0f824c9666bfed888592fdd037a5c843b3e5cd735d0adf46ce9c336a6ff8a656",
@@ -17767,7 +17767,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:44:22.672Z"
+    "job_posted_at": "2026-03-09T08:59:56.616Z"
   },
   {
     "job_id": "workday-cadence-R53533",
@@ -17778,7 +17778,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-I_R53533-1",
-    "job_posted_at_datetime_utc": "2026-03-09T08:44:16.084Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:51.716Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7c87bd5f9a4bb5f1232fe9a8189e9b69b836517519d0d294e41c571483ae8045",
@@ -17795,91 +17795,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:44:16.084Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00172273",
-    "job_title": "​​Entry-Level Software Developer​",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Software-Developer-_R-00172273",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:59.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "15fd5eeca0db3d97314cd9b3102c0fafc35ce4418aff151524d30470e1ba1b1c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:59.797Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00177898",
-    "job_title": "SME Software Developer",
-    "employer_name": "Leidos",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-Software-Developer_R-00177898",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:59.795Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d4534fa96ba9855d7cf2d99d35fe7a320a2d6768fac6003d65fd6a9a18569f6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:59.795Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00177885",
-    "job_title": "C++ Full Stack Developer",
-    "employer_name": "Leidos",
-    "job_city": "Ashburn",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/C---Full-Stack-Developer_R-00177885",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:59.795Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "712c84bbad22981ddb089cf8b80a0e3393993aaa67b37a5fe9bc1b2dc0fc4028",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:59.795Z"
+    "job_posted_at": "2026-03-09T08:59:51.716Z"
   },
   {
     "job_id": "workday-leidos-R-00176701",
@@ -17890,7 +17806,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer---TS-SCI-Required_R-00176701-1",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:59.795Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:35.405Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0d3508f97969b98935aaeef858db42fe2694696b5b149a8b4d7058b3b8133629",
@@ -17907,21 +17823,77 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:59.795Z"
+    "job_posted_at": "2026-03-09T08:59:35.405Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0235472",
-    "job_title": "Full Stack Developer",
-    "employer_name": "Booz Allen Hamilton",
+    "job_id": "workday-leidos-R-00172273",
+    "job_title": "​​Entry-Level Software Developer​",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Software-Developer-_R-00172273",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:35.405Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "15fd5eeca0db3d97314cd9b3102c0fafc35ce4418aff151524d30470e1ba1b1c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-09T08:59:35.405Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00177898",
+    "job_title": "SME Software Developer",
+    "employer_name": "Leidos",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-Software-Developer_R-00177898",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:35.404Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d4534fa96ba9855d7cf2d99d35fe7a320a2d6768fac6003d65fd6a9a18569f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-09T08:59:35.404Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00177885",
+    "job_title": "C++ Full Stack Developer",
+    "employer_name": "Leidos",
     "job_city": "Ashburn",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Full-Stack-Developer_R0235472",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:51.826Z",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/C---Full-Stack-Developer_R-00177885",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:35.404Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c2eda1ad444b38314bc4d5840b4197328dcf755073c1fa12740de1fce1b16ff0",
+    "fingerprint": "712c84bbad22981ddb089cf8b80a0e3393993aaa67b37a5fe9bc1b2dc0fc4028",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -17935,63 +17907,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:51.826Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235470",
-    "job_title": "Full Stack Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Ashburn",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Full-Stack-Developer_R0235470",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:51.826Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2eda1ad444b38314bc4d5840b4197328dcf755073c1fa12740de1fce1b16ff0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:51.826Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235359",
-    "job_title": "Electronic Warfare Software Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Electronic-Warfare-Software-Engineer_R0235359",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:51.826Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "58cf2fb7247cd538d63c5a8df62a31df05083bfa05e74065efaa666a1a0f3523",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:51.826Z"
+    "job_posted_at": "2026-03-09T08:59:35.404Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0226537",
@@ -18002,7 +17918,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Back-End-Software-Engineer_R0226537",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:51.826Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:31.608Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "55deb709654e2da15183e344b60bdc48006c58f1efdab96a6ac9766b2de0b81d",
@@ -18019,7 +17935,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:51.826Z"
+    "job_posted_at": "2026-03-09T08:59:31.608Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235220",
@@ -18030,7 +17946,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Omaha-NE/Software-Engineer_R0235220",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:51.826Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:31.608Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c75597ff030a4c7c5f0b6b9170fa5415533cfb5dd363d4a7cfdd22b08b8a8c48",
@@ -18047,7 +17963,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:51.826Z"
+    "job_posted_at": "2026-03-09T08:59:31.608Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233063",
@@ -18058,7 +17974,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aurora-CO/Software-Engineer_R0233063",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:51.826Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:31.608Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "33beca6676fe952e5e4183a155f694d3a2b2fd9f8af90cc04c437da049d048cc",
@@ -18075,7 +17991,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:51.826Z"
+    "job_posted_at": "2026-03-09T08:59:31.608Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235435",
@@ -18086,7 +18002,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/AWS-DevOps-Engineer_R0235435",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:51.826Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:31.608Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "179acb112976524383627169fe9486aa5bd728c86473e557d78797b419356c3e",
@@ -18103,7 +18019,91 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:51.826Z"
+    "job_posted_at": "2026-03-09T08:59:31.608Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235472",
+    "job_title": "Full Stack Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Ashburn",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Full-Stack-Developer_R0235472",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:31.607Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2eda1ad444b38314bc4d5840b4197328dcf755073c1fa12740de1fce1b16ff0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-09T08:59:31.607Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235470",
+    "job_title": "Full Stack Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Ashburn",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Full-Stack-Developer_R0235470",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:31.607Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2eda1ad444b38314bc4d5840b4197328dcf755073c1fa12740de1fce1b16ff0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-09T08:59:31.607Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235359",
+    "job_title": "Electronic Warfare Software Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Electronic-Warfare-Software-Engineer_R0235359",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:31.607Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "58cf2fb7247cd538d63c5a8df62a31df05083bfa05e74065efaa666a1a0f3523",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-09T08:59:31.607Z"
   },
   {
     "job_id": "workday-at&t-R-96685",
@@ -18114,7 +18114,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/ServiceNow-Developer---Asset-Management-Program--SWE-0---Government-_R-96685",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:51.277Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:29.586Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b67957fb2fc7cf9c3a2e939d88762d0a7adf4e488f489c51a47f547441a01ba1",
@@ -18133,7 +18133,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:51.277Z"
+    "job_posted_at": "2026-03-09T08:59:29.586Z"
   },
   {
     "job_id": "workday-nvidia-JR2008177",
@@ -18144,7 +18144,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/ASIC-Design-Engineer--Hardware-Tools-and-Methodology-Development_JR2008177",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:33.057Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:59:10.578Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ebce47875f9ab549098aab6b613391c71e9095645b7f9b4900f82e082ba74445",
@@ -18163,7 +18163,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:33.057Z"
+    "job_posted_at": "2026-03-09T08:59:10.578Z"
   },
   {
     "job_id": "workday-rtx-01797122",
@@ -18174,7 +18174,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:21.307Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:58:59.473Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c388506b77b15f69a38b95ede8f8974903023db91497531c20a5022b2e311416",
@@ -18191,7 +18191,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:21.307Z"
+    "job_posted_at": "2026-03-09T08:58:59.473Z"
   },
   {
     "job_id": "workday-capital-one-R237631",
@@ -18202,7 +18202,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Commack-NY/Part-Time-Branch-Ambassador---Western-Suffolk-Area_R237631-1",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:19.235Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:58:56.585Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "56a44cd9e413e8f3b0f5b521c59495c3bdd0478bd70979e3318bdda3d731d022",
@@ -18219,7 +18219,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:19.235Z"
+    "job_posted_at": "2026-03-09T08:58:56.585Z"
   },
   {
     "job_id": "workday-capital-one-R237407",
@@ -18230,7 +18230,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday---Techo-Functional--Finance-_R237407-1",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:19.235Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:58:56.585Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "406279cc0324ff82254516f99aedf2f49da206627272725b3beb5db187d6ecc7",
@@ -18247,7 +18247,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:19.235Z"
+    "job_posted_at": "2026-03-09T08:58:56.585Z"
   },
   {
     "job_id": "workday-capital-one-R236839",
@@ -18258,7 +18258,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations--LLM-Core-and-Agentic-AI-_R236839-1",
-    "job_posted_at_datetime_utc": "2026-03-09T08:43:19.235Z",
+    "job_posted_at_datetime_utc": "2026-03-09T08:58:56.585Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "27374e07964872864e20f64333f86c79dc88405e8e9b798607a675c91e262abf",
@@ -18277,7 +18277,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-09T08:43:19.235Z"
+    "job_posted_at": "2026-03-09T08:58:56.585Z"
   },
   {
     "job_id": "greenhouse-sigmacomputing-7657085003",
@@ -18482,35 +18482,6 @@
     "job_posted_at": "2026-03-09T01:31:52.294Z"
   },
   {
-    "job_id": "js-huxley-ni_f7up-zogdvnuyaaaaaa==",
-    "job_title": "Junior Java Software Engineer/SDET",
-    "employer_name": "Huxley",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.huxley.com/en-us/job/junior-java-software-engineer-sdet/4037591/",
-    "job_posted_at_datetime_utc": "2026-03-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b4161c2c0e9db37697711d50b18815d5dad071601bd7b85ad70b3142a3ecde35",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-09T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-74985522-0584-4de2-b52e-962e990208f4",
     "job_title": "Software Development Engineer, AWS Network Firewall",
     "employer_name": "Amazon Data Services, Inc.",
@@ -18601,6 +18572,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-huxley-ni_f7up-zogdvnuyaaaaaa==",
+    "job_title": "Junior Java Software Engineer/SDET",
+    "employer_name": "Huxley",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.huxley.com/en-us/job/junior-java-software-engineer-sdet/4037591/",
+    "job_posted_at_datetime_utc": "2026-03-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b4161c2c0e9db37697711d50b18815d5dad071601bd7b85ad70b3142a3ecde35",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-09T00:00:00.000Z"
   },
   {
@@ -21217,7 +21217,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer--C----OOD-OOP--Linux-_2634818",
-    "job_posted_at_datetime_utc": "2026-03-06T08:47:39.639Z",
+    "job_posted_at_datetime_utc": "2026-03-06T09:03:26.332Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "36d357c282dc61b07647aecc55cea013ba547cefc2f4135b8b52c17b3d4cb6f6",
@@ -21234,7 +21234,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:47:39.639Z"
+    "job_posted_at": "2026-03-06T09:03:26.332Z"
   },
   {
     "job_id": "workday-fidelity-investments-2124524",
@@ -21245,7 +21245,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Software-Engineer-in-Test_2124524-1",
-    "job_posted_at_datetime_utc": "2026-03-06T08:47:17.091Z",
+    "job_posted_at_datetime_utc": "2026-03-06T09:03:07.241Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "837366c8f4b3c3fc3551dd3a55e1cefa418c0b779c4ba28973977e8a37fdb526",
@@ -21262,7 +21262,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:47:17.091Z"
+    "job_posted_at": "2026-03-06T09:03:07.241Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10225179",
@@ -21273,7 +21273,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Embedded-Software-Engineer--Level-1-or-2-_R10225179",
-    "job_posted_at_datetime_utc": "2026-03-06T08:46:56.002Z",
+    "job_posted_at_datetime_utc": "2026-03-06T09:02:44.031Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e0312df95f48b383ebf4d69a27d01c4ef8094cc38efdc257b93a2dd5eabfadf2",
@@ -21291,7 +21291,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:46:56.002Z"
+    "job_posted_at": "2026-03-06T09:02:44.031Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10225102",
@@ -21302,7 +21302,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Orlando/Software-Engineer_R10225102",
-    "job_posted_at_datetime_utc": "2026-03-06T08:46:56.002Z",
+    "job_posted_at_datetime_utc": "2026-03-06T09:02:44.031Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a970ee682695f69353371aedd3619cad366d16706e6b948a8e11a6f0df977c03",
@@ -21319,7 +21319,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:46:56.002Z"
+    "job_posted_at": "2026-03-06T09:02:44.031Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10225100",
@@ -21330,7 +21330,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Orlando/Software-Engineer_R10225100",
-    "job_posted_at_datetime_utc": "2026-03-06T08:46:56.002Z",
+    "job_posted_at_datetime_utc": "2026-03-06T09:02:44.031Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a970ee682695f69353371aedd3619cad366d16706e6b948a8e11a6f0df977c03",
@@ -21347,7 +21347,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:46:56.002Z"
+    "job_posted_at": "2026-03-06T09:02:44.031Z"
   },
   {
     "job_id": "workday-cisco-2007058",
@@ -21358,7 +21358,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2007058-1",
-    "job_posted_at_datetime_utc": "2026-03-06T08:46:54.422Z",
+    "job_posted_at_datetime_utc": "2026-03-06T09:02:37.497Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "dc1a713bc4383971b133030cd35d9a90d3ac4f668445d917a35f2c21d886296b",
@@ -21375,7 +21375,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:46:54.422Z"
+    "job_posted_at": "2026-03-06T09:02:37.497Z"
   },
   {
     "job_id": "workday-red-hat-R-055727",
@@ -21386,7 +21386,7 @@
     "job_country": "United States",
     "job_is_remote": true,
     "job_apply_link": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-CA-ON/Software-Engineer---Cloud-Fleet-Management_R-055727",
-    "job_posted_at_datetime_utc": "2026-03-06T08:46:24.477Z",
+    "job_posted_at_datetime_utc": "2026-03-06T09:02:05.166Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d579ab75d336d4e34fe61951bdd69a4f36b653dda081cf32e7351aa383a7c996",
@@ -21404,7 +21404,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:46:24.477Z"
+    "job_posted_at": "2026-03-06T09:02:05.166Z"
   },
   {
     "job_id": "workday-caci-318184",
@@ -21415,7 +21415,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Bethesda/Software-Developer_318184-1",
-    "job_posted_at_datetime_utc": "2026-03-06T08:45:34.099Z",
+    "job_posted_at_datetime_utc": "2026-03-06T09:01:24.031Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "08c2f20fcb6628d71e978ceea20f8dbad33d71670d088883783b7772278e4019",
@@ -21432,7 +21432,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:45:34.099Z"
+    "job_posted_at": "2026-03-06T09:01:24.031Z"
   },
   {
     "job_id": "workday-caci-322894",
@@ -21443,7 +21443,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Site-Reliability-Engineer---DevSecOps_322894",
-    "job_posted_at_datetime_utc": "2026-03-06T08:45:34.099Z",
+    "job_posted_at_datetime_utc": "2026-03-06T09:01:24.031Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7eec8f62ea0abbfc2b869c2cc41302989799db6a2d17230129f86e6ad227f13e",
@@ -21460,7 +21460,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:45:34.099Z"
+    "job_posted_at": "2026-03-06T09:01:24.031Z"
   },
   {
     "job_id": "workday-adobe-R157106",
@@ -21471,7 +21471,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Senior-Software-Developer_R157106",
-    "job_posted_at_datetime_utc": "2026-03-06T08:44:46.714Z",
+    "job_posted_at_datetime_utc": "2026-03-06T09:00:21.492Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3576422277ba626c2a134b056154f33f3c5e568b565c9a6dc48b715916e84a39",
@@ -21488,7 +21488,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:44:46.714Z"
+    "job_posted_at": "2026-03-06T09:00:21.492Z"
   },
   {
     "job_id": "workday-adobe-R164609",
@@ -21499,7 +21499,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Software-Development-Engineer_R164609",
-    "job_posted_at_datetime_utc": "2026-03-06T08:44:46.714Z",
+    "job_posted_at_datetime_utc": "2026-03-06T09:00:21.492Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "106d4f3d58c0ec61666be548e041031baee09af69fd99e8167c21adbc81094a3",
@@ -21516,7 +21516,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:44:46.714Z"
+    "job_posted_at": "2026-03-06T09:00:21.492Z"
   },
   {
     "job_id": "workday-boeing-JR2026494817",
@@ -21527,7 +21527,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Associate-Software-Engineer--Secure-Networks---Protocols_JR2026494817-1",
-    "job_posted_at_datetime_utc": "2026-03-06T08:44:22.674Z",
+    "job_posted_at_datetime_utc": "2026-03-06T08:59:56.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ba9212f9ff3dbcee67048415f3141c06642e2fdfb430d8d5be3bf04aa4b8e88c",
@@ -21544,7 +21544,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:44:22.674Z"
+    "job_posted_at": "2026-03-06T08:59:56.617Z"
   },
   {
     "job_id": "workday-boeing-JR2026494822",
@@ -21555,7 +21555,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Experienced-Software-Engineer-DevSecOps_JR2026494822",
-    "job_posted_at_datetime_utc": "2026-03-06T08:44:22.674Z",
+    "job_posted_at_datetime_utc": "2026-03-06T08:59:56.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "21b1b4f5155a3a1d925afe3f4a9005947bc61e3cd06411e1802805a5d33b1aeb",
@@ -21572,7 +21572,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:44:22.674Z"
+    "job_posted_at": "2026-03-06T08:59:56.617Z"
   },
   {
     "job_id": "workday-boeing-JR2025485213",
@@ -21583,7 +21583,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Experienced-Embedded-Software-Engineer_JR2025485213-1",
-    "job_posted_at_datetime_utc": "2026-03-06T08:44:22.674Z",
+    "job_posted_at_datetime_utc": "2026-03-06T08:59:56.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f263143c7fd060f0aabc8020db0d781d0488d9cf8fcf5bc2aaec8958c02ef6db",
@@ -21601,7 +21601,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:44:22.674Z"
+    "job_posted_at": "2026-03-06T08:59:56.617Z"
   },
   {
     "job_id": "workday-boeing-JR2025489635",
@@ -21612,7 +21612,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Associate-Embedded-Software-Engineers_JR2025489635-1",
-    "job_posted_at_datetime_utc": "2026-03-06T08:44:22.674Z",
+    "job_posted_at_datetime_utc": "2026-03-06T08:59:56.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ecf6461db17518f528f5c3314f30444944365092916990c8e800be06cd71711f",
@@ -21630,7 +21630,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:44:22.674Z"
+    "job_posted_at": "2026-03-06T08:59:56.617Z"
   },
   {
     "job_id": "workday-leidos-R-00177701",
@@ -21641,7 +21641,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00177701",
-    "job_posted_at_datetime_utc": "2026-03-06T08:43:59.798Z",
+    "job_posted_at_datetime_utc": "2026-03-06T08:59:35.405Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d182a3d2c6f4a08580e1e096759bb992bf2f30f0e636abbf1247c5fea2894fd9",
@@ -21658,7 +21658,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:43:59.798Z"
+    "job_posted_at": "2026-03-06T08:59:35.405Z"
   },
   {
     "job_id": "workday-leidos-R-00175292",
@@ -21669,7 +21669,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Field-Service-Engineer_R-00175292",
-    "job_posted_at_datetime_utc": "2026-03-06T08:43:59.798Z",
+    "job_posted_at_datetime_utc": "2026-03-06T08:59:35.405Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b969ec5294a0da9ae679c30315a92522d6896ccb05724b11f008589fa5f146b4",
@@ -21686,7 +21686,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:43:59.798Z"
+    "job_posted_at": "2026-03-06T08:59:35.405Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235352",
+    "job_title": "AI DevOps Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-DevOps-Engineer_R0235352",
+    "job_posted_at_datetime_utc": "2026-03-06T08:59:31.608Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "064e9b2129f4319920d02ea194328144dee7f38de0141ebd508ce3f9b9bc9beb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-06T08:59:31.608Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235362",
+    "job_title": "Full Stack Software Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0235362",
+    "job_posted_at_datetime_utc": "2026-03-06T08:59:31.608Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9b65fde8a9c1ece68004d34969e152e2f6d3319f12c43804691ee631b9bf5345",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-06T08:59:31.608Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235344",
@@ -21697,7 +21753,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/Computer-Vision-Software-Engineer_R0235344-1",
-    "job_posted_at_datetime_utc": "2026-03-06T08:43:51.827Z",
+    "job_posted_at_datetime_utc": "2026-03-06T08:59:31.608Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a81f717036164129464499939e6cde829e59d0b44ec95566b10db27a6b2ac14c",
@@ -21715,7 +21771,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:43:51.827Z"
+    "job_posted_at": "2026-03-06T08:59:31.608Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235314",
@@ -21726,7 +21782,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/DevOps-Engineer_R0235314",
-    "job_posted_at_datetime_utc": "2026-03-06T08:43:51.827Z",
+    "job_posted_at_datetime_utc": "2026-03-06T08:59:31.608Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a0decc37fa10b51ffada31801d9773a09a8b3db4cd19056258e5ea054111cf4e",
@@ -21743,63 +21799,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:43:51.827Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235352",
-    "job_title": "AI DevOps Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-DevOps-Engineer_R0235352",
-    "job_posted_at_datetime_utc": "2026-03-06T08:43:51.826Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "064e9b2129f4319920d02ea194328144dee7f38de0141ebd508ce3f9b9bc9beb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:43:51.826Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235362",
-    "job_title": "Full Stack Software Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0235362",
-    "job_posted_at_datetime_utc": "2026-03-06T08:43:51.826Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9b65fde8a9c1ece68004d34969e152e2f6d3319f12c43804691ee631b9bf5345",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:43:51.826Z"
+    "job_posted_at": "2026-03-06T08:59:31.608Z"
   },
   {
     "job_id": "workday-capital-one-R237024",
@@ -21810,7 +21810,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Ronkonkoma-NY/Full-Time-Branch-Ambassador---Central-Suffolk-Area_R237024-2",
-    "job_posted_at_datetime_utc": "2026-03-06T08:43:19.235Z",
+    "job_posted_at_datetime_utc": "2026-03-06T08:58:56.585Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "95f5962da78a921fe9a89e2a7e0d5ce849877acb26b47d5f4dffc5bf94a36348",
@@ -21827,7 +21827,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:43:19.235Z"
+    "job_posted_at": "2026-03-06T08:58:56.585Z"
   },
   {
     "job_id": "workday-capital-one-R237537",
@@ -21838,7 +21838,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plainfield-NJ/Part-Time-Branch-Ambassador---New-Jersey-Market_R237537-2",
-    "job_posted_at_datetime_utc": "2026-03-06T08:43:19.235Z",
+    "job_posted_at_datetime_utc": "2026-03-06T08:58:56.585Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ac794e30daf5ed1a1e11dc78e1c1829c1d8c736337ca14570cde4c050bdd474b",
@@ -21855,7 +21855,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:43:19.235Z"
+    "job_posted_at": "2026-03-06T08:58:56.585Z"
   },
   {
     "job_id": "workday-capital-one-R237535",
@@ -21866,7 +21866,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plainfield-NJ/Full-Time-Branch-Ambassador---New-Jersey-Market_R237535-1",
-    "job_posted_at_datetime_utc": "2026-03-06T08:43:19.235Z",
+    "job_posted_at_datetime_utc": "2026-03-06T08:58:56.585Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5b61c927f56bb101b369a292a9a18167f2e1afe38725864656ec6d5146713265",
@@ -21883,7 +21883,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:43:19.235Z"
+    "job_posted_at": "2026-03-06T08:58:56.585Z"
   },
   {
     "job_id": "greenhouse-lucidmotors-5032268007",
@@ -24796,6 +24796,36 @@
     "job_posted_at": "2026-03-05T19:12:07-05:00"
   },
   {
+    "job_id": "js-sedgwick-r10zihcnd8sb2ympaaaaaa==",
+    "job_title": "Data Scientist (REMOTE)",
+    "employer_name": "Sedgwick",
+    "job_city": "Bartlesville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://virtualjobs.usnlx.com/bartlesville-ok/data-scientist-remote/26009DAEE296425A8C88F188F5B2D410/job/",
+    "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "93eefd61de22e471e2f3bcc01be84a1c039bc6e92b61b9e4dbda682a459dc03f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-06T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-504c38cc-30fd-439b-bcb6-8a75eefbc2c4",
     "job_title": "Software Development Engineer, Sponsored Brands Advertising",
     "employer_name": "Amazon.com Services LLC",
@@ -24950,36 +24980,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-03-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-sedgwick-r10zihcnd8sb2ympaaaaaa==",
-    "job_title": "Data Scientist (REMOTE)",
-    "employer_name": "Sedgwick",
-    "job_city": "Bartlesville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://virtualjobs.usnlx.com/bartlesville-ok/data-scientist-remote/26009DAEE296425A8C88F188F5B2D410/job/",
-    "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "93eefd61de22e471e2f3bcc01be84a1c039bc6e92b61b9e4dbda682a459dc03f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-03-06T00:00:00.000Z"
   },
   {
@@ -26257,7 +26257,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Software-Engineer--Lens-Studio--Level-4_R0044846-1",
-    "job_posted_at_datetime_utc": "2026-03-05T08:47:08.117Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:02:56.304Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3d55d6a2ff71097aa56c6cc833b10100090e6636cfc085fc25cf5091bde0b7a0",
@@ -26274,91 +26274,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:47:08.117Z"
-  },
-  {
-    "job_id": "workday-disney-10142524",
-    "job_title": "Software Engineer - Frontend",
-    "employer_name": "Disney",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineer---Frontend_10142524",
-    "job_posted_at_datetime_utc": "2026-03-05T08:46:57.603Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "49c0e31007d8e597be555b45e7e5b4c613921bf1353286b53271c39174eb7601",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:46:57.603Z"
-  },
-  {
-    "job_id": "workday-disney-10145212",
-    "job_title": "Software Engineer - Interactive Visualization",
-    "employer_name": "Disney",
-    "job_city": "Burbank",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Software-Engineer---Interactive-Visualization_10145212",
-    "job_posted_at_datetime_utc": "2026-03-05T08:46:57.603Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a724b0870cf14eef5effe78b442bd7b734bb31a85567f91d44c71fbf0074e91",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:46:57.603Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10224950",
-    "job_title": "Software Engineer - Level 3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Alabama-Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-3_R10224950",
-    "job_posted_at_datetime_utc": "2026-03-05T08:46:56.003Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c7b88e3cc92d9629c915f5cc3ca2aff0da427450fa184a814b8d28fb24ba029",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:46:56.003Z"
+    "job_posted_at": "2026-03-05T09:02:56.304Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10225037",
@@ -26369,7 +26285,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-3-or-4_R10225037",
-    "job_posted_at_datetime_utc": "2026-03-05T08:46:56.002Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:02:44.032Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fc84b64fa872245d1a063e5d0d4aea851ddf7574fc3c21dc7f43e0c7c875d39e",
@@ -26386,7 +26302,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:46:56.002Z"
+    "job_posted_at": "2026-03-05T09:02:44.032Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10224976",
@@ -26397,7 +26313,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-3_R10224976-1",
-    "job_posted_at_datetime_utc": "2026-03-05T08:46:56.002Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:02:44.032Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9c7b88e3cc92d9629c915f5cc3ca2aff0da427450fa184a814b8d28fb24ba029",
@@ -26414,7 +26330,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:46:56.002Z"
+    "job_posted_at": "2026-03-05T09:02:44.032Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10224299",
@@ -26425,7 +26341,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Engineer-DevOps---DSO-Engineer--26-090-_R10224299",
-    "job_posted_at_datetime_utc": "2026-03-05T08:46:56.002Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:02:44.032Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9b97d46488b4ace73634f49e7b5f3e14e0929d13d693cfb53d6acc5d18116421",
@@ -26442,7 +26358,91 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:46:56.002Z"
+    "job_posted_at": "2026-03-05T09:02:44.032Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10224950",
+    "job_title": "Software Engineer - Level 3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Alabama-Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-3_R10224950",
+    "job_posted_at_datetime_utc": "2026-03-05T09:02:44.032Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c7b88e3cc92d9629c915f5cc3ca2aff0da427450fa184a814b8d28fb24ba029",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T09:02:44.032Z"
+  },
+  {
+    "job_id": "workday-disney-10142524",
+    "job_title": "Software Engineer - Frontend",
+    "employer_name": "Disney",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineer---Frontend_10142524",
+    "job_posted_at_datetime_utc": "2026-03-05T09:02:39.761Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "49c0e31007d8e597be555b45e7e5b4c613921bf1353286b53271c39174eb7601",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T09:02:39.761Z"
+  },
+  {
+    "job_id": "workday-disney-10145212",
+    "job_title": "Software Engineer - Interactive Visualization",
+    "employer_name": "Disney",
+    "job_city": "Burbank",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Software-Engineer---Interactive-Visualization_10145212",
+    "job_posted_at_datetime_utc": "2026-03-05T09:02:39.761Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2a724b0870cf14eef5effe78b442bd7b734bb31a85567f91d44c71fbf0074e91",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T09:02:39.761Z"
   },
   {
     "job_id": "workday-intel-JR0281488",
@@ -26453,7 +26453,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Infrastructure-and-DevOps-Engineer_JR0281488",
-    "job_posted_at_datetime_utc": "2026-03-05T08:46:05.964Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:01:49.796Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "db2637f649248af613c60e325e9481890c5a8af612eaf874e88439c77a893702",
@@ -26470,7 +26470,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:46:05.964Z"
+    "job_posted_at": "2026-03-05T09:01:49.796Z"
   },
   {
     "job_id": "workday-kbr-R2119997",
@@ -26481,7 +26481,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Developer--Command-_R2119997",
-    "job_posted_at_datetime_utc": "2026-03-05T08:45:43.179Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:01:25.794Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4509da824b5b6b822d38cb3bbd9defe76a7104aba2fca6ee1324c7ad589a56ef",
@@ -26498,7 +26498,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:45:43.179Z"
+    "job_posted_at": "2026-03-05T09:01:25.794Z"
   },
   {
     "job_id": "workday-kbr-R2119998",
@@ -26509,7 +26509,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Developer--Communication-_R2119998",
-    "job_posted_at_datetime_utc": "2026-03-05T08:45:43.179Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:01:25.794Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c220e87237b3777e98aab8d2760e28486a94ca522ad716125993be1b8f7cbab8",
@@ -26526,7 +26526,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:45:43.179Z"
+    "job_posted_at": "2026-03-05T09:01:25.794Z"
   },
   {
     "job_id": "workday-kbr-R2119990",
@@ -26537,7 +26537,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Engineer--External-Interfaces-_R2119990",
-    "job_posted_at_datetime_utc": "2026-03-05T08:45:43.179Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:01:25.794Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9f56b732d878fc3f5c53b536c1804b308502376422208533c1d84653e11ee604",
@@ -26554,7 +26554,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:45:43.179Z"
+    "job_posted_at": "2026-03-05T09:01:25.794Z"
   },
   {
     "job_id": "workday-kbr-R2119992",
@@ -26565,7 +26565,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Engineer--Infrastructure-_R2119992",
-    "job_posted_at_datetime_utc": "2026-03-05T08:45:43.179Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:01:25.794Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "15fedbb025db4e60094cfad45d8aacb961ce65f1a4456905533231999c646858",
@@ -26582,7 +26582,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:45:43.179Z"
+    "job_posted_at": "2026-03-05T09:01:25.794Z"
   },
   {
     "job_id": "workday-kbr-R2119983",
@@ -26593,7 +26593,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Engineer--Communication---Tracking-System-_R2119983",
-    "job_posted_at_datetime_utc": "2026-03-05T08:45:43.179Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:01:25.794Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "bca8fe49987a2a7a3f3aca9e6e2a944cb4b15931120ab99399a27b2adf5c8d58",
@@ -26610,7 +26610,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:45:43.179Z"
+    "job_posted_at": "2026-03-05T09:01:25.794Z"
+  },
+  {
+    "job_id": "workday-caci-322822",
+    "job_title": "Software Engineer (GIS Integrations)",
+    "employer_name": "CACI",
+    "job_city": "US NC Fort Bragg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Software-Engineer--GIS-Integrations-_322822-1",
+    "job_posted_at_datetime_utc": "2026-03-05T09:01:24.032Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4e8e64f9e55818f62f91b8a4e3f1edd6a8402d0650d83b92de3d01af78d88ab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T09:01:24.032Z"
   },
   {
     "job_id": "workday-caci-322445",
@@ -26621,7 +26649,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineer_322445",
-    "job_posted_at_datetime_utc": "2026-03-05T08:45:34.099Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:01:24.031Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "bf72d4cc7e90403f835c62ccb1765ece2036ed79f2f0bda08eb5c668484b1d33",
@@ -26638,7 +26666,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:45:34.099Z"
+    "job_posted_at": "2026-03-05T09:01:24.031Z"
   },
   {
     "job_id": "workday-caci-322841",
@@ -26649,7 +26677,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Houston/NASA-Spacecraft-Embedded-Flight-Software-Developer-and-Systems-Engineer_322841",
-    "job_posted_at_datetime_utc": "2026-03-05T08:45:34.099Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:01:24.031Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "071bfbd629c4d7b10dd73c9366445002b86f8d1c9f155c8ff8425c31f19b1714",
@@ -26667,35 +26695,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:45:34.099Z"
-  },
-  {
-    "job_id": "workday-caci-322822",
-    "job_title": "Software Engineer (GIS Integrations)",
-    "employer_name": "CACI",
-    "job_city": "US NC Fort Bragg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Software-Engineer--GIS-Integrations-_322822-1",
-    "job_posted_at_datetime_utc": "2026-03-05T08:45:34.099Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4e8e64f9e55818f62f91b8a4e3f1edd6a8402d0650d83b92de3d01af78d88ab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:45:34.099Z"
+    "job_posted_at": "2026-03-05T09:01:24.031Z"
   },
   {
     "job_id": "workday-caterpillar-R0000336389",
@@ -26706,7 +26706,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist-2_R0000336389",
-    "job_posted_at_datetime_utc": "2026-03-05T08:44:46.428Z",
+    "job_posted_at_datetime_utc": "2026-03-05T09:00:23.885Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7dba420b7f7804a85c911f85751c9b1fd91ff37d219173bb087814376537ecaf",
@@ -26724,7 +26724,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:44:46.428Z"
+    "job_posted_at": "2026-03-05T09:00:23.885Z"
   },
   {
     "job_id": "workday-blue-origin-R61150",
@@ -26735,7 +26735,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Denver-CO/Developer---Vision-Based-Navigation-Associate-Software-Engineer_R61150",
-    "job_posted_at_datetime_utc": "2026-03-05T08:44:18.907Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:52.532Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3ccd03c07a8e4a3609e8e2838c59801b4eec453842ad62d06de654b0e4b15f05",
@@ -26752,7 +26752,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:44:18.907Z"
+    "job_posted_at": "2026-03-05T08:59:52.532Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00175620",
+    "job_title": "Software Engineer with 25K sign on bonus",
+    "employer_name": "Leidos",
+    "job_city": "Columbia",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Software-Engineer-with-25K-sign-on-bonus_R-00175620",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:35.406Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "df1d06b995915128da7aeba78e160907a715d2dc32414f621366830ca97f7e2f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T08:59:35.406Z"
   },
   {
     "job_id": "workday-leidos-R-00177621",
@@ -26763,7 +26791,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Journeyman-Software-Developer_R-00177621",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:59.798Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:35.405Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7607992a4b61eee0759eeecbf9e06dbf9412d0588b6a7d528f0cf44021e6f333",
@@ -26780,7 +26808,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:59.798Z"
+    "job_posted_at": "2026-03-05T08:59:35.405Z"
   },
   {
     "job_id": "workday-leidos-R-00176350",
@@ -26791,7 +26819,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Junior-AI-Software-Engineer_R-00176350",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:59.798Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:35.405Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ee4e0a439d5000be0a71be2f1a500c0818322bf1a3256e21b07a2b7b8d263ec8",
@@ -26808,7 +26836,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:59.798Z"
+    "job_posted_at": "2026-03-05T08:59:35.405Z"
   },
   {
     "job_id": "workday-leidos-R-00174031",
@@ -26819,7 +26847,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer_R-00174031",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:59.798Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:35.405Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0d456c2bf8f4ed028d26ebd7e81ebaa52446d6a97c9b5687c791ffa4108c647e",
@@ -26836,7 +26864,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:59.798Z"
+    "job_posted_at": "2026-03-05T08:59:35.405Z"
   },
   {
     "job_id": "workday-leidos-R-00177525",
@@ -26847,7 +26875,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Algorithm-Software-Engineer_R-00177525",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:59.798Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:35.405Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9f6ac48824dfec76233d85982c0a0a70c16fbbe3566212dcb8d97296882d9268",
@@ -26864,7 +26892,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:59.798Z"
+    "job_posted_at": "2026-03-05T08:59:35.405Z"
   },
   {
     "job_id": "workday-leidos-R-00177515",
@@ -26875,7 +26903,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Embedded-Software-Engineer_R-00177515",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:59.798Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:35.405Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c41d66343f1999f73ab6368e358bc55083ce5cfe14a7b4c1e3883b9709c71f5a",
@@ -26893,7 +26921,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:59.798Z"
+    "job_posted_at": "2026-03-05T08:59:35.405Z"
   },
   {
     "job_id": "workday-leidos-R-00177579",
@@ -26904,7 +26932,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/XMLNAME---Platform-Engineer-_R-00177579",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:59.798Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:35.405Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "003a04d802d076ce07079b9bf55e3905fa8916f26c70c6785cb746070890deaa",
@@ -26921,63 +26949,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:59.798Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00175620",
-    "job_title": "Software Engineer with 25K sign on bonus",
-    "employer_name": "Leidos",
-    "job_city": "Columbia",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Software-Engineer-with-25K-sign-on-bonus_R-00175620",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:59.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "df1d06b995915128da7aeba78e160907a715d2dc32414f621366830ca97f7e2f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:59.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234920",
-    "job_title": "DevOps Engineer SME",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/DevOps-Engineer-SME_R0234920",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:51.830Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "84d318115ae8a2c0f89e44dc0eff9fd83404562d34252ea56c406500ca708d06",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:51.830Z"
+    "job_posted_at": "2026-03-05T08:59:35.405Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234570",
@@ -26988,7 +26960,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Software-Developer_R0234570",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:51.830Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:31.609Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6668a9ea08596b7c3bbd466be1c79f1cd414f4ef72bfda6337eb89bec0fe0964",
@@ -27005,7 +26977,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:51.830Z"
+    "job_posted_at": "2026-03-05T08:59:31.609Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234997",
@@ -27016,7 +26988,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Software-Engineer--Junior_R0234997",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:51.830Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:31.609Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8f4ca8f1717a4d6ed86b53ddbc55edb9420a85f6542ad8dd543578acb94013a7",
@@ -27033,7 +27005,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:51.830Z"
+    "job_posted_at": "2026-03-05T08:59:31.609Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234883",
@@ -27044,7 +27016,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0234883",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:51.830Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:31.609Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f29b75abc1126f37916fc2d810e74223cdf39de843470113767467c03faf2f62",
@@ -27061,7 +27033,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:51.830Z"
+    "job_posted_at": "2026-03-05T08:59:31.609Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234920",
+    "job_title": "DevOps Engineer SME",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/DevOps-Engineer-SME_R0234920",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:31.608Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "84d318115ae8a2c0f89e44dc0eff9fd83404562d34252ea56c406500ca708d06",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T08:59:31.608Z"
   },
   {
     "job_id": "workday-nvidia-JR2014441",
@@ -27072,7 +27072,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Inference-Performance-Engineer---New-College-Grad-2026_JR2014441",
-    "job_posted_at_datetime_utc": "2026-03-05T08:43:33.057Z",
+    "job_posted_at_datetime_utc": "2026-03-05T08:59:10.578Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "886e88d3b476e511bc978fe3cd0e1e34230f6d5c67e2571c6a1f8126cde0441c",
@@ -27091,7 +27091,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T08:43:33.057Z"
+    "job_posted_at": "2026-03-05T08:59:10.578Z"
   },
   {
     "job_id": "greenhouse-verkada-4525665007",
@@ -27294,6 +27294,94 @@
     "job_posted_at": "2026-03-04T19:23:30-05:00"
   },
   {
+    "job_id": "js-globus-medical-qv2wlhx5uu0rhw9gaaaaaa==",
+    "job_title": "Associate Software Engineer",
+    "employer_name": "Globus Medical",
+    "job_city": "Pennsylvania",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/associate-software-engineer/8227162",
+    "job_posted_at_datetime_utc": "2026-03-05T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "2765a96e64b7af4dc6cc713448d0eca18dbdf668b63937d5af75bb9f115d2a48",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-virtual-vocations-inc-37zr6oznu5hqcrn0aaaaaa==",
+    "job_title": "Associate Software Engineer",
+    "employer_name": "Virtual Vocations Inc",
+    "job_city": "Virginia Beach",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.tryapplynow.com/jobs/virtual-vocations-inc-associate-software-engineer-5b55e18e-22ca-42f9-ab19-96b4a0ef669a",
+    "job_posted_at_datetime_utc": "2026-03-05T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "e1396a76067c3a0bf87986da54d246c05aa0e8210774afd63fdbcadcfdffd412",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-synergisticit-khfzzde8pmbkmnbbaaaaaa==",
+    "job_title": "Entry level Business Analyst",
+    "employer_name": "Synergisticit",
+    "job_city": "Miami Beach",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobs2careers.com/r/job/35136594611?c1=108",
+    "job_posted_at_datetime_utc": "2026-03-05T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b31e525bcf6bb3720d8c59165af5daec59f392a60c533e037a5c5b4855fca76c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-05T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-414466fa-3512-41ff-8579-46aae46c1b2a",
     "job_title": "Software Development Engineer, Ads Experience Framework",
     "employer_name": "Amazon.com Services LLC",
@@ -27387,64 +27475,6 @@
     "job_posted_at": "2026-03-05T00:00:00.000Z"
   },
   {
-    "job_id": "js-globus-medical-qv2wlhx5uu0rhw9gaaaaaa==",
-    "job_title": "Associate Software Engineer",
-    "employer_name": "Globus Medical",
-    "job_city": "Pennsylvania",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/associate-software-engineer/8227162",
-    "job_posted_at_datetime_utc": "2026-03-05T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "2765a96e64b7af4dc6cc713448d0eca18dbdf668b63937d5af75bb9f115d2a48",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-virtual-vocations-inc-37zr6oznu5hqcrn0aaaaaa==",
-    "job_title": "Associate Software Engineer",
-    "employer_name": "Virtual Vocations Inc",
-    "job_city": "Virginia Beach",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.tryapplynow.com/jobs/virtual-vocations-inc-associate-software-engineer-5b55e18e-22ca-42f9-ab19-96b4a0ef669a",
-    "job_posted_at_datetime_utc": "2026-03-05T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "e1396a76067c3a0bf87986da54d246c05aa0e8210774afd63fdbcadcfdffd412",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-05T00:00:00.000Z"
-  },
-  {
     "job_id": "js-uptime-crew-cu_3m1wrvcij3gzuaaaaaa==",
     "job_title": "Entry Level AI Software Engineer",
     "employer_name": "Uptime Crew",
@@ -27457,36 +27487,6 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "3d511032478464af054204065243b5ca0c4dd1534a5329c423d197f4365de065",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-synergisticit-khfzzde8pmbkmnbbaaaaaa==",
-    "job_title": "Entry level Business Analyst",
-    "employer_name": "Synergisticit",
-    "job_city": "Miami Beach",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobs2careers.com/r/job/35136594611?c1=108",
-    "job_posted_at_datetime_utc": "2026-03-05T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b31e525bcf6bb3720d8c59165af5daec59f392a60c533e037a5c5b4855fca76c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -28937,7 +28937,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-3-or-4_R10224835",
-    "job_posted_at_datetime_utc": "2026-03-04T08:46:56.003Z",
+    "job_posted_at_datetime_utc": "2026-03-04T09:02:44.033Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5c7474959e079dae3260fb5bb59943869c2d0104a1081338d05418ae8ac8ec6a",
@@ -28954,7 +28954,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:46:56.003Z"
+    "job_posted_at": "2026-03-04T09:02:44.033Z"
   },
   {
     "job_id": "workday-red-hat-R-053095",
@@ -28965,7 +28965,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer_R-053095",
-    "job_posted_at_datetime_utc": "2026-03-04T08:46:24.478Z",
+    "job_posted_at_datetime_utc": "2026-03-04T09:02:05.167Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6d946f974bc67ca701506bbb3efe03c77648e61adeb6b0776d1ce04d6420bc2e",
@@ -28982,7 +28982,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:46:24.478Z"
+    "job_posted_at": "2026-03-04T09:02:05.167Z"
   },
   {
     "job_id": "workday-caci-320341",
@@ -28993,7 +28993,7 @@
     "job_country": "United States",
     "job_is_remote": true,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/ServiceNow-Platform-Engineer_320341",
-    "job_posted_at_datetime_utc": "2026-03-04T08:45:34.100Z",
+    "job_posted_at_datetime_utc": "2026-03-04T09:01:24.032Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4890465c0c61252553b9f857cab30d9fe8f104a7a6afe42215b235f6641e1eba",
@@ -29011,7 +29011,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:45:34.100Z"
+    "job_posted_at": "2026-03-04T09:01:24.032Z"
   },
   {
     "job_id": "workday-caci-322736",
@@ -29022,7 +29022,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs/Software-Engineer---Journeyman_322736",
-    "job_posted_at_datetime_utc": "2026-03-04T08:45:34.100Z",
+    "job_posted_at_datetime_utc": "2026-03-04T09:01:24.032Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ca48e117902d4e05d27a5265420a8e60c7527e9925aaa8a3ac55ad7c70f94744",
@@ -29039,7 +29039,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:45:34.100Z"
+    "job_posted_at": "2026-03-04T09:01:24.032Z"
   },
   {
     "job_id": "workday-caci-322760",
@@ -29050,7 +29050,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs/Software-Engineer_322760",
-    "job_posted_at_datetime_utc": "2026-03-04T08:45:34.100Z",
+    "job_posted_at_datetime_utc": "2026-03-04T09:01:24.032Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d807f29699ab684f39911a8fca3b802a7cec84832cda79be041d75aaf95d70e5",
@@ -29067,7 +29067,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:45:34.100Z"
+    "job_posted_at": "2026-03-04T09:01:24.032Z"
   },
   {
     "job_id": "workday-caci-321984",
@@ -29078,7 +29078,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NE-Omaha/Software-Developer--Systems-Software----SME_321984",
-    "job_posted_at_datetime_utc": "2026-03-04T08:45:34.100Z",
+    "job_posted_at_datetime_utc": "2026-03-04T09:01:24.032Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6418788fb2ec441554bb20f499ed214809626e2f7f23d010ba455437a8d27ddf",
@@ -29095,7 +29095,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:45:34.100Z"
+    "job_posted_at": "2026-03-04T09:01:24.032Z"
   },
   {
     "job_id": "workday-motorola-solutions-R61766",
@@ -29106,7 +29106,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/DevOps-Private-Public-Cloud-Engineer_R61766",
-    "job_posted_at_datetime_utc": "2026-03-04T08:44:19.381Z",
+    "job_posted_at_datetime_utc": "2026-03-04T08:59:51.916Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9dffd46652f64a41431f6633497ac90b3be2a1fdfcf0b37d4465a8dc9eb742c0",
@@ -29123,7 +29123,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:44:19.381Z"
+    "job_posted_at": "2026-03-04T08:59:51.916Z"
   },
   {
     "job_id": "workday-cadence-R53054",
@@ -29134,7 +29134,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer_R53054",
-    "job_posted_at_datetime_utc": "2026-03-04T08:44:16.084Z",
+    "job_posted_at_datetime_utc": "2026-03-04T08:59:51.716Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ee308f48c4fb7e81409b58958e339ad7204025f0a03cc201e6bb3d9de5012cbf",
@@ -29151,7 +29151,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:44:16.084Z"
+    "job_posted_at": "2026-03-04T08:59:51.716Z"
   },
   {
     "job_id": "workday-leidos-R-00175979",
@@ -29162,7 +29162,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Engineer_R-00175979",
-    "job_posted_at_datetime_utc": "2026-03-04T08:43:59.798Z",
+    "job_posted_at_datetime_utc": "2026-03-04T08:59:35.406Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2790ebc3afcb567f4f0e65ad849653a895ce945dbf4a9625f55e099ba23cabe4",
@@ -29179,7 +29179,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:43:59.798Z"
+    "job_posted_at": "2026-03-04T08:59:35.406Z"
   },
   {
     "job_id": "workday-leidos-R-00177507",
@@ -29190,7 +29190,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Signals-Software-Engineer-with-a--25K-sign-on-bonus_R-00177507",
-    "job_posted_at_datetime_utc": "2026-03-04T08:43:59.798Z",
+    "job_posted_at_datetime_utc": "2026-03-04T08:59:35.406Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "831a5f37a492d3a282be21a89c6db82ec22d3263c771c4ecd6bdf0d1a9542a6e",
@@ -29207,7 +29207,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:43:59.798Z"
+    "job_posted_at": "2026-03-04T08:59:35.406Z"
   },
   {
     "job_id": "workday-leidos-R-00177494",
@@ -29218,7 +29218,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer_R-00177494",
-    "job_posted_at_datetime_utc": "2026-03-04T08:43:59.798Z",
+    "job_posted_at_datetime_utc": "2026-03-04T08:59:35.406Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3901fc5a0482db78f682b76f0a3cab6aee33899399203161e9c11b423ab074ac",
@@ -29235,35 +29235,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:43:59.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235159",
-    "job_title": "DSP Software Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/DSP-Software-Engineer_R0235159",
-    "job_posted_at_datetime_utc": "2026-03-04T08:43:51.831Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6957327b62a7dabd4b461a8f1442b0bd65a305187c4442ebd44219f01e778add",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:43:51.831Z"
+    "job_posted_at": "2026-03-04T08:59:35.406Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0230597",
@@ -29274,7 +29246,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Software-Engineer_R0230597-1",
-    "job_posted_at_datetime_utc": "2026-03-04T08:43:51.831Z",
+    "job_posted_at_datetime_utc": "2026-03-04T08:59:31.613Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "afa40da59742bed233ce173df9bba4cb8f32c4cb08477db3ad4537b4a998f54e",
@@ -29291,7 +29263,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:43:51.831Z"
+    "job_posted_at": "2026-03-04T08:59:31.613Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235121",
@@ -29302,7 +29274,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0235121",
-    "job_posted_at_datetime_utc": "2026-03-04T08:43:51.831Z",
+    "job_posted_at_datetime_utc": "2026-03-04T08:59:31.613Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9b65fde8a9c1ece68004d34969e152e2f6d3319f12c43804691ee631b9bf5345",
@@ -29319,7 +29291,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:43:51.831Z"
+    "job_posted_at": "2026-03-04T08:59:31.613Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229616",
@@ -29330,7 +29302,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Platform-Engineer_R0229616",
-    "job_posted_at_datetime_utc": "2026-03-04T08:43:51.831Z",
+    "job_posted_at_datetime_utc": "2026-03-04T08:59:31.613Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "23c745fb2382ef9333be6fa114a7cabf4c082979f966336d234281b1358dcab0",
@@ -29347,7 +29319,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T08:43:51.831Z"
+    "job_posted_at": "2026-03-04T08:59:31.613Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235159",
+    "job_title": "DSP Software Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/DSP-Software-Engineer_R0235159",
+    "job_posted_at_datetime_utc": "2026-03-04T08:59:31.612Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6957327b62a7dabd4b461a8f1442b0bd65a305187c4442ebd44219f01e778add",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T08:59:31.612Z"
   },
   {
     "job_id": "greenhouse-lucidmotors-5004291007",
@@ -29661,35 +29661,6 @@
     "job_posted_at": "2026-03-04T00:35:34.688Z"
   },
   {
-    "job_id": "js-information-technology-strategies-inc-nf89lxixs9ihqgacaaaaaa==",
-    "job_title": "Junior Software Engineer",
-    "employer_name": "INFORMATION TECHNOLOGY STRATEGIES INC",
-    "job_city": "Ashburn",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.tealhq.com/job/junior-software-engineer_7ea1a655eedafe4255f105a016e29dd037a31",
-    "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c0c6592cef880c368ff7ddf38cc605155d540fbf77946c81df1d1b5495ae25c7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-04T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-e02e19e5-5c35-462e-85f0-d743cdff29ac",
     "job_title": "Software development engineer, Foundational Security",
     "employer_name": "Amazon.com Services LLC",
@@ -29843,6 +29814,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-information-technology-strategies-inc-nf89lxixs9ihqgacaaaaaa==",
+    "job_title": "Junior Software Engineer",
+    "employer_name": "INFORMATION TECHNOLOGY STRATEGIES INC",
+    "job_city": "Ashburn",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.tealhq.com/job/junior-software-engineer_7ea1a655eedafe4255f105a016e29dd037a31",
+    "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c0c6592cef880c368ff7ddf38cc605155d540fbf77946c81df1d1b5495ae25c7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-04T00:00:00.000Z"
   },
   {
@@ -31078,7 +31078,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ms.wd5.myworkdayjobs.com/Private/job/New-York-New-York-United-States-of-America/Consultant-Conversion--Full-Stack-Software-Developer_PT-JR029183",
-    "job_posted_at_datetime_utc": "2026-03-03T08:47:20.115Z",
+    "job_posted_at_datetime_utc": "2026-03-03T09:03:06.742Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7b34ae728c3d06aa9d34de1633e4ee3f2934c99dc75fd50bf18e5eb42b2fdad8",
@@ -31095,7 +31095,375 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:47:20.115Z"
+    "job_posted_at": "2026-03-03T09:03:06.742Z"
+  },
+  {
+    "job_id": "workday-cisco-2002704",
+    "job_title": "Software Engineer- L2/L3/ACL/QOS Packet Forwarding",
+    "employer_name": "Cisco",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer--L2-L3-ACL-QOS-Packet-Forwarding_2002704",
+    "job_posted_at_datetime_utc": "2026-03-03T09:02:37.496Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "048a517b27eb9608287b8644d9c1be4822ef865e99e6f82be2ae00e399f8477a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T09:02:37.496Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R59831",
+    "job_title": "DevOps Engineer Sr",
+    "employer_name": "Blue Origin",
+    "job_city": "Greater Seattle Area",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/DevOps-Engineer-Sr_R59831-1",
+    "job_posted_at_datetime_utc": "2026-03-03T08:59:52.531Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41837b00043eab64cdfb68d81faeb2bfcbb68b5645fd233e7c602c9a9ca22580",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:59:52.531Z"
+  },
+  {
+    "job_id": "workday-motorola-solutions-R60558",
+    "job_title": "Embedded Software Engineer",
+    "employer_name": "Motorola Solutions",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Embedded-Software-Engineer_R60558",
+    "job_posted_at_datetime_utc": "2026-03-03T08:59:51.916Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "159629398258ea79b18ede3e5ad9c571d1eeb17e93488880f227920c257d97b3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:59:51.916Z"
+  },
+  {
+    "job_id": "workday-motorola-solutions-R61082",
+    "job_title": "Web Developer, Digital Marketing",
+    "employer_name": "Motorola Solutions",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Web-Developer--Digital-Marketing_R61082",
+    "job_posted_at_datetime_utc": "2026-03-03T08:59:51.916Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "258d5a56eeee23626454e6f02f4dc0b8ab1f9e5ae8403e44b2424bd16999b02f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:59:51.916Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234440",
+    "job_title": "DevOps Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/DevOps-Engineer_R0234440",
+    "job_posted_at_datetime_utc": "2026-03-03T08:59:31.613Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2f49d587751a4987c994da27d1199920c2f0ea412a9ca77d507540b95052125a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:59:31.613Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0231398",
+    "job_title": "CNO Software Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Annapolis Junction",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/CNO-Software-Engineer_R0231398",
+    "job_posted_at_datetime_utc": "2026-03-03T08:59:31.613Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ac4ca1aea8d2e8743245ae2a017ba20a62d3ab71f107a9a1a33142c60c7bb14a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:59:31.613Z"
+  },
+  {
+    "job_id": "workday-nvidia-JR2014049",
+    "job_title": "Compiler Engineer, Backend GPU - New College Grad 2026",
+    "employer_name": "NVIDIA",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend-GPU---New-College-Grad-2026_JR2014049",
+    "job_posted_at_datetime_utc": "2026-03-03T08:59:10.579Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e744ef6fe625cc88aa290b2b563c351d7877895c30284e0aea7f9f7620e085f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:59:10.579Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR328098",
+    "job_title": "Software Engineering MTS - Security Automation",
+    "employer_name": "Salesforce",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-MTS---Security-Automation_JR328098",
+    "job_posted_at_datetime_utc": "2026-03-03T08:59:03.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "19d94ea352e2de9e5ea499c66a73fb0bdef0a0e451e775ef65cfd316d5b6bd0a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:59:03.817Z"
+  },
+  {
+    "job_id": "workday-capital-one-R237204",
+    "job_title": "Applied Researcher I (AI Foundations)",
+    "employer_name": "Capital One",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R237204",
+    "job_posted_at_datetime_utc": "2026-03-03T08:58:56.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9476ef466cdb7a6ee501969e94f67e7188bad3b3cc7e603322883c650109dcfe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:58:56.586Z"
+  },
+  {
+    "job_id": "workday-capital-one-R234988",
+    "job_title": "Full Time Branch Ambassador - Virginia Gateway",
+    "employer_name": "Capital One",
+    "job_city": "Gainesville",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Gainesville-VA/Full-Time-Branch-Ambassador---Virginia-Gateway_R234988-1",
+    "job_posted_at_datetime_utc": "2026-03-03T08:58:56.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c1ac391fa87c8ea8d493f1bee54e1f64e7c4c1f0dc6f7994b505129f2088369",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:58:56.586Z"
+  },
+  {
+    "job_id": "workday-capital-one-R237157",
+    "job_title": "Full Time Branch Ambassador - North Nassau Area",
+    "employer_name": "Capital One",
+    "job_city": "11 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Williston-Park-NY/Full-Time-Branch-Ambassador---North-Nassau-Area_R237157-1",
+    "job_posted_at_datetime_utc": "2026-03-03T08:58:56.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2c2698c8990675b280421258212ddd7461b5e27f44a86c9cab5ff86ea288bfd5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:58:56.586Z"
+  },
+  {
+    "job_id": "workday-capital-one-R237156",
+    "job_title": "Full Time Branch Ambassador - South Nassau Area",
+    "employer_name": "Capital One",
+    "job_city": "10 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Valley-Stream-NY/Full-Time-Branch-Ambassador---South-Nassau-Area_R237156-1",
+    "job_posted_at_datetime_utc": "2026-03-03T08:58:56.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0623de29dbbceb112ceb5f1ceb9ff8b461bf67641f9bf77aae54c8d2790b40f4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:58:56.586Z"
+  },
+  {
+    "job_id": "workday-capital-one-R237153",
+    "job_title": "Part Time Branch Ambassador - Queens Area",
+    "employer_name": "Capital One",
+    "job_city": "10 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Kew-Gardens-Hills-NY/Part-Time-Branch-Ambassador---Queens-Area_R237153-1",
+    "job_posted_at_datetime_utc": "2026-03-03T08:58:56.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3c6b2f434623d12ada9468194bf859573afc485e62d5867ca3a5b23ab40bd85c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T08:58:56.586Z"
   },
   {
     "job_id": "workday-analog-devices-R257319",
@@ -31124,374 +31492,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-03T08:47:13.558Z"
-  },
-  {
-    "job_id": "workday-cisco-2002704",
-    "job_title": "Software Engineer- L2/L3/ACL/QOS Packet Forwarding",
-    "employer_name": "Cisco",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer--L2-L3-ACL-QOS-Packet-Forwarding_2002704",
-    "job_posted_at_datetime_utc": "2026-03-03T08:46:54.421Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "048a517b27eb9608287b8644d9c1be4822ef865e99e6f82be2ae00e399f8477a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:46:54.421Z"
-  },
-  {
-    "job_id": "workday-motorola-solutions-R61082",
-    "job_title": "Web Developer, Digital Marketing",
-    "employer_name": "Motorola Solutions",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Web-Developer--Digital-Marketing_R61082",
-    "job_posted_at_datetime_utc": "2026-03-03T08:44:19.382Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "258d5a56eeee23626454e6f02f4dc0b8ab1f9e5ae8403e44b2424bd16999b02f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:44:19.382Z"
-  },
-  {
-    "job_id": "workday-motorola-solutions-R60558",
-    "job_title": "Embedded Software Engineer",
-    "employer_name": "Motorola Solutions",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Embedded-Software-Engineer_R60558",
-    "job_posted_at_datetime_utc": "2026-03-03T08:44:19.381Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "159629398258ea79b18ede3e5ad9c571d1eeb17e93488880f227920c257d97b3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:44:19.381Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R59831",
-    "job_title": "DevOps Engineer Sr",
-    "employer_name": "Blue Origin",
-    "job_city": "Greater Seattle Area",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/DevOps-Engineer-Sr_R59831-1",
-    "job_posted_at_datetime_utc": "2026-03-03T08:44:18.904Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41837b00043eab64cdfb68d81faeb2bfcbb68b5645fd233e7c602c9a9ca22580",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:44:18.904Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234440",
-    "job_title": "DevOps Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/DevOps-Engineer_R0234440",
-    "job_posted_at_datetime_utc": "2026-03-03T08:43:51.831Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2f49d587751a4987c994da27d1199920c2f0ea412a9ca77d507540b95052125a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:43:51.831Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0231398",
-    "job_title": "CNO Software Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/CNO-Software-Engineer_R0231398",
-    "job_posted_at_datetime_utc": "2026-03-03T08:43:51.831Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ac4ca1aea8d2e8743245ae2a017ba20a62d3ab71f107a9a1a33142c60c7bb14a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:43:51.831Z"
-  },
-  {
-    "job_id": "workday-nvidia-JR2014049",
-    "job_title": "Compiler Engineer, Backend GPU - New College Grad 2026",
-    "employer_name": "NVIDIA",
-    "job_city": "6 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend-GPU---New-College-Grad-2026_JR2014049",
-    "job_posted_at_datetime_utc": "2026-03-03T08:43:33.058Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2e744ef6fe625cc88aa290b2b563c351d7877895c30284e0aea7f9f7620e085f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:43:33.058Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR328098",
-    "job_title": "Software Engineering MTS - Security Automation",
-    "employer_name": "Salesforce",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineering-MTS---Security-Automation_JR328098",
-    "job_posted_at_datetime_utc": "2026-03-03T08:43:26.168Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "19d94ea352e2de9e5ea499c66a73fb0bdef0a0e451e775ef65cfd316d5b6bd0a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:43:26.168Z"
-  },
-  {
-    "job_id": "workday-capital-one-R234988",
-    "job_title": "Full Time Branch Ambassador - Virginia Gateway",
-    "employer_name": "Capital One",
-    "job_city": "Gainesville",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Gainesville-VA/Full-Time-Branch-Ambassador---Virginia-Gateway_R234988-1",
-    "job_posted_at_datetime_utc": "2026-03-03T08:43:19.237Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c1ac391fa87c8ea8d493f1bee54e1f64e7c4c1f0dc6f7994b505129f2088369",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:43:19.237Z"
-  },
-  {
-    "job_id": "workday-capital-one-R237157",
-    "job_title": "Full Time Branch Ambassador - North Nassau Area",
-    "employer_name": "Capital One",
-    "job_city": "11 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Williston-Park-NY/Full-Time-Branch-Ambassador---North-Nassau-Area_R237157-1",
-    "job_posted_at_datetime_utc": "2026-03-03T08:43:19.237Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2c2698c8990675b280421258212ddd7461b5e27f44a86c9cab5ff86ea288bfd5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:43:19.237Z"
-  },
-  {
-    "job_id": "workday-capital-one-R237156",
-    "job_title": "Full Time Branch Ambassador - South Nassau Area",
-    "employer_name": "Capital One",
-    "job_city": "10 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Valley-Stream-NY/Full-Time-Branch-Ambassador---South-Nassau-Area_R237156-1",
-    "job_posted_at_datetime_utc": "2026-03-03T08:43:19.237Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0623de29dbbceb112ceb5f1ceb9ff8b461bf67641f9bf77aae54c8d2790b40f4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:43:19.237Z"
-  },
-  {
-    "job_id": "workday-capital-one-R237153",
-    "job_title": "Part Time Branch Ambassador - Queens Area",
-    "employer_name": "Capital One",
-    "job_city": "10 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Kew-Gardens-Hills-NY/Part-Time-Branch-Ambassador---Queens-Area_R237153-1",
-    "job_posted_at_datetime_utc": "2026-03-03T08:43:19.237Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3c6b2f434623d12ada9468194bf859573afc485e62d5867ca3a5b23ab40bd85c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:43:19.237Z"
-  },
-  {
-    "job_id": "workday-capital-one-R237204",
-    "job_title": "Applied Researcher I (AI Foundations)",
-    "employer_name": "Capital One",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R237204",
-    "job_posted_at_datetime_utc": "2026-03-03T08:43:19.236Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9476ef466cdb7a6ee501969e94f67e7188bad3b3cc7e603322883c650109dcfe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T08:43:19.236Z"
   },
   {
     "job_id": "greenhouse-robinhood-7489770",
@@ -33017,7 +33017,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://wd1.myworkdaysite.com/snap/job/San-Diego-California/Embedded-Software-Engineer--Audio--Level-5_R0043909-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:47:08.117Z",
+    "job_posted_at_datetime_utc": "2026-03-02T09:02:56.304Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "cf1f243a08392803dfc333377ae42e05b99c52cba022137735c3e5ae9a315674",
@@ -33035,7 +33035,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:47:08.117Z"
+    "job_posted_at": "2026-03-02T09:02:56.304Z"
   },
   {
     "job_id": "workday-cisco-2008203",
@@ -33046,7 +33046,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer---Data-Center_2008203",
-    "job_posted_at_datetime_utc": "2026-03-02T08:46:54.421Z",
+    "job_posted_at_datetime_utc": "2026-03-02T09:02:37.496Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "44f554b105f9583451341fdc74cb3c3a341621fb27533ffb02a8eb9fa187982b",
@@ -33063,7 +33063,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:46:54.421Z"
+    "job_posted_at": "2026-03-02T09:02:37.496Z"
   },
   {
     "job_id": "workday-cisco-2007186",
@@ -33074,7 +33074,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2007186-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:46:54.421Z",
+    "job_posted_at_datetime_utc": "2026-03-02T09:02:37.496Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "dc1a713bc4383971b133030cd35d9a90d3ac4f668445d917a35f2c21d886296b",
@@ -33091,7 +33091,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:46:54.421Z"
+    "job_posted_at": "2026-03-02T09:02:37.496Z"
   },
   {
     "job_id": "workday-caci-322676",
@@ -33102,7 +33102,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Cloud-Software-Engineer_322676",
-    "job_posted_at_datetime_utc": "2026-03-02T08:45:34.100Z",
+    "job_posted_at_datetime_utc": "2026-03-02T09:01:24.032Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "10cd97c05fcb79aa269b4ac11f7b0273ba91e7bb36bb1cfe7107d61d6f2d98be",
@@ -33119,7 +33119,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:45:34.100Z"
+    "job_posted_at": "2026-03-02T09:01:24.032Z"
   },
   {
     "job_id": "workday-caci-322655",
@@ -33130,7 +33130,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Norfolk/AI-Full-Stack-Developer_322655",
-    "job_posted_at_datetime_utc": "2026-03-02T08:45:34.100Z",
+    "job_posted_at_datetime_utc": "2026-03-02T09:01:24.032Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0e6ee67c57afc614d414ba84e048672fd72cc21311a80da38b35e9bff045cb3f",
@@ -33147,7 +33147,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:45:34.100Z"
+    "job_posted_at": "2026-03-02T09:01:24.032Z"
   },
   {
     "job_id": "workday-caci-322433",
@@ -33158,7 +33158,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineer_322433",
-    "job_posted_at_datetime_utc": "2026-03-02T08:45:34.100Z",
+    "job_posted_at_datetime_utc": "2026-03-02T09:01:24.032Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a263dc4110d02b6632f9440c53366d4cfcbc459f72f1129dbf5911d6baf09c2b",
@@ -33175,7 +33175,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:45:34.100Z"
+    "job_posted_at": "2026-03-02T09:01:24.032Z"
   },
   {
     "job_id": "workday-caci-318107",
@@ -33186,7 +33186,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Laurel/Software-Engineer-with-Data-Management-Experience_318107",
-    "job_posted_at_datetime_utc": "2026-03-02T08:45:34.100Z",
+    "job_posted_at_datetime_utc": "2026-03-02T09:01:24.032Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b5ddada718fda2159272461687a7346f443d74919f0eb2f0fa0ae622315c0d07",
@@ -33203,7 +33203,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:45:34.100Z"
+    "job_posted_at": "2026-03-02T09:01:24.032Z"
   },
   {
     "job_id": "workday-leidos-R-00176560",
@@ -33214,7 +33214,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer-SME_R-00176560",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:59.793Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:59:35.403Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4aa31a1234d65de2987d55c8660b04fec20a0644ac24c98861c4a3e00924f666",
@@ -33231,7 +33231,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:59.793Z"
+    "job_posted_at": "2026-03-02T08:59:35.403Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0232596",
@@ -33242,7 +33242,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Backend-Engineer_R0232596",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:51.832Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:59:31.613Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "100353f862df7b23bcc466e9caf2bd9d03eaf025c723fd1818e5821cadaed856",
@@ -33259,7 +33259,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:51.832Z"
+    "job_posted_at": "2026-03-02T08:59:31.613Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233349",
@@ -33270,7 +33270,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Fullstack-Software-Engineer--Senior_R0233349",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:51.832Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:59:31.613Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f7c7ea161e97827c329560bd42f2b4f252bbd43742cb7877aa54804fa6f259d8",
@@ -33287,7 +33287,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:51.832Z"
+    "job_posted_at": "2026-03-02T08:59:31.613Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234816",
@@ -33298,7 +33298,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/AWS-DevOps-Cloud-Engineer_R0234816-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:51.832Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:59:31.613Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6ef114b2cd5b47c359a6be8c176849df6fcb86b8f12094587d5ce6dc556f878f",
@@ -33315,7 +33315,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:51.832Z"
+    "job_posted_at": "2026-03-02T08:59:31.613Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234970",
@@ -33326,7 +33326,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/DSP-Software-Engineer_R0234970",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:51.832Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:59:31.613Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6957327b62a7dabd4b461a8f1442b0bd65a305187c4442ebd44219f01e778add",
@@ -33343,7 +33343,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:51.832Z"
+    "job_posted_at": "2026-03-02T08:59:31.613Z"
   },
   {
     "job_id": "workday-nvidia-JR2012786",
@@ -33354,7 +33354,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/System-Software-Engineer---Networking_JR2012786",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:33.058Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:59:10.579Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9deafed7ada6ab0026abd566389d67406486fd4c6b4be0f65f3d234ab5dcc8ae",
@@ -33373,91 +33373,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:33.058Z"
-  },
-  {
-    "job_id": "workday-capital-one-R237090",
-    "job_title": "Part Time Branch Ambassador - Westchester NY Area",
-    "employer_name": "Capital One",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Mount-Vernon-NY/Part-Time-Branch-Ambassador---Westchester-NY-Area_R237090-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:19.237Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f3531d8b7bb931a84f396bb30a4227ed606abdd0091de3c4ebd94866bda47e5b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:19.237Z"
-  },
-  {
-    "job_id": "workday-capital-one-R237088",
-    "job_title": "Part Time Branch Ambassador - North NJ Area",
-    "employer_name": "Capital One",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Paramus-NJ/Part-Time-Branch-Ambassador---North-NJ-Area_R237088-2",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:19.237Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "35a6a47a0d76d070369f4c95d050eebe531d3d987f85c85d97e259b4bd80371b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:19.237Z"
-  },
-  {
-    "job_id": "workday-capital-one-R237087",
-    "job_title": "Part Time Branch Ambassador - Bronx",
-    "employer_name": "Capital One",
-    "job_city": "Bronx",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bronx-NY/Part-Time-Branch-Ambassador---Bronx_R237087-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:19.237Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e438bc6807dc426478da7c76b1a9de2240e02d03687f5c47e6b4a63d7c4a9534",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:19.237Z"
+    "job_posted_at": "2026-03-02T08:59:10.579Z"
   },
   {
     "job_id": "workday-capital-one-R237023",
@@ -33468,7 +33384,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Shirley-NY/Full-Time-Branch-Ambassador---Eastern-Suffolk-Area_R237023-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:19.237Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:58:56.587Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "97924ce5a4f72dfb7e5808c7b77a8012e49ecb057c320263e7344a01fd1a1a85",
@@ -33485,7 +33401,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:19.237Z"
+    "job_posted_at": "2026-03-02T08:58:56.587Z"
   },
   {
     "job_id": "workday-capital-one-R237021",
@@ -33496,7 +33412,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Commack-NY/Full-Time-Branch-Ambassador---Western-Suffolk-Area_R237021-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:19.237Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:58:56.587Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "369a57499d45ced54e9bd3606627726c47eda5445b61533f1270bb171254e53d",
@@ -33513,7 +33429,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:19.237Z"
+    "job_posted_at": "2026-03-02T08:58:56.587Z"
   },
   {
     "job_id": "workday-capital-one-R237020",
@@ -33524,7 +33440,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverhead-NY/Full-Time-Branch-Ambassador---North-Fork-Area_R237020",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:19.237Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:58:56.587Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5a1d3c19f72129c0aa60c91c7e946542d2b5cbdd6a0b71967efa70bb195afd42",
@@ -33541,7 +33457,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:19.237Z"
+    "job_posted_at": "2026-03-02T08:58:56.587Z"
   },
   {
     "job_id": "workday-capital-one-R237018",
@@ -33552,7 +33468,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/East-Hampton-NY/Full-Time-Branch-Ambassador---South-Fork-Area_R237018-1",
-    "job_posted_at_datetime_utc": "2026-03-02T08:43:19.237Z",
+    "job_posted_at_datetime_utc": "2026-03-02T08:58:56.587Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fc2588618d11f4ff5d63007f30acff412e82f0f68f91fe179594eabc9c11a087",
@@ -33569,7 +33485,91 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T08:43:19.237Z"
+    "job_posted_at": "2026-03-02T08:58:56.587Z"
+  },
+  {
+    "job_id": "workday-capital-one-R237090",
+    "job_title": "Part Time Branch Ambassador - Westchester NY Area",
+    "employer_name": "Capital One",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Mount-Vernon-NY/Part-Time-Branch-Ambassador---Westchester-NY-Area_R237090-1",
+    "job_posted_at_datetime_utc": "2026-03-02T08:58:56.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f3531d8b7bb931a84f396bb30a4227ed606abdd0091de3c4ebd94866bda47e5b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-02T08:58:56.586Z"
+  },
+  {
+    "job_id": "workday-capital-one-R237088",
+    "job_title": "Part Time Branch Ambassador - North NJ Area",
+    "employer_name": "Capital One",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Paramus-NJ/Part-Time-Branch-Ambassador---North-NJ-Area_R237088-2",
+    "job_posted_at_datetime_utc": "2026-03-02T08:58:56.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "35a6a47a0d76d070369f4c95d050eebe531d3d987f85c85d97e259b4bd80371b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-02T08:58:56.586Z"
+  },
+  {
+    "job_id": "workday-capital-one-R237087",
+    "job_title": "Part Time Branch Ambassador - Bronx",
+    "employer_name": "Capital One",
+    "job_city": "Bronx",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bronx-NY/Part-Time-Branch-Ambassador---Bronx_R237087-1",
+    "job_posted_at_datetime_utc": "2026-03-02T08:58:56.586Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e438bc6807dc426478da7c76b1a9de2240e02d03687f5c47e6b4a63d7c4a9534",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-02T08:58:56.586Z"
   },
   {
     "job_id": "workday-at&t-R-102761",
@@ -34560,7 +34560,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Platform-Software-Engineer_322205",
-    "job_posted_at_datetime_utc": "2026-02-28T08:45:34.101Z",
+    "job_posted_at_datetime_utc": "2026-02-28T09:01:24.034Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "285f47c38892683c5df2acff84a3fccec8f00a6607453407f3dc0c13dea603bc",
@@ -34577,7 +34577,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T08:45:34.101Z"
+    "job_posted_at": "2026-02-28T09:01:24.034Z"
   },
   {
     "job_id": "workday-caci-322196",
@@ -34588,7 +34588,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Software-Engineer---AI-ML_322196",
-    "job_posted_at_datetime_utc": "2026-02-28T08:45:34.101Z",
+    "job_posted_at_datetime_utc": "2026-02-28T09:01:24.034Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6ed6680ffac1e384d7de8ed1bb57852bfb4a8a678f9c7131912e4334835fab9c",
@@ -34605,7 +34605,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T08:45:34.101Z"
+    "job_posted_at": "2026-02-28T09:01:24.034Z"
   },
   {
     "job_id": "workday-caci-322391",
@@ -34616,7 +34616,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Engineer_322391",
-    "job_posted_at_datetime_utc": "2026-02-28T08:45:34.101Z",
+    "job_posted_at_datetime_utc": "2026-02-28T09:01:24.034Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1a869848175d73bef412e19fbc9f50b7e776069442ae8f20f6c513543bfc24f7",
@@ -34633,7 +34633,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T08:45:34.101Z"
+    "job_posted_at": "2026-02-28T09:01:24.034Z"
   },
   {
     "job_id": "workday-caci-322488",
@@ -34644,7 +34644,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Cary/Software-Engineer_322488",
-    "job_posted_at_datetime_utc": "2026-02-28T08:45:34.101Z",
+    "job_posted_at_datetime_utc": "2026-02-28T09:01:24.034Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5ddbad45f2ac9d56e413ff6812b094bafe407551fa1950e6e46e9b5936fa1488",
@@ -34661,7 +34661,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T08:45:34.101Z"
+    "job_posted_at": "2026-02-28T09:01:24.034Z"
   },
   {
     "job_id": "workday-caci-322492",
@@ -34672,7 +34672,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Cary/Software-Engineer_322492",
-    "job_posted_at_datetime_utc": "2026-02-28T08:45:34.101Z",
+    "job_posted_at_datetime_utc": "2026-02-28T09:01:24.034Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5ddbad45f2ac9d56e413ff6812b094bafe407551fa1950e6e46e9b5936fa1488",
@@ -34689,7 +34689,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T08:45:34.101Z"
+    "job_posted_at": "2026-02-28T09:01:24.034Z"
   },
   {
     "job_id": "workday-caci-322505",
@@ -34700,7 +34700,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Software-Engineer_322505",
-    "job_posted_at_datetime_utc": "2026-02-28T08:45:34.101Z",
+    "job_posted_at_datetime_utc": "2026-02-28T09:01:24.034Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0ed6c985a72b4db283008c7583d6b91a605dec53c325dc23ed8c4f3f3e6a9ec6",
@@ -34717,7 +34717,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T08:45:34.101Z"
+    "job_posted_at": "2026-02-28T09:01:24.034Z"
   },
   {
     "job_id": "workday-caci-322355",
@@ -34728,7 +34728,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_322355",
-    "job_posted_at_datetime_utc": "2026-02-28T08:45:34.100Z",
+    "job_posted_at_datetime_utc": "2026-02-28T09:01:24.033Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2bd27eaa1ee6cffaec1e0239eb6445f60b9249308a78233ce09aa639f518b261",
@@ -34745,7 +34745,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T08:45:34.100Z"
+    "job_posted_at": "2026-02-28T09:01:24.033Z"
   },
   {
     "job_id": "workday-caci-318048",
@@ -34756,7 +34756,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineer_318048",
-    "job_posted_at_datetime_utc": "2026-02-28T08:45:34.097Z",
+    "job_posted_at_datetime_utc": "2026-02-28T09:01:24.030Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4574fc5d649de83d03dfa4d1318c9c6776dfe5d00baa6dfa004c88aedd08b442",
@@ -34773,7 +34773,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T08:45:34.097Z"
+    "job_posted_at": "2026-02-28T09:01:24.030Z"
   },
   {
     "job_id": "workday-caci-318935",
@@ -34784,7 +34784,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineer_318935",
-    "job_posted_at_datetime_utc": "2026-02-28T08:45:34.097Z",
+    "job_posted_at_datetime_utc": "2026-02-28T09:01:24.030Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4574fc5d649de83d03dfa4d1318c9c6776dfe5d00baa6dfa004c88aedd08b442",
@@ -34801,7 +34801,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T08:45:34.097Z"
+    "job_posted_at": "2026-02-28T09:01:24.030Z"
   },
   {
     "job_id": "ashby-snowflake-46cd3e47-586e-439c-b5f9-87756be8a3f1",
@@ -47655,7 +47655,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer---Test-Automation_2634613",
-    "job_posted_at_datetime_utc": "2026-02-27T08:47:39.639Z",
+    "job_posted_at_datetime_utc": "2026-02-27T09:03:26.333Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "06f9e29df81837a54d7022bc50fb0e0bc6537cb882ada7681f6ff3bba38b6141",
@@ -47672,7 +47672,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:47:39.639Z"
+    "job_posted_at": "2026-02-27T09:03:26.333Z"
   },
   {
     "job_id": "workday-snap-H126SWEMLI2",
@@ -47683,7 +47683,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://wd1.myworkdaysite.com/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure--Level-4_H126SWEMLI2-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:47:08.117Z",
+    "job_posted_at_datetime_utc": "2026-02-27T09:02:56.304Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e941722db4414f55c95175886a127d1f471de237a1c05baa06a5aba79b70def9",
@@ -47700,7 +47700,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:47:08.117Z"
+    "job_posted_at": "2026-02-27T09:02:56.304Z"
   },
   {
     "job_id": "workday-cisco-2001235",
@@ -47711,7 +47711,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer--L2-L3-Embedded-_2001235-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:46:54.423Z",
+    "job_posted_at_datetime_utc": "2026-02-27T09:02:37.498Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0af08aa88d45a09fb187ffa8aaf1478c634e6e2f6378b8df57b0c719007dc07b",
@@ -47729,7 +47729,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:46:54.423Z"
+    "job_posted_at": "2026-02-27T09:02:37.498Z"
   },
   {
     "job_id": "workday-cisco-2006717",
@@ -47740,7 +47740,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer--simulator----San-Jose--CA_2006717",
-    "job_posted_at_datetime_utc": "2026-02-27T08:46:54.423Z",
+    "job_posted_at_datetime_utc": "2026-02-27T09:02:37.498Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e8097f8a953dcca4d7b94812e645781cc9502259b3a0ec98518389a7174a54fe",
@@ -47757,7 +47757,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:46:54.423Z"
+    "job_posted_at": "2026-02-27T09:02:37.498Z"
   },
   {
     "job_id": "workday-cisco-2007387",
@@ -47768,7 +47768,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer---Hardware-Diagnostics-_2007387",
-    "job_posted_at_datetime_utc": "2026-02-27T08:46:54.421Z",
+    "job_posted_at_datetime_utc": "2026-02-27T09:02:37.496Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "38f006f0e8f3bf13fdc90e2598cea99144ffacfcfdceb973cc0175fbf7523fb2",
@@ -47785,7 +47785,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:46:54.421Z"
+    "job_posted_at": "2026-02-27T09:02:37.496Z"
   },
   {
     "job_id": "workday-red-hat-R-051688",
@@ -47796,7 +47796,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Site-Reliability-Engineer_R-051688-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:46:24.480Z",
+    "job_posted_at_datetime_utc": "2026-02-27T09:02:05.168Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fd67c651b9455aa7488663d079f872e834344779179bb443c81ae24d68e54c79",
@@ -47813,7 +47813,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:46:24.480Z"
+    "job_posted_at": "2026-02-27T09:02:05.168Z"
   },
   {
     "job_id": "workday-red-hat-R-052947",
@@ -47824,7 +47824,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer---Cloud-Fleet-Management_R-052947",
-    "job_posted_at_datetime_utc": "2026-02-27T08:46:24.480Z",
+    "job_posted_at_datetime_utc": "2026-02-27T09:02:05.168Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b589342a5afddaa877c5668197d7490b23652fac7a20aa704fe2fe32f3c052ae",
@@ -47841,7 +47841,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:46:24.480Z"
+    "job_posted_at": "2026-02-27T09:02:05.168Z"
   },
   {
     "job_id": "workday-cadence-R52927",
@@ -47852,7 +47852,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE-11/Software-Engineer-ll--New-College-Grad-2026-_R52927-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:44:16.084Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:59:51.718Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "15bb2feede4792a77f1b99f9b1f4d579b3efda0bdf78408ffef747e9b286cf5a",
@@ -47869,7 +47869,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:44:16.084Z"
+    "job_posted_at": "2026-02-27T08:59:51.718Z"
   },
   {
     "job_id": "workday-leidos-R-00177201",
@@ -47880,7 +47880,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/DevOps-Engineer_R-00177201",
-    "job_posted_at_datetime_utc": "2026-02-27T08:43:59.793Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:59:35.403Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8c14b61e1f6b714acdff783eba2c472b3285ef4828d2dae61e2d150dd4baef1e",
@@ -47897,7 +47897,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:43:59.793Z"
+    "job_posted_at": "2026-02-27T08:59:35.403Z"
   },
   {
     "job_id": "workday-nvidia-JR2013937",
@@ -47908,7 +47908,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Security-Compiler-Engineer_JR2013937",
-    "job_posted_at_datetime_utc": "2026-02-27T08:43:33.059Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:59:10.580Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3dc9ebb2825e02fdcfd1e11bf517da6fa833b9d824f832c9624389a26dd145fc",
@@ -47927,7 +47927,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:43:33.059Z"
+    "job_posted_at": "2026-02-27T08:59:10.580Z"
   },
   {
     "job_id": "workday-salesforce-JR331617",
@@ -47938,7 +47938,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Data-Infrastructure---Slack_JR331617-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:43:26.168Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:59:03.818Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4740c0cb8c336bfa5838e1fb6ce6298968058baca34d098c4aa8545317e5e902",
@@ -47956,7 +47956,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:43:26.168Z"
+    "job_posted_at": "2026-02-27T08:59:03.818Z"
   },
   {
     "job_id": "workday-salesforce-JR331613",
@@ -47967,7 +47967,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Infrastructure_JR331613-2",
-    "job_posted_at_datetime_utc": "2026-02-27T08:43:26.168Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:59:03.818Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fec3289bbbaee5ba375063486e59770f04a306f65202e62a4f64915e2d73510f",
@@ -47985,7 +47985,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:43:26.168Z"
+    "job_posted_at": "2026-02-27T08:59:03.818Z"
   },
   {
     "job_id": "workday-capital-one-R236983",
@@ -47996,7 +47996,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday--Functional-_R236983-1",
-    "job_posted_at_datetime_utc": "2026-02-27T08:43:19.237Z",
+    "job_posted_at_datetime_utc": "2026-02-27T08:58:56.587Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4b85e9b43547a406eedef8cde1328dd66dae7b4af29a1038eb7bc9f2742b4ae",
@@ -48013,7 +48013,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T08:43:19.237Z"
+    "job_posted_at": "2026-02-27T08:58:56.587Z"
   },
   {
     "job_id": "greenhouse-imc-4749998101",
@@ -49829,7 +49829,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Embedded-Firmware-and-Software-Engineer_3153631-1",
-    "job_posted_at_datetime_utc": "2026-02-26T08:47:23.778Z",
+    "job_posted_at_datetime_utc": "2026-02-26T09:03:09.556Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "dae615a723c91cea33e47456bf7c6e4c7aa0677a1ef69c561bdacf00905964e5",
@@ -49847,7 +49847,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T08:47:23.778Z"
+    "job_posted_at": "2026-02-26T09:03:09.556Z"
   },
   {
     "job_id": "workday-motorola-solutions-R62389",
@@ -49858,7 +49858,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Full-Stack-NET-Developer_R62389",
-    "job_posted_at_datetime_utc": "2026-02-26T08:44:19.382Z",
+    "job_posted_at_datetime_utc": "2026-02-26T08:59:51.916Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "eba40ed2a02e3f97f13416cc65d22743840f8964005bf5338f87688901553908",
@@ -49875,7 +49875,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T08:44:19.382Z"
+    "job_posted_at": "2026-02-26T08:59:51.916Z"
   },
   {
     "job_id": "workday-leidos-R-00177108",
@@ -49886,7 +49886,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Software-Engineer_R-00177108",
-    "job_posted_at_datetime_utc": "2026-02-26T08:43:59.793Z",
+    "job_posted_at_datetime_utc": "2026-02-26T08:59:35.403Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "79895c3dbb87950e5d6c92248ebaee2d681d80df64b8855b5203eaa342bb76fa",
@@ -49903,7 +49903,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T08:43:59.793Z"
+    "job_posted_at": "2026-02-26T08:59:35.403Z"
   },
   {
     "job_id": "workday-leidos-R-00177107",
@@ -49914,7 +49914,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Junior-Software-Engineer_R-00177107",
-    "job_posted_at_datetime_utc": "2026-02-26T08:43:59.793Z",
+    "job_posted_at_datetime_utc": "2026-02-26T08:59:35.403Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "10aacc72d263f713110cec0027c95452a37f514c4b46dcd33a3176ab488c2e97",
@@ -49931,7 +49931,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T08:43:59.793Z"
+    "job_posted_at": "2026-02-26T08:59:35.403Z"
   },
   {
     "job_id": "workday-crowdstrike-R27451",
@@ -49942,7 +49942,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Professional-Services-Sr-Consultant--Remote-_R27451",
-    "job_posted_at_datetime_utc": "2026-02-26T08:43:27.297Z",
+    "job_posted_at_datetime_utc": "2026-02-26T08:59:05.278Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "972f8587e3155a03c753396e8bec9fe5c10fed61503f51fa7bb29902a6258ce4",
@@ -49959,7 +49959,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T08:43:27.297Z"
+    "job_posted_at": "2026-02-26T08:59:05.278Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234929",
