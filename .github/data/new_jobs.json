@@ -67059,35 +67059,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-25T15:51:17-05:00"
-  },
-  {
-    "job_id": "ashby-perplexity-bc1a6878-8de9-48c2-a791-95b2f8f27261",
-    "job_title": "AI Software Engineer - Agents",
-    "employer_name": "Perplexity",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/perplexity/bc1a6878-8de9-48c2-a791-95b2f8f27261/application",
-    "job_posted_at_datetime_utc": "2026-02-25T20:14:04.633+00:00",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "56da0de70dce117fd7b656fa16ee28b293e781d5a9f2bdfa89612f816e460b9a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-02-25T20:14:04.633+00:00"
   }
 ]
