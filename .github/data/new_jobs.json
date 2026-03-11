@@ -53009,33 +53009,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-25T13:19:43.644Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026497774",
-    "job_title": "Associate Software Engineer - Developer",
-    "employer_name": "Boeing",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Software-Engineer---Developer_JR2026497774-1",
-    "job_posted_at_datetime_utc": "2026-02-25T11:49:40.735Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b42ce804a4fb459aa6917a40736cb3f811da58fac6697021b3e07e71596ce88",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-25T11:49:40.735Z"
   }
 ]
