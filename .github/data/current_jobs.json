@@ -71571,34 +71571,5 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-02-26T19:05:52.793+00:00"
-  },
-  {
-    "job_id": "js-guidehouse-nxqbjmwp0vyzjukdaaaaaa==",
-    "job_title": "SME Software Developer",
-    "employer_name": "Guidehouse",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.linkedin.com/jobs/view/sme-software-developer-at-guidehouse-4378628379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-26T19:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "aea92e2ca194f222f69901c86f309c992cb5a08d9dedb422d252ef92350d98d1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-26T19:00:00.000Z"
   }
 ]
