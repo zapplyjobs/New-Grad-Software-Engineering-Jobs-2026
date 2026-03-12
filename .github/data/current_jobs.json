@@ -70369,33 +70369,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-26T17:05:05.523Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00176269",
-    "job_title": "Site Reliability Engineer (SRE) Artificial Intelligence (AI) Engineer",
-    "employer_name": "Leidos",
-    "job_city": "7 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Site-Reliability-Engineer--SRE--Artificial-Intelligence--AI--Engineer_R-00176269",
-    "job_posted_at_datetime_utc": "2026-02-26T16:50:08.232Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b07123aba082422a172265cd4c0061736453ad108955dbe17a1a44b172b35489",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T16:50:08.232Z"
   }
 ]
