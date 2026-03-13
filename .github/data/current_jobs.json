@@ -71230,34 +71230,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-27T18:04:16.644Z"
-  },
-  {
-    "job_id": "js-jobs-via-dice-h4lcdikb2t2mlq18aaaaaa==",
-    "job_title": "Remote- Digital Manufacturing Software Engineer",
-    "employer_name": "Jobs via Dice",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.linkedin.com/jobs/view/remote-digital-manufacturing-software-engineer-at-jobs-via-dice-4377937760?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-27T18:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "432d3acc46099d25ff2d3b5b7b4b0db124a368da3b5e6817adcf38a1d4e69edf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-27T18:00:00.000Z"
   }
 ]
