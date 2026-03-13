@@ -70858,34 +70858,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-27T12:16:14-05:00"
-  },
-  {
-    "job_id": "lever-sophos-d1b5e468-ce3d-4364-9185-703c210415d6",
-    "job_title": "Content Marketing Executive (Cyber-Security)",
-    "employer_name": "Sophos",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/sophos/d1b5e468-ce3d-4364-9185-703c210415d6/apply",
-    "job_posted_at_datetime_utc": "2026-02-27T17:12:09.082Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a1ea6e80ecf258f35ee66e55d83bc87517743a434f6e3741bb30bea8b1098225",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-02-27T17:12:09.082Z"
   }
 ]
