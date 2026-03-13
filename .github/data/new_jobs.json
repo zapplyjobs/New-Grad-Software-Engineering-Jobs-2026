@@ -70904,34 +70904,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-27T03:38:19-05:00"
-  },
-  {
-    "job_id": "greenhouse-doordashusa-7639427",
-    "job_title": "Operations Specialist, Labs",
-    "employer_name": "DoorDash",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7639427",
-    "job_posted_at_datetime_utc": "2026-02-27T00:01:35-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "47865ca309d1e42b9a01701ad525ed63e99e24de3117f09e6308dff45cc34b2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-27T00:01:35-05:00"
   }
 ]
