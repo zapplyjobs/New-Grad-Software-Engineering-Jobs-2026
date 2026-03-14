@@ -66774,33 +66774,5 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-03-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "workday-caci-322364",
-    "job_title": "Computer Engineer",
-    "employer_name": "CACI",
-    "job_city": "US MD Aberdeen Proving Ground",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Computer-Engineer_322364",
-    "job_posted_at_datetime_utc": "2026-02-28T20:44:04.892Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d832d2beb6cc3fc588abe50b344fd3a0662f43c6bbc5f9825915f1ea2f10aad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T20:44:04.892Z"
   }
 ]
