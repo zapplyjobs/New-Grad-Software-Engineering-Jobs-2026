@@ -61343,33 +61343,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-28T16:13:22.375Z"
-  },
-  {
-    "job_id": "workday-caci-322556",
-    "job_title": "Cyber Security Engineering Specialist - Firewall Engineer",
-    "employer_name": "CACI",
-    "job_city": "US VA Springfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Springfield/Cyber-Security-Engineering-Specialist---Firewall-Engineer_322556",
-    "job_posted_at_datetime_utc": "2026-02-28T15:43:54.674Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9a5e44316ea5d5f99b9ff4cdaa5bb83acafe4ef2ca66965c4121ab1a579c7c22",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T15:43:54.674Z"
   }
 ]
