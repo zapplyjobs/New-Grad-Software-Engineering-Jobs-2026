@@ -1,5 +1,463 @@
 [
   {
+    "job_id": "workday-intermountain-health-R163003",
+    "job_title": "AAU Nurse Extern",
+    "employer_name": "Intermountain Health",
+    "job_city": "Intermountain Health Lutheran Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/AAU-Nurse-Extern_R163003",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6ff48f72bc2ee8d555451caffd7a05e9116b745479054b0b94434f906e9bea71",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R164085",
+    "job_title": "Night Shift Tele/CV New Grad RN",
+    "employer_name": "Intermountain Health",
+    "job_city": "Saint Joseph Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Saint-Joseph-Hospital/Night-Shift-Tele-CV-New-Grad-RN_R164085",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0a967cee87788e4721bef095f9bce3d4c1eaf1c54e3b072b8a4a49425c7eb582",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R160604",
+    "job_title": "Certified Nursing Assistant PRN 1 Med Surg",
+    "employer_name": "Intermountain Health",
+    "job_city": "St James Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-James-Hospital/Certified-Nursing-Assistant-PRN-1-Med-Surg_R160604",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4796b7e53343c769231238080e5fb136351d8be3a99966850d37003351838bb5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R162037",
+    "job_title": "Mobile Mammography Coach Driver",
+    "employer_name": "Intermountain Health",
+    "job_city": "St James Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-James-Hospital/Mobile-Mammography-Coach-Driver_R162037-1",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2a7a1bd49e43ebc3dfdcb79084736c9ef87b997d9f29dd1412dead3e88ee71b2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R165550",
+    "job_title": "Patient Care Tech (CNA) - Labor/Delivery",
+    "employer_name": "Intermountain Health",
+    "job_city": "Intermountain Health Orem Community Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Orem-Community-Hospital/Patient-Care-Tech--CNA----Labor-Delivery_R165550",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "92e4c2aff824e61debb0caa45c11ae85e23b9b124acbfcf120c1c035e8ffe41e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R164431",
+    "job_title": "Neuro Critical Care Nurse Practitioner or Physician Assistant",
+    "employer_name": "Intermountain Health",
+    "job_city": "Intermountain Health Intermountain Medical Center",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Neuro-Critical-Care-Nurse-Practitioner-or-Physician-Assistant_R164431",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05cdf74cf68cf23836765f7e98e0c838778181e5b9a9ef20b6c4eed1bf0af0cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R164592",
+    "job_title": "Executive Assistant",
+    "employer_name": "Intermountain Health",
+    "job_city": "Saint Joseph Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Saint-Joseph-Hospital/Executive-Assistant_R164592",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8248bb4724d7c02ecef6f89394415c9e1a2ddda1f70b91c401936ce4da52abbb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R161749",
+    "job_title": "Physical Therapist Outpatient",
+    "employer_name": "Intermountain Health",
+    "job_city": "Rocky Mountain Orthopedics",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Rocky-Mountain-Orthopedics/Orthopedic-Physical-Therapist_R161749",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1cb8aa9d56be27cc0dd2e4614d6d2eff1163cf751294b0620329d64797a2966",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R158413",
+    "job_title": "Registered Nurse NICU",
+    "employer_name": "Intermountain Health",
+    "job_city": "Saint Joseph Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Saint-Joseph-Hospital/Registered-Nurse-NICU_R158413",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f12a3258f0e79e1ebccb3a721addcdb57e7817460a7c822880d115d89961d76e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R165508",
+    "job_title": "Critical Care Tech-Shock Trauma",
+    "employer_name": "Intermountain Health",
+    "job_city": "Intermountain Health Intermountain Medical Center",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Critical-Care-Tech-Shock-Trauma_R165508",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "40ec3b4a94c5bbff842e0e921612f392a7006cca15c916f7cd8e684ed103256d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R126969",
+    "job_title": "Physical Therapist $25,000 Bonus",
+    "employer_name": "Intermountain Health",
+    "job_city": "Holy Rosary Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Holy-Rosary-Hospital/Physical-Therapist_R126969-1",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b69dbf334539abf5b8c58865964b34677dd17c417d73adb2776f833570a7f3e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R123228",
+    "job_title": "Physical Therapist $25,000 Bonus",
+    "employer_name": "Intermountain Health",
+    "job_city": "Holy Rosary Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Holy-Rosary-Hospital/Physical-Therapist_R123228",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b69dbf334539abf5b8c58865964b34677dd17c417d73adb2776f833570a7f3e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R119759",
+    "job_title": "Pediatric Physical Therapist $25,000 Bonus",
+    "employer_name": "Intermountain Health",
+    "job_city": "Holy Rosary Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Holy-Rosary-Hospital/Physical-Therapist_R119759",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "586afc7b40be1ad69d47f17efc3d2b19911a601caf5f8a4eb288dc959c00a01f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R165405",
+    "job_title": "Administrative Coordinator",
+    "employer_name": "Intermountain Health",
+    "job_city": "Central Orem Clinic",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Central-Orem-Clinic/Administrative-Coordinator_R165405",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "37310134129f0d88758fead9abcca2c3dbf0b6812ad9a0fbaef88151e5570492",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R165542",
+    "job_title": "Care Coordinator",
+    "employer_name": "Intermountain Health",
+    "job_city": "Key Bank Tower",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Care-Coordinator_R165542",
+    "job_posted_at_datetime_utc": "2026-03-14T06:39:17.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3e81649016b79455848c804f6a32f1e554220575222ee96f91bae69414ffe4dc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:39:17.097Z"
+  },
+  {
+    "job_id": "workday-capital-one-R238095",
+    "job_title": "Full Time Branch Ambassador - Montgomery County (North & East Cluster)",
+    "employer_name": "Capital One",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Gaithersburg-MD/Full-Time-Branch-Ambassador---Montgomery-County--North---East-Cluster-_R238095-2",
+    "job_posted_at_datetime_utc": "2026-03-14T06:38:50.337Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5cbe1cea2615a6f13305f75a3147e32b8c21af6009fd689cc6cb3258ec682690",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-14T06:38:50.337Z"
+  },
+  {
     "job_id": "workday-capital-one-R237931",
     "job_title": "Associate, Artificial Intelligence and Machine Learning Technical Risk - Enterprise Services Risk, Cyber Risk & Analysis",
     "employer_name": "Capital One",
@@ -8,7 +466,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Associate--Artificial-Intelligence-and-Machine-Learning-Technical-Risk---Enterprise-Services-Risk--Cyber-Risk---Analysis_R237931-1",
-    "job_posted_at_datetime_utc": "2026-03-14T06:25:24.551Z",
+    "job_posted_at_datetime_utc": "2026-03-14T06:38:50.337Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "967824fed741310e8f8c1194a91000a3bbd760b12c74b861a9c6b6ae52caa38d",
@@ -27,35 +485,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-14T06:25:24.551Z"
-  },
-  {
-    "job_id": "workday-capital-one-R238095",
-    "job_title": "Full Time Branch Ambassador - Montgomery County (North & East Cluster)",
-    "employer_name": "Capital One",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Gaithersburg-MD/Full-Time-Branch-Ambassador---Montgomery-County--North---East-Cluster-_R238095-2",
-    "job_posted_at_datetime_utc": "2026-03-14T06:25:24.550Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5cbe1cea2615a6f13305f75a3147e32b8c21af6009fd689cc6cb3258ec682690",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T06:25:24.550Z"
+    "job_posted_at": "2026-03-14T06:38:50.337Z"
   },
   {
     "job_id": "workday-cisco-2010783",
@@ -14403,7 +14833,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/MTS-Software-Engineer---Salesforce_JR332688",
-    "job_posted_at_datetime_utc": "2026-03-12T06:25:31.316Z",
+    "job_posted_at_datetime_utc": "2026-03-12T06:38:57.434Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6d230b08f71f9a78d9f20b9409b49b83684ae69dbf1a07108a15799a756dd4d7",
@@ -14420,7 +14850,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-12T06:25:31.316Z"
+    "job_posted_at": "2026-03-12T06:38:57.434Z"
   },
   {
     "job_id": "workday-capital-one-R236983",
@@ -14431,7 +14861,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Platform-Engineer--Workday--Functional-_R236983-1",
-    "job_posted_at_datetime_utc": "2026-03-12T06:25:24.552Z",
+    "job_posted_at_datetime_utc": "2026-03-12T06:38:50.338Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4b85e9b43547a406eedef8cde1328dd66dae7b4af29a1038eb7bc9f2742b4ae",
@@ -14448,7 +14878,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-12T06:25:24.552Z"
+    "job_posted_at": "2026-03-12T06:38:50.338Z"
   },
   {
     "job_id": "workday-baker-hughes-R157014",
@@ -19172,7 +19602,7 @@
     "job_country": "United States",
     "job_is_remote": true,
     "job_apply_link": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Software-Support-Engineer_R11488",
-    "job_posted_at_datetime_utc": "2026-03-11T06:26:20.450Z",
+    "job_posted_at_datetime_utc": "2026-03-11T06:39:49.202Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b088f573db2c2827f022427f3c96302c4e01905779c4cf67b564a409339a93a3",
@@ -19190,7 +19620,91 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-11T06:26:20.450Z"
+    "job_posted_at": "2026-03-11T06:39:49.202Z"
+  },
+  {
+    "job_id": "workday-capital-one-R237692",
+    "job_title": "Full Time Branch Ambassador - Chantilly",
+    "employer_name": "Capital One",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chantilly-VA/Full-Time-Branch-Ambassador---Chantilly_R237692-1",
+    "job_posted_at_datetime_utc": "2026-03-11T06:38:50.339Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ecfd7d0249ff685ecbd344ef724717e1d0d2022e19764ce0413f3677ee3e9c02",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T06:38:50.339Z"
+  },
+  {
+    "job_id": "workday-capital-one-R237455",
+    "job_title": "Full Time Branch Ambassador - Falls Grove",
+    "employer_name": "Capital One",
+    "job_city": "Rockville",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Rockville-MD/Full-Time-Branch-Ambassador---Falls-Grove_R237455-1",
+    "job_posted_at_datetime_utc": "2026-03-11T06:38:50.339Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e434f1f978b8e403aae2098ceec777b711bf4734ea56b2d2aef6142860772467",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T06:38:50.339Z"
+  },
+  {
+    "job_id": "workday-capital-one-R237123",
+    "job_title": "Full Time Branch Ambassador - Potomac",
+    "employer_name": "Capital One",
+    "job_city": "Potomac",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Potomac-MD/Full-Time-Branch-Ambassador---Potomac_R237123-2",
+    "job_posted_at_datetime_utc": "2026-03-11T06:38:50.339Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41e87f23315838364baa0c71e3124a36a77291bde0d3574539704cf2c313f524",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T06:38:50.339Z"
   },
   {
     "job_id": "workday-capital-one-R237158",
@@ -19201,7 +19715,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Hicksville-NY/Part-Time-Branch-Ambassador---Nassau-Area_R237158-2",
-    "job_posted_at_datetime_utc": "2026-03-11T06:25:24.553Z",
+    "job_posted_at_datetime_utc": "2026-03-11T06:38:50.339Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3cbabfbeaa9eb130b1a5b5d01004885c12b5b3f7c0f46c1332b839d19acafb72",
@@ -19218,7 +19732,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-11T06:25:24.553Z"
+    "job_posted_at": "2026-03-11T06:38:50.339Z"
   },
   {
     "job_id": "workday-capital-one-R237797",
@@ -19229,7 +19743,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-I_R237797-1",
-    "job_posted_at_datetime_utc": "2026-03-11T06:25:24.552Z",
+    "job_posted_at_datetime_utc": "2026-03-11T06:38:50.338Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ca2385498b8399112128406546665035a1581561d41894a7cd664e605a82faf5",
@@ -19247,91 +19761,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-11T06:25:24.552Z"
-  },
-  {
-    "job_id": "workday-capital-one-R237692",
-    "job_title": "Full Time Branch Ambassador - Chantilly",
-    "employer_name": "Capital One",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chantilly-VA/Full-Time-Branch-Ambassador---Chantilly_R237692-1",
-    "job_posted_at_datetime_utc": "2026-03-11T06:25:24.552Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ecfd7d0249ff685ecbd344ef724717e1d0d2022e19764ce0413f3677ee3e9c02",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-11T06:25:24.552Z"
-  },
-  {
-    "job_id": "workday-capital-one-R237455",
-    "job_title": "Full Time Branch Ambassador - Falls Grove",
-    "employer_name": "Capital One",
-    "job_city": "Rockville",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Rockville-MD/Full-Time-Branch-Ambassador---Falls-Grove_R237455-1",
-    "job_posted_at_datetime_utc": "2026-03-11T06:25:24.552Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e434f1f978b8e403aae2098ceec777b711bf4734ea56b2d2aef6142860772467",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-11T06:25:24.552Z"
-  },
-  {
-    "job_id": "workday-capital-one-R237123",
-    "job_title": "Full Time Branch Ambassador - Potomac",
-    "employer_name": "Capital One",
-    "job_city": "Potomac",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Potomac-MD/Full-Time-Branch-Ambassador---Potomac_R237123-2",
-    "job_posted_at_datetime_utc": "2026-03-11T06:25:24.552Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41e87f23315838364baa0c71e3124a36a77291bde0d3574539704cf2c313f524",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-11T06:25:24.552Z"
+    "job_posted_at": "2026-03-11T06:38:50.338Z"
   },
   {
     "job_id": "workday-cisco-2007569",
@@ -25784,7 +26214,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Commack-NY/Part-Time-Branch-Ambassador---Western-Suffolk-Area_R237631-1",
-    "job_posted_at_datetime_utc": "2026-03-10T06:25:24.553Z",
+    "job_posted_at_datetime_utc": "2026-03-10T06:38:50.339Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "56a44cd9e413e8f3b0f5b521c59495c3bdd0478bd70979e3318bdda3d731d022",
@@ -25801,7 +26231,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T06:25:24.553Z"
+    "job_posted_at": "2026-03-10T06:38:50.339Z"
   },
   {
     "job_id": "workday-capital-one-R236839",
@@ -25812,7 +26242,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations--LLM-Core-and-Agentic-AI-_R236839-1",
-    "job_posted_at_datetime_utc": "2026-03-10T06:25:24.553Z",
+    "job_posted_at_datetime_utc": "2026-03-10T06:38:50.339Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "27374e07964872864e20f64333f86c79dc88405e8e9b798607a675c91e262abf",
@@ -25831,7 +26261,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T06:25:24.553Z"
+    "job_posted_at": "2026-03-10T06:38:50.339Z"
   },
   {
     "job_id": "workday-cisco-2002393",
@@ -43027,7 +43457,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Ronkonkoma-NY/Full-Time-Branch-Ambassador---Central-Suffolk-Area_R237024-2",
-    "job_posted_at_datetime_utc": "2026-03-07T06:25:24.553Z",
+    "job_posted_at_datetime_utc": "2026-03-07T06:38:50.339Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "95f5962da78a921fe9a89e2a7e0d5ce849877acb26b47d5f4dffc5bf94a36348",
@@ -43044,7 +43474,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T06:25:24.553Z"
+    "job_posted_at": "2026-03-07T06:38:50.339Z"
   },
   {
     "job_id": "workday-capital-one-R237537",
@@ -43055,7 +43485,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plainfield-NJ/Part-Time-Branch-Ambassador---New-Jersey-Market_R237537-2",
-    "job_posted_at_datetime_utc": "2026-03-07T06:25:24.553Z",
+    "job_posted_at_datetime_utc": "2026-03-07T06:38:50.339Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ac794e30daf5ed1a1e11dc78e1c1829c1d8c736337ca14570cde4c050bdd474b",
@@ -43072,7 +43502,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T06:25:24.553Z"
+    "job_posted_at": "2026-03-07T06:38:50.339Z"
   },
   {
     "job_id": "workday-capital-one-R237535",
@@ -43083,7 +43513,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plainfield-NJ/Full-Time-Branch-Ambassador---New-Jersey-Market_R237535-1",
-    "job_posted_at_datetime_utc": "2026-03-07T06:25:24.553Z",
+    "job_posted_at_datetime_utc": "2026-03-07T06:38:50.339Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5b61c927f56bb101b369a292a9a18167f2e1afe38725864656ec6d5146713265",
@@ -43100,7 +43530,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-07T06:25:24.553Z"
+    "job_posted_at": "2026-03-07T06:38:50.339Z"
   },
   {
     "job_id": "workday-kla-2634818",
@@ -51581,18 +52011,18 @@
     "job_posted_at": "2026-03-05T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-d0e28b6a-e89c-40cd-b7c8-4ce3ff9fb55c",
+    "job_id": "amazon-824ca352-5561-4e9f-ac90-bc18889a61fe",
     "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls",
     "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "New Albany",
+    "job_city": "Trenton",
     "job_state": "OH",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3197321/data-center-controls-engineer-data-center-capacity-delivery-controls",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3197305/data-center-controls-engineer-data-center-capacity-delivery-controls",
     "job_posted_at_datetime_utc": "2026-03-05T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "16fe79e1bef43a7e205c402be686c0ee065c74ecdf22c1ace28bf77138bda39c",
+    "fingerprint": "cf84d2ef9cd6b18a601f2ed23319c0ce6c508edd3b3b73b12346fd6660eae122",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -51613,18 +52043,18 @@
     "job_posted_at": "2026-03-05T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-824ca352-5561-4e9f-ac90-bc18889a61fe",
+    "job_id": "amazon-d0e28b6a-e89c-40cd-b7c8-4ce3ff9fb55c",
     "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls",
     "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Trenton",
+    "job_city": "New Albany",
     "job_state": "OH",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3197305/data-center-controls-engineer-data-center-capacity-delivery-controls",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3197321/data-center-controls-engineer-data-center-capacity-delivery-controls",
     "job_posted_at_datetime_utc": "2026-03-05T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "cf84d2ef9cd6b18a601f2ed23319c0ce6c508edd3b3b73b12346fd6660eae122",
+    "fingerprint": "16fe79e1bef43a7e205c402be686c0ee065c74ecdf22c1ace28bf77138bda39c",
     "tags": {
       "employment": "entry_level",
       "domains": [
