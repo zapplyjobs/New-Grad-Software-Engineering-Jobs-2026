@@ -65336,33 +65336,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-28T15:12:18.729Z"
-  },
-  {
-    "job_id": "workday-caci-322362",
-    "job_title": "Operational Systems Engineer",
-    "employer_name": "CACI",
-    "job_city": "US VA Chantilly",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Operational-Systems-Engineer_322362-1",
-    "job_posted_at_datetime_utc": "2026-02-28T13:30:23.139Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3eab191af58980c995c8afee63fb5f2c6b6cf8db82b4ca459ed2db6b498e20a0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T13:30:23.139Z"
   }
 ]
