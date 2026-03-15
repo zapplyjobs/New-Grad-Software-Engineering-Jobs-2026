@@ -22,8 +22,8 @@ module.exports = {
   tagline: '',  // No tagline for SEO repos
 
   // Description paragraphs (with template variables)
-  descriptionLine1: '🚀 Real-time software engineering, programming, and IT jobs from {totalCompanies}+ top companies like Stripe, Datadog, and Vercel. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new graduates, CS students, and entry-level software developers.',
-  descriptionLine2: '🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Stripe, Datadog, and Vercel.',
+  descriptionLine1: '🚀 Software engineering and IT jobs for new graduates, updated in real time.',
+  descriptionLine2: '',
 
   // Note box
   noteType: 'TIP',
