@@ -247,14 +247,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Lucid Motors** | Service Advisor, Millbrae | Millbrae, CA | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5076224007) |
+| 🏢 **Lucid Motors** | Service Advisor, Millbrae | Millbrae, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5076224007) |
 | 🏢 **Lucid Motors** | Mobile Service Technician | North Carolina | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5072851007) |
 | 🏢 **Lucid Motors** | Service Advisor, Miami | Miami, FL | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063440007) |
 | 🏢 **SMX** | Junior Software Engineer (3964) | Gambrills | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/5hwHfgXXkhqZKwRSUqV0W7) |
 | 🏢 **Virtual Vocations Inc** | Associate Software Development Engineer | Anaheim | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/5BrFo1DzaqkLmDozF3KcTR) |
-| 🏢 **IXL Learning** | Software Engineer, Teachers Pay Teachers | Raleigh, NC | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8029381002) |
-| 🏢 **IXL Learning** | Software Engineer, Rosetta Stone | San Mateo, CA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8301833002) |
-| 🏢 **IXL Learning** | Software Engineer, Education.com | San Mateo, CA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8340736002) |
+| 🏢 **IXL Learning** | Software Engineer, Teachers Pay Teachers | Raleigh, NC | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8029381002) |
+| 🏢 **IXL Learning** | Software Engineer, Rosetta Stone | San Mateo, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8301833002) |
+| 🏢 **IXL Learning** | Software Engineer, Education.com | San Mateo, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8340736002) |
 | 🏢 **Applied Intuition** | Solution Engineer | Sunnyvale | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4580414005?gh_jid=4580414005) |
 | 🏢 **Anduril** | Fabricator/Cutting Technician | Santa Ana | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5069147007?gh_jid=5069147007) |
 | 🏢 **xAI** | Security Engineer - Azure Government | Palo Alto, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5050657007) |
