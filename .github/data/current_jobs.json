@@ -94909,33 +94909,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-04T22:06:25.204Z"
-  },
-  {
-    "job_id": "greenhouse-roblox-7535858",
-    "job_title": "[SkillBridge] Information Security Fellowship",
-    "employer_name": "Roblox",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.roblox.com/jobs/7535858?gh_jid=7535858",
-    "job_posted_at_datetime_utc": "2026-03-04T16:49:54-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "182150c64f554572dc35cb50929a2e40d61e83f251201885c0119ab379a75a44",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-04T16:49:54-05:00"
   }
 ]
