@@ -11199,7 +11199,7 @@
   },
   {
     "job_id": "ashby-cohere-1fa01a03-9253-4f62-8f10-0fe368b38cb9",
-    "job_title": "Applied AI Engineer �� Agentic Workflows",
+    "job_title": "Applied AI Engineer – Agentic Workflows",
     "employer_name": "Cohere",
     "job_city": "San Francisco",
     "job_state": "",
@@ -91605,61 +91605,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-04T04:47:18.897Z"
-  },
-  {
-    "job_id": "lever-waabi-5fcde68c-577a-4fed-b532-793fec8de175",
-    "job_title": "Platform Systems Engineer; Motion Planning and Control",
-    "employer_name": "Waabi",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/waabi/5fcde68c-577a-4fed-b532-793fec8de175/apply",
-    "job_posted_at_datetime_utc": "2026-03-04T04:45:00.874Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a9e966f0d275517307d03795ab0a6dc124e2c00811498a0a79ad69542f45351",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-04T04:45:00.874Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5624673004",
-    "job_title": "Software Engineer, Platform - Philadelphia, USA",
-    "employer_name": "Speechify",
-    "job_city": "Philadelphia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5624673004",
-    "job_posted_at_datetime_utc": "2026-03-03T23:36:31-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "604f5c0599167e8f842f878823269099d98eb976dbc7db1082023683e293e774",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-03T23:36:31-05:00"
   }
 ]
