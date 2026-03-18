@@ -91625,34 +91625,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-04T09:26:34-05:00"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-6866851",
-    "job_title": "Software Engineer - Data Security",
-    "employer_name": "Cloudflare",
-    "job_city": "Hybrid",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/6866851?gh_jid=6866851",
-    "job_posted_at_datetime_utc": "2026-03-04T08:45:40-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6ab62290d577e402579af14c59acc1a4b7af8bb243ae3b440498998a8b37344e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "hybrid"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-04T08:45:40-05:00"
   }
 ]
