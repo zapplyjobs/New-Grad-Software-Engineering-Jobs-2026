@@ -94049,33 +94049,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-04T14:41:13.358Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8448505002",
-    "job_title": "Software Engineer, CDN  (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8448505002?gh_jid=8448505002",
-    "job_posted_at_datetime_utc": "2026-03-04T09:26:34-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0eeb7aeafdce8b9517e43108b77d0239b68cb863bc99626836bcccabc991cfab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-04T09:26:34-05:00"
   }
 ]
