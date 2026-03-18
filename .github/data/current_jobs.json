@@ -94079,34 +94079,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-04T10:01:59-05:00"
-  },
-  {
-    "job_id": "sr-Visa-744000112704037",
-    "job_title": "Associate Cybersecurity Analyst- local candidates only",
-    "employer_name": "Visa",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000112704037",
-    "job_posted_at_datetime_utc": "2026-03-04T14:59:22.828Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "54be4db3487320f52b748896e66e89c708fcc9c66543b29a3ca0ea2038e34b8d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-04T14:59:22.828Z"
   }
 ]
