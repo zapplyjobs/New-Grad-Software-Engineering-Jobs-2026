@@ -94415,33 +94415,5 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-03-05T06:58:06.691Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7678025",
-    "job_title": "Associate, Solution Execution",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7678025?gh_jid=7678025",
-    "job_posted_at_datetime_utc": "2026-03-05T00:42:04-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a37e0f08c7dc75641dbe830b859b026fee25347c7e8dba164878321fc8601a13",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-05T00:42:04-05:00"
   }
 ]
