@@ -94618,35 +94618,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-05T08:06:53.907Z"
-  },
-  {
-    "job_id": "workday-at&t-R-102488",
-    "job_title": "Service Requirements Officer (Government)",
-    "employer_name": "AT&T",
-    "job_city": "Chantilly",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chantilly-Virginia/Service-Requirements-Officer--Government-_R-102488",
-    "job_posted_at_datetime_utc": "2026-03-05T07:52:59.428Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "466c5e723293ad5c1a9bd3a9f953fce7e4f2872153beac50183016acb05ca196",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T07:52:59.428Z"
   }
 ]
