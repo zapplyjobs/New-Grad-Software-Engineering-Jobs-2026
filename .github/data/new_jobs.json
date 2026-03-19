@@ -95130,33 +95130,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-05T14:05:45.718Z"
-  },
-  {
-    "job_id": "workday-medtronic-R50536",
-    "job_title": "Technical Writer",
-    "employer_name": "Medtronic",
-    "job_city": "Mounds View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Technical-Writer_R50536-1",
-    "job_posted_at_datetime_utc": "2026-03-05T13:46:33.356Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af4205c4bbaa7054fb5a00a2f823665b8e71cebcabf99f0bd51c70e3a3de8739",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T13:46:33.356Z"
   }
 ]
