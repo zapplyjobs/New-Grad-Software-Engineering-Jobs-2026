@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3343-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3341-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-375-blue?style=flat&logo=building)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-2947-red?style=flat&logo=star)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-2946-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -75,7 +75,7 @@
 | 🏢 **Reddit** | Android Software Engineer, Ad Formats | Chicago, IL | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415003) |
 | 🏢 **Reddit** | Android Software Engineer, Ad Formats | United States | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415052) |
 | 🏢 **Reddit** | Android Software Engineer, Ad Formats | New York City, NY | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415013) |
-| 🏢 **Asana** | iOS Engineer | New York City | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/6806085?gh_jid=6806085) |
+| 🏢 **Asana** | iOS Engineer | New York City | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/6806085?gh_jid=6806085) |
 | 🏢 **xAI** | Mobile Android Engineer | New York, NY | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4892323007) |
 | 🏢 **xAI** | Mobile iOS Engineer | Palo Alto, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4985386007) |
 | 🏢 **Verkada** | Mobile Engineer - Alarms | San Mateo, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4856201007) |
@@ -133,13 +133,13 @@
 | 🏢 **Atomic Semi** | Electrical Design Engineer | San Francisco Office | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/7b8a8ba1-4529-43e8-ad52-220f192378fb/application) |
 | 🏢 **Roblox** | Design Engineer | San Mateo, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.roblox.com/jobs/7728976?gh_jid=7728976) |
 | 🏢 **Jane Street** | Front End Software Engineer | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/6184529002) |
-| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, Frontend | Seattle | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674088007?gh_jid=4674088007) |
-| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, Frontend | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673956007?gh_jid=4673956007) |
+| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, Frontend | Seattle | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674088007?gh_jid=4674088007) |
+| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, Frontend | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673956007?gh_jid=4673956007) |
 | 🏢 **SpaceX** | RTL Design Engineer (Silicon Engineering) | Irvine, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8466346002?gh_jid=8466346002) |
 | 🏢 **CACI** | Full Stack Web Developer | US TX San Antonio | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TX-San-Antonio/Full-Stack-Web-Developer_323448) |
 | 🏢 **DoorDash** | Software Engineer, Frontend (All Teams) | New York, NY | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/5630448) |
 | 🏢 **Adobe** | Front End Engineer - UI / UX | San Jose | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Front-End-Engineer---UI---UX_R165714-1) |
-| 🏢 **CoreWeave** | Front End Web Developer | Livingston, NJ | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://coreweave.com/careers/job?4663442006&board=coreweave&gh_jid=4663442006) |
+| 🏢 **CoreWeave** | Front End Web Developer | Livingston, NJ | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://coreweave.com/careers/job?4663442006&board=coreweave&gh_jid=4663442006) |
 | 🏢 **Adobe** | Software Engineer - Fullstack (Front-end heavy) | San Jose | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Engineer---Fullstack--Front-end-heavy-_R163077-1) |
 | 🏢 **WHOOP** | Software Engineer I (Frontend, Growth) | Boston, MA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/whoop/27101f2d-abc5-4cf3-aa86-f164e66ecdd8/apply) |
 | 🏢 **CACI** | High Performance Web Developer (JavaScript, Angular Material, QT, WebGL) | US VA Herndon | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Herndon/High-Performance-Web-Developer--JavaScript--Angular-Material--QT--WebGL-_322413) |
@@ -217,7 +217,7 @@
 | 🏢 **SpaceX** | Full Stack Software Engineer (Components) | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8421359002?gh_jid=8421359002) |
 | 🏢 **Cloudflare** | Fullstack Software Engineer - Registrar | Hybrid | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7645775?gh_jid=7645775) |
 | 🏢 **Zoox** | Full Stack Software Engineer, Operational Applications and Platforms | Foster City, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/0686875b-6d06-49aa-b9f2-772f756d5235/apply) |
-| 🏢 **Anduril** | Software Engineer, Full Stack | Irvine | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4836302007?gh_jid=4836302007) |
+| 🏢 **Anduril** | Software Engineer, Full Stack | Irvine | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4836302007?gh_jid=4836302007) |
 | 🏢 **Highmark Health** | Full Stack Angular/Oracle/GCP Developer | Texas | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/TX-Working-at-Home---Texas/Full-Stack-Angular-Oracle-GCP-Developer_J277921-1) |
 | 🏢 **Guidehouse** | Full Stack Developer | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Full-Stack-Developer_37252) |
 | 🏢 **Guidehouse** | Full Stack Developer | MD, Bethesda | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Full-Stack-Developer_35123) |
@@ -292,8 +292,8 @@
 | 🏢 **SpaceX** | Test Engineer, Propulsion Components (Starship) | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8423223002?gh_jid=8423223002) |
 | 🏢 **SpaceX** | Avionics Test Engineer (Starship) | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8355075002?gh_jid=8355075002) |
 | 🏢 **Anduril** | Software QA Engineer | Lexington | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5036888007?gh_jid=5036888007) |
-| 🏢 **Anduril** | Electrical Systems Test Engineer, Air Dominance and Strike | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043611007?gh_jid=5043611007) |
-| 🏢 **Anduril** | Electrical Test Engineer | McHenry | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5050006007?gh_jid=5050006007) |
+| 🏢 **Anduril** | Electrical Systems Test Engineer, Air Dominance and Strike | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043611007?gh_jid=5043611007) |
+| 🏢 **Anduril** | Electrical Test Engineer | McHenry | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5050006007?gh_jid=5050006007) |
 | 🏢 **Zipline** | Interconnect Integration Test Engineer | South San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.flyzipline.com/careers/open-roles?gh_jid=7665049003) |
 | 🏢 **Salesforce** | Network Automation Engineer | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Network-Automation-Engineer_JR331234) |
 | 🏢 **Silicon Labs** | Software QA Engineer I | Boston | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Boston/Software-QA-Engineer-I_20698-1) |
@@ -321,7 +321,6 @@
 | 🏢 **Sony Interactive Entertainment** | Software Development Engineer in Test (SDET) | United States, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5817276004) |
 | 🏢 **Booz Allen Hamilton** | Cybersecurity Test Engineer | Rome, NY | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Cybersecurity-Test-Engineer--Junior_R0232713) |
 | 🏢 **Vercel** | Compliance Automation Engineer | United States | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5787037004) |
-| 🏢 **NVIDIA** | Software Development Engineer in Test, Graphics - New College Grad 2026 | US, TX | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/Software-Development-Engineer-in-Test--Graphics---New-College-Grad-2026_JR2014288) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -588,7 +587,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3343 current opportunities from 375 companies**
+**🎯 3341 current opportunities from 375 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
