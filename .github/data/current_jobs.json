@@ -96194,33 +96194,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-05T14:20:26-05:00"
-  },
-  {
-    "job_id": "greenhouse-spacex-8450056002",
-    "job_title": "Power Systems Engineer (Starship)",
-    "employer_name": "SpaceX",
-    "job_city": "Starbase",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8450056002?gh_jid=8450056002",
-    "job_posted_at_datetime_utc": "2026-03-05T13:52:34-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f8e411ad1d3b28770b2bac80757b3286602d12454ef1f2dbb568f44d5b28cd1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-05T13:52:34-05:00"
   }
 ]
