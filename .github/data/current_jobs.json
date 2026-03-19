@@ -95588,33 +95588,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-05T11:03:40-05:00"
-  },
-  {
-    "job_id": "greenhouse-maintainx-5006715007",
-    "job_title": "Implementation Consultant",
-    "employer_name": "MaintainX",
-    "job_city": "Raleigh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/maintainx/jobs/5006715007",
-    "job_posted_at_datetime_utc": "2026-03-05T10:46:06-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "df2d971c594f8340f0c4a7999f33112d461b3ce0bdfba7c9018dab9aebc05061",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-05T10:46:06-05:00"
   }
 ]
