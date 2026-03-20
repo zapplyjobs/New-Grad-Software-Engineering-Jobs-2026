@@ -129,9 +129,9 @@
 | 🏢 **Candid Health** | Front End Software Engineer | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/23e88d6b-b9ff-4033-97d5-1e9e42958a66/application) |
 | 🏢 **Cartesia** | Frontend Engineer, Marketing | *HQ - San Francis... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cartesia/d3e3f8b6-b476-428c-bd04-3e2ada3c8b10/application) |
 | 🏢 **Cartesia** | Design Engineer | *HQ - San Francis... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cartesia/30dd64e9-178e-43d8-afaa-13bb97baf45d/application) |
-| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, Frontend | Seattle | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674088007?gh_jid=4674088007) |
-| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, Frontend | Costa Mesa | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673956007?gh_jid=4673956007) |
-| 🏢 **Anthropic** | Design Engineer, Web | San Francisco, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5116525008) |
+| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, Frontend | Seattle | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674088007?gh_jid=4674088007) |
+| 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, Frontend | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673956007?gh_jid=4673956007) |
+| 🏢 **Anthropic** | Design Engineer, Web | San Francisco, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5116525008) |
 | 🏢 **EliseAI** | Web Developer (Webflow) | New York City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/eliseai/0167da77-b597-4773-8cc0-52dbadacb0a9/application) |
 | 🏢 **IXL Learning** | Front-End Software Engineer, IXL Product | San Mateo, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8301531002) |
 | 🏢 **Mercor** | CMS Web Developer | San Francisco | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/ff7e9263-1a66-4543-80cc-41e6e12af933/application) |
@@ -204,7 +204,7 @@
 | 🏢 **Benchling** | Software Engineer, Full Stack (Admin & Identity Platform) | San Francisco, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/benchling/982241d9-e79f-4d68-9b3d-ac4bd5940456/application) |
 | 🏢 **Allium** | Full Stack / Product Engineer | New York | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/allium/1831be9b-630b-45ba-acad-1564bfc21e38/application) |
 | 🏢 **xAI** | Fullstack Engineer - Companions | Palo Alto, CA | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4789505007) |
-| 🏢 **Anduril** | Software Engineer, Full Stack | Irvine | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4836302007?gh_jid=4836302007) |
+| 🏢 **Anduril** | Software Engineer, Full Stack | Irvine | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4836302007?gh_jid=4836302007) |
 | 🏢 **Chime** | Full-Stack Engineer | San Francisco, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8457578002?gh_jid=8457578002) |
 | 🏢 **SoFi** | Full-Stack Software Engineer, Benefits and Rewards | CA - San Francisco | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://sofi.com/careers/job/7581360003?gh_jid=7581360003) |
 | 🏢 **Loop** | 2026 New Grad   Software Engineer, Full-Stack | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/loop/jobs/5780582004) |
@@ -221,7 +221,7 @@
 | 🏢 **Leidos** | Software Developer  (Full Stack / Web Applications) | Huntsville, AL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Developer---Full-Stack---Web-Applications-_R-00178748) |
 | 🏢 **Leidos** | Full Stack Developer | Ashburn, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Full-Stack-Developer_R-00178663) |
 | 🏢 **xAI** | Fullstack Engineer - Education (Spanish Bilingual) | Palo Alto, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5026678007) |
-| 🏢 **SpaceX** | Full Stack Software Engineer (Components) | Hawthorne, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8421359002?gh_jid=8421359002) |
+| 🏢 **SpaceX** | Full Stack Software Engineer (Components) | Hawthorne, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8421359002?gh_jid=8421359002) |
 | 🏢 **Cloudflare** | Fullstack Software Engineer - Registrar | Hybrid | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7645775?gh_jid=7645775) |
 | 🏢 **Zoox** | Full Stack Software Engineer, Operational Applications and Platforms | Foster City, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/0686875b-6d06-49aa-b9f2-772f756d5235/apply) |
 | 🏢 **Highmark Health** | Full Stack Angular/Oracle/GCP Developer | Texas | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/TX-Working-at-Home---Texas/Full-Stack-Angular-Oracle-GCP-Developer_J277921-1) |
@@ -281,9 +281,9 @@
 | 🏢 **Waabi** | Systems Test Engineer - Platform Verification | Phoenix, AZ | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/c45156f5-792e-459e-a312-435e66728733/apply) |
 | 🏢 **Waabi** | Test Engineer | Phoenix, AZ | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/c04c4294-ba4b-4671-958d-56141f3386b4/apply) |
 | 🏢 **Whatnot** | QA Engineer, App Platform | Los Angeles, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/740736e9-5d21-400a-b38f-d76a0f22ec8a/application) |
-| 🏢 **Anduril** | Electrical Test Engineer | McHenry | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5050006007?gh_jid=5050006007) |
-| 🏢 **Anduril** | Manufacturing Test Engineer | Quincy | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5061616007?gh_jid=5061616007) |
-| 🏢 **Anduril** | Quality Engineer | Fort Collins | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030676007?gh_jid=5030676007) |
+| 🏢 **Anduril** | Electrical Test Engineer | McHenry | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5050006007?gh_jid=5050006007) |
+| 🏢 **Anduril** | Manufacturing Test Engineer | Quincy | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5061616007?gh_jid=5061616007) |
+| 🏢 **Anduril** | Quality Engineer | Fort Collins | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030676007?gh_jid=5030676007) |
 | 🏢 **DCS Corporation** | Junior Software Integration/Test Engineer   Dayton, OH, USA | Ohio | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.efinancialcareers.com/jobs-USA-OH-Dayton-Junior_Software_IntegrationTest_Engineer.id23995608) |
 | 🏢 **Waymo** | Systems Test Engineer, Commercialization Test Automation | Mountain View, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7702392) |
 | 🏢 **Waymo** | Systems Test Engineer, Motion Control | Mountain View, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7355055) |
