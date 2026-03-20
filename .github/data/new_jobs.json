@@ -93985,33 +93985,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T08:51:10.093Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000355806",
-    "job_title": "Power Systems Engineer - Electric Power (Remote)",
-    "employer_name": "Caterpillar",
-    "job_city": "Texas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Texas/Power-Systems-Engineer---Electric-Power--Remote-_R0000355806",
-    "job_posted_at_datetime_utc": "2026-03-06T08:14:39.935Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a6f493ac5eddfa0025854ed62abe6b762650deb1fa1d4c6ac5f6111cf51c8f52",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:14:39.935Z"
   }
 ]
