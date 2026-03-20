@@ -95811,33 +95811,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T15:47:50.339Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8440980002",
-    "job_title": "Security Software Engineer, Applied Computing (Starshield)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8440980002?gh_jid=8440980002",
-    "job_posted_at_datetime_utc": "2026-03-06T10:35:27-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e1798161452ee12118a247ccafe20dcb4409358f08c3ebc09980e6e068d2eb7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-06T10:35:27-05:00"
   }
 ]
