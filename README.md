@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3326-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3321-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-382-blue?style=flat&logo=building)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-2938-red?style=flat&logo=star)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-2933-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -73,8 +73,8 @@
 | 🏢 **Cape** | Android Engineer | New York, NY | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cape/c2b9c1b7-ae65-4e1a-928b-47360274a3ee/application) |
 | 🏢 **LinkedIn** | iOS Software Engineer - Platforms & Experience | Mountain View, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000115928434) |
 | 🏢 **LinkedIn** | iOS Software Engineer | Mountain View, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000115929862) |
-| 🏢 **xAI** | Mobile Android Engineer | New York, NY | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4892323007) |
-| 🏢 **xAI** | Mobile iOS Engineer | Palo Alto, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4985386007) |
+| 🏢 **xAI** | Mobile Android Engineer | New York, NY | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4892323007) |
+| 🏢 **xAI** | Mobile iOS Engineer | Palo Alto, CA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4985386007) |
 | 🏢 **Twilio** | Android Engineer - P3 - Security + Identity | Remote | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7229383) |
 | 🏢 **SoFi** | Mobile Engineer, Member Growth | WA - Seattle; CA ... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://sofi.com/careers/job/7583518003?gh_jid=7583518003) |
 | 🏢 **Robinhood** | Android Full Stack Engineer | Bellevue, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7490049?t=gh_src=&gh_jid=7490049) |
@@ -86,7 +86,7 @@
 | 🏢 **Verkada** | Mobile Engineer - Alarms | San Mateo, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4856201007) |
 | 🏢 **DoorDash** | Software Engineer, Android (All Teams) | Sunnyvale, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/5630438) |
 | 🏢 **DoorDash** | Software Engineer, iOS (All Teams) | Sunnyvale, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/5630454) |
-| 🏢 **Adobe** | iOS Engineer, Adobe Scan | San Jose | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/iOS-Engineer--Adobe-Scan_R164093-1) |
+| 🏢 **Adobe** | iOS Engineer, Adobe Scan | San Jose | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/iOS-Engineer--Adobe-Scan_R164093-1) |
 | 🏢 **Adobe** | Software Development Engineer 4 - Android | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-4---Android_R165249) |
 | 🏢 **Fiserv** | Android Developer - Core Payments | Sunnyvale | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-developer---Core-Payments_R-10366443) |
 | 🏢 **ResMed** | Associate - iOS Developer | San Diego, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/GL3-iOS-Associate-Developer-Position_JR_047663-1) |
@@ -204,13 +204,13 @@
 | 🏢 **Benchling** | Software Engineer, Full Stack (Registry and Inventory) | Boston, MA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/benchling/4cbde500-7925-4094-827f-8912eb23e86d/application) |
 | 🏢 **Benchling** | Software Engineer, Full Stack (Admin & Identity Platform) | San Francisco, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/benchling/982241d9-e79f-4d68-9b3d-ac4bd5940456/application) |
 | 🏢 **Allium** | Full Stack / Product Engineer | New York | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/allium/1831be9b-630b-45ba-acad-1564bfc21e38/application) |
-| 🏢 **xAI** | Fullstack Engineer - Companions | Palo Alto, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4789505007) |
+| 🏢 **xAI** | Fullstack Engineer - Companions | Palo Alto, CA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4789505007) |
 | 🏢 **Anduril** | Software Engineer, Full Stack | Irvine | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4836302007?gh_jid=4836302007) |
 | 🏢 **Chime** | Full-Stack Engineer | San Francisco, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8457578002?gh_jid=8457578002) |
 | 🏢 **SoFi** | Full-Stack Software Engineer, Benefits and Rewards | CA - San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://sofi.com/careers/job/7581360003?gh_jid=7581360003) |
 | 🏢 **Loop** | 2026 New Grad   Software Engineer, Full-Stack | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/loop/jobs/5780582004) |
 | 🏢 **CVS Health** | Full Stack Software Development Engineer (Java) | 2 Locations | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Full-Stack-Software-Development-Engineer--Java-_R0826568) |
-| 🏢 **SpaceX** | Full Stack Software Engineer (Application Software) | Hawthorne, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8300183002?gh_jid=8300183002) |
+| 🏢 **SpaceX** | Full Stack Software Engineer (Application Software) | Hawthorne, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8300183002?gh_jid=8300183002) |
 | 🏢 **Arc Institute** | Full Stack Engineer | Palo Alto, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5821381004) |
 | 🏢 **Loop** | Software Engineer, Full-Stack | Chicago, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/loop/jobs/4830548004) |
 | 🏢 **DoorDash** | Applications Engineer, Full Stack - People | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7733002) |
@@ -584,7 +584,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3326 current opportunities from 382 companies**
+**🎯 3321 current opportunities from 382 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
