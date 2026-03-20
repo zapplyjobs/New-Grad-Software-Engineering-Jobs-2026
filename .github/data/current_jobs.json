@@ -96262,33 +96262,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-05T19:44:10-05:00"
-  },
-  {
-    "job_id": "greenhouse-samsungsemiconductor-7595528003",
-    "job_title": "Executive Assistant",
-    "employer_name": "Samsung Semiconductor",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7595528003",
-    "job_posted_at_datetime_utc": "2026-03-05T19:12:07-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f1c6ef35a70ad6955d0da21443e944f06451cf3388a1b72b61a31d14079264af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-05T19:12:07-05:00"
   }
 ]
