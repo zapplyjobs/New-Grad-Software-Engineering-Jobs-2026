@@ -95278,38 +95278,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T22:02:57.030Z"
-  },
-  {
-    "job_id": "lever-zoox-fde0c929-ebe8-4bff-a515-9517bf5d1522",
-    "job_title": "Systems Engineer, Autonomy Verification and Validation",
-    "employer_name": "Zoox",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/zoox/fde0c929-ebe8-4bff-a515-9517bf5d1522/apply",
-    "job_posted_at_datetime_utc": "2026-03-06T21:49:28.122Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 152000,
-      "max": 239000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "fingerprint": "d5f68a7a74f43c0777e35f732400387ccd17d33687bdc02cbdecebe6cb0686c6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-06T21:49:28.122Z"
   }
 ]
