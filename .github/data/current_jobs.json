@@ -95389,33 +95389,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-06T10:35:27-05:00"
-  },
-  {
-    "job_id": "greenhouse-anthropic-5074695008",
-    "job_title": "Forward Deployed Engineer, Custom Agents",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5074695008",
-    "job_posted_at_datetime_utc": "2026-03-06T09:54:14-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1afda429eb43fb9cd5d394130cf1994a01a7889548051724c1c7e0600a46f4cf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-06T09:54:14-05:00"
   }
 ]
