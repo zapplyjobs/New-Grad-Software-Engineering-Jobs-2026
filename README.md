@@ -75,7 +75,7 @@
 | 🏢 **LinkedIn** | iOS Software Engineer | Mountain View, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000115929862) |
 | 🏢 **xAI** | Mobile Android Engineer | New York, NY | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4892323007) |
 | 🏢 **xAI** | Mobile iOS Engineer | Palo Alto, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4985386007) |
-| 🏢 **Twilio** | Android Engineer - P3 - Security + Identity | Remote | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7229383) |
+| 🏢 **Twilio** | Android Engineer - P3 - Security + Identity | Remote | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7229383) |
 | 🏢 **SoFi** | Mobile Engineer, Member Growth | WA - Seattle; CA ... | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://sofi.com/careers/job/7583518003?gh_jid=7583518003) |
 | 🏢 **Robinhood** | Android Full Stack Engineer | Bellevue, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7490049?t=gh_src=&gh_jid=7490049) |
 | 🏢 **Unity** | Android Mobile QA Engineer | Bellevue, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://unity.com/careers/positions/7553940?gh_jid=7553940) |
@@ -208,9 +208,9 @@
 | 🏢 **Chime** | Full-Stack Engineer | San Francisco, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8457578002?gh_jid=8457578002) |
 | 🏢 **SoFi** | Full-Stack Software Engineer, Benefits and Rewards | CA - San Francisco | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://sofi.com/careers/job/7581360003?gh_jid=7581360003) |
 | 🏢 **Loop** | 2026 New Grad   Software Engineer, Full-Stack | San Francisco | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/loop/jobs/5780582004) |
-| 🏢 **CVS Health** | Full Stack Software Development Engineer (Java) | 2 Locations | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Full-Stack-Software-Development-Engineer--Java-_R0826568) |
+| 🏢 **CVS Health** | Full Stack Software Development Engineer (Java) | 2 Locations | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Full-Stack-Software-Development-Engineer--Java-_R0826568) |
 | 🏢 **SpaceX** | Full Stack Software Engineer (Application Software) | Hawthorne, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8300183002?gh_jid=8300183002) |
-| 🏢 **Arc Institute** | Full Stack Engineer | Palo Alto, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5821381004) |
+| 🏢 **Arc Institute** | Full Stack Engineer | Palo Alto, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5821381004) |
 | 🏢 **Loop** | Software Engineer, Full-Stack | Chicago, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/loop/jobs/4830548004) |
 | 🏢 **DoorDash** | Applications Engineer, Full Stack - People | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7733002) |
 | 🏢 **SpaceX** | Full Stack Software Engineer (Starshield) | Hawthorne, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8365490002?gh_jid=8365490002) |
@@ -302,7 +302,7 @@
 | 🏢 **OpenAI** | Product Quality Engineer | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/b45827df-e1f6-4c91-a78e-80c3669ec6e4/application) |
 | 🏢 **CACI** | Software Quality Assurance Engineer | US VA Chantilly | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Software-Quality-Assurance-Engineer_323348) |
 | 🏢 **Adobe** | Software Development Engineer in Test, Mobile | San Jose | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Quality-Engineer---Mobile_R165844-1) |
-| 🏢 **SpaceX** | Electromagnetic Effects Test Engineer | Bastrop, TX | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8215027002?gh_jid=8215027002) |
+| 🏢 **SpaceX** | Electromagnetic Effects Test Engineer | Bastrop, TX | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8215027002?gh_jid=8215027002) |
 | 🏢 **Ascensus** | Associate Software Development Engineer (SDET) | Philadelphia | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.ascensus.com/jobs/associate-software-development-engineer-sdet-lake-mary-florida-united-states-2e6be8f1-e9d6-409e-9cb9-c2531db65cf2) |
 | 🏢 **Trimble** | Software Development Engineer in Test | 3 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TN-Knoxville/Software-Development-Engineer-in-Test_R54502) |
 | 🏢 **Trimble** | Software Development Engineer in Test | CO, Westminster | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Development-Engineer-in-Test_R54950) |
