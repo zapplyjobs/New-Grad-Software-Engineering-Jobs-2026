@@ -61970,33 +61970,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-24T20:47:44.301Z"
-  },
-  {
-    "job_id": "lever-spotify-d13a5342-4d97-4557-a63e-961a7fe45ee0",
-    "job_title": "Frontend Engineer, Ads Product & Tech",
-    "employer_name": "Spotify",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/spotify/d13a5342-4d97-4557-a63e-961a7fe45ee0/apply",
-    "job_posted_at_datetime_utc": "2026-03-24T20:17:54.348Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "63f864b160074994f8af4d5d374276c1246d00f0ed7ae5a4ab7265b2f32a5aa2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-24T20:17:54.348Z"
   }
 ]
