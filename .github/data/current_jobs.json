@@ -4898,6 +4898,34 @@
     "job_posted_at": "2026-04-01T17:04:13.563Z"
   },
   {
+    "job_id": "workday-leidos-R-00179773",
+    "job_title": "Firewall Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Firewall-Engineer_R-00179773",
+    "job_posted_at_datetime_utc": "2026-04-01T16:53:25.792Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "39b81fb47a96c5176a79336dc52aacf1a74a24da712c058880b9b1a984a0db73",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T16:53:25.792Z"
+  },
+  {
     "job_id": "workday-guidehouse-36981",
     "job_title": "Microsoft Power Apps Developer",
     "employer_name": "Guidehouse",
@@ -18590,34 +18618,6 @@
     "job_posted_at": "2026-03-30T07:09:42.633Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10226700",
-    "job_title": "Engineer Software - Software Integration & Test (Oklahoma City & San Diego)",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Oklahoma-Oklahoma City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Engineer-Software---Software-Integration---Test--Oklahoma-City---San-Diego-_R10226700",
-    "job_posted_at_datetime_utc": "2026-03-30T07:09:42.632Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "238c682e4a48cebdf700b74fd2d9fe9428fc4ec43c7efe333c449a93b60238f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:09:42.632Z"
-  },
-  {
     "job_id": "workday-northrop-grumman-R10221297",
     "job_title": "Software Engineer Level 2",
     "employer_name": "Northrop Grumman",
@@ -18947,6 +18947,34 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:09:42.632Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10226700",
+    "job_title": "Engineer Software - Software Integration & Test (Oklahoma City & San Diego)",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Oklahoma-Oklahoma City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Engineer-Software---Software-Integration---Test--Oklahoma-City---San-Diego-_R10226700",
+    "job_posted_at_datetime_utc": "2026-03-30T07:09:42.632Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "238c682e4a48cebdf700b74fd2d9fe9428fc4ec43c7efe333c449a93b60238f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -19517,34 +19545,6 @@
     "job_posted_at": "2026-03-30T07:09:02.854Z"
   },
   {
-    "job_id": "workday-hpe-1201094",
-    "job_title": "Systems Engineer",
-    "employer_name": "HPE",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Buena-Park-California-United-States-of-America/Systems-Engineer_1201094-3",
-    "job_posted_at_datetime_utc": "2026-03-30T07:08:46.467Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22617f9bbd25c4057fbc1706fdccd6b191f67fd6261d6d6d0dbb8cfdf09d46d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:08:46.467Z"
-  },
-  {
     "job_id": "workday-hpe-1193121",
     "job_title": "Software Engineer, Networking & C/C++",
     "employer_name": "HPE",
@@ -19601,18 +19601,18 @@
     "job_posted_at": "2026-03-30T07:08:46.467Z"
   },
   {
-    "job_id": "workday-hpe-(university)-1201094",
+    "job_id": "workday-hpe-1201094",
     "job_title": "Systems Engineer",
-    "employer_name": "HPE (University)",
+    "employer_name": "HPE",
     "job_city": "2 Locations",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Buena-Park-California-United-States-of-America/Systems-Engineer_1201094-2",
-    "job_posted_at_datetime_utc": "2026-03-30T07:08:45.429Z",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Buena-Park-California-United-States-of-America/Systems-Engineer_1201094-3",
+    "job_posted_at_datetime_utc": "2026-03-30T07:08:46.467Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4fce4cf5912662af92dca58f30889360f38c8d165d297a30d0f340fa4818598d",
+    "fingerprint": "22617f9bbd25c4057fbc1706fdccd6b191f67fd6261d6d6d0dbb8cfdf09d46d7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -19626,7 +19626,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:08:45.429Z"
+    "job_posted_at": "2026-03-30T07:08:46.467Z"
   },
   {
     "job_id": "workday-hpe-(university)-1193121",
@@ -19678,6 +19678,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:08:45.429Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1201094",
+    "job_title": "Systems Engineer",
+    "employer_name": "HPE (University)",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Buena-Park-California-United-States-of-America/Systems-Engineer_1201094-2",
+    "job_posted_at_datetime_utc": "2026-03-30T07:08:45.429Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4fce4cf5912662af92dca58f30889360f38c8d165d297a30d0f340fa4818598d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -20054,35 +20082,6 @@
     "job_posted_at": "2026-03-30T07:08:00.084Z"
   },
   {
-    "job_id": "workday-caterpillar-R0000335360",
-    "job_title": "Autonomy Software Development Engineer",
-    "employer_name": "Caterpillar",
-    "job_city": "Mossville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Autonomy-Software-Development-Engineer_R0000335360",
-    "job_posted_at_datetime_utc": "2026-03-30T07:07:49.407Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b18e459e5c9aa059961d44744d3019d2a9074e1cbb2cac0cc15af4dd80ffc8dc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:07:49.407Z"
-  },
-  {
     "job_id": "workday-caterpillar-R0000358179",
     "job_title": "Cybersecurity Compliance Specialist",
     "employer_name": "Caterpillar",
@@ -20198,6 +20197,35 @@
     "job_posted_at": "2026-03-30T07:07:49.407Z"
   },
   {
+    "job_id": "workday-caterpillar-R0000335360",
+    "job_title": "Autonomy Software Development Engineer",
+    "employer_name": "Caterpillar",
+    "job_city": "Mossville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Autonomy-Software-Development-Engineer_R0000335360",
+    "job_posted_at_datetime_utc": "2026-03-30T07:07:49.407Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b18e459e5c9aa059961d44744d3019d2a9074e1cbb2cac0cc15af4dd80ffc8dc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:07:49.407Z"
+  },
+  {
     "job_id": "workday-disney-10146067",
     "job_title": "Content Systems Engineer",
     "employer_name": "Disney",
@@ -20252,6 +20280,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-30T07:07:41.248Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026501618",
+    "job_title": "Systems Engineer (Associate or Experienced)",
+    "employer_name": "Boeing",
+    "job_city": "Seal Beach",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Systems-Engineer--Associate-or-Experience-_JR2026501618-1",
+    "job_posted_at_datetime_utc": "2026-03-30T07:07:30.038Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7c07cc003784a87e7ad99851d378fec743b02098f82bec010e5bf90ad13ef93e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:07:30.038Z"
   },
   {
     "job_id": "workday-boeing-JR2026498654",
@@ -20359,34 +20415,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:07:30.038Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026501618",
-    "job_title": "Systems Engineer (Associate or Experienced)",
-    "employer_name": "Boeing",
-    "job_city": "Seal Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Systems-Engineer--Associate-or-Experience-_JR2026501618-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:07:30.038Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7c07cc003784a87e7ad99851d378fec743b02098f82bec010e5bf90ad13ef93e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -20506,6 +20534,149 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-30T07:07:21.983Z"
+  },
+  {
+    "job_id": "workday-caci-323991",
+    "job_title": "Junior Network Engineer",
+    "employer_name": "CACI",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-High-Point/Junior-Network-Engineer_323991",
+    "job_posted_at_datetime_utc": "2026-03-30T07:07:19.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3943ebbb2c95996e0be3283034b9a519504da3367a4758084bc289192943ad61",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:07:19.746Z"
+  },
+  {
+    "job_id": "workday-caci-323936",
+    "job_title": "Configuration Management Analyst",
+    "employer_name": "CACI",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Configuration-Management-Analyst_323936",
+    "job_posted_at_datetime_utc": "2026-03-30T07:07:19.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "84f26d7886e3fdc0f3b486fc5b496b440b83d83bcdcf6655acce1cbbbf58483f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:07:19.746Z"
+  },
+  {
+    "job_id": "workday-caci-324001",
+    "job_title": "System Administrator",
+    "employer_name": "CACI",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/System-Administrator_324001",
+    "job_posted_at_datetime_utc": "2026-03-30T07:07:19.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a65dd32f754d520be0abf2e2d4a87086ede77f1969198cdcb0ef928bca6b0ab4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:07:19.746Z"
+  },
+  {
+    "job_id": "workday-caci-323993",
+    "job_title": "Wireless Network Engineer",
+    "employer_name": "CACI",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-High-Point/Wireless-Network-Engineer_323993",
+    "job_posted_at_datetime_utc": "2026-03-30T07:07:19.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0032a85dddedb59fc375e845f9ad4ae3b010e1be09ca010d3d9e8e2fcd8002d9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:07:19.746Z"
+  },
+  {
+    "job_id": "workday-caci-323996",
+    "job_title": "Network Engineer",
+    "employer_name": "CACI",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-High-Point/Network-Engineer_323996",
+    "job_posted_at_datetime_utc": "2026-03-30T07:07:19.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b421f4086ecad71ef08c412f5b699e4d1053325305164f50da5f051e1859fa28",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T07:07:19.746Z"
   },
   {
     "job_id": "workday-caci-324027",
@@ -20897,149 +21068,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:07:19.746Z"
-  },
-  {
-    "job_id": "workday-caci-324001",
-    "job_title": "System Administrator",
-    "employer_name": "CACI",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/System-Administrator_324001",
-    "job_posted_at_datetime_utc": "2026-03-30T07:07:19.746Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a65dd32f754d520be0abf2e2d4a87086ede77f1969198cdcb0ef928bca6b0ab4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:07:19.746Z"
-  },
-  {
-    "job_id": "workday-caci-323993",
-    "job_title": "Wireless Network Engineer",
-    "employer_name": "CACI",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-High-Point/Wireless-Network-Engineer_323993",
-    "job_posted_at_datetime_utc": "2026-03-30T07:07:19.746Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0032a85dddedb59fc375e845f9ad4ae3b010e1be09ca010d3d9e8e2fcd8002d9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:07:19.746Z"
-  },
-  {
-    "job_id": "workday-caci-323996",
-    "job_title": "Network Engineer",
-    "employer_name": "CACI",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-High-Point/Network-Engineer_323996",
-    "job_posted_at_datetime_utc": "2026-03-30T07:07:19.746Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b421f4086ecad71ef08c412f5b699e4d1053325305164f50da5f051e1859fa28",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:07:19.746Z"
-  },
-  {
-    "job_id": "workday-caci-323991",
-    "job_title": "Junior Network Engineer",
-    "employer_name": "CACI",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-High-Point/Junior-Network-Engineer_323991",
-    "job_posted_at_datetime_utc": "2026-03-30T07:07:19.746Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3943ebbb2c95996e0be3283034b9a519504da3367a4758084bc289192943ad61",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:07:19.746Z"
-  },
-  {
-    "job_id": "workday-caci-323936",
-    "job_title": "Configuration Management Analyst",
-    "employer_name": "CACI",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Configuration-Management-Analyst_323936",
-    "job_posted_at_datetime_utc": "2026-03-30T07:07:19.746Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "84f26d7886e3fdc0f3b486fc5b496b440b83d83bcdcf6655acce1cbbbf58483f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "operations"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -21715,7 +21743,7 @@
     "job_id": "js-the-mitre-corporation-1wez-egzlx_0s-_jaaaaaa==",
     "job_title": "Internships in Computer Science or Software Engineering",
     "employer_name": "The MITRE Corporation",
-    "job_city": "Unknown",
+    "job_city": "McLean",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -21723,7 +21751,7 @@
     "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "28d18c224272b0012f49c9f8abd0e21780232f6888fe1e08a1d07a2622f0a710",
+    "fingerprint": "72d63b2ec97b1b16e84fe1a5ba14accce95c2f3875ccfb36dc8377ab2f4d7b89",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -21734,36 +21762,6 @@
         "on_site"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-30T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-northrop-grumman-zckpqpjb2jjuz3ijaaaaaa==",
-    "job_title": "Embedded Software Engineer - Level 1 and 2",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Warner Robins",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.northropgrumman.com/careers/job/1340070949437-embedded-software-engineer-level-1-and-2-united-states-georgia-warner-robins?domain=ngc.com",
-    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "4420c627fc83856df6d9885aceae15d620cbc1cd4bc755fe5d2d6fc79ab7e250",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -21832,6 +21830,36 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-northrop-grumman-zckpqpjb2jjuz3ijaaaaaa==",
+    "job_title": "Embedded Software Engineer - Level 1 and 2",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Warner Robins",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.northropgrumman.com/careers/job/1340070949437-embedded-software-engineer-level-1-and-2-united-states-georgia-warner-robins?domain=ngc.com",
+    "job_posted_at_datetime_utc": "2026-03-30T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "4420c627fc83856df6d9885aceae15d620cbc1cd4bc755fe5d2d6fc79ab7e250",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-30T00:00:00.000Z"
   },
   {
@@ -22416,64 +22444,6 @@
     "job_posted_at": "2026-03-29T18:25:58.122Z"
   },
   {
-    "job_id": "ashby-cursor-47994d20-cc6a-436b-8da0-2eceabfd413e",
-    "job_title": "Software Engineer, Billing",
-    "employer_name": "Cursor",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/cursor/47994d20-cc6a-436b-8da0-2eceabfd413e/application",
-    "job_posted_at_datetime_utc": "2026-03-29T18:25:57.789Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "62285b695ff27bc70d4a406b9ecf4aad4bbcf47dba8640e764a1de58083fb49f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-29T18:25:57.789Z"
-  },
-  {
-    "job_id": "ashby-cursor-34cecd0c-c392-4454-8ef5-261310541011",
-    "job_title": "Forward Deployed Engineer",
-    "employer_name": "Cursor",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011/application",
-    "job_posted_at_datetime_utc": "2026-03-29T18:25:57.789Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "212df7a3f1e5aa0c0c56a9bd7e7a3d35fe4b8e87032c8823c68d70bc7e1df26d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-29T18:25:57.789Z"
-  },
-  {
     "job_id": "ashby-cursor-0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74",
     "job_title": "Software Engineer, Growth",
     "employer_name": "Cursor",
@@ -22904,6 +22874,64 @@
         "on_site"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-29T18:25:57.789Z"
+  },
+  {
+    "job_id": "ashby-cursor-47994d20-cc6a-436b-8da0-2eceabfd413e",
+    "job_title": "Software Engineer, Billing",
+    "employer_name": "Cursor",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/cursor/47994d20-cc6a-436b-8da0-2eceabfd413e/application",
+    "job_posted_at_datetime_utc": "2026-03-29T18:25:57.789Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "62285b695ff27bc70d4a406b9ecf4aad4bbcf47dba8640e764a1de58083fb49f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-29T18:25:57.789Z"
+  },
+  {
+    "job_id": "ashby-cursor-34cecd0c-c392-4454-8ef5-261310541011",
+    "job_title": "Forward Deployed Engineer",
+    "employer_name": "Cursor",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011/application",
+    "job_posted_at_datetime_utc": "2026-03-29T18:25:57.789Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "212df7a3f1e5aa0c0c56a9bd7e7a3d35fe4b8e87032c8823c68d70bc7e1df26d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -23657,6 +23685,34 @@
     "job_posted_at": "2026-03-28T12:09:33.401Z"
   },
   {
+    "job_id": "workday-sel-2025-19005",
+    "job_title": "ASP.NET/C# Software Engineer",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/ASPNET-C--Software-Engineer_2025-19005",
+    "job_posted_at_datetime_utc": "2026-03-28T12:08:32.552Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c21774495fb3641128bb34a375e7e2a920a40c239d1c76c33856456864ff6567",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:08:32.552Z"
+  },
+  {
     "job_id": "workday-sel-2025-18708",
     "job_title": "Project Engineer - Commissioning",
     "employer_name": "SEL",
@@ -23769,34 +23825,6 @@
     "job_posted_at": "2026-03-28T12:08:32.552Z"
   },
   {
-    "job_id": "workday-sel-2025-19005",
-    "job_title": "ASP.NET/C# Software Engineer",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/ASPNET-C--Software-Engineer_2025-19005",
-    "job_posted_at_datetime_utc": "2026-03-28T12:08:32.552Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c21774495fb3641128bb34a375e7e2a920a40c239d1c76c33856456864ff6567",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:08:32.552Z"
-  },
-  {
     "job_id": "workday-sel-2026-19310",
     "job_title": "Power Systems Automation Engineer",
     "employer_name": "SEL",
@@ -23824,34 +23852,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-28T12:08:32.552Z"
-  },
-  {
-    "job_id": "workday-sel-2025-18280",
-    "job_title": "Project Engineer I - Automation",
-    "employer_name": "SEL",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Project-Engineer-I---Automation_2025-18280-1",
-    "job_posted_at_datetime_utc": "2026-03-28T12:08:32.551Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0198ea0c512d656192ec882cfa8b33e441901c100855d09918371b6ac560d44a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:08:32.551Z"
   },
   {
     "job_id": "workday-sel-2026-20041",
@@ -24081,6 +24081,34 @@
     "job_posted_at": "2026-03-28T12:08:32.551Z"
   },
   {
+    "job_id": "workday-sel-2025-18280",
+    "job_title": "Project Engineer I - Automation",
+    "employer_name": "SEL",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Project-Engineer-I---Automation_2025-18280-1",
+    "job_posted_at_datetime_utc": "2026-03-28T12:08:32.551Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0198ea0c512d656192ec882cfa8b33e441901c100855d09918371b6ac560d44a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:08:32.551Z"
+  },
+  {
     "job_id": "workday-fidelity-investments-2126103",
     "job_title": "Mobile Engineer (iOS)",
     "employer_name": "Fidelity Investments",
@@ -24107,6 +24135,35 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-28T12:06:45.072Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2545",
+    "job_title": "Robotics Software Engineer- Stretch",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Software-Engineer--Stretch_R2545",
+    "job_posted_at_datetime_utc": "2026-03-28T12:05:35.154Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f7500ff90d854099d683191516270c054e9f43536fbfe8636c209fb20f59e31",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:05:35.154Z"
   },
   {
     "job_id": "workday-boston-dynamics-R2499",
@@ -24238,35 +24295,6 @@
       "employment": "entry_level",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:05:35.154Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2545",
-    "job_title": "Robotics Software Engineer- Stretch",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Software-Engineer--Stretch_R2545",
-    "job_posted_at_datetime_utc": "2026-03-28T12:05:35.154Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f7500ff90d854099d683191516270c054e9f43536fbfe8636c209fb20f59e31",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
       ],
       "locations": [
         "us"
@@ -24565,6 +24593,40 @@
     "job_posted_at": "2026-03-28T11:46:51.108Z"
   },
   {
+    "job_id": "lever-thinkahead-3e263adc-0bca-4752-80a5-891059415a8a",
+    "job_title": "Technical Fellow",
+    "employer_name": "AHEAD",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/thinkahead/3e263adc-0bca-4752-80a5-891059415a8a/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:50.477Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 300000,
+      "max": 400000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "2c6d93826761038ef919f4877bab4ab3ba3bcdf8d50f2f2596801dae4fc596a6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:50.477Z"
+  },
+  {
     "job_id": "lever-thinkahead-9dfdaacf-9b8d-4bdb-a3b8-0476fe274956",
     "job_title": "Specialty Solutions Engineer - Modern Workspace",
     "employer_name": "AHEAD",
@@ -24623,40 +24685,6 @@
       ],
       "locations": [
         "hybrid",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:50.477Z"
-  },
-  {
-    "job_id": "lever-thinkahead-3e263adc-0bca-4752-80a5-891059415a8a",
-    "job_title": "Technical Fellow",
-    "employer_name": "AHEAD",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/thinkahead/3e263adc-0bca-4752-80a5-891059415a8a/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:50.477Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 300000,
-      "max": 400000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "fingerprint": "2c6d93826761038ef919f4877bab4ab3ba3bcdf8d50f2f2596801dae4fc596a6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "remote",
         "us"
       ],
       "experience": "unknown",
@@ -24820,6 +24848,43 @@
     "job_posted_at": "2026-03-28T11:46:45.765Z"
   },
   {
+    "job_id": "lever-plaid-1e10caf7-85ed-4610-842f-78cea7d40de7",
+    "job_title": "Technical Support Engineer",
+    "employer_name": "Plaid",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/plaid/1e10caf7-85ed-4610-842f-78cea7d40de7/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:45.319Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 73872,
+      "max": 110000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "8080cc007eac7434b67cd026bc0333e95903f3efd67466ec69036317d6e82949",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product",
+        "software"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:45.319Z"
+  },
+  {
     "job_id": "lever-plaid-49139a62-a9bc-4400-ae89-789818b34cb8",
     "job_title": "Software Engineer",
     "employer_name": "Plaid",
@@ -24964,43 +25029,6 @@
     "job_posted_at": "2026-03-28T11:46:45.319Z"
   },
   {
-    "job_id": "lever-plaid-1e10caf7-85ed-4610-842f-78cea7d40de7",
-    "job_title": "Technical Support Engineer",
-    "employer_name": "Plaid",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/plaid/1e10caf7-85ed-4610-842f-78cea7d40de7/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:45.319Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 73872,
-      "max": 110000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "fingerprint": "8080cc007eac7434b67cd026bc0333e95903f3efd67466ec69036317d6e82949",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product",
-        "software"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:45.319Z"
-  },
-  {
     "job_id": "lever-plaid-ef875538-4ae7-4dbe-9f22-988ea080763d",
     "job_title": "Implementation Specialist – Credit",
     "employer_name": "Plaid",
@@ -25069,6 +25097,41 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-03-28T11:46:45.319Z"
+  },
+  {
+    "job_id": "lever-zoox-ec1de483-ebd5-4b87-96b7-d749f077aefb",
+    "job_title": "System Test Engineer",
+    "employer_name": "Zoox",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/zoox/ec1de483-ebd5-4b87-96b7-d749f077aefb/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:37.976Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 150000,
+      "max": 186000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "bfa2c96fdbf1afd02e4d568ba19d1ad51f5268f5b045acb8d7900c9f7517d8b6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:37.976Z"
   },
   {
     "job_id": "lever-zoox-8914da26-af12-40ce-8819-bfc9fbf98cf2",
@@ -25337,41 +25400,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:37.976Z"
-  },
-  {
-    "job_id": "lever-zoox-ec1de483-ebd5-4b87-96b7-d749f077aefb",
-    "job_title": "System Test Engineer",
-    "employer_name": "Zoox",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/zoox/ec1de483-ebd5-4b87-96b7-d749f077aefb/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:37.976Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 150000,
-      "max": 186000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "fingerprint": "bfa2c96fdbf1afd02e4d568ba19d1ad51f5268f5b045acb8d7900c9f7517d8b6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -26166,65 +26194,6 @@
     "job_posted_at": "2026-03-28T11:46:35.158Z"
   },
   {
-    "job_id": "ashby-whatnot-4584b4ff-4880-4f3c-af8e-60bccdf4a56f",
-    "job_title": "Frontend Engineer, Inventory Experience",
-    "employer_name": "Whatnot",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/4584b4ff-4880-4f3c-af8e-60bccdf4a56f/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.064Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "374d939288c878ac49834574658d4e51038a971112fcf7fab648692e1c1305aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:35.064Z"
-  },
-  {
-    "job_id": "ashby-whatnot-fdb6f8e1-125a-4406-9fa4-43b46f3f5ace",
-    "job_title": "LLM Platform Engineer",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/fdb6f8e1-125a-4406-9fa4-43b46f3f5ace/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.064Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "b9d2e0cb9b349c3dab894c01a8e7bd60f97bfd631ba6d415dfc18ec18479024f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:35.064Z"
-  },
-  {
     "job_id": "ashby-whatnot-45870b24-2d6d-4a0a-a3ba-96f2b0c21ad3",
     "job_title": "iOS Engineer",
     "employer_name": "Whatnot",
@@ -26310,6 +26279,125 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-03-28T11:46:35.064Z"
+  },
+  {
+    "job_id": "ashby-whatnot-4584b4ff-4880-4f3c-af8e-60bccdf4a56f",
+    "job_title": "Frontend Engineer, Inventory Experience",
+    "employer_name": "Whatnot",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/4584b4ff-4880-4f3c-af8e-60bccdf4a56f/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.064Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "374d939288c878ac49834574658d4e51038a971112fcf7fab648692e1c1305aa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:35.064Z"
+  },
+  {
+    "job_id": "ashby-whatnot-fdb6f8e1-125a-4406-9fa4-43b46f3f5ace",
+    "job_title": "LLM Platform Engineer",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/fdb6f8e1-125a-4406-9fa4-43b46f3f5ace/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.064Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "b9d2e0cb9b349c3dab894c01a8e7bd60f97bfd631ba6d415dfc18ec18479024f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:35.064Z"
+  },
+  {
+    "job_id": "ashby-whatnot-cb4e987c-b3ea-4117-b91c-75c61b83a7dc",
+    "job_title": "Feature Platform Engineer",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/cb4e987c-b3ea-4117-b91c-75c61b83a7dc/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "6a6838da5dda5c20e41df872e83a5c2ad05bceca0d6b28f2b75bdfd59181b716",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:35.063Z"
+  },
+  {
+    "job_id": "ashby-whatnot-cee7e839-d88d-4782-8e55-82de2e9ad87e",
+    "job_title": "Machine Learning Platform Engineer",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/cee7e839-d88d-4782-8e55-82de2e9ad87e/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "7448aca79a6ccc115e6f514f1fd8981665eab5e5e351f3ed116e7b28a7fb6f0d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:35.063Z"
   },
   {
     "job_id": "ashby-whatnot-0351f46d-2a33-4ca0-8ace-5c8eba175ef1",
@@ -26695,66 +26783,6 @@
     "job_posted_at": "2026-03-28T11:46:35.063Z"
   },
   {
-    "job_id": "ashby-whatnot-cb4e987c-b3ea-4117-b91c-75c61b83a7dc",
-    "job_title": "Feature Platform Engineer",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/cb4e987c-b3ea-4117-b91c-75c61b83a7dc/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "6a6838da5dda5c20e41df872e83a5c2ad05bceca0d6b28f2b75bdfd59181b716",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:35.063Z"
-  },
-  {
-    "job_id": "ashby-whatnot-cee7e839-d88d-4782-8e55-82de2e9ad87e",
-    "job_title": "Machine Learning Platform Engineer",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/cee7e839-d88d-4782-8e55-82de2e9ad87e/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "7448aca79a6ccc115e6f514f1fd8981665eab5e5e351f3ed116e7b28a7fb6f0d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:35.063Z"
-  },
-  {
     "job_id": "ashby-whatnot-740736e9-5d21-400a-b38f-d76a0f22ec8a",
     "job_title": "QA Engineer, App Platform",
     "employer_name": "Whatnot",
@@ -26782,66 +26810,6 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-03-28T11:46:35.063Z"
-  },
-  {
-    "job_id": "lever-waabi-7bdcf254-e34b-42c5-b07f-a8bd3abac54b",
-    "job_title": "Systems Engineer - Behavior Requirements and Verification",
-    "employer_name": "Waabi",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/waabi/7bdcf254-e34b-42c5-b07f-a8bd3abac54b/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:34.013Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d97d028453e4e62cad67e936ca571ace4bcdb8a5dd05937b4718e8f95c926a4f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "software"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:34.013Z"
-  },
-  {
-    "job_id": "lever-waabi-bfe20894-5899-41b5-8cf7-c9f1469d18b7",
-    "job_title": "Systems Engineer, Platform Requirements and Verification",
-    "employer_name": "Waabi",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/waabi/bfe20894-5899-41b5-8cf7-c9f1469d18b7/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:34.013Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5e28ea514c59494a14223cbe2d09235f3bec223047e02c1b46a29deb485979f3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "software"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:34.013Z"
   },
   {
     "job_id": "lever-waabi-5fcde68c-577a-4fed-b532-793fec8de175",
@@ -26989,6 +26957,94 @@
     "job_posted_at": "2026-03-28T11:46:34.013Z"
   },
   {
+    "job_id": "lever-waabi-7bdcf254-e34b-42c5-b07f-a8bd3abac54b",
+    "job_title": "Systems Engineer - Behavior Requirements and Verification",
+    "employer_name": "Waabi",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/waabi/7bdcf254-e34b-42c5-b07f-a8bd3abac54b/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:34.013Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d97d028453e4e62cad67e936ca571ace4bcdb8a5dd05937b4718e8f95c926a4f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:34.013Z"
+  },
+  {
+    "job_id": "lever-waabi-bfe20894-5899-41b5-8cf7-c9f1469d18b7",
+    "job_title": "Systems Engineer, Platform Requirements and Verification",
+    "employer_name": "Waabi",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/waabi/bfe20894-5899-41b5-8cf7-c9f1469d18b7/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:34.013Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5e28ea514c59494a14223cbe2d09235f3bec223047e02c1b46a29deb485979f3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:34.013Z"
+  },
+  {
+    "job_id": "lever-whoop-7b4065d5-0cbb-47da-9d1e-3e52d9f75917",
+    "job_title": "Security Engineer, IAM",
+    "employer_name": "WHOOP",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/whoop/7b4065d5-0cbb-47da-9d1e-3e52d9f75917/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:33.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a6895d6de77dd5cf92214c77d226a710b6b8f1e0983f53d440fc0609e929637a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:33.834Z"
+  },
+  {
     "job_id": "lever-whoop-3b94218d-3a5a-4dd1-91c7-5f18655c93a8",
     "job_title": "Software Engineer I (Backend)",
     "employer_name": "WHOOP",
@@ -27066,34 +27122,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:33.834Z"
-  },
-  {
-    "job_id": "lever-whoop-7b4065d5-0cbb-47da-9d1e-3e52d9f75917",
-    "job_title": "Security Engineer, IAM",
-    "employer_name": "WHOOP",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/whoop/7b4065d5-0cbb-47da-9d1e-3e52d9f75917/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:33.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a6895d6de77dd5cf92214c77d226a710b6b8f1e0983f53d440fc0609e929637a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -27533,6 +27561,37 @@
     "job_posted_at": "2026-03-28T11:46:31.622Z"
   },
   {
+    "job_id": "ashby-snowflake-5f4ae8d3-bf84-430d-8f9f-325f14ddf947",
+    "job_title": "Software Engineer - APG",
+    "employer_name": "Snowflake",
+    "job_city": "US-CA-Menlo Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/5f4ae8d3-bf84-430d-8f9f-325f14ddf947/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.621Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "5b196a5bb60325fd70032c66695a78dcbabbf8b2c19c9a653e30ce029b4fc9cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:31.621Z"
+  },
+  {
     "job_id": "ashby-snowflake-db1375f0-ea5d-404a-b640-259f94dbc995",
     "job_title": "Software Engineer - Database Engineering",
     "employer_name": "Snowflake",
@@ -27586,37 +27645,6 @@
         "remote"
       ],
       "experience": "unknown",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:31.621Z"
-  },
-  {
-    "job_id": "ashby-snowflake-5f4ae8d3-bf84-430d-8f9f-325f14ddf947",
-    "job_title": "Software Engineer - APG",
-    "employer_name": "Snowflake",
-    "job_city": "US-CA-Menlo Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/5f4ae8d3-bf84-430d-8f9f-325f14ddf947/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.621Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "5b196a5bb60325fd70032c66695a78dcbabbf8b2c19c9a653e30ce029b4fc9cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
       "special": [
         "unicorn"
       ]
@@ -28061,155 +28089,6 @@
     "job_posted_at": "2026-03-28T11:46:30.787Z"
   },
   {
-    "job_id": "ashby-replit-b7f12834-78d2-424d-bf83-0c942815fbf7",
-    "job_title": "Software Engineer, Enterprise",
-    "employer_name": "Replit",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:30.681Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "4be89df55629ae2a65ea7bb8fcaf1304276d96df97ef4c134090fd443dd09228",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote",
-        "hybrid"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:30.681Z"
-  },
-  {
-    "job_id": "ashby-replit-7fa1826e-d7fd-4837-8485-97de895ba7fc",
-    "job_title": "Software Engineer, Replit Cloud",
-    "employer_name": "Replit",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/replit/7fa1826e-d7fd-4837-8485-97de895ba7fc/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:30.681Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "250e2b55bb04ae18097b320aa6d432450efe42e5ace20f083ced77a29486e5cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "hybrid"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:30.681Z"
-  },
-  {
-    "job_id": "ashby-replit-37f81c18-c742-4f7d-bf81-34c3f5142973",
-    "job_title": "Software Engineer, Growth Infrastructure",
-    "employer_name": "Replit",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/replit/37f81c18-c742-4f7d-bf81-34c3f5142973/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:30.681Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "f0252d3856ab423422ba856ed6bb42da59cd1bb5522bd47725007faea0f10f7c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote",
-        "hybrid"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:30.681Z"
-  },
-  {
-    "job_id": "ashby-replit-7b4bc2fe-5860-4f56-8746-aabb852cf0e1",
-    "job_title": "Software Engineer, Enterprise Platform",
-    "employer_name": "Replit",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/replit/7b4bc2fe-5860-4f56-8746-aabb852cf0e1/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:30.681Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "139404f5f1c23a6d7942c5cd6a0b51036e56c210e693d2ff2ac3b9f1934b11e0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote",
-        "hybrid"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:30.681Z"
-  },
-  {
-    "job_id": "ashby-replit-951e0ebb-a957-45fa-8763-d56ba46750b4",
-    "job_title": "Support Engineer I (Weekend Shift)",
-    "employer_name": "Replit",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/replit/951e0ebb-a957-45fa-8763-d56ba46750b4/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:30.681Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "fa6fbc16e689de22d6149b66f1b0479d832224b27626befd045644b4afef4f18",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote",
-        "hybrid"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:30.681Z"
-  },
-  {
     "job_id": "ashby-replit-447a6e11-b06b-4cc5-9203-cd55883f2af4",
     "job_title": "Software Engineer, Growth",
     "employer_name": "Replit",
@@ -28372,6 +28251,155 @@
     "job_employment_type": "FullTime",
     "salary": null,
     "fingerprint": "3231fa91f62a23a34b06b82ac5a2f3b841e09fc9dd611c0f7a59d654c69f5961",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote",
+        "hybrid"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:30.681Z"
+  },
+  {
+    "job_id": "ashby-replit-b7f12834-78d2-424d-bf83-0c942815fbf7",
+    "job_title": "Software Engineer, Enterprise",
+    "employer_name": "Replit",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:30.681Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "4be89df55629ae2a65ea7bb8fcaf1304276d96df97ef4c134090fd443dd09228",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote",
+        "hybrid"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:30.681Z"
+  },
+  {
+    "job_id": "ashby-replit-7fa1826e-d7fd-4837-8485-97de895ba7fc",
+    "job_title": "Software Engineer, Replit Cloud",
+    "employer_name": "Replit",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/replit/7fa1826e-d7fd-4837-8485-97de895ba7fc/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:30.681Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "250e2b55bb04ae18097b320aa6d432450efe42e5ace20f083ced77a29486e5cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "hybrid"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:30.681Z"
+  },
+  {
+    "job_id": "ashby-replit-37f81c18-c742-4f7d-bf81-34c3f5142973",
+    "job_title": "Software Engineer, Growth Infrastructure",
+    "employer_name": "Replit",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/replit/37f81c18-c742-4f7d-bf81-34c3f5142973/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:30.681Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "f0252d3856ab423422ba856ed6bb42da59cd1bb5522bd47725007faea0f10f7c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote",
+        "hybrid"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:30.681Z"
+  },
+  {
+    "job_id": "ashby-replit-7b4bc2fe-5860-4f56-8746-aabb852cf0e1",
+    "job_title": "Software Engineer, Enterprise Platform",
+    "employer_name": "Replit",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/replit/7b4bc2fe-5860-4f56-8746-aabb852cf0e1/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:30.681Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "139404f5f1c23a6d7942c5cd6a0b51036e56c210e693d2ff2ac3b9f1934b11e0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote",
+        "hybrid"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:30.681Z"
+  },
+  {
+    "job_id": "ashby-replit-951e0ebb-a957-45fa-8763-d56ba46750b4",
+    "job_title": "Support Engineer I (Weekend Shift)",
+    "employer_name": "Replit",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/replit/951e0ebb-a957-45fa-8763-d56ba46750b4/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:30.681Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "fa6fbc16e689de22d6149b66f1b0479d832224b27626befd045644b4afef4f18",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -29807,36 +29835,6 @@
     "job_posted_at": "2026-03-28T11:46:27.797Z"
   },
   {
-    "job_id": "ashby-openai-50626871-6bbf-4d8f-a534-176f929f1f37",
-    "job_title": "Full Stack Software Engineer, ChatGPT Partnerships",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/50626871-6bbf-4d8f-a534-176f929f1f37/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.796Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "38e3e13cc7f70eed8105790139d571b0130f8751b6c979f72359797ccc1bbc3a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.796Z"
-  },
-  {
     "job_id": "ashby-openai-c9fd2911-586b-45b2-80ea-2078ce6dafff",
     "job_title": "iOS Engineer, Monetization",
     "employer_name": "OpenAI",
@@ -30163,18 +30161,18 @@
     "job_posted_at": "2026-03-28T11:46:27.796Z"
   },
   {
-    "job_id": "ashby-openai-17e31e56-418a-43bb-a72a-1b935dc71e29",
-    "job_title": "Backend Software Engineer, ChatGPT Engineering",
+    "job_id": "ashby-openai-50626871-6bbf-4d8f-a534-176f929f1f37",
+    "job_title": "Full Stack Software Engineer, ChatGPT Partnerships",
     "employer_name": "OpenAI",
     "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/17e31e56-418a-43bb-a72a-1b935dc71e29/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.795Z",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/50626871-6bbf-4d8f-a534-176f929f1f37/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.796Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "bc1b60fd6dac8ebada920f449f6f66d1ab79527ad95a8b8565e0f88ea2e014e4",
+    "fingerprint": "38e3e13cc7f70eed8105790139d571b0130f8751b6c979f72359797ccc1bbc3a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -30190,37 +30188,7 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.795Z"
-  },
-  {
-    "job_id": "ashby-openai-5bde9af5-df78-460e-ae9c-5c49ac778640",
-    "job_title": "Frontend Engineer, ChatGPT Engineering",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/5bde9af5-df78-460e-ae9c-5c49ac778640/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.795Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "d914d32528325afb5b3017974686c09de9a83b5f215f642801525d6d47f9026a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.795Z"
+    "job_posted_at": "2026-03-28T11:46:27.796Z"
   },
   {
     "job_id": "ashby-openai-ad2cf782-15a4-48c7-9133-1788e3f33bbb",
@@ -31165,21 +31133,22 @@
     "job_posted_at": "2026-03-28T11:46:27.795Z"
   },
   {
-    "job_id": "ashby-openai-f956b77c-3cc5-4fdd-9463-2a6e5047e57c",
-    "job_title": "Security Engineer, Detection and Response",
+    "job_id": "ashby-openai-17e31e56-418a-43bb-a72a-1b935dc71e29",
+    "job_title": "Backend Software Engineer, ChatGPT Engineering",
     "employer_name": "OpenAI",
     "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/f956b77c-3cc5-4fdd-9463-2a6e5047e57c/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/17e31e56-418a-43bb-a72a-1b935dc71e29/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.795Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "4902d49d738d91a6c8bf2b25b39c658ab8624eab0c200788e723bb01ad06a194",
+    "fingerprint": "bc1b60fd6dac8ebada920f449f6f66d1ab79527ad95a8b8565e0f88ea2e014e4",
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "ai",
         "software"
       ],
       "locations": [
@@ -31191,171 +31160,25 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
+    "job_posted_at": "2026-03-28T11:46:27.795Z"
   },
   {
-    "job_id": "ashby-openai-43174eb6-0ffe-4744-9323-c7969e7ea2e1",
-    "job_title": "Backend Software Engineer, GTM Innovation",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/43174eb6-0ffe-4744-9323-c7969e7ea2e1/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "daafcab29b33b4259cf0eaa7202333813aa954694b6376129b59e176ce1e9aea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-f386b209-1259-4b79-bf5a-aa97fc7ce77b",
-    "job_title": "Software Engineer, Accelerators",
+    "job_id": "ashby-openai-5bde9af5-df78-460e-ae9c-5c49ac778640",
+    "job_title": "Frontend Engineer, ChatGPT Engineering",
     "employer_name": "OpenAI",
     "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/f386b209-1259-4b79-bf5a-aa97fc7ce77b/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/5bde9af5-df78-460e-ae9c-5c49ac778640/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.795Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "d3b74f589873f30e87f5f360f39fc3736d78894f520f5fd958e82a63f75309ea",
+    "fingerprint": "d914d32528325afb5b3017974686c09de9a83b5f215f642801525d6d47f9026a",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-47048627-427e-4566-b349-847e52a5def1",
-    "job_title": "Enterprise Security Engineer",
-    "employer_name": "OpenAI",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/47048627-427e-4566-b349-847e52a5def1/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "d9019efed78b9eb982fe3be955e53055db48eb54d1a194d17894563da89d7d63",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-020b2aae-8be0-408c-ab49-20eefa8541af",
-    "job_title": "Research Engineer / Research Scientist - Foundations Retrieval IC",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "663b791b884004639d51beb55a17a3fc7a4f7a1e6092ee42f538ef2a6720b01f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
-    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-4d14449e-5e7f-45d4-b103-8776a6c87086",
-    "job_title": "Software Engineer, Inference - Multi Modal",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/4d14449e-5e7f-45d4-b103-8776a6c87086/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "d42698d3d44e463217e1cf7af36a879349e03a9ea712a483af1855940e8e73bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
+        "ai",
         "software"
       ],
       "locations": [
@@ -31367,65 +31190,7 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-4d6a5951-9838-434c-830a-22cb938ea228",
-    "job_title": "Software Engineer, Research - Human Data",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/4d6a5951-9838-434c-830a-22cb938ea228/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "b8bf846540ed4d15f075ed8231db40cf0b65cb54db2c2ea3720acafc7f565c74",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-f58cb1eb-9642-4a4d-a14d-d7a57d583a11",
-    "job_title": "Software Engineer, GPU Infrastructure - HPC",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/f58cb1eb-9642-4a4d-a14d-d7a57d583a11/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "4210611e398c9d7543f173f1f9573128145525386da20e17e210989a38f6de22",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
+    "job_posted_at": "2026-03-28T11:46:27.795Z"
   },
   {
     "job_id": "ashby-openai-551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
@@ -33331,6 +33096,269 @@
     "job_posted_at": "2026-03-28T11:46:27.794Z"
   },
   {
+    "job_id": "ashby-openai-f956b77c-3cc5-4fdd-9463-2a6e5047e57c",
+    "job_title": "Security Engineer, Detection and Response",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/f956b77c-3cc5-4fdd-9463-2a6e5047e57c/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "4902d49d738d91a6c8bf2b25b39c658ab8624eab0c200788e723bb01ad06a194",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-43174eb6-0ffe-4744-9323-c7969e7ea2e1",
+    "job_title": "Backend Software Engineer, GTM Innovation",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/43174eb6-0ffe-4744-9323-c7969e7ea2e1/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "daafcab29b33b4259cf0eaa7202333813aa954694b6376129b59e176ce1e9aea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-f386b209-1259-4b79-bf5a-aa97fc7ce77b",
+    "job_title": "Software Engineer, Accelerators",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/f386b209-1259-4b79-bf5a-aa97fc7ce77b/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "d3b74f589873f30e87f5f360f39fc3736d78894f520f5fd958e82a63f75309ea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-47048627-427e-4566-b349-847e52a5def1",
+    "job_title": "Enterprise Security Engineer",
+    "employer_name": "OpenAI",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/47048627-427e-4566-b349-847e52a5def1/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "d9019efed78b9eb982fe3be955e53055db48eb54d1a194d17894563da89d7d63",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-020b2aae-8be0-408c-ab49-20eefa8541af",
+    "job_title": "Research Engineer / Research Scientist - Foundations Retrieval IC",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "663b791b884004639d51beb55a17a3fc7a4f7a1e6092ee42f538ef2a6720b01f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
+    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-4d14449e-5e7f-45d4-b103-8776a6c87086",
+    "job_title": "Software Engineer, Inference - Multi Modal",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/4d14449e-5e7f-45d4-b103-8776a6c87086/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "d42698d3d44e463217e1cf7af36a879349e03a9ea712a483af1855940e8e73bb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-4d6a5951-9838-434c-830a-22cb938ea228",
+    "job_title": "Software Engineer, Research - Human Data",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/4d6a5951-9838-434c-830a-22cb938ea228/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "b8bf846540ed4d15f075ed8231db40cf0b65cb54db2c2ea3720acafc7f565c74",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-f58cb1eb-9642-4a4d-a14d-d7a57d583a11",
+    "job_title": "Software Engineer, GPU Infrastructure - HPC",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/f58cb1eb-9642-4a4d-a14d-d7a57d583a11/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "4210611e398c9d7543f173f1f9573128145525386da20e17e210989a38f6de22",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
     "job_id": "ashby-perplexity-8a976851-9bef-4b07-8d36-567fa9540aef",
     "job_title": "AI Inference Engineer",
     "employer_name": "Perplexity",
@@ -33796,181 +33824,6 @@
     "job_posted_at": "2026-03-28T11:46:26.736Z"
   },
   {
-    "job_id": "ashby-notion-f7399542-9122-481a-bf64-43bf8093748b",
-    "job_title": "Software Engineer, Fullstack, Early Career",
-    "employer_name": "Notion",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "cdfe69ba507faf34fb13991443820820beb0c514655a37bd3749d49a7c0612cf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:26.735Z"
-  },
-  {
-    "job_id": "ashby-notion-3fbcf972-52d5-4475-8720-040025c6f7da",
-    "job_title": "Software Engineer, Datastore",
-    "employer_name": "Notion",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "ca4038e4adf976168898a65944073c569edcfed243140787bde0c18250a3ee5a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:26.735Z"
-  },
-  {
-    "job_id": "ashby-notion-91156750-4050-4621-aa45-0fb068308d2c",
-    "job_title": "Software Engineer, Data Platform",
-    "employer_name": "Notion",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/notion/91156750-4050-4621-aa45-0fb068308d2c/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "e765f8b048adb1449772ddda12d80ce8625e8aaefc005f47a2e9ca33a2fe55c4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:26.735Z"
-  },
-  {
-    "job_id": "ashby-notion-dda89eef-ad64-4b84-af95-d0c4896cae42",
-    "job_title": "Software Engineer, Developer Experience",
-    "employer_name": "Notion",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/notion/dda89eef-ad64-4b84-af95-d0c4896cae42/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "4376996f49953b528fdc7693cec68378bb6c74ee0eba5923ee9eac7c7b850c54",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:26.735Z"
-  },
-  {
-    "job_id": "ashby-notion-e050309a-6b81-4341-b1ca-9bdd17e62e13",
-    "job_title": "Software Engineer, Cloud Infrastructure",
-    "employer_name": "Notion",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/notion/e050309a-6b81-4341-b1ca-9bdd17e62e13/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "ddc9cd89effe8c39bdd94d5f763dda69c806c8f61eb1491220e5204c5c341fcc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:26.735Z"
-  },
-  {
-    "job_id": "ashby-notion-10437426-14c8-4c45-8075-67959ce80393",
-    "job_title": "Forward Deployed Engineer, GTM",
-    "employer_name": "Notion",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/notion/10437426-14c8-4c45-8075-67959ce80393/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "8e8b780614d9fd3b7011ea091189322bc9b00341f4a2fa2984681f00427a094a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales",
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:26.735Z"
-  },
-  {
     "job_id": "ashby-notion-d41b635b-c17b-4efd-89fd-fdb2ddb62e9a",
     "job_title": "Software Engineer, Product Infrastructure",
     "employer_name": "Notion",
@@ -34139,6 +33992,181 @@
         "on_site"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:26.735Z"
+  },
+  {
+    "job_id": "ashby-notion-f7399542-9122-481a-bf64-43bf8093748b",
+    "job_title": "Software Engineer, Fullstack, Early Career",
+    "employer_name": "Notion",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "cdfe69ba507faf34fb13991443820820beb0c514655a37bd3749d49a7c0612cf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:26.735Z"
+  },
+  {
+    "job_id": "ashby-notion-3fbcf972-52d5-4475-8720-040025c6f7da",
+    "job_title": "Software Engineer, Datastore",
+    "employer_name": "Notion",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "ca4038e4adf976168898a65944073c569edcfed243140787bde0c18250a3ee5a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:26.735Z"
+  },
+  {
+    "job_id": "ashby-notion-91156750-4050-4621-aa45-0fb068308d2c",
+    "job_title": "Software Engineer, Data Platform",
+    "employer_name": "Notion",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/notion/91156750-4050-4621-aa45-0fb068308d2c/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "e765f8b048adb1449772ddda12d80ce8625e8aaefc005f47a2e9ca33a2fe55c4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:26.735Z"
+  },
+  {
+    "job_id": "ashby-notion-dda89eef-ad64-4b84-af95-d0c4896cae42",
+    "job_title": "Software Engineer, Developer Experience",
+    "employer_name": "Notion",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/notion/dda89eef-ad64-4b84-af95-d0c4896cae42/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "4376996f49953b528fdc7693cec68378bb6c74ee0eba5923ee9eac7c7b850c54",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:26.735Z"
+  },
+  {
+    "job_id": "ashby-notion-e050309a-6b81-4341-b1ca-9bdd17e62e13",
+    "job_title": "Software Engineer, Cloud Infrastructure",
+    "employer_name": "Notion",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/notion/e050309a-6b81-4341-b1ca-9bdd17e62e13/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "ddc9cd89effe8c39bdd94d5f763dda69c806c8f61eb1491220e5204c5c341fcc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:26.735Z"
+  },
+  {
+    "job_id": "ashby-notion-10437426-14c8-4c45-8075-67959ce80393",
+    "job_title": "Forward Deployed Engineer, GTM",
+    "employer_name": "Notion",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/notion/10437426-14c8-4c45-8075-67959ce80393/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "8e8b780614d9fd3b7011ea091189322bc9b00341f4a2fa2984681f00427a094a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales",
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -34552,65 +34580,6 @@
     "job_posted_at": "2026-03-28T11:46:25.257Z"
   },
   {
-    "job_id": "ashby-handshake-bd12564f-bad3-4a53-a89d-a7f3d7c44eb4",
-    "job_title": "Software Developer - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/bd12564f-bad3-4a53-a89d-a7f3d7c44eb4/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.118Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "4b28b55e73b546f47395a11fb08cb4aab408456f2ec43e48380cce2732a12a4b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:25.118Z"
-  },
-  {
-    "job_id": "ashby-handshake-c822e540-4f4b-46d9-93fe-cf97b46e2f02",
-    "job_title": "Software Engineer, Consumer Experience",
-    "employer_name": "Handshake",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/c822e540-4f4b-46d9-93fe-cf97b46e2f02/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.118Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "0f82cdc5a4a4e1908b1bf3844da44774c78b34cb7866c49bcb67f2e1135af122",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:25.118Z"
-  },
-  {
     "job_id": "ashby-handshake-5deb3cab-6474-4b36-a439-aa32791ca3ef",
     "job_title": "Software Engineer, Fellow Experience",
     "employer_name": "Handshake",
@@ -34681,6 +34650,65 @@
     "job_employment_type": "FullTime",
     "salary": null,
     "fingerprint": "a11199c64ec83c65174ad1731b46e18012879462f7b7654b57680c450e8df42b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:25.118Z"
+  },
+  {
+    "job_id": "ashby-handshake-bd12564f-bad3-4a53-a89d-a7f3d7c44eb4",
+    "job_title": "Software Developer - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/bd12564f-bad3-4a53-a89d-a7f3d7c44eb4/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.118Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "4b28b55e73b546f47395a11fb08cb4aab408456f2ec43e48380cce2732a12a4b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:25.118Z"
+  },
+  {
+    "job_id": "ashby-handshake-c822e540-4f4b-46d9-93fe-cf97b46e2f02",
+    "job_title": "Software Engineer, Consumer Experience",
+    "employer_name": "Handshake",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/c822e540-4f4b-46d9-93fe-cf97b46e2f02/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.118Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "0f82cdc5a4a4e1908b1bf3844da44774c78b34cb7866c49bcb67f2e1135af122",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -35167,18 +35195,18 @@
     "job_posted_at": "2026-03-28T11:46:22.735Z"
   },
   {
-    "job_id": "ashby-eliseai-14ef788e-2bbd-4de8-ae20-7feb18f4a7c6",
-    "job_title": "Partner Solutions Engineer",
+    "job_id": "ashby-eliseai-a3f5a582-7613-498e-8705-2dcaeae2511e",
+    "job_title": "Software Engineer (Full Stack and Mobile)",
     "employer_name": "EliseAI",
     "job_city": "New York City",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/eliseai/14ef788e-2bbd-4de8-ae20-7feb18f4a7c6/application",
+    "job_apply_link": "https://jobs.ashbyhq.com/eliseai/a3f5a582-7613-498e-8705-2dcaeae2511e/application",
     "job_posted_at_datetime_utc": "2026-03-28T11:46:22.722Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "123be93c33d9f4b9f04581f244dd8eec5eb7d24e4d0d911252340ed9716673bb",
+    "fingerprint": "405b53108e01328564ce8b3f5e16a2b9716c84f28ebfe23ca56318b13724a999",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -35196,18 +35224,18 @@
     "job_posted_at": "2026-03-28T11:46:22.722Z"
   },
   {
-    "job_id": "ashby-eliseai-a3f5a582-7613-498e-8705-2dcaeae2511e",
-    "job_title": "Software Engineer (Full Stack and Mobile)",
+    "job_id": "ashby-eliseai-14ef788e-2bbd-4de8-ae20-7feb18f4a7c6",
+    "job_title": "Partner Solutions Engineer",
     "employer_name": "EliseAI",
     "job_city": "New York City",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/eliseai/a3f5a582-7613-498e-8705-2dcaeae2511e/application",
+    "job_apply_link": "https://jobs.ashbyhq.com/eliseai/14ef788e-2bbd-4de8-ae20-7feb18f4a7c6/application",
     "job_posted_at_datetime_utc": "2026-03-28T11:46:22.722Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "405b53108e01328564ce8b3f5e16a2b9716c84f28ebfe23ca56318b13724a999",
+    "fingerprint": "123be93c33d9f4b9f04581f244dd8eec5eb7d24e4d0d911252340ed9716673bb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -35813,6 +35841,35 @@
     "job_posted_at": "2026-03-28T11:46:21.264Z"
   },
   {
+    "job_id": "ashby-crusoe-6ebc7feb-52aa-4a4a-8633-4d472947b081",
+    "job_title": "Network Engineer, New College Graduate",
+    "employer_name": "Crusoe",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/6ebc7feb-52aa-4a4a-8633-4d472947b081/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:21.126Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "778accce4f8ca29ddec3efc81ac3fbc128d01648a79171253a43b1658f96854c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:21.126Z"
+  },
+  {
     "job_id": "ashby-crusoe-39e3cfc5-c0fd-44ad-b5de-ffde8080c099",
     "job_title": "Systems Software Engineer",
     "employer_name": "Crusoe",
@@ -35871,35 +35928,6 @@
     "job_posted_at": "2026-03-28T11:46:21.126Z"
   },
   {
-    "job_id": "ashby-crusoe-6ebc7feb-52aa-4a4a-8633-4d472947b081",
-    "job_title": "Network Engineer, New College Graduate",
-    "employer_name": "Crusoe",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/6ebc7feb-52aa-4a4a-8633-4d472947b081/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:21.126Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "778accce4f8ca29ddec3efc81ac3fbc128d01648a79171253a43b1658f96854c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:21.126Z"
-  },
-  {
     "job_id": "lever-kitware-3278ae26-a72e-420f-87a3-2310882ec502",
     "job_title": "CMake Engineer",
     "employer_name": "Kitware",
@@ -35917,6 +35945,39 @@
       "interval": "per-year-salary"
     },
     "fingerprint": "5f3361cbd7307908ddc6dabe9a5178e343105e2079c290402083cbd74a99190a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:20.756Z"
+  },
+  {
+    "job_id": "lever-kitware-7289713c-6882-44cc-8650-72030738b0b3",
+    "job_title": "Computational Imaging Researcher",
+    "employer_name": "Kitware",
+    "job_city": "Minneapolis",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/kitware/7289713c-6882-44cc-8650-72030738b0b3/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:20.756Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 125000,
+      "max": 170000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "f9373a4cf8c6628565fa485a7a9b18fc509492f64380df11881524a7a33fac4f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -36497,35 +36558,6 @@
     "job_posted_at": "2026-03-28T11:46:16.283Z"
   },
   {
-    "job_id": "lever-spotify-66492688-d5b0-4cf8-b1a4-4a715157edd9",
-    "job_title": "Backend Engineer  - Data Infrastructure",
-    "employer_name": "Spotify",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.282Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b8363eba60a06db642396c5daeb469726d6875469c8e75de0f4dfccdf6057617",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.282Z"
-  },
-  {
     "job_id": "lever-spotify-31bf7d45-9448-413c-8f61-b69a8f636f82",
     "job_title": "Backend Engineer - Platform Developer Experience",
     "employer_name": "Spotify",
@@ -36577,6 +36609,35 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.282Z"
+  },
+  {
+    "job_id": "lever-spotify-66492688-d5b0-4cf8-b1a4-4a715157edd9",
+    "job_title": "Backend Engineer  - Data Infrastructure",
+    "employer_name": "Spotify",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.282Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b8363eba60a06db642396c5daeb469726d6875469c8e75de0f4dfccdf6057617",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -36816,6 +36877,64 @@
     "job_posted_at": "2026-03-28T11:46:16.039Z"
   },
   {
+    "job_id": "lever-palantir-95a76f41-97a4-4696-ade3-9c5a47a569c7",
+    "job_title": "Technical Writer",
+    "employer_name": "Palantir",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/95a76f41-97a4-4696-ade3-9c5a47a569c7/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1b3076f8cb5e0979c54fc7b786884e5cc682c78f47cb5bd97eb8078b706a549b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.036Z"
+  },
+  {
+    "job_id": "lever-palantir-b11a97bd-ac86-4cf8-a008-ffe1772a190a",
+    "job_title": "Technical Writer",
+    "employer_name": "Palantir",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/b11a97bd-ac86-4cf8-a008-ffe1772a190a/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d8af9978cabd149adf6899ca25a910a072a931a8e67484fa8df996d15eb0b196",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.036Z"
+  },
+  {
     "job_id": "lever-palantir-4255e21c-d0f2-4f57-b5db-1f65830d6425",
     "job_title": "Web Application Developer - Defense",
     "employer_name": "Palantir",
@@ -36887,64 +37006,6 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.036Z"
-  },
-  {
-    "job_id": "lever-palantir-95a76f41-97a4-4696-ade3-9c5a47a569c7",
-    "job_title": "Technical Writer",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/95a76f41-97a4-4696-ade3-9c5a47a569c7/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1b3076f8cb5e0979c54fc7b786884e5cc682c78f47cb5bd97eb8078b706a549b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product",
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.036Z"
-  },
-  {
-    "job_id": "lever-palantir-b11a97bd-ac86-4cf8-a008-ffe1772a190a",
-    "job_title": "Technical Writer",
-    "employer_name": "Palantir",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/b11a97bd-ac86-4cf8-a008-ffe1772a190a/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d8af9978cabd149adf6899ca25a910a072a931a8e67484fa8df996d15eb0b196",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product",
         "software"
       ],
       "locations": [
@@ -38029,122 +38090,6 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-03-28T11:46:16.036Z"
-  },
-  {
-    "job_id": "lever-palantir-7e3ec54c-b73a-4014-8ef3-cdce8a4953c4",
-    "job_title": "Application Security Engineer",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/7e3ec54c-b73a-4014-8ef3-cdce8a4953c4/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.035Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c7811eb5493d79f54477014475680a1f581a55e6f8d278b85c332885c758bbf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.035Z"
-  },
-  {
-    "job_id": "lever-palantir-86641a6e-5abb-40c5-8cc3-d481f70350d7",
-    "job_title": "Application Security Engineer",
-    "employer_name": "Palantir",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/86641a6e-5abb-40c5-8cc3-d481f70350d7/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.035Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2e352416e70f43df854c722e341837a917ae48483ad69a058a42dcb4c66c28ba",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.035Z"
-  },
-  {
-    "job_id": "lever-palantir-a5fdd5ec-d1f3-4837-83af-161b003931dd",
-    "job_title": "Application Security Engineer",
-    "employer_name": "Palantir",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/a5fdd5ec-d1f3-4837-83af-161b003931dd/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.035Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "171dceae45a03b423947ffd206955ac6a6aaea10eb2af14d7b83853a09c31df0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.035Z"
-  },
-  {
-    "job_id": "lever-palantir-f8df815c-6a38-4d57-b75f-c4262b9311b4",
-    "job_title": "Application Security Engineer",
-    "employer_name": "Palantir",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/f8df815c-6a38-4d57-b75f-c4262b9311b4/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.035Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61aa8da6f33d876e24d8f472500246c0140598cd62e98d2b23dbbf02e1c941ae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.035Z"
   },
   {
     "job_id": "lever-palantir-ab7e3425-81d5-4705-a7b5-cd60c8a45cdb",
@@ -39343,6 +39288,151 @@
     "job_posted_at": "2026-03-28T11:46:16.035Z"
   },
   {
+    "job_id": "lever-palantir-7e3ec54c-b73a-4014-8ef3-cdce8a4953c4",
+    "job_title": "Application Security Engineer",
+    "employer_name": "Palantir",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/7e3ec54c-b73a-4014-8ef3-cdce8a4953c4/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.035Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c7811eb5493d79f54477014475680a1f581a55e6f8d278b85c332885c758bbf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.035Z"
+  },
+  {
+    "job_id": "lever-palantir-86641a6e-5abb-40c5-8cc3-d481f70350d7",
+    "job_title": "Application Security Engineer",
+    "employer_name": "Palantir",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/86641a6e-5abb-40c5-8cc3-d481f70350d7/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.035Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e352416e70f43df854c722e341837a917ae48483ad69a058a42dcb4c66c28ba",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.035Z"
+  },
+  {
+    "job_id": "lever-palantir-a5fdd5ec-d1f3-4837-83af-161b003931dd",
+    "job_title": "Application Security Engineer",
+    "employer_name": "Palantir",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/a5fdd5ec-d1f3-4837-83af-161b003931dd/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.035Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "171dceae45a03b423947ffd206955ac6a6aaea10eb2af14d7b83853a09c31df0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.035Z"
+  },
+  {
+    "job_id": "lever-palantir-f8df815c-6a38-4d57-b75f-c4262b9311b4",
+    "job_title": "Application Security Engineer",
+    "employer_name": "Palantir",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/f8df815c-6a38-4d57-b75f-c4262b9311b4/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.035Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "61aa8da6f33d876e24d8f472500246c0140598cd62e98d2b23dbbf02e1c941ae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.035Z"
+  },
+  {
+    "job_id": "ashby-cartesia-7628169d-3703-4b82-a1d0-ed3124790643",
+    "job_title": "Software Engineer, Platform",
+    "employer_name": "Cartesia",
+    "job_city": "*HQ - San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/cartesia/7628169d-3703-4b82-a1d0-ed3124790643/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.007Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "084ec03eae53f29ad28d8ffd4f3ca344021a4025debe0c57a30a0e224c2ab4dc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:16.007Z"
+  },
+  {
     "job_id": "ashby-cartesia-bd9d6688-5486-470f-a273-20874a44f107",
     "job_title": "Inference Engineer",
     "employer_name": "Cartesia",
@@ -39598,35 +39688,6 @@
         "on_site"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:16.007Z"
-  },
-  {
-    "job_id": "ashby-cartesia-7628169d-3703-4b82-a1d0-ed3124790643",
-    "job_title": "Software Engineer, Platform",
-    "employer_name": "Cartesia",
-    "job_city": "*HQ - San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/cartesia/7628169d-3703-4b82-a1d0-ed3124790643/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.007Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "084ec03eae53f29ad28d8ffd4f3ca344021a4025debe0c57a30a0e224c2ab4dc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -54946,62 +55007,6 @@
     "job_posted_at": "2026-03-27T07:05:12.391Z"
   },
   {
-    "job_id": "workday-kbr-R2121000",
-    "job_title": "Knowledge Management Specialist",
-    "employer_name": "KBR",
-    "job_city": "Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Knowledge-Management-Specialist_R2121000",
-    "job_posted_at_datetime_utc": "2026-03-27T07:05:05.880Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c7e228fdf72ea401fbb5e179f493469784f9dc5fd8e9cc22a0fcd5168520643",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:05:05.880Z"
-  },
-  {
-    "job_id": "workday-kbr-R2121014",
-    "job_title": "Software Engineer (ICAM)",
-    "employer_name": "KBR",
-    "job_city": "Beavercreek Township",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Software-Engineer--ICAM-_R2121014",
-    "job_posted_at_datetime_utc": "2026-03-27T07:05:05.880Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6cf163b7944e2e81118e79c5147d509a68171723e285003158218950ccc3ae61",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:05:05.880Z"
-  },
-  {
     "job_id": "workday-kbr-R2117695",
     "job_title": "R&D Systems Engineer",
     "employer_name": "KBR",
@@ -55079,6 +55084,62 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:05:05.880Z"
+  },
+  {
+    "job_id": "workday-kbr-R2121000",
+    "job_title": "Knowledge Management Specialist",
+    "employer_name": "KBR",
+    "job_city": "Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Knowledge-Management-Specialist_R2121000",
+    "job_posted_at_datetime_utc": "2026-03-27T07:05:05.880Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c7e228fdf72ea401fbb5e179f493469784f9dc5fd8e9cc22a0fcd5168520643",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:05:05.880Z"
+  },
+  {
+    "job_id": "workday-kbr-R2121014",
+    "job_title": "Software Engineer (ICAM)",
+    "employer_name": "KBR",
+    "job_city": "Beavercreek Township",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Software-Engineer--ICAM-_R2121014",
+    "job_posted_at_datetime_utc": "2026-03-27T07:05:05.880Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6cf163b7944e2e81118e79c5147d509a68171723e285003158218950ccc3ae61",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -55254,34 +55315,6 @@
     "job_posted_at": "2026-03-27T07:04:50.823Z"
   },
   {
-    "job_id": "workday-intel-JR0282387",
-    "job_title": "Compiler Engineer",
-    "employer_name": "Intel",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Compiler-Engineer_JR0282387-1",
-    "job_posted_at_datetime_utc": "2026-03-27T07:04:46.680Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "83b487324ec8e80e19ac2a31331cb9381dabf7524be57f775fd63f1a2e635993",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:04:46.680Z"
-  },
-  {
     "job_id": "workday-intel-JR0282197",
     "job_title": "GPU Software Development Engineer",
     "employer_name": "Intel",
@@ -55333,6 +55366,34 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:04:46.680Z"
+  },
+  {
+    "job_id": "workday-intel-JR0282387",
+    "job_title": "Compiler Engineer",
+    "employer_name": "Intel",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Compiler-Engineer_JR0282387-1",
+    "job_posted_at_datetime_utc": "2026-03-27T07:04:46.680Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "83b487324ec8e80e19ac2a31331cb9381dabf7524be57f775fd63f1a2e635993",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -55455,34 +55516,6 @@
     "job_posted_at": "2026-03-27T07:04:28.913Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202606092",
-    "job_title": "Launch PFEP Coordinator",
-    "employer_name": "General Motors",
-    "job_city": "Lake Orion",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/Launch-PFEP-Coordinator_JR-202606092",
-    "job_posted_at_datetime_utc": "2026-03-27T07:04:28.913Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2d913b4308485d4adaea983f94acb0f07311d21334ef83e698974298693f46e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:04:28.913Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202606726",
     "job_title": "Software Developer – Manufacturing Engineering",
     "employer_name": "General Motors",
@@ -55505,6 +55538,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:04:28.913Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202606092",
+    "job_title": "Launch PFEP Coordinator",
+    "employer_name": "General Motors",
+    "job_city": "Lake Orion",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/Launch-PFEP-Coordinator_JR-202606092",
+    "job_posted_at_datetime_utc": "2026-03-27T07:04:28.913Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2d913b4308485d4adaea983f94acb0f07311d21334ef83e698974298693f46e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -56387,6 +56448,34 @@
     "job_posted_at": "2026-03-27T07:03:38.883Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0236588",
+    "job_title": "Systems Administrator",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Systems-Administrator_R0236588",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.897Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6e980d4aa48b89e255047b6a24395b8671e53f187406d5f2c4c450affe3711e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.897Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0236613",
     "job_title": "Systems Administrator",
     "employer_name": "Booz Allen Hamilton",
@@ -56548,34 +56637,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.897Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236588",
-    "job_title": "Systems Administrator",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Systems-Administrator_R0236588",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.897Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6e980d4aa48b89e255047b6a24395b8671e53f187406d5f2c4c450affe3711e6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -57171,27 +57232,28 @@
     "job_posted_at": "2026-03-27T07:03:36.896Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0226196",
-    "job_title": "CNO Software Developer",
+    "job_id": "workday-booz-allen-hamilton-R0236600",
+    "job_title": "Software Development Engineer",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
+    "job_city": "2 Locations",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/CNO-Software-Developer_R0226196",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Development-Engineer_R0236600",
     "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "243fe0fbf64c8ce6761e093a683e6207dc607161ab0c1d689534c221f2d3686c",
+    "fingerprint": "31004be6e81e04825f37fa0e8c8a52ebda9b8ad2c04f730b1b795a7dda6d84b0",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "software"
+        "software",
+        "hardware"
       ],
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -57199,18 +57261,47 @@
     "job_posted_at": "2026-03-27T07:03:36.896Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236524",
-    "job_title": "Cloud Engineer",
+    "job_id": "workday-booz-allen-hamilton-R0236602",
+    "job_title": "Software Development Engineer",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
+    "job_city": "2 Locations",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Cloud-Engineer_R0236524",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Development-Engineer_R0236602",
     "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "15440ae64736fb3f43a1aae810b5c9f2dc506464d7d7410cb6a34d3e103b8b89",
+    "fingerprint": "31004be6e81e04825f37fa0e8c8a52ebda9b8ad2c04f730b1b795a7dda6d84b0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.896Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0226678",
+    "job_title": "Software Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Software-Engineer_R0226678",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "44484ff57a29e0c909659c74435a71fa580d1dba40732fc1999819a81f30ee31",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -57219,7 +57310,7 @@
       "locations": [
         "us"
       ],
-      "experience": "entry_level",
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -57905,92 +57996,6 @@
     "job_posted_at": "2026-03-27T07:03:36.896Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236600",
-    "job_title": "Software Development Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Development-Engineer_R0236600",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "31004be6e81e04825f37fa0e8c8a52ebda9b8ad2c04f730b1b795a7dda6d84b0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.896Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236602",
-    "job_title": "Software Development Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Development-Engineer_R0236602",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "31004be6e81e04825f37fa0e8c8a52ebda9b8ad2c04f730b1b795a7dda6d84b0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.896Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0226678",
-    "job_title": "Software Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Software-Engineer_R0226678",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "44484ff57a29e0c909659c74435a71fa580d1dba40732fc1999819a81f30ee31",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.896Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0236809",
     "job_title": "Space Information Technology Specialist",
     "employer_name": "Booz Allen Hamilton",
@@ -58215,6 +58220,62 @@
     "job_posted_at": "2026-03-27T07:03:36.896Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0226196",
+    "job_title": "CNO Software Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Annapolis Junction",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/CNO-Software-Developer_R0226196",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "243fe0fbf64c8ce6761e093a683e6207dc607161ab0c1d689534c221f2d3686c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.896Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236524",
+    "job_title": "Cloud Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Cloud-Engineer_R0236524",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "15440ae64736fb3f43a1aae810b5c9f2dc506464d7d7410cb6a34d3e103b8b89",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.896Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0236492",
     "job_title": "Full Stack Developer",
     "employer_name": "Booz Allen Hamilton",
@@ -58316,118 +58377,6 @@
       "domains": [
         "software",
         "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.895Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236729",
-    "job_title": "DevOps Cloud Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "California",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/California-MD/DevOps-Cloud-Engineer_R0236729",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1182c05ca3b0cf563abe8d1d386963a2dc8fdb0119a6c917714ead57271fc0a4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.895Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0231125",
-    "job_title": "DevOps Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/DevOps-Engineer_R0231125",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0518c7eae7d480d5e5dc150f558135fc98183469634464540e9e37d357b24108",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.895Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236669",
-    "job_title": "DevSecOps Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Springfield",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Springfield-VA/DevSecOps-Engineer_R0236669",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9f5425d36e465adb306a4d5b7a1cf3de6eecab0ef7a9b9f711fb6b4999217fc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.895Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234883",
-    "job_title": "Full Stack Software Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0234883",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9b65fde8a9c1ece68004d34969e152e2f6d3319f12c43804691ee631b9bf5345",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us"
@@ -59340,6 +59289,118 @@
     "job_posted_at": "2026-03-27T07:03:36.895Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0236729",
+    "job_title": "DevOps Cloud Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "California",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/California-MD/DevOps-Cloud-Engineer_R0236729",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1182c05ca3b0cf563abe8d1d386963a2dc8fdb0119a6c917714ead57271fc0a4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.895Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0231125",
+    "job_title": "DevOps Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/DevOps-Engineer_R0231125",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0518c7eae7d480d5e5dc150f558135fc98183469634464540e9e37d357b24108",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.895Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236669",
+    "job_title": "DevSecOps Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Springfield",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Springfield-VA/DevSecOps-Engineer_R0236669",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9f5425d36e465adb306a4d5b7a1cf3de6eecab0ef7a9b9f711fb6b4999217fc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.895Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234883",
+    "job_title": "Full Stack Software Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0234883",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9b65fde8a9c1ece68004d34969e152e2f6d3319f12c43804691ee631b9bf5345",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.895Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0236725",
     "job_title": "Rust Software Developer",
     "employer_name": "Booz Allen Hamilton",
@@ -59394,6 +59455,91 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-27T07:03:36.895Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236744",
+    "job_title": "Full Stack Software Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Full-Stack-Software-Developer_R0236744",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.894Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5d6320c10200b1b92f44b40f5e872e9ea368bc98c0037611046f86a39ed92dc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.894Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236746",
+    "job_title": "Full Stack Software Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Full-Stack-Software-Developer_R0236746",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.894Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5d6320c10200b1b92f44b40f5e872e9ea368bc98c0037611046f86a39ed92dc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.894Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236862",
+    "job_title": "Information Systems Security Officer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Information-Systems-Security-Officer_R0236862",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.894Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1b2b425f1a2befb1172c648508566dc33e081ee9d3710a210958d7d5918ed9aa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.894Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234536",
@@ -59562,260 +59708,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-27T07:03:36.894Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236744",
-    "job_title": "Full Stack Software Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Full-Stack-Software-Developer_R0236744",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.894Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5d6320c10200b1b92f44b40f5e872e9ea368bc98c0037611046f86a39ed92dc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.894Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236746",
-    "job_title": "Full Stack Software Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Full-Stack-Software-Developer_R0236746",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.894Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5d6320c10200b1b92f44b40f5e872e9ea368bc98c0037611046f86a39ed92dc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.894Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236862",
-    "job_title": "Information Systems Security Officer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Information-Systems-Security-Officer_R0236862",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.894Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1b2b425f1a2befb1172c648508566dc33e081ee9d3710a210958d7d5918ed9aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.894Z"
-  },
-  {
-    "job_id": "workday-caci-323886",
-    "job_title": "Systems Engineer",
-    "employer_name": "CACI",
-    "job_city": "US SC North Charleston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-SC-North-Charleston/Systems-Engineer_323886",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "866227202c79c46b3b1ab2f4b8d6d389479145e19b5513c6f1174d17bc8b5e23",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:28.363Z"
-  },
-  {
-    "job_id": "workday-caci-323921",
-    "job_title": "Software Developer",
-    "employer_name": "CACI",
-    "job_city": "US SC North Charleston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-SC-North-Charleston/Software-Developer_323921",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6b3f1bec3f2a713c07c01023ba58b20648281d73e57dc4a6ac90c0f303a47168",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:28.363Z"
-  },
-  {
-    "job_id": "workday-caci-323905",
-    "job_title": "NASA Orion Spacecraft Flight Software Developer",
-    "employer_name": "CACI",
-    "job_city": "US TX Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Houston/NASA-Orion-Spacecraft-Flight-Software-Developer_323905",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "27e2d3f6603ecd7da03880f34882fddd033d1d6b09433b6f761f190211826466",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:28.363Z"
-  },
-  {
-    "job_id": "workday-caci-323883",
-    "job_title": "Information Systems Security Engineer (ISSE)",
-    "employer_name": "CACI",
-    "job_city": "US CO Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Information-Systems-Security-Engineer--ISSE-_323883",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ee4f7de200739d988abda7214e50c7eda75ec079693f6c2467f5ded9c5ac13e1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:28.363Z"
-  },
-  {
-    "job_id": "workday-caci-323914",
-    "job_title": "Service Desk Analyst - Tier 2",
-    "employer_name": "CACI",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Service-Desk-Analyst---Tier-2_323914",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "efeb227821e7ba9b3248cf929033fdf4003d7d11d478e482ec22784b69c7b592",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:28.363Z"
-  },
-  {
-    "job_id": "workday-caci-323895",
-    "job_title": "Business Systems Analyst/Tester",
-    "employer_name": "CACI",
-    "job_city": "US DC Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Business-Systems-Analyst-Tester_323895",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3309e430eff695b213422eeec2c879885f197a4db7512b93398dfaa88bcd7694",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:28.363Z"
   },
   {
     "job_id": "workday-caci-323193",
@@ -60378,6 +60270,175 @@
     "job_posted_at": "2026-03-27T07:03:28.363Z"
   },
   {
+    "job_id": "workday-caci-323886",
+    "job_title": "Systems Engineer",
+    "employer_name": "CACI",
+    "job_city": "US SC North Charleston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-SC-North-Charleston/Systems-Engineer_323886",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "866227202c79c46b3b1ab2f4b8d6d389479145e19b5513c6f1174d17bc8b5e23",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:28.363Z"
+  },
+  {
+    "job_id": "workday-caci-323921",
+    "job_title": "Software Developer",
+    "employer_name": "CACI",
+    "job_city": "US SC North Charleston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-SC-North-Charleston/Software-Developer_323921",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b3f1bec3f2a713c07c01023ba58b20648281d73e57dc4a6ac90c0f303a47168",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:28.363Z"
+  },
+  {
+    "job_id": "workday-caci-323905",
+    "job_title": "NASA Orion Spacecraft Flight Software Developer",
+    "employer_name": "CACI",
+    "job_city": "US TX Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Houston/NASA-Orion-Spacecraft-Flight-Software-Developer_323905",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "27e2d3f6603ecd7da03880f34882fddd033d1d6b09433b6f761f190211826466",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:28.363Z"
+  },
+  {
+    "job_id": "workday-caci-323883",
+    "job_title": "Information Systems Security Engineer (ISSE)",
+    "employer_name": "CACI",
+    "job_city": "US CO Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Information-Systems-Security-Engineer--ISSE-_323883",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ee4f7de200739d988abda7214e50c7eda75ec079693f6c2467f5ded9c5ac13e1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:28.363Z"
+  },
+  {
+    "job_id": "workday-caci-323914",
+    "job_title": "Service Desk Analyst - Tier 2",
+    "employer_name": "CACI",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Service-Desk-Analyst---Tier-2_323914",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "efeb227821e7ba9b3248cf929033fdf4003d7d11d478e482ec22784b69c7b592",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:28.363Z"
+  },
+  {
+    "job_id": "workday-caci-323895",
+    "job_title": "Business Systems Analyst/Tester",
+    "employer_name": "CACI",
+    "job_city": "US DC Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Business-Systems-Analyst-Tester_323895",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3309e430eff695b213422eeec2c879885f197a4db7512b93398dfaa88bcd7694",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:28.363Z"
+  },
+  {
     "job_id": "workday-caci-323924",
     "job_title": "Data Integration Engineer",
     "employer_name": "CACI",
@@ -60485,90 +60546,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:28.362Z"
-  },
-  {
-    "job_id": "workday-caci-323956",
-    "job_title": "Network and Systems Administrator",
-    "employer_name": "CACI",
-    "job_city": "US CA Norco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CA-Norco/Network-and-Systems-Administrator_323956",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5debddad82e3144841fdea7cf729f5a12a2e31b55beeabbca555ffadf7bd504",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:28.362Z"
-  },
-  {
-    "job_id": "workday-caci-323846",
-    "job_title": "Infrastructure/Systems Administrator",
-    "employer_name": "CACI",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Infrastructure-Systems-Administrator_323846",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f1ca1edfabbce0e54fbd9847d643165d05392392026f3ad8f5f0b10c86382c6c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:28.362Z"
-  },
-  {
-    "job_id": "workday-caci-322817",
-    "job_title": "Cloud System Engineer - Level 2",
-    "employer_name": "CACI",
-    "job_city": "US MD Suitland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Suitland/Cloud-System-Engineer---Level-2_322817",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "547eb8ecd7d5b3bb80a3b0519ba63f37fc3b2d3a4e128e365d8859ddc93c4a37",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -60793,6 +60770,90 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:28.362Z"
+  },
+  {
+    "job_id": "workday-caci-323956",
+    "job_title": "Network and Systems Administrator",
+    "employer_name": "CACI",
+    "job_city": "US CA Norco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CA-Norco/Network-and-Systems-Administrator_323956",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.362Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5debddad82e3144841fdea7cf729f5a12a2e31b55beeabbca555ffadf7bd504",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:28.362Z"
+  },
+  {
+    "job_id": "workday-caci-323846",
+    "job_title": "Infrastructure/Systems Administrator",
+    "employer_name": "CACI",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Infrastructure-Systems-Administrator_323846",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.362Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f1ca1edfabbce0e54fbd9847d643165d05392392026f3ad8f5f0b10c86382c6c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:28.362Z"
+  },
+  {
+    "job_id": "workday-caci-322817",
+    "job_title": "Cloud System Engineer - Level 2",
+    "employer_name": "CACI",
+    "job_city": "US MD Suitland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Suitland/Cloud-System-Engineer---Level-2_322817",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.362Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "547eb8ecd7d5b3bb80a3b0519ba63f37fc3b2d3a4e128e365d8859ddc93c4a37",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -64989,34 +65050,6 @@
     "job_posted_at": "2026-03-26T07:07:00.776Z"
   },
   {
-    "job_id": "workday-kbr-R2118272",
-    "job_title": "Software Engineer",
-    "employer_name": "KBR",
-    "job_city": "Beavercreek Township",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Software-Engineer_R2118272-1",
-    "job_posted_at_datetime_utc": "2026-03-26T07:05:05.880Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b3f654d550ed04c9b5227bb9d6adbec7cba8ac6fd910dd1e60089d2ca7b17da",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:05:05.880Z"
-  },
-  {
     "job_id": "workday-kbr-R2114724",
     "job_title": "Junior Reverse Engineer",
     "employer_name": "KBR",
@@ -65170,6 +65203,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3198152438275dcef89a82810531bce649181799270a92201952c10d70606f2d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:05:05.880Z"
+  },
+  {
+    "job_id": "workday-kbr-R2118272",
+    "job_title": "Software Engineer",
+    "employer_name": "KBR",
+    "job_city": "Beavercreek Township",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Software-Engineer_R2118272-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:05:05.880Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8b3f654d550ed04c9b5227bb9d6adbec7cba8ac6fd910dd1e60089d2ca7b17da",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -66228,18 +66289,18 @@
     "job_posted_at": "2026-03-26T07:03:51.485Z"
   },
   {
-    "job_id": "workday-capital-one-R239200",
-    "job_title": "Software Engineer, Full Stack",
+    "job_id": "workday-capital-one-R239059",
+    "job_title": "Software Engineer, Full Stack (People Tech, Intelligent Foundations and Experiences)",
     "employer_name": "Capital One",
-    "job_city": "3 Locations",
+    "job_city": "2 Locations",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Software-Engineer--Full-Stack_R239200-1",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Software-Engineer--Full-Stack--People-Tech--Intelligent-Foundations-and-Experiences-_R239059-1",
     "job_posted_at_datetime_utc": "2026-03-26T07:03:51.142Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2045500e5ce9730869e101b3ecb43e1b46389839ade41a95c90e1807e1cf573f",
+    "fingerprint": "4d12bfdc6d8b4e8ce4af86a46581b529a98717a8157af8e560821f48d27255bf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -66256,18 +66317,18 @@
     "job_posted_at": "2026-03-26T07:03:51.142Z"
   },
   {
-    "job_id": "workday-capital-one-R239059",
-    "job_title": "Software Engineer, Full Stack (People Tech, Intelligent Foundations and Experiences)",
+    "job_id": "workday-capital-one-R239200",
+    "job_title": "Software Engineer, Full Stack",
     "employer_name": "Capital One",
-    "job_city": "2 Locations",
+    "job_city": "3 Locations",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Software-Engineer--Full-Stack--People-Tech--Intelligent-Foundations-and-Experiences-_R239059-1",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Software-Engineer--Full-Stack_R239200-1",
     "job_posted_at_datetime_utc": "2026-03-26T07:03:51.142Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4d12bfdc6d8b4e8ce4af86a46581b529a98717a8157af8e560821f48d27255bf",
+    "fingerprint": "2045500e5ce9730869e101b3ecb43e1b46389839ade41a95c90e1807e1cf573f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -68168,34 +68229,6 @@
     "job_posted_at": "2026-03-26T07:00:28.736Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01346471",
-    "job_title": "Project Engineer (Fully Onsite)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Florence",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Florence-South-Carolina-USA/Project-Engineer--Fully-Onsite-_R-01346471",
-    "job_posted_at_datetime_utc": "2026-03-26T07:00:27.062Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c13e00c871c5035e797cf4851a51c1750a8f05e047375c9dda54e6c275080fe3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:00:27.062Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01341461",
     "job_title": "Refrigeration Engineer",
     "employer_name": "Thermo Fisher Scientific",
@@ -68217,6 +68250,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:00:27.062Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01346471",
+    "job_title": "Project Engineer (Fully Onsite)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Florence",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Florence-South-Carolina-USA/Project-Engineer--Fully-Onsite-_R-01346471",
+    "job_posted_at_datetime_utc": "2026-03-26T07:00:27.062Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c13e00c871c5035e797cf4851a51c1750a8f05e047375c9dda54e6c275080fe3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -68252,34 +68313,6 @@
     "job_posted_at": "2026-03-26T07:00:25.326Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10227203",
-    "job_title": "Systems Engineer - Level 3 or 4",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Colorado-Aurora",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Systems-Engineer---Level-3-or-4_R10227203",
-    "job_posted_at_datetime_utc": "2026-03-26T07:00:23.752Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7693aaa8f324b1a7f03306ae6d92032f3b3b58bcedb47321666a70034fafdf5a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T07:00:23.752Z"
-  },
-  {
     "job_id": "workday-northrop-grumman-R10225197",
     "job_title": "Systems Engineer 3 / 4",
     "employer_name": "Northrop Grumman",
@@ -68301,6 +68334,34 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:00:23.752Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10227203",
+    "job_title": "Systems Engineer - Level 3 or 4",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Colorado-Aurora",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Systems-Engineer---Level-3-or-4_R10227203",
+    "job_posted_at_datetime_utc": "2026-03-26T07:00:23.752Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7693aaa8f324b1a7f03306ae6d92032f3b3b58bcedb47321666a70034fafdf5a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -68705,33 +68766,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-26T00:20:33-04:00"
-  },
-  {
-    "job_id": "workday-vanguard-174331",
-    "job_title": "IOS Engineer",
-    "employer_name": "Vanguard",
-    "job_city": "Malvern",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Mobile-Engineer_174331",
-    "job_posted_at_datetime_utc": "2026-03-26T03:50:49.230Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c9cfac2b54ba2739dc875a3f271f96d526b92a1c950f627ecad8718d3dacea77",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T03:50:49.230Z"
   }
 ]
