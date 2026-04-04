@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1218-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1219-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-231-blue?style=flat&logo=building)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-1128-red?style=flat&logo=star)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-1129-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -92,7 +92,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CACI** | Frontend Developer | US MD Columbia | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Columbia/Frontend-Developer_323980) |
 | 🏢 **Zip** | Software Engineer, Frontend (All Levels) | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/zip/0c1b3417-9ba4-4630-8590-f6b45c40310a/application) |
 | 🏢 **Airtable** | Software Engineer, Product Frontend (2-8 YOE) | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8397137002) |
-| 🏢 **Glean** | Software Engineer, Frontend | San Francisco Bay... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4006733005) |
+| 🏢 **Glean** | Software Engineer, Frontend | San Francisco Bay... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4006733005) |
 | 🏢 **Snowflake** | Software Engineer – Frontend / Fullstack (Data Governance & Security UI) | US-CA-Menlo Park | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/3d9d64b3-3744-4d80-a7e5-693bf0759cfc/application) |
 | 🏢 **WHOOP** | Software Engineer I (Frontend, Growth) | Boston, MA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/whoop/27101f2d-abc5-4cf3-aa86-f164e66ecdd8/apply) |
 | 🏢 **Fidelity Investments** | Full Stack Engineer- Front End Development | Westlake, TX | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Full-Stack-Engineer--Front-End-Development_2125048) |
@@ -143,7 +143,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **DoorDash** | Applications Engineer, Full Stack - People | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7733002) |
 | 🏢 **Northrop Grumman** | Full-Stack Java Software Engineer Level 3 or 4 | Colorado-Aurora | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Full-Stack-Java-Software-Engineer-Level-3-or-4_R10227587) |
 | 🏢 **Northrop Grumman** | Full Stack Software Developer (AHT) | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/MDHO02/Full-Stack-Software-Developer--AHT-_R10227933) |
-| 🏢 **Fidelity Investments** | Full Stack Engineer- | Durham, NC | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Durham-NC/Full-Stack-Engineer-_2126449) |
+| 🏢 **Fidelity Investments** | Full Stack Engineer- | Durham, NC | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Durham-NC/Full-Stack-Engineer-_2126449) |
 | 🏢 **Abnormal Security** | Software Engineer 2 (Fullstack), Threat Narrative | Canada; Remote - USA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://abnormal.ai/careers/jobs/7658409003?gh_jid=7658409003) |
 | 🏢 **Northrop Grumman** | Full-stack Software Engineer Level 3 or 4 | Colorado-Aurora | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Full-stack-Software-Engineer-Level-3-or-4_R10227688) |
 | 🏢 **General Motors** | Full Stack Developer | Warren | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/PROGRAMMER-FULL-STACK_JR-202603193) |
@@ -199,10 +199,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Leidos** | Junior Software Developer | Baltimore, MD | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Junior-Software-Developer_R-00179998) |
+| 🏢 **Leidos** | Junior Software Developer | Baltimore, MD | 57m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Junior-Software-Developer_R-00179998) |
+| 🏢 **Zoom** | Software Engineer | San Jose | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R18600) |
 | 🏢 **Zoom** | Software Development Engineer, Asynchronous | San Jose | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Development-Engineer--Asynchronous_R18872-1) |
 | 🏢 **Zoom** | Upmarket Solutions Engineer | 2 Locations | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--SC/Solutions-Engineer_R18870-1) |
-| 🏢 **Zoom** | Data Center Support Engineer | San Jose | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Data-Center-Support-Engineer_R18866-1) |
 | 🏢 **Boeing** | Associate Propulsion System Integration Engineer | North Charleston, SC | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Propulsion-System-Integration-Engineer_JR2026504400-1) |
 | 🏢 **Zebra Technologies** | Information Security Engineer, I | Lincolnshire | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.zebra.com/careers/job/343638220018) |
 | 🏢 **American Express** | Software Engineers | Sunrise | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/40610405) |
@@ -213,8 +213,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Morningstar** | Software Engineer | Chicago | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Data-Product-Manager_REQ-051949) |
 | 🏢 **Adobe** | Software Development Engineer | San Jose | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R167007-1) |
 | 🏢 **Amazon Kuiper Manufacturing Enterprises LLC** | RF RAN Systems Engineer, Amazon Leo | Redmond, WA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383542/rf-ran-systems-engineer-amazon-leo) |
-| 🏢 **Cursor** | Software Engineer, Agent Harness | San Francisco | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d/application) |
-| 🏢 **IXL Learning** | Software Engineer, New Grad | Raleigh, NC | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8486920002) |
+| 🏢 **Cursor** | Software Engineer, Agent Harness | San Francisco | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d/application) |
+| 🏢 **IXL Learning** | Software Engineer, New Grad | Raleigh, NC | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8486920002) |
 | 🏢 **Cisco** | Software Engineer | 2 Locations | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2010270-1) |
 | 🏢 **Baseten** | IT Support/Operations Engineer | San Francisco | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836/application) |
 | 🏢 **Snap** | Security Engineer, Level 3 | 3 Locations | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Security-Engineer--Level-3_H126SE1-1) |
@@ -261,6 +261,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Johnson Controls** | Controls Systems Engineer | Massachusetts-Uni... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Lynnfield-Massachusetts-United-States-of-America/Controls-Systems-Engineer_WD30265116) |
 | 🏢 **Workday Inc** | Threat Detection Engineer | USA.VA.Reston | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Threat-Detection-Engineer_JR-0105380) |
 | 🏢 **General Motors** | Software Engineer AV HIL Platform and Services (University Grad) | Sunnyvale | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577) |
+| 🏢 **Abbott** | Decision Support Tools Engineer | California - Alameda | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Decision-Support-Tools-Engineer_31144056-1) |
 | 🏢 **American Express** | Software Engineer - Oracle Cloud HCM Compensation Functional - CET Services | Phoenix | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/40879891) |
 | 🏢 **Bosch Group** | Technical Services Engineer | Lincolnshire, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000118613427) |
 | 🏢 **Capital One** | Core Ops Data Integrity Reviewer (QC) | Richmond, VA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Core-Ops-Data-Integrity-Reviewer--QC-_R239768-1) |
@@ -271,18 +272,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Baton Corporation** | Software Engineer | New York City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baton/70f30a22-fe97-43ff-a67a-a89e3a2de557/application) |
 | 🏢 **Medtronic** | Software Engineer I - Lafayette | Lafayette | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I---Lafayette_R62770-1) |
 | 🏢 **Baseten** | Customer Engineer | San Francisco | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/1dc3b76d-cf9a-4980-8d78-50829cc04345/application) |
+| 🏢 **The MITRE Corporation** | Internships in Computer Science or Software Engineering | McLean | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115479/Internships-in-Computer-Science-or-Software-Engineering) |
 | 🏢 **Amazon.com Services LLC** | Software Development Engineer | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383063/software-development-engineer) |
 | 🏢 **Amazon.com Services LLC** | Robotics - Software Development Engineer | Sunnyvale, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383254/robotics-software-development-engineer) |
 | 🏢 **Amazon Data Services, Inc.** | Software Development Engineer, Management Plane | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383244/software-development-engineer-management-plane) |
 | 🏢 **Amazon.com Services LLC** | Software Development Engineer, Advertiser 1P Data | Palo Alto, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383375/software-development-engineer-advertiser-1p-data) |
 | 🏢 **The Doctors Company** | Associate Software Engineer | East Lansing | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.theladders.com/job/associate-software-engineer-doctors-east-lansing-mi_86358025) |
-| 🏢 **The MITRE Corporation** | Internships in Computer Science or Software Engineering | McLean | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115479/Internships-in-Computer-Science-or-Software-Engineering) |
 | 🏢 **Freeform** | Software Engineer (Edge Data & Telemetry) | Los Angeles, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688757003) |
 | 🏢 **Experian** | Claims and Remit Support Developer (Remote) | United States | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000118506827) |
 | 🏢 **Trimble** | Premier Support Engineer | 4 Locations | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Atlanta-GA/Premier-Support-Engineer_R54664) |
 | 🏢 **Trimble** | Premier Support Engineer | 5 Locations | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Atlanta-GA/Premier-Support-Engineer_R54667) |
 | 🏢 **Perplexity** | IT Systems Administrator | San Francisco | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/perplexity/18509f15-ab49-450d-8a01-4b280e464ad0/application) |
-| 🏢 **LinkedIn** | Software Engineer, Machine Learning | Sunnyvale, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000118505282) |
+| 🏢 **LinkedIn** | Software Engineer, Machine Learning | Sunnyvale, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000118505282) |
 | 🏢 **SpaceX** | Mission Integration Engineer, Network and Infrastructure (Starshield) | Hawthorne, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8493037002?gh_jid=8493037002) |
 | 🏢 **SpaceX** | Software Engineer (Starlink) | Redmond, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8479562002?gh_jid=8479562002) |
 | 🏢 **Intuitive** | Clinical Research Engineer | Sunnyvale, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118499837) |
@@ -342,8 +343,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KBR** | Space Suit Project Engineer | Houston | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Space-Suit-Project-Engineer_R2121283-1) |
 | 🏢 **HPE (University)** | Cloud Developer Graduate | Sunnyvale | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Cloud-Developer-Graduate_1204085) |
 | 🏢 **HPE (University)** | HPC AI Systems Administrator | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator_1205040) |
+| 🏢 **HPE** | Packet Forwarding Software Engineer | Sunnyvale | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Packet-Forwarding-Software-Engineer_1201917-3) |
 | 🏢 **HPE** | HPC AI Systems Administrator | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator_1205040-2) |
-| 🏢 **HPE** | Channel Systems Engineer | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Illinois-United-States-of-America/Channel-Systems-Engineer_1203015) |
 | 🏢 **Johnson Controls** | Installation Coordinator (Onsite) | Wisconsin-United ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Installation-Coordinator--Onsite-_WD30266211) |
 | 🏢 **General Motors** | CAE- Brake Systems Integration Engineer | Warren | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/CAE--Brake-Systems-Integration-Engineer_JR-202603553) |
 | 🏢 **Blue Origin** | Systems Engineer - System Safety, Reliability, & System Engineering (Level 4) | 3 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Systems-Engineer---System-Safety--Reliability----System-Engineering--Level-4-_R62707) |
@@ -369,7 +370,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Adobe** | Software Developer | Lehi | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Developer_R160057) |
 | 🏢 **Twilio** | Software Engineer | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7605743) |
 | 🏢 **Twilio** | Product Engineer (Backend) | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7671815) |
-| 🏢 **Glean** | Software Engineer, Backend | San Francisco Bay... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4581643005) |
+| 🏢 **Glean** | Software Engineer, Backend | San Francisco Bay... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4581643005) |
 | 🏢 **Baseten** | Security Engineer | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/b85e4b1d-6531-46b5-bc8a-238f3761a50e/application) |
 | 🏢 **Contentful** | Security Engineer (Application Security) | New York City | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/contentful/jobs/7774018) |
 | 🏢 **Postman** | Software Engineer, Ecosystem | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/postman/jobs/7574033003) |
@@ -389,8 +390,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Promise** | Forward Deployed Engineer | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/promise/ac4259d7-1276-440f-b918-851ef3e0faa5/application) |
 | 🏢 **OpenAI** | Software Engineer, Localization | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/deff9215-217d-4392-825e-7788cb8205f3/application) |
 | 🏢 **OpenAI** | Software Engineer, Infrastructure Reliability | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/621bb104-9daa-4c9e-949a-03d5730334e8/application) |
-| 🏢 **Mercor** | Research Engineer - Environments, Data and Post-Training | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/97b8c17e-e438-4b61-bab1-9ae18e2c3f34/application) |
 | 🏢 **Mercor** | Software Engineer, Applied AI | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/fed139c1-e972-423a-835c-b7bd19ea8b3a/application) |
+| 🏢 **Mercor** | Research Engineer - Environments, Data and Post-Training | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/97b8c17e-e438-4b61-bab1-9ae18e2c3f34/application) |
 | 🏢 **Lambda** | Data Center Operations Systems Engineer (Kansas City, MO) | Kansas City, MO | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/lambda/e971621e-2a3d-4359-b349-9493007d517c/application) |
 | 🏢 **Illumio** | Software Engineer, Cloud Security | Sunnyvale | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/illumio/3b98af67-5d7d-47b7-8ab3-296fdfd45de5/application) |
 | 🏢 **Crusoe** | Hardware Systems Engineer I | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/90d01247-2315-4af0-8ac7-8754340d6fa1/application) |
@@ -398,7 +399,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Commure** | Backend Engineer, RCM Core | Mountain View, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/commure/4f90cc05-3978-40c7-8f39-80aab6d134c2/application) |
 | 🏢 **Hermeus** | Cybersecurity Analyst | Los Angeles, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/eb92837f-cefb-4fa7-b0a9-d5446ab1f163/apply) |
 | 🏢 **Anyscale** | Software Engineer (Ray Core) | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/anyscale/73a973b1-6377-4144-a6e5-610b78719882/application) |
-| 🏢 **Spotify** | Backend Engineer, Podcast | New York, NY | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/454e6013-78ca-4009-9ad4-7597f2045d0a/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -454,7 +454,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1218 current opportunities from 231 companies**
+**🎯 1219 current opportunities from 231 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
