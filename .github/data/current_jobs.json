@@ -1,17 +1,17 @@
 [
   {
-    "job_id": "workday-adobe-R166942",
-    "job_title": "Software Development Engineer",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
+    "job_id": "ashby-redis-45b1eedb-7301-4f7e-9bcb-77bfc949ac88",
+    "job_title": "Site Reliability Engineer",
+    "employer_name": "Redis",
+    "job_city": "United States",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R166942-1",
-    "job_posted_at_datetime_utc": "2026-04-09T05:06:47.331Z",
-    "job_employment_type": "FULLTIME",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/redis/45b1eedb-7301-4f7e-9bcb-77bfc949ac88/application",
+    "job_posted_at_datetime_utc": "2026-04-09T06:32:25.526Z",
+    "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "e8d308743f166398f329aa8bcb707777b6f7de664960c677173cfde5de3a3021",
+    "fingerprint": "f7da9ff46e348cf2bc16f0691a27348e08d4c2aa42b21ca82b917f7085b65ed7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -19,14 +19,15 @@
         "hardware"
       ],
       "locations": [
-        "us"
+        "us",
+        "remote"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T05:06:47.331Z"
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-09T06:32:25.526Z"
   },
   {
     "job_id": "workday-adobe-R167456",
@@ -51,6 +52,35 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T05:06:47.331Z"
+  },
+  {
+    "job_id": "workday-adobe-R166942",
+    "job_title": "Software Development Engineer",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R166942-1",
+    "job_posted_at_datetime_utc": "2026-04-09T05:06:47.331Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e8d308743f166398f329aa8bcb707777b6f7de664960c677173cfde5de3a3021",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -8761,18 +8791,18 @@
     "job_posted_at": "2026-04-07T15:55:35.407Z"
   },
   {
-    "job_id": "workday-leidos-R-00173696",
-    "job_title": "Implementations / Activations Network Engineer",
+    "job_id": "workday-leidos-R-00180159",
+    "job_title": "Cyber Security Analyst",
     "employer_name": "Leidos",
-    "job_city": "Shiloh",
-    "job_state": "IL",
+    "job_city": "San Antonio",
+    "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Job-Posting-Title-Implementations---Activations-Network-Engineer_R-00173696",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Antonio-TX/Cyber-Security-Analyst_R-00180159",
     "job_posted_at_datetime_utc": "2026-04-07T15:54:35.333Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c8f03189a826a2aa1f242427a9c4f298a025d1a2551c87e6c00dfdb8e23c73db",
+    "fingerprint": "e49e49672842b6655462e475f8c8d9a666e043fff717ebe5cd0fdb37ec169cee",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8789,18 +8819,18 @@
     "job_posted_at": "2026-04-07T15:54:35.333Z"
   },
   {
-    "job_id": "workday-leidos-R-00180159",
-    "job_title": "Cyber Security Analyst",
+    "job_id": "workday-leidos-R-00173696",
+    "job_title": "Implementations / Activations Network Engineer",
     "employer_name": "Leidos",
-    "job_city": "San Antonio",
-    "job_state": "TX",
+    "job_city": "Shiloh",
+    "job_state": "IL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Antonio-TX/Cyber-Security-Analyst_R-00180159",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Job-Posting-Title-Implementations---Activations-Network-Engineer_R-00173696",
     "job_posted_at_datetime_utc": "2026-04-07T15:54:35.333Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e49e49672842b6655462e475f8c8d9a666e043fff717ebe5cd0fdb37ec169cee",
+    "fingerprint": "c8f03189a826a2aa1f242427a9c4f298a025d1a2551c87e6c00dfdb8e23c73db",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10900,62 +10930,6 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
-    "job_id": "workday-sel-2026-19423",
-    "job_title": "Software Engineer",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer_2026-19423",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a0ee5bc36b17fd4f3fa07f001782d76104f206d153ff8167b05cb78cbf1efe2f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
-    "job_id": "workday-sel-2025-19073",
-    "job_title": "Project Engineer I - Automation",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Project-Engineer-I---Automation_2025-19073",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a5a98eda98b24289d58111e745021960e36ad3dabef05c9dff559a1e8ade74e7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
     "job_id": "workday-sel-2026-19786",
     "job_title": "Integration & Automation Engineer - IEC 61850",
     "employer_name": "SEL",
@@ -11052,6 +11026,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "00488a2e1f69e6378227fa7fb0b47e375cdabd8bbaf0ef1a19cf3d1c7a88c680",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19423",
+    "job_title": "Software Engineer",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer_2026-19423",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a0ee5bc36b17fd4f3fa07f001782d76104f206d153ff8167b05cb78cbf1efe2f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2025-19073",
+    "job_title": "Project Engineer I - Automation",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Project-Engineer-I---Automation_2025-19073",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a5a98eda98b24289d58111e745021960e36ad3dabef05c9dff559a1e8ade74e7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -13799,90 +13829,6 @@
     "job_posted_at": "2026-04-06T07:07:34.848Z"
   },
   {
-    "job_id": "workday-leidos-R-00180042",
-    "job_title": "Systems Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Gaithersburg",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Systems-Engineer_R-00180042",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc75e5463130caa92313a8268733724806fbc2147dd1ff04e5f8bbcb76fca685",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:18.441Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180031",
-    "job_title": "Network Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Network-Engineer_R-00180031",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "90b813cad5b446a5069e1e2a4e86399c4aa436518cd63542371c3d1aae9c6cec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:18.441Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00179425",
-    "job_title": "PostgreSQL Database Administrator",
-    "employer_name": "Leidos",
-    "job_city": "Ashburn",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/PostgreSQL-Database-Administrator_R-00179425",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c0ab38c9c19c3b71229bbe8b7f8ce0f58a5c90b4d92c9802d855f83be24db3d9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:18.441Z"
-  },
-  {
     "job_id": "workday-leidos-R-00180024",
     "job_title": "Systems Administrator",
     "employer_name": "Leidos",
@@ -14035,6 +13981,90 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "585efbbb65839186e00dca20c055a180631a29c38dbf5269997cf0357bb30ace",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:18.441Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180042",
+    "job_title": "Systems Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Gaithersburg",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Systems-Engineer_R-00180042",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc75e5463130caa92313a8268733724806fbc2147dd1ff04e5f8bbcb76fca685",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:18.441Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180031",
+    "job_title": "Network Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Network-Engineer_R-00180031",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90b813cad5b446a5069e1e2a4e86399c4aa436518cd63542371c3d1aae9c6cec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:18.441Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00179425",
+    "job_title": "PostgreSQL Database Administrator",
+    "employer_name": "Leidos",
+    "job_city": "Ashburn",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/PostgreSQL-Database-Administrator_R-00179425",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c0ab38c9c19c3b71229bbe8b7f8ce0f58a5c90b4d92c9802d855f83be24db3d9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -14501,6 +14531,34 @@
     "job_posted_at": "2026-04-06T07:06:42.721Z"
   },
   {
+    "job_id": "workday-guidehouse-36980",
+    "job_title": "Salesforce Developer",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Salesforce-Developer_36980",
+    "job_posted_at_datetime_utc": "2026-04-06T07:06:39.230Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "047285ba5c075aba3c9593aaacf3a0b4db2033be386645dc8b723bfdaf90f7d7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:06:39.230Z"
+  },
+  {
     "job_id": "workday-guidehouse-38090",
     "job_title": "Full Stack Developer, Life Sciences Technology Solutions",
     "employer_name": "Guidehouse",
@@ -14579,34 +14637,6 @@
       "locations": [
         "us",
         "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:06:39.230Z"
-  },
-  {
-    "job_id": "workday-guidehouse-36980",
-    "job_title": "Salesforce Developer",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Salesforce-Developer_36980",
-    "job_posted_at_datetime_utc": "2026-04-06T07:06:39.230Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "047285ba5c075aba3c9593aaacf3a0b4db2033be386645dc8b723bfdaf90f7d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
       ],
       "experience": "unknown",
       "special": []
@@ -14729,63 +14759,6 @@
     "job_posted_at": "2026-04-06T07:05:52.381Z"
   },
   {
-    "job_id": "workday-cisco-2000081",
-    "job_title": "Software Engineer Embedded/Network Systems I (Full Time) - United States",
-    "employer_name": "Cisco",
-    "job_city": "13 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Network-Systems-I--Full-Time----United-States_2000081",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:43.465Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e41ac0c349b6e43182c7f6e92fa531d997aca886288a5f9da239bc2120a968bd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:43.465Z"
-  },
-  {
-    "job_id": "workday-cisco-2003465",
-    "job_title": "Compliance Information Security Analyst",
-    "employer_name": "Cisco",
-    "job_city": "9 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Compliance-Information-Security-Analyst_2003465",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:43.465Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7b1614615cc2cc9efb4c228dc04c7673790eb87012a28e7d6d3b507af027d598",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:43.465Z"
-  },
-  {
     "job_id": "workday-cisco-2005253",
     "job_title": "Software Engineer MuleSoft",
     "employer_name": "Cisco",
@@ -14863,6 +14836,63 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:43.465Z"
+  },
+  {
+    "job_id": "workday-cisco-2000081",
+    "job_title": "Software Engineer Embedded/Network Systems I (Full Time) - United States",
+    "employer_name": "Cisco",
+    "job_city": "13 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Network-Systems-I--Full-Time----United-States_2000081",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:43.465Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e41ac0c349b6e43182c7f6e92fa531d997aca886288a5f9da239bc2120a968bd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:43.465Z"
+  },
+  {
+    "job_id": "workday-cisco-2003465",
+    "job_title": "Compliance Information Security Analyst",
+    "employer_name": "Cisco",
+    "job_city": "9 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Compliance-Information-Security-Analyst_2003465",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:43.465Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7b1614615cc2cc9efb4c228dc04c7673790eb87012a28e7d6d3b507af027d598",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -15545,6 +15575,147 @@
     "job_posted_at": "2026-04-06T07:05:20.777Z"
   },
   {
+    "job_id": "workday-caci-323901",
+    "job_title": "Database Administrator",
+    "employer_name": "CACI",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Database-Administrator_323901",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:20.777Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "31abad6595c594f0a7c7477cc790213b370a3e4e5b15473f9ccb34c97c413d0a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:20.777Z"
+  },
+  {
+    "job_id": "workday-caci-324455",
+    "job_title": "Linux System Administrator - AWS Cloud (C2S)",
+    "employer_name": "CACI",
+    "job_city": "US VA Chantilly",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Linux-System-Administrator---AWS-Cloud--C2S-_324455",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:20.777Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a618468177dda10ba98d55713e469c5b0650d93b0997d4577ed11f4bbe8872d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:20.777Z"
+  },
+  {
+    "job_id": "workday-caci-324353",
+    "job_title": "Software Engineer",
+    "employer_name": "CACI",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Software-Engineer_324353",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:20.777Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e5e170da28b505e017f27c67912b316d74da9a309b559b4d6899d1d08a91d01e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:20.777Z"
+  },
+  {
+    "job_id": "workday-caci-324459",
+    "job_title": "Systems Engineer",
+    "employer_name": "CACI",
+    "job_city": "US VA King George",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-King-George/Systems-Engineer_324459",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:20.777Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0756f4f017a417b58435421935187220c75cd5d9174e2e40b16128ef212be97c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:20.777Z"
+  },
+  {
+    "job_id": "workday-caci-324349",
+    "job_title": "Software Engineer",
+    "employer_name": "CACI",
+    "job_city": "US VA Chantilly",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Software-Engineer_324349",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:20.777Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "79eea6ceaa8ff869ee62e4ce6100f84e100b9721f438ed9874f021653d39b82f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:20.777Z"
+  },
+  {
     "job_id": "workday-caci-322463",
     "job_title": "Full-Stack JAVA/REACT JS Developer",
     "employer_name": "CACI",
@@ -15771,147 +15942,6 @@
     "job_posted_at": "2026-04-06T07:05:20.777Z"
   },
   {
-    "job_id": "workday-caci-323901",
-    "job_title": "Database Administrator",
-    "employer_name": "CACI",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Database-Administrator_323901",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:20.777Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "31abad6595c594f0a7c7477cc790213b370a3e4e5b15473f9ccb34c97c413d0a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:20.777Z"
-  },
-  {
-    "job_id": "workday-caci-324455",
-    "job_title": "Linux System Administrator - AWS Cloud (C2S)",
-    "employer_name": "CACI",
-    "job_city": "US VA Chantilly",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Linux-System-Administrator---AWS-Cloud--C2S-_324455",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:20.777Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a618468177dda10ba98d55713e469c5b0650d93b0997d4577ed11f4bbe8872d2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:20.777Z"
-  },
-  {
-    "job_id": "workday-caci-324353",
-    "job_title": "Software Engineer",
-    "employer_name": "CACI",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Software-Engineer_324353",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:20.777Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e5e170da28b505e017f27c67912b316d74da9a309b559b4d6899d1d08a91d01e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:20.777Z"
-  },
-  {
-    "job_id": "workday-caci-324459",
-    "job_title": "Systems Engineer",
-    "employer_name": "CACI",
-    "job_city": "US VA King George",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-King-George/Systems-Engineer_324459",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:20.777Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0756f4f017a417b58435421935187220c75cd5d9174e2e40b16128ef212be97c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:20.777Z"
-  },
-  {
-    "job_id": "workday-caci-324349",
-    "job_title": "Software Engineer",
-    "employer_name": "CACI",
-    "job_city": "US VA Chantilly",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Software-Engineer_324349",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:20.777Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "79eea6ceaa8ff869ee62e4ce6100f84e100b9721f438ed9874f021653d39b82f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:20.777Z"
-  },
-  {
     "job_id": "workday-broadcom-R025454",
     "job_title": "AI Software Engineer",
     "employer_name": "Broadcom",
@@ -16054,35 +16084,6 @@
     "job_posted_at": "2026-04-06T07:05:12.477Z"
   },
   {
-    "job_id": "workday-applied-materials-R2612572",
-    "job_title": "Process Integration Engineer E4",
-    "employer_name": "Applied Materials",
-    "job_city": "Albany",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Process-Integration-Engineer-E4_R2612572",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:04.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7ffe48601df92f75496e08469b504da8c43c4ff9bf7744f2a350df0f52f61d0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:04.858Z"
-  },
-  {
     "job_id": "workday-applied-materials-R2616060",
     "job_title": "Systems Engineer (E4)",
     "employer_name": "Applied Materials",
@@ -16132,6 +16133,35 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:04.858Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2612572",
+    "job_title": "Process Integration Engineer E4",
+    "employer_name": "Applied Materials",
+    "job_city": "Albany",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Process-Integration-Engineer-E4_R2612572",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:04.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7ffe48601df92f75496e08469b504da8c43c4ff9bf7744f2a350df0f52f61d0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -17136,34 +17166,6 @@
     "job_posted_at": "2026-04-05T00:00:00.000Z"
   },
   {
-    "job_id": "workday-zoom-R18600",
-    "job_title": "Software Engineer",
-    "employer_name": "Zoom",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R18600",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9b503a2c604cdf63a1822c25ded2fb6277ca72f785fa447ddeaf7d1ba1a3027e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
-  },
-  {
     "job_id": "workday-zoom-R18853",
     "job_title": "Enterprise Systems QA Engineer",
     "employer_name": "Zoom",
@@ -17261,6 +17263,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "02165571292fda39bf4764ebf8abee079730ffae214f34665c8975933cadee59",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-04T20:05:38.872Z"
+  },
+  {
+    "job_id": "workday-zoom-R18600",
+    "job_title": "Software Engineer",
+    "employer_name": "Zoom",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R18600",
+    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9b503a2c604cdf63a1822c25ded2fb6277ca72f785fa447ddeaf7d1ba1a3027e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -18722,62 +18752,6 @@
     "job_posted_at": "2026-04-03T07:04:00.596Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10228446",
-    "job_title": "Configuration Analyst Level 3 or 4 (Teamcenter)",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Ohio-Cincinnati",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Configuration-Analyst-Level-3-or-4--Teamcenter-_R10228446",
-    "job_posted_at_datetime_utc": "2026-04-03T07:03:53.672Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ece917955a3684dc8b33cc15d31fc7cda14ecf8e1073bc60f7aca7d3b253b639",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:03:53.672Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10226731",
-    "job_title": "Sentinel - Systems Engineer - 18402",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Utah-Roy",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer---18402_R10226731",
-    "job_posted_at_datetime_utc": "2026-04-03T07:03:53.672Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "62fcee996dd2d35eb5821f420b6f45747af5e2b5302f58c3bbe733b2424888e9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:03:53.672Z"
-  },
-  {
     "job_id": "workday-northrop-grumman-R10228352",
     "job_title": "Systems Administrator (X-Lab) - Level 3 (26-170)",
     "employer_name": "Northrop Grumman",
@@ -18911,6 +18885,62 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:03:53.672Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10228446",
+    "job_title": "Configuration Analyst Level 3 or 4 (Teamcenter)",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Ohio-Cincinnati",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Configuration-Analyst-Level-3-or-4--Teamcenter-_R10228446",
+    "job_posted_at_datetime_utc": "2026-04-03T07:03:53.672Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ece917955a3684dc8b33cc15d31fc7cda14ecf8e1073bc60f7aca7d3b253b639",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:03:53.672Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10226731",
+    "job_title": "Sentinel - Systems Engineer - 18402",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Utah-Roy",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer---18402_R10226731",
+    "job_posted_at_datetime_utc": "2026-04-03T07:03:53.672Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "62fcee996dd2d35eb5821f420b6f45747af5e2b5302f58c3bbe733b2424888e9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -19368,18 +19398,18 @@
     "job_posted_at": "2026-04-03T07:03:01.333Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30266283",
-    "job_title": "HVAC Controls Systems Engineer",
+    "job_id": "workday-johnson-controls-WD30265116",
+    "job_title": "Controls Systems Engineer",
     "employer_name": "Johnson Controls",
-    "job_city": "North Dakota-United States of America",
+    "job_city": "Massachusetts-United States of America",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Fargo-North-Dakota-United-States-of-America/Job-Posting-Title-HVAC-Controls-Systems-Engineer_WD30266283",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lynnfield-Massachusetts-United-States-of-America/Controls-Systems-Engineer_WD30265116",
     "job_posted_at_datetime_utc": "2026-04-03T07:02:54.484Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c5fc17137a8f0c9492207e5ca24bee9a02150e38c647c4be17d861a425dbf48a",
+    "fingerprint": "80ab1b49a5f239384148f1614ca4eece773754dba0b35265dfd8db770ace327a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -19397,18 +19427,18 @@
     "job_posted_at": "2026-04-03T07:02:54.484Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30265116",
-    "job_title": "Controls Systems Engineer",
+    "job_id": "workday-johnson-controls-WD30266283",
+    "job_title": "HVAC Controls Systems Engineer",
     "employer_name": "Johnson Controls",
-    "job_city": "Massachusetts-United States of America",
+    "job_city": "North Dakota-United States of America",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lynnfield-Massachusetts-United-States-of-America/Controls-Systems-Engineer_WD30265116",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Fargo-North-Dakota-United-States-of-America/Job-Posting-Title-HVAC-Controls-Systems-Engineer_WD30266283",
     "job_posted_at_datetime_utc": "2026-04-03T07:02:54.484Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "80ab1b49a5f239384148f1614ca4eece773754dba0b35265dfd8db770ace327a",
+    "fingerprint": "c5fc17137a8f0c9492207e5ca24bee9a02150e38c647c4be17d861a425dbf48a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -19678,35 +19708,6 @@
     "job_posted_at": "2026-04-03T07:02:06.631Z"
   },
   {
-    "job_id": "workday-boeing-JR2026503688",
-    "job_title": "Software Engineer, Artificial Intelligence (Associate or Experienced)",
-    "employer_name": "Boeing",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer--Artificial-Intelligence--Associate-or-Experienced-_JR2026503688-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:58.059Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4fec27e17069162f690d0706fe1f73012bbdd1a4e79241fee796b6ea003dd0ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:58.059Z"
-  },
-  {
     "job_id": "workday-boeing-JR2026499839",
     "job_title": "F-15 Project Engineer",
     "employer_name": "Boeing",
@@ -19819,6 +19820,35 @@
     "job_posted_at": "2026-04-03T07:01:58.059Z"
   },
   {
+    "job_id": "workday-boeing-JR2026503688",
+    "job_title": "Software Engineer, Artificial Intelligence (Associate or Experienced)",
+    "employer_name": "Boeing",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer--Artificial-Intelligence--Associate-or-Experienced-_JR2026503688-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:58.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4fec27e17069162f690d0706fe1f73012bbdd1a4e79241fee796b6ea003dd0ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:58.059Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026504206",
     "job_title": "Experienced AvionX Software Systems Engineer",
     "employer_name": "Boeing",
@@ -19847,18 +19877,18 @@
     "job_posted_at": "2026-04-03T07:01:58.059Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237158",
-    "job_title": "Enterprise Cybersecurity IT and Cyber Risk Expert",
+    "job_id": "workday-booz-allen-hamilton-R0237083",
+    "job_title": "Modeling and Simulation Engineer",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
+    "job_city": "Charlottesville",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-IT-and-Cyber-Risk-Expert_R0237158",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/Modeling-and-Simulation-Engineer_R0237083",
     "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3c5bafd2a43a89333f5a71458dbdc7070c40a062cd4da9df1eecb12d1def52ba",
+    "fingerprint": "734cc6e8fe553b5f96e89aff3a923cc9e03681a922e830bb112aa5380f882b57",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -19875,18 +19905,18 @@
     "job_posted_at": "2026-04-03T07:01:56.215Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237083",
-    "job_title": "Modeling and Simulation Engineer",
+    "job_id": "workday-booz-allen-hamilton-R0237158",
+    "job_title": "Enterprise Cybersecurity IT and Cyber Risk Expert",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "Charlottesville",
+    "job_city": "McLean",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/Modeling-and-Simulation-Engineer_R0237083",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-IT-and-Cyber-Risk-Expert_R0237158",
     "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "734cc6e8fe553b5f96e89aff3a923cc9e03681a922e830bb112aa5380f882b57",
+    "fingerprint": "3c5bafd2a43a89333f5a71458dbdc7070c40a062cd4da9df1eecb12d1def52ba",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -20996,6 +21026,35 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-03T07:01:33.327Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00179733",
+    "job_title": "Operations Support Technician/Technical Writer - Command and Control",
+    "employer_name": "Leidos",
+    "job_city": "Meridian",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Meridian-ID/Operations-Support-Technician-Technical-Writer---Command-and-Control_R-00179733",
+    "job_posted_at_datetime_utc": "2026-04-03T06:46:40.757Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c761d180d8410360ab0a50271fb96354bc6807db9fbd8dfd6414981cedd60128",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T06:46:40.757Z"
   },
   {
     "job_id": "workday-medtronic-R62770",
@@ -24540,34 +24599,6 @@
     "job_posted_at": "2026-04-02T07:03:32.341Z"
   },
   {
-    "job_id": "workday-leidos-R-00179811",
-    "job_title": "​​Salesforce Developer​",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/XMLNAME---Salesforce-Developer-_R-00179811",
-    "job_posted_at_datetime_utc": "2026-04-02T07:03:32.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "55debabc9621ff54c240285734129c0f973ada4b1e41bce7d5d29aa1e8ac1692",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:03:32.341Z"
-  },
-  {
     "job_id": "workday-leidos-R-00179884",
     "job_title": "Expert Software Developer",
     "employer_name": "Leidos",
@@ -24645,6 +24676,34 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:03:32.341Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00179811",
+    "job_title": "​​Salesforce Developer​",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/XMLNAME---Salesforce-Developer-_R-00179811",
+    "job_posted_at_datetime_utc": "2026-04-02T07:03:32.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "55debabc9621ff54c240285734129c0f973ada4b1e41bce7d5d29aa1e8ac1692",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -26092,34 +26151,6 @@
     "job_posted_at": "2026-04-02T07:01:56.580Z"
   },
   {
-    "job_id": "workday-salesforce-JR336780",
-    "job_title": "Signature Support Engineer",
-    "employer_name": "Salesforce",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Signature-Support-Engineer_JR336780",
-    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.580Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "703df8c591ce8ba0ef19979d7dd39e949199a426494dd0f92024fd660667561c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:01:56.580Z"
-  },
-  {
     "job_id": "workday-salesforce-JR334762",
     "job_title": "Software Engineering SMTS, Salesforce",
     "employer_name": "Salesforce",
@@ -26141,6 +26172,34 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:01:56.580Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR336780",
+    "job_title": "Signature Support Engineer",
+    "employer_name": "Salesforce",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Signature-Support-Engineer_JR336780",
+    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.580Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "703df8c591ce8ba0ef19979d7dd39e949199a426494dd0f92024fd660667561c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
