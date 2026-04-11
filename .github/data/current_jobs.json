@@ -4911,18 +4911,18 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-bbc72d03-7d44-465d-bc06-fdb6f017aedc",
-    "job_title": "Software Development Engineer, AWS NAT Gateway",
-    "employer_name": "Amazon Web Services, Inc.",
+    "job_id": "amazon-9681cbbd-0f0b-48f4-a663-5fa569b94129",
+    "job_title": "Software Development Engineer, EC2 UltraServer Availability",
+    "employer_name": "Amazon Development Center U.S., Inc.",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388667/software-development-engineer-aws-nat-gateway",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388616/software-development-engineer-ec2-ultraserver-availability",
     "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9ed3e9f28a7a86bb0bd4e721acea049f5037f87a9954ab75c2a57f3db4afda6b",
+    "fingerprint": "74d83f1b9e09edfde77ef87cf870d5008e2eef849c62c4e77fcf900c41670397",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4943,18 +4943,18 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-9681cbbd-0f0b-48f4-a663-5fa569b94129",
-    "job_title": "Software Development Engineer, EC2 UltraServer Availability",
-    "employer_name": "Amazon Development Center U.S., Inc.",
+    "job_id": "amazon-bbc72d03-7d44-465d-bc06-fdb6f017aedc",
+    "job_title": "Software Development Engineer, AWS NAT Gateway",
+    "employer_name": "Amazon Web Services, Inc.",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388616/software-development-engineer-ec2-ultraserver-availability",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388667/software-development-engineer-aws-nat-gateway",
     "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "74d83f1b9e09edfde77ef87cf870d5008e2eef849c62c4e77fcf900c41670397",
+    "fingerprint": "9ed3e9f28a7a86bb0bd4e721acea049f5037f87a9954ab75c2a57f3db4afda6b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6452,34 +6452,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-09T20:17:22.236Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR336805",
-    "job_title": "Database Engineer, Government Cloud",
-    "employer_name": "Salesforce",
-    "job_city": "California San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Database-Engineer--Government-Cloud_JR336805",
-    "job_posted_at_datetime_utc": "2026-04-09T20:05:47.037Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1c763e99dec582dc7d7bc2fdf6c757955d63565e56d347122e5569dffb4fa2cf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T20:05:47.037Z"
   },
   {
     "job_id": "workday-nvidia-JR2015607",
@@ -9294,6 +9266,35 @@
     "job_posted_at": "2026-04-09T14:48:55.412Z"
   },
   {
+    "job_id": "lever-mistral-7b20d2c8-d5a7-4efd-a13e-05d920ec5985",
+    "job_title": "AI Scientist - Palo Alto",
+    "employer_name": "Mistral AI",
+    "job_city": "Palo Alto",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/mistral/7b20d2c8-d5a7-4efd-a13e-05d920ec5985/apply",
+    "job_posted_at_datetime_utc": "2026-04-09T14:48:27.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b97547aee93a9fcfdcbd0426c8ac34288d7ffcb87b266abd27482b679ac78c2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-09T14:48:27.055Z"
+  },
+  {
     "job_id": "lever-mistral-bada0014-0f32-4370-b55f-81c5595c7339",
     "job_title": "Research Engineer, Machine Learning",
     "employer_name": "Mistral AI",
@@ -9318,35 +9319,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-09T14:48:27.055Z"
-  },
-  {
-    "job_id": "lever-mistral-7b20d2c8-d5a7-4efd-a13e-05d920ec5985",
-    "job_title": "AI Scientist - Palo Alto",
-    "employer_name": "Mistral AI",
-    "job_city": "Palo Alto",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/mistral/7b20d2c8-d5a7-4efd-a13e-05d920ec5985/apply",
-    "job_posted_at_datetime_utc": "2026-04-09T14:48:27.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6b97547aee93a9fcfdcbd0426c8ac34288d7ffcb87b266abd27482b679ac78c2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -10006,6 +9978,34 @@
     "job_posted_at": "2026-04-09T07:31:11.972Z"
   },
   {
+    "job_id": "workday-salesforce-JR336805",
+    "job_title": "Database Engineer, Government Cloud",
+    "employer_name": "Salesforce",
+    "job_city": "California San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Database-Engineer--Government-Cloud_JR336805",
+    "job_posted_at_datetime_utc": "2026-04-09T07:02:06.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1c763e99dec582dc7d7bc2fdf6c757955d63565e56d347122e5569dffb4fa2cf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:02:06.858Z"
+  },
+  {
     "job_id": "ashby-redis-45b1eedb-7301-4f7e-9bcb-77bfc949ac88",
     "job_title": "Site Reliability Engineer",
     "employer_name": "Redis",
@@ -10183,35 +10183,6 @@
     "job_posted_at": "2026-04-08T21:55:06-04:00"
   },
   {
-    "job_id": "js-leidos-5uqqqdi8ln5bmzrnaaaaaa==",
-    "job_title": "Junior Software Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.leidos.com/jobs/17529489-junior-software-engineer",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1cf29d16edb6ebad33cad1097d6441db147a262166447a0bf5b35d3490dd5389",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-93ff47c6-1b53-499d-9c6c-fe2f7d32c654",
     "job_title": "Software Development Engineer, Internet Monitoring",
     "employer_name": "Amazon Data Services, Inc.",
@@ -10234,6 +10205,38 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-c5e34350-3bd4-4e1d-856e-03cc81af7533",
+    "job_title": "Software Development Engineer, AWS Distributed SQL",
+    "employer_name": "Amazon Development Center U.S., Inc.",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10387286/software-development-engineer-aws-distributed-sql",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d2cd27e2d6831b2d5bda3cc9b9f2ca2d2e996598e663de5bb0e4b1e9273b7bfe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": [
         "faang",
         "fortune500"
@@ -10308,38 +10311,6 @@
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-c5e34350-3bd4-4e1d-856e-03cc81af7533",
-    "job_title": "Software Development Engineer, AWS Distributed SQL",
-    "employer_name": "Amazon Development Center U.S., Inc.",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10387286/software-development-engineer-aws-distributed-sql",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2cd27e2d6831b2d5bda3cc9b9f2ca2d2e996598e663de5bb0e4b1e9273b7bfe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-35570a57-9722-464e-b2f4-fef5a41ef732",
     "job_title": "Project Engineer, AWS - Northeast Construction",
     "employer_name": "Amazon Data Services, Inc.",
@@ -10368,6 +10339,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-leidos-5uqqqdi8ln5bmzrnaaaaaa==",
+    "job_title": "Junior Software Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.leidos.com/jobs/17529489-junior-software-engineer",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1cf29d16edb6ebad33cad1097d6441db147a262166447a0bf5b35d3490dd5389",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -15228,122 +15228,6 @@
     "job_posted_at": "2026-04-08T00:02:52.122Z"
   },
   {
-    "job_id": "js-amentum-f7b1mbpqg3saxzpmaaaaaa==",
-    "job_title": "Junior Software Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Dahlgren",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://veterans.amentumcareers.com/dahlgren-va/junior-software-engineer/401AB98F01154A99BB8728AC00EDC3A9/job/",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "CONTRACTOR",
-    "salary": null,
-    "fingerprint": "01ceff64b6a1a71d2858717a221b6ca1c4c61c2190700df67fada74e80a55626",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-confidential-l4s3_iz5qrmu6yczaaaaaa==",
-    "job_title": "Jr Software Engineer",
-    "employer_name": "confidential",
-    "job_city": "Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.apexsystems.com/job/3027274_usa/jr-software-engineer",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "CONTRACTOR",
-    "salary": null,
-    "fingerprint": "8108d0e6d3c61937de2862ba4cc8e89d0be911eec522047504e57793cea87046",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-elavon-inc-wzv5duudnsa7zjl1aaaaaa==",
-    "job_title": "Associate Software Engineer â€“ Customer Communication Templates",
-    "employer_name": "Elavon, Inc.",
-    "job_city": "Brookfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.theladders.com/job/associate-software-engineer-customer-communication-templates-usbank-brookfield-wi_86415071",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "105786759bced23a34213f7bf881291959a843eaa96112b75beb336a6f5cbbed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-morningstar-t_myghrricuqjttfaaaaaa==",
-    "job_title": "Associate Software Engineer, Credit Tech",
-    "employer_name": "Morningstar",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.morningstar.com/us/en/job/AP-23077420/Associate-Software-Engineer-Credit-Tech",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "df6e4dc5d226fc42b08c778a78d962ba209106c127991c3c79d00fe34f9c7043",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-adb1d596-2170-4461-bae5-2cfbe924e9ac",
     "job_title": "Software Development Engineer",
     "employer_name": "Amazon.com Services LLC",
@@ -15468,6 +15352,122 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-amentum-f7b1mbpqg3saxzpmaaaaaa==",
+    "job_title": "Junior Software Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Dahlgren",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://veterans.amentumcareers.com/dahlgren-va/junior-software-engineer/401AB98F01154A99BB8728AC00EDC3A9/job/",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "CONTRACTOR",
+    "salary": null,
+    "fingerprint": "01ceff64b6a1a71d2858717a221b6ca1c4c61c2190700df67fada74e80a55626",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-confidential-l4s3_iz5qrmu6yczaaaaaa==",
+    "job_title": "Jr Software Engineer",
+    "employer_name": "confidential",
+    "job_city": "Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.apexsystems.com/job/3027274_usa/jr-software-engineer",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "CONTRACTOR",
+    "salary": null,
+    "fingerprint": "8108d0e6d3c61937de2862ba4cc8e89d0be911eec522047504e57793cea87046",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-elavon-inc-wzv5duudnsa7zjl1aaaaaa==",
+    "job_title": "Associate Software Engineer â€“ Customer Communication Templates",
+    "employer_name": "Elavon, Inc.",
+    "job_city": "Brookfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.theladders.com/job/associate-software-engineer-customer-communication-templates-usbank-brookfield-wi_86415071",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "105786759bced23a34213f7bf881291959a843eaa96112b75beb336a6f5cbbed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-morningstar-t_myghrricuqjttfaaaaaa==",
+    "job_title": "Associate Software Engineer, Credit Tech",
+    "employer_name": "Morningstar",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.morningstar.com/us/en/job/AP-23077420/Associate-Software-Engineer-Credit-Tech",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "df6e4dc5d226fc42b08c778a78d962ba209106c127991c3c79d00fe34f9c7043",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -18732,34 +18732,6 @@
     "job_posted_at": "2026-04-07T07:06:18.911Z"
   },
   {
-    "job_id": "workday-expedia-group-R-104465",
-    "job_title": "Security Analyst I",
-    "employer_name": "Expedia Group",
-    "job_city": "Seattle Campus",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Security-Analyst-I_R-104465",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:10.441Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e61f238b858358aa69eabfe18fb9b9ec46fa6bb17512e22484cd05d2e8d1ad86",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:10.441Z"
-  },
-  {
     "job_id": "workday-crowdstrike-R26592",
     "job_title": "Platform Security Engineer (Remote, East/Central)",
     "employer_name": "CrowdStrike",
@@ -20140,6 +20112,34 @@
     "job_posted_at": "2026-04-07T07:04:53.322Z"
   },
   {
+    "job_id": "workday-expedia-group-R-104465",
+    "job_title": "Security Analyst I",
+    "employer_name": "Expedia Group",
+    "job_city": "Seattle Campus",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Security-Analyst-I_R-104465",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:49.126Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e61f238b858358aa69eabfe18fb9b9ec46fa6bb17512e22484cd05d2e8d1ad86",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:01:49.126Z"
+  },
+  {
     "job_id": "workday-vanguard-176391",
     "job_title": "Network Engineer",
     "employer_name": "Vanguard",
@@ -20989,35 +20989,6 @@
     "job_posted_at": "2026-04-06T20:30:16-04:00"
   },
   {
-    "job_id": "js-the-mitre-corporation-il5gdjuyecbpet7raaaaaa==",
-    "job_title": "Entry Level - Software Engineering or Computer Science",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115689/Entry-Level-Software-Engineering-or-Computer-Science",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c851c2f544be0cf834a0f83210f01f86d0e591d150314eee40d6fa4f6c2e89ec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-638fbdb9-f1c1-4943-8621-7f40604ed9fd",
     "job_title": "Software Development Engineer, Devices Software & Services",
     "employer_name": "Amazon.com Services LLC",
@@ -21239,6 +21210,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-the-mitre-corporation-il5gdjuyecbpet7raaaaaa==",
+    "job_title": "Entry Level - Software Engineering or Computer Science",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115689/Entry-Level-Software-Engineering-or-Computer-Science",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c851c2f544be0cf834a0f83210f01f86d0e591d150314eee40d6fa4f6c2e89ec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -26798,64 +26798,6 @@
     "job_posted_at": "2026-04-06T00:09:24.209Z"
   },
   {
-    "job_id": "js-www-rozj9rs0yg4t5zqfaaaaaa==",
-    "job_title": "Junior Software Engineer",
-    "employer_name": "Www",
-    "job_city": "Clarks Summit",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careercenter.iapmo.org/job/junior-software-engineer-clarks-summit-pa-5448c3b1d0fd57520c4e050ed98c8a65b",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "5a0787b77d99822aa8ca19bbe379a57e26c15ea8425b252e4a6d35e5da392cd5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-vtg-qk6ajeg3nje9_gepaaaaaa==",
-    "job_title": "Associate Systems Engineer",
-    "employer_name": "VTG",
-    "job_city": "Manassas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.vtgdefense.com/jobs/8986?lang=en-us",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "aff80bf7147f4062596ad522802707a5a7da7358bb79046ef279f695a8beb10f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-3e068193-9b6f-419d-8267-231b5cb6fe37",
     "job_title": "Software Development Engineer, OneMHS",
     "employer_name": "Amazon.com Services LLC",
@@ -26981,6 +26923,64 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-www-rozj9rs0yg4t5zqfaaaaaa==",
+    "job_title": "Junior Software Engineer",
+    "employer_name": "Www",
+    "job_city": "Clarks Summit",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careercenter.iapmo.org/job/junior-software-engineer-clarks-summit-pa-5448c3b1d0fd57520c4e050ed98c8a65b",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "5a0787b77d99822aa8ca19bbe379a57e26c15ea8425b252e4a6d35e5da392cd5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-vtg-qk6ajeg3nje9_gepaaaaaa==",
+    "job_title": "Associate Systems Engineer",
+    "employer_name": "VTG",
+    "job_city": "Manassas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.vtgdefense.com/jobs/8986?lang=en-us",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "aff80bf7147f4062596ad522802707a5a7da7358bb79046ef279f695a8beb10f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -27823,34 +27823,5 @@
     "_source": "aggregator",
     "_original_source": "eightfold",
     "job_posted_at": "2026-04-04T15:25:21.530Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026504400",
-    "job_title": "Associate Propulsion System Integration Engineer",
-    "employer_name": "Boeing",
-    "job_city": "North Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Propulsion-System-Integration-Engineer_JR2026504400-1",
-    "job_posted_at_datetime_utc": "2026-04-04T07:03:40.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e66b434e8bfff2c21062d594e1c68fb9af9027ce0d869c7a4e49344729333f38",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T07:03:40.944Z"
   }
 ]
