@@ -179,7 +179,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Skills | Visa | Location | Posted | **Apply** |
 |---------|------|--------|------|----------|--------|----------|
-| 🏢 **ServiceNow** | ServiceNow AI.Accelerate Bootcamp | analytics, api, computer science |  | Santa Clara | 37m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000120218287) |
+| 🏢 **ServiceNow** | ServiceNow AI.Accelerate Bootcamp | analytics, api, computer science |  | Santa Clara | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000120218287) |
 | 🏢 **Thermo Fisher Scientific** | Regional Security Operations Center (RSOC) Supervisor | dashboards, gdpr, incident response |  | Cincinnati | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Regional-Security-Operations-Center--RSOC--Supervisor_R-01346963) |
 | 🏢 **Zoom** | Site Reliability Engineer | api, azure, azure devops |  | San Jose | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18679) |
 | 🏢 **Zoom** | Software Engineer | api, aws, computer science |  | San Jose | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R18600) |
