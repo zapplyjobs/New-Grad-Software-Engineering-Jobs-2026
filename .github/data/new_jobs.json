@@ -25,6 +25,37 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "angular",
+        "aws",
+        "azure",
+        "ci/cd",
+        "computer science",
+        "confluence",
+        "cybersecurity",
+        "docker",
+        "gitlab",
+        "go",
+        "java",
+        "javascript",
+        "jira",
+        "kubernetes",
+        "microservices",
+        "mysql",
+        "postgresql",
+        "program management",
+        "project management",
+        "python",
+        "react"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Title: Junior Software Engineer Belong.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-12T21:49:47.696Z"
   },
   {
@@ -3059,6 +3090,173 @@
     "job_posted_at": "2026-04-10T07:06:46.956Z"
   },
   {
+    "job_id": "workday-trimble-R55074",
+    "job_title": "Software Development Engineer in Test",
+    "employer_name": "Trimble",
+    "job_city": "OR, Lake Oswego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Development-Engineer-in-Test_R55074",
+    "job_posted_at_datetime_utc": "2026-04-10T07:06:46.483Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "690784b48d0e3f929334f79519243620fc47bf0aa0577602ccae9b676cc4d764",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "azure",
+        "azure devops",
+        "c#",
+        "devops",
+        "https",
+        "less",
+        "oracle",
+        "regression",
+        "selenium",
+        "sql",
+        "sql server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Elevate Software Quality as our next Software Development Engineer in Test!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:06:46.483Z"
+  },
+  {
+    "job_id": "workday-trimble-R53064",
+    "job_title": "Site Reliability Engineer",
+    "employer_name": "Trimble",
+    "job_city": "US CO Westminster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/FedRAMP-Site-Reliability-Engineer-II_R53064",
+    "job_posted_at_datetime_utc": "2026-04-10T07:06:46.483Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9a019f649bc5ecb2c4dcdb515cefa54491e354030f1a447cfd429e91665b047e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "active directory",
+        "analytics",
+        "ansible",
+        "aws",
+        "azure",
+        "bash",
+        "change management",
+        "computer science",
+        "devops",
+        "ecs",
+        "eks",
+        "grafana",
+        "https",
+        "infrastructure as code",
+        "kubernetes",
+        "ldap",
+        "less",
+        "linux",
+        "networking",
+        "observability",
+        "perl",
+        "powershell",
+        "python",
+        "scalability",
+        "sre",
+        "terraform",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Shape the Future of Cloud Infrastructure as our next Site Reliability Engineer!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:06:46.483Z"
+  },
+  {
+    "job_id": "workday-trimble-R52982",
+    "job_title": "Software Engineer",
+    "employer_name": "Trimble",
+    "job_city": "CO, Westminster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineer_R52982",
+    "job_posted_at_datetime_utc": "2026-04-10T07:06:46.483Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8d8e29cc08c12ff505a908b9c3e138ffb7553c6d035442a8504d26c5137e56f0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "api",
+        "aws",
+        "azure",
+        "ci/cd",
+        "design patterns",
+        "https",
+        "java",
+        "less",
+        "microservices",
+        "react",
+        "react.js",
+        "rest",
+        "rest api"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Architect the Future of Digital Construction as a Software Engineer with our team in Westminster, CO!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:06:46.483Z"
+  },
+  {
     "job_id": "workday-trimble-R54818",
     "job_title": "Software Development Engineer in Test",
     "employer_name": "Trimble",
@@ -3387,173 +3585,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Empower Global Infrastructure as our Next Systems Support Specialist (B2W)!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:06:46.483Z"
-  },
-  {
-    "job_id": "workday-trimble-R55074",
-    "job_title": "Software Development Engineer in Test",
-    "employer_name": "Trimble",
-    "job_city": "OR, Lake Oswego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Development-Engineer-in-Test_R55074",
-    "job_posted_at_datetime_utc": "2026-04-10T07:06:46.483Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "690784b48d0e3f929334f79519243620fc47bf0aa0577602ccae9b676cc4d764",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "azure",
-        "azure devops",
-        "c#",
-        "devops",
-        "https",
-        "less",
-        "oracle",
-        "regression",
-        "selenium",
-        "sql",
-        "sql server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Elevate Software Quality as our next Software Development Engineer in Test!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:06:46.483Z"
-  },
-  {
-    "job_id": "workday-trimble-R53064",
-    "job_title": "Site Reliability Engineer",
-    "employer_name": "Trimble",
-    "job_city": "US CO Westminster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/FedRAMP-Site-Reliability-Engineer-II_R53064",
-    "job_posted_at_datetime_utc": "2026-04-10T07:06:46.483Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9a019f649bc5ecb2c4dcdb515cefa54491e354030f1a447cfd429e91665b047e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "active directory",
-        "analytics",
-        "ansible",
-        "aws",
-        "azure",
-        "bash",
-        "change management",
-        "computer science",
-        "devops",
-        "ecs",
-        "eks",
-        "grafana",
-        "https",
-        "infrastructure as code",
-        "kubernetes",
-        "ldap",
-        "less",
-        "linux",
-        "networking",
-        "observability",
-        "perl",
-        "powershell",
-        "python",
-        "scalability",
-        "sre",
-        "terraform",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Shape the Future of Cloud Infrastructure as our next Site Reliability Engineer!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:06:46.483Z"
-  },
-  {
-    "job_id": "workday-trimble-R52982",
-    "job_title": "Software Engineer",
-    "employer_name": "Trimble",
-    "job_city": "CO, Westminster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineer_R52982",
-    "job_posted_at_datetime_utc": "2026-04-10T07:06:46.483Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d8e29cc08c12ff505a908b9c3e138ffb7553c6d035442a8504d26c5137e56f0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "api",
-        "aws",
-        "azure",
-        "ci/cd",
-        "design patterns",
-        "https",
-        "java",
-        "less",
-        "microservices",
-        "react",
-        "react.js",
-        "rest",
-        "rest api"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Architect the Future of Digital Construction as a Software Engineer with our team in Westminster, CO!",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:06:46.483Z"
@@ -4349,6 +4380,96 @@
     "job_posted_at": "2026-04-10T07:05:13.057Z"
   },
   {
+    "job_id": "workday-kbr-R2121814",
+    "job_title": "Junior Communications Systems Software Engineer",
+    "employer_name": "KBR",
+    "job_city": "Beavercreek",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Communications-Systems-Software-Engineer_R2121814",
+    "job_posted_at_datetime_utc": "2026-04-10T07:05:12.778Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aa9d770a88079a2ab6afb3eac68e3143c207408755145c3dbf12bf3a82526f3f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "ci/cd",
+        "computer science",
+        "cybersecurity",
+        "linux",
+        "networking",
+        "program management",
+        "python",
+        "regression",
+        "rf",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Title: Junior Communications Systems Software Engineer Why Join Us?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:05:12.778Z"
+  },
+  {
+    "job_id": "workday-kbr-R2121807",
+    "job_title": "Cyber Security Analyst",
+    "employer_name": "KBR",
+    "job_city": "Chantilly",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Cyber-Security-Analyst_R2121807",
+    "job_posted_at_datetime_utc": "2026-04-10T07:05:12.778Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b0fb020e1b682b44cac122c0a309258bafe562e8aed47d8e318bd6790265084",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "cyber security",
+        "cybersecurity",
+        "data integration",
+        "program management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Title: Cyber Security Analyst Belong.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:05:12.778Z"
+  },
+  {
     "job_id": "workday-kbr-R2121824",
     "job_title": "Reverse Engineer",
     "employer_name": "KBR",
@@ -4494,96 +4615,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Title: Communications Systems Software Engineer Why Join Us?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:05:12.778Z"
-  },
-  {
-    "job_id": "workday-kbr-R2121814",
-    "job_title": "Junior Communications Systems Software Engineer",
-    "employer_name": "KBR",
-    "job_city": "Beavercreek",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Communications-Systems-Software-Engineer_R2121814",
-    "job_posted_at_datetime_utc": "2026-04-10T07:05:12.778Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aa9d770a88079a2ab6afb3eac68e3143c207408755145c3dbf12bf3a82526f3f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "ci/cd",
-        "computer science",
-        "cybersecurity",
-        "linux",
-        "networking",
-        "program management",
-        "python",
-        "regression",
-        "rf",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Title: Junior Communications Systems Software Engineer Why Join Us?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:05:12.778Z"
-  },
-  {
-    "job_id": "workday-kbr-R2121807",
-    "job_title": "Cyber Security Analyst",
-    "employer_name": "KBR",
-    "job_city": "Chantilly",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Cyber-Security-Analyst_R2121807",
-    "job_posted_at_datetime_utc": "2026-04-10T07:05:12.778Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b0fb020e1b682b44cac122c0a309258bafe562e8aed47d8e318bd6790265084",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "cyber security",
-        "cybersecurity",
-        "data integration",
-        "program management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Title: Cyber Security Analyst Belong.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:05:12.778Z"
@@ -5594,137 +5625,6 @@
     "job_posted_at": "2026-04-10T07:03:54.013Z"
   },
   {
-    "job_id": "workday-boeing-JR2026504382",
-    "job_title": "Airplane Performance Software Engineer (Associate)",
-    "employer_name": "Boeing",
-    "job_city": "Seal Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Airplane-Performance-Software-Engineer--Associate-_JR2026504382-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc3b3d844d8846fbcae107787524103f92f5396b9ecdc769b3ad3bbe9965aeb6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "c++",
-        "ci/cd",
-        "computer science",
-        "data science",
-        "fortran",
-        "java",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Airplane Performance Software Engineer (Associate) Company: The Boeing Company Boeing Commercial Airplanes (BCA) is seeking an Airplane Performance Software Engineer ( Associate) to join our Flight Op…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:54.012Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026500796",
-    "job_title": "Experienced Product Security Engineer",
-    "employer_name": "Boeing",
-    "job_city": "Hazelwood",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Product-Security-Engineer_JR2026500796-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7eb5b1dabc673519c79caa2dcbc7bc5c0cbf53abb940766b6ec7f42a86b35c3d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "cyber security",
-        "cybersecurity",
-        "data science",
-        "less",
-        "nist",
-        "owasp"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Experienced Product Security Engineer Company: The Boeing Company The Boeing Company is looking for an Experienced Product Security Engineer to join the Government Vehicle Health Management Systems (G…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:54.012Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026502984",
-    "job_title": "Quality Systems Specialist",
-    "employer_name": "Boeing",
-    "job_city": "Salt Lake City",
-    "job_state": "UT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Salt-Lake-City-UT/Quality-Systems-Specialist_JR2026502984",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f42dac876a00ef0c90eacbc3464624c2e0e4969e822c7c029bc147e570e25a09",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "excel",
-        "microsoft office",
-        "six sigma",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Quality Systems Specialist Company: The Boeing Company Boeing Commercial Airplanes (BCA ) has an exciting opportunity for an Associate or Experienced Quality Systems Specialist (Level 2 or 3) to join…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:54.012Z"
-  },
-  {
     "job_id": "workday-boeing-JR2026502931",
     "job_title": "Software Engineer (Associate or Experienced)",
     "employer_name": "Boeing",
@@ -5977,18 +5877,18 @@
     "job_posted_at": "2026-04-10T07:03:54.012Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237521",
-    "job_title": "Public Key Infrastructure Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
+    "job_id": "workday-boeing-JR2026504382",
+    "job_title": "Airplane Performance Software Engineer (Associate)",
+    "employer_name": "Boeing",
+    "job_city": "Seal Beach",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Public-Key-Infrastructure-Engineer_R0237521",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Airplane-Performance-Software-Engineer--Associate-_JR2026504382-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "8bf7e197fc0f5ec90646b95210be519d091fa0841083da36733c37f80e346de2",
+    "fingerprint": "bc3b3d844d8846fbcae107787524103f92f5396b9ecdc769b3ad3bbe9965aeb6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5997,27 +5897,115 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "active directory",
-        "cybersecurity",
-        "iam",
-        "linux",
-        "pki",
-        "zero trust"
+        "agile",
+        "c++",
+        "ci/cd",
+        "computer science",
+        "data science",
+        "fortran",
+        "java",
+        "python"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "Public Key Infrastructure Engineer The Opportunity: You know that the user is the last frontier for cybersecurity.",
+      "summary_line": "Airplane Performance Software Engineer (Associate) Company: The Boeing Company Boeing Commercial Airplanes (BCA) is seeking an Airplane Performance Software Engineer ( Associate) to join our Flight Op…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
+    "job_posted_at": "2026-04-10T07:03:54.012Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026500796",
+    "job_title": "Experienced Product Security Engineer",
+    "employer_name": "Boeing",
+    "job_city": "Hazelwood",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Product-Security-Engineer_JR2026500796-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7eb5b1dabc673519c79caa2dcbc7bc5c0cbf53abb940766b6ec7f42a86b35c3d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "cyber security",
+        "cybersecurity",
+        "data science",
+        "less",
+        "nist",
+        "owasp"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Experienced Product Security Engineer Company: The Boeing Company The Boeing Company is looking for an Experienced Product Security Engineer to join the Government Vehicle Health Management Systems (G…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:54.012Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026502984",
+    "job_title": "Quality Systems Specialist",
+    "employer_name": "Boeing",
+    "job_city": "Salt Lake City",
+    "job_state": "UT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Salt-Lake-City-UT/Quality-Systems-Specialist_JR2026502984",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f42dac876a00ef0c90eacbc3464624c2e0e4969e822c7c029bc147e570e25a09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "excel",
+        "microsoft office",
+        "six sigma",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Quality Systems Specialist Company: The Boeing Company Boeing Commercial Airplanes (BCA ) has an exciting opportunity for an Associate or Experienced Quality Systems Specialist (Level 2 or 3) to join…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:54.012Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0231665",
@@ -6825,18 +6813,18 @@
     "job_posted_at": "2026-04-10T07:03:52.797Z"
   },
   {
-    "job_id": "workday-caci-324769",
-    "job_title": "Help Desk Support Specialist",
-    "employer_name": "CACI",
-    "job_city": "US SC North Charleston",
-    "job_state": "",
+    "job_id": "workday-booz-allen-hamilton-R0237521",
+    "job_title": "Public Key Infrastructure Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-SC-North-Charleston/Help-Desk-Support-Specialist_324769",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Public-Key-Infrastructure-Engineer_R0237521",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "70cdf5411b6670b80f3ccfcbd6c0c8cd2c21612b0b9f2ef92c00c171f74f4922",
+    "fingerprint": "8bf7e197fc0f5ec90646b95210be519d091fa0841083da36733c37f80e346de2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6845,201 +6833,27 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "agile",
-        "computer science",
-        "confluence",
-        "jira",
-        "microsoft office",
-        "networking",
-        "project management",
-        "sql",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Help Desk Support Specialist Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: Up t…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:43.576Z"
-  },
-  {
-    "job_id": "workday-caci-324757",
-    "job_title": "SATCOM Help Desk Technician Tier 1 - Junior",
-    "employer_name": "CACI",
-    "job_city": "US FL Macdill AFB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Macdill-AFB/SATCOM-Help-Desk-Technician-Tier-1---Junior_324757",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ffa1230e7a2236073d2ff799f4b62174352954967298613e5e31f24f32b7457",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "incident response"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: SATCOM Help Desk Technician Tier 1 - Junior Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:43.576Z"
-  },
-  {
-    "job_id": "workday-caci-324761",
-    "job_title": "SATCOM Help Desk Technician Tier 2 - Journeyman",
-    "employer_name": "CACI",
-    "job_city": "US FL Macdill AFB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Macdill-AFB/SATCOM-Help-Desk-Technician-Tier-2---Journeyman_324761",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2e957b63179e7fd1b91dbc137fd18cc9a299477dfea8a0d47fc15f80b2e44141",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "incident response"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: SATCOM Help Desk Technician Tier 2 - Journeyman Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Tr…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:43.576Z"
-  },
-  {
-    "job_id": "workday-caci-324756",
-    "job_title": "Mechanical Systems Engineer",
-    "employer_name": "CACI",
-    "job_city": "US VA Sterling",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Mechanical-Systems-Engineer_324756",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4b6756f74d1e4ba5ee6527899763ddeff0c6bef7be810627150d9233d542edd1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "matlab",
-        "microsoft office",
-        "project management",
-        "python",
-        "solidworks",
-        "system design",
-        "visio"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Mechanical Systems Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required: U…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:43.576Z"
-  },
-  {
-    "job_id": "workday-caci-320438",
-    "job_title": "Systems Administrator - CSfC",
-    "employer_name": "CACI",
-    "job_city": "US NC Fort Bragg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Systems-Administrator---CSfC_320438",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b958c5d33c27b1a44e5a539b2385ce421fe359c7dfda087a1dad775fc5daabe9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cyber security",
+        "active directory",
         "cybersecurity",
-        "dns",
-        "ids",
-        "incident response",
-        "ips",
-        "network security",
-        "networking",
-        "risk management",
-        "siem",
-        "soc",
-        "tcp/ip",
-        "vpn"
+        "iam",
+        "linux",
+        "pki",
+        "zero trust"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "Job Title: Systems Administrator - CSfC Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up t…",
+      "summary_line": "Public Key Infrastructure Engineer The Opportunity: You know that the user is the last frontier for cybersecurity.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-10T07:03:43.576Z"
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
   },
   {
     "job_id": "workday-caci-324743",
@@ -7583,6 +7397,223 @@
     "job_posted_at": "2026-04-10T07:03:43.576Z"
   },
   {
+    "job_id": "workday-caci-324769",
+    "job_title": "Help Desk Support Specialist",
+    "employer_name": "CACI",
+    "job_city": "US SC North Charleston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-SC-North-Charleston/Help-Desk-Support-Specialist_324769",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "70cdf5411b6670b80f3ccfcbd6c0c8cd2c21612b0b9f2ef92c00c171f74f4922",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "confluence",
+        "jira",
+        "microsoft office",
+        "networking",
+        "project management",
+        "sql",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Help Desk Support Specialist Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: Up t…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:43.576Z"
+  },
+  {
+    "job_id": "workday-caci-324757",
+    "job_title": "SATCOM Help Desk Technician Tier 1 - Junior",
+    "employer_name": "CACI",
+    "job_city": "US FL Macdill AFB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Macdill-AFB/SATCOM-Help-Desk-Technician-Tier-1---Junior_324757",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ffa1230e7a2236073d2ff799f4b62174352954967298613e5e31f24f32b7457",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "incident response"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: SATCOM Help Desk Technician Tier 1 - Junior Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:43.576Z"
+  },
+  {
+    "job_id": "workday-caci-324761",
+    "job_title": "SATCOM Help Desk Technician Tier 2 - Journeyman",
+    "employer_name": "CACI",
+    "job_city": "US FL Macdill AFB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Macdill-AFB/SATCOM-Help-Desk-Technician-Tier-2---Journeyman_324761",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e957b63179e7fd1b91dbc137fd18cc9a299477dfea8a0d47fc15f80b2e44141",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "incident response"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: SATCOM Help Desk Technician Tier 2 - Journeyman Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Tr…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:43.576Z"
+  },
+  {
+    "job_id": "workday-caci-324756",
+    "job_title": "Mechanical Systems Engineer",
+    "employer_name": "CACI",
+    "job_city": "US VA Sterling",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Mechanical-Systems-Engineer_324756",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4b6756f74d1e4ba5ee6527899763ddeff0c6bef7be810627150d9233d542edd1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "matlab",
+        "microsoft office",
+        "project management",
+        "python",
+        "solidworks",
+        "system design",
+        "visio"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Mechanical Systems Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required: U…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:43.576Z"
+  },
+  {
+    "job_id": "workday-caci-320438",
+    "job_title": "Systems Administrator - CSfC",
+    "employer_name": "CACI",
+    "job_city": "US NC Fort Bragg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Systems-Administrator---CSfC_320438",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b958c5d33c27b1a44e5a539b2385ce421fe359c7dfda087a1dad775fc5daabe9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cyber security",
+        "cybersecurity",
+        "dns",
+        "ids",
+        "incident response",
+        "ips",
+        "network security",
+        "networking",
+        "risk management",
+        "siem",
+        "soc",
+        "tcp/ip",
+        "vpn"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Systems Administrator - CSfC Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up t…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:43.576Z"
+  },
+  {
     "job_id": "workday-abbott-31147255",
     "job_title": "IT Business Systems Analyst",
     "employer_name": "Abbott",
@@ -7759,34 +7790,6 @@
     "job_posted_at": "2026-04-10T07:03:34.286Z"
   },
   {
-    "job_id": "workday-arrow-electronics-R239582",
-    "job_title": "Vulnerability Management Specialist (Web Application)",
-    "employer_name": "Arrow Electronics",
-    "job_city": "Ka",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://arrow.wd1.myworkdayjobs.com/AC/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Vulnerability-Management-Specialist--Web-Application-_R239582",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:29.152Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c031ef827e9638bb31e3072dc57b68c563033e4cfb47267d515f49bd2974ca6a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:03:29.152Z"
-  },
-  {
     "job_id": "workday-arrow-electronics-R242702",
     "job_title": "Palo Alto Technical Support Engineer",
     "employer_name": "Arrow Electronics",
@@ -7837,6 +7840,34 @@
       "summary_line": "Position: Palo Alto Technical Support Engineer Job Description: What You’ll Be Doing Te chni ca l Leadership & Team Management Act as a Technical Team Lead of Tier 1 - 3 Support Engineers Provide coac…",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-10T07:03:29.152Z"
+  },
+  {
+    "job_id": "workday-arrow-electronics-R239582",
+    "job_title": "Vulnerability Management Specialist (Web Application)",
+    "employer_name": "Arrow Electronics",
+    "job_city": "Ka",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://arrow.wd1.myworkdayjobs.com/AC/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Vulnerability-Management-Specialist--Web-Application-_R239582",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:29.152Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c031ef827e9638bb31e3072dc57b68c563033e4cfb47267d515f49bd2974ca6a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-10T07:03:29.152Z"
   },
   {
@@ -8170,6 +8201,49 @@
     "job_posted_at": "2026-04-10T00:47:02.393Z"
   },
   {
+    "job_id": "workday-boston-dynamics-R2063",
+    "job_title": "Perception Systems Engineer",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Principal-Systems-Engineer_R2063",
+    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "47f21e8ee7756eaf281bd70e982d8851e670b011b0a444df119aab99e0f43cac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "fault tree",
+        "fault tree analysis",
+        "fmea",
+        "r",
+        "robotics",
+        "safety analysis"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "As a Perception Systems Engineer on the Perception and Safety R&D Team , you will join a small cross-functional group developing robotic perception technologies that will enable our robots to operate…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:47:02.392Z"
+  },
+  {
     "job_id": "workday-boston-dynamics-R2182",
     "job_title": "Teleoperations Research Engineer, Atlas",
     "employer_name": "Boston Dynamics",
@@ -8268,49 +8342,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "ML Ops Engineer, Central Software Boston Dynamics’ mission is to image and create robots that enrich people’s lives.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:47:02.392Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2063",
-    "job_title": "Perception Systems Engineer",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Principal-Systems-Engineer_R2063",
-    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "47f21e8ee7756eaf281bd70e982d8851e670b011b0a444df119aab99e0f43cac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fault tree",
-        "fault tree analysis",
-        "fmea",
-        "r",
-        "robotics",
-        "safety analysis"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "As a Perception Systems Engineer on the Perception and Safety R&D Team , you will join a small cross-functional group developing robotic perception technologies that will enable our robots to operate…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:47:02.392Z"
@@ -8457,62 +8488,6 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-bbc72d03-7d44-465d-bc06-fdb6f017aedc",
-    "job_title": "Software Development Engineer, AWS NAT Gateway",
-    "employer_name": "Amazon Web Services, Inc.",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388667/software-development-engineer-aws-nat-gateway",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9ed3e9f28a7a86bb0bd4e721acea049f5037f87a9954ab75c2a57f3db4afda6b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "c++",
-        "computer science",
-        "design patterns",
-        "distributed systems",
-        "html",
-        "http",
-        "https",
-        "java",
-        "networking",
-        "rust",
-        "scalability",
-        "tcp/ip",
-        "tls",
-        "vpc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "The AWS Networking Services & Edge organization owns the design, infrastructure and operation of AWS networking services.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-29246370-5e0e-47b4-a1b0-45006c4aac1e",
     "job_title": "Software Development Engineer, Advertiser 1P Data",
     "employer_name": "Amazon.com Services LLC",
@@ -8565,6 +8540,62 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Are you interested in building a green field product opportunity within Amazon Advertising?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-bbc72d03-7d44-465d-bc06-fdb6f017aedc",
+    "job_title": "Software Development Engineer, AWS NAT Gateway",
+    "employer_name": "Amazon Web Services, Inc.",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388667/software-development-engineer-aws-nat-gateway",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9ed3e9f28a7a86bb0bd4e721acea049f5037f87a9954ab75c2a57f3db4afda6b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "c++",
+        "computer science",
+        "design patterns",
+        "distributed systems",
+        "html",
+        "http",
+        "https",
+        "java",
+        "networking",
+        "rust",
+        "scalability",
+        "tcp/ip",
+        "tls",
+        "vpc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The AWS Networking Services & Edge organization owns the design, infrastructure and operation of AWS networking services.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
@@ -8725,104 +8756,6 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-8c821cf1-f8cc-4368-a32d-1780065a1c7b",
-    "job_title": "Project Engineer",
-    "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388867/project-engineer",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "21723406e3af2b5713feffdba2e81ad2226b776303096cc6cf4b35d043b8e8fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "amazon web services",
-        "aws",
-        "commissioning",
-        "dashboards",
-        "https",
-        "networking",
-        "project management",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-6ae6ca99-55e7-4044-a740-24ae31260f00",
-    "job_title": "Project Engineer",
-    "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388873/project-engineer",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6dfab1a81681efc0f1f663532cfef3ed6564fbfb2c918104b0ba240d2666d33c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "amazon web services",
-        "aws",
-        "commissioning",
-        "dashboards",
-        "excel",
-        "https",
-        "microsoft office",
-        "networking",
-        "project management",
-        "vendor management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-bdf903b9-c2ce-4164-8191-1c9195a2add4",
     "job_title": "Project Engineer",
     "employer_name": "Amazon Data Services, Inc.",
@@ -8883,6 +8816,104 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8cf07a3c768ec329c7389a245e00a3fe99fcdf1854cefa2a1f28839567248e6f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "amazon web services",
+        "aws",
+        "commissioning",
+        "dashboards",
+        "excel",
+        "https",
+        "microsoft office",
+        "networking",
+        "project management",
+        "vendor management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-8c821cf1-f8cc-4368-a32d-1780065a1c7b",
+    "job_title": "Project Engineer",
+    "employer_name": "Amazon Data Services, Inc.",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388867/project-engineer",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "21723406e3af2b5713feffdba2e81ad2226b776303096cc6cf4b35d043b8e8fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "amazon web services",
+        "aws",
+        "commissioning",
+        "dashboards",
+        "https",
+        "networking",
+        "project management",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-6ae6ca99-55e7-4044-a740-24ae31260f00",
+    "job_title": "Project Engineer",
+    "employer_name": "Amazon Data Services, Inc.",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388873/project-engineer",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6dfab1a81681efc0f1f663532cfef3ed6564fbfb2c918104b0ba240d2666d33c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11342,54 +11373,6 @@
     "job_posted_at": "2026-04-09T14:50:38.645Z"
   },
   {
-    "job_id": "lever-mistral-bada0014-0f32-4370-b55f-81c5595c7339",
-    "job_title": "Research Engineer, Machine Learning",
-    "employer_name": "Mistral AI",
-    "job_city": "Palo Alto",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/mistral/bada0014-0f32-4370-b55f-81c5595c7339/apply",
-    "job_posted_at_datetime_utc": "2026-04-09T14:48:27.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3eeb4105653741d7a82301ef3435d2d8c353a60242518e88bf620d48e05f649c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "computer science",
-        "deep learning",
-        "k8s",
-        "llm",
-        "nlp",
-        "pytorch",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": "About you  • Master’s or PhD in Computer Science (or equivalent proven track record).",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T14:48:27.055Z"
-  },
-  {
     "job_id": "lever-mistral-7b20d2c8-d5a7-4efd-a13e-05d920ec5985",
     "job_title": "AI Scientist - Palo Alto",
     "employer_name": "Mistral AI",
@@ -11433,6 +11416,54 @@
       "visa_question_present": false,
       "is_simple_apply": true,
       "summary_line": "About you   *You are a highly proficient software engineer in at least one programming language (Python or other, e.g.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T14:48:27.055Z"
+  },
+  {
+    "job_id": "lever-mistral-bada0014-0f32-4370-b55f-81c5595c7339",
+    "job_title": "Research Engineer, Machine Learning",
+    "employer_name": "Mistral AI",
+    "job_city": "Palo Alto",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/mistral/bada0014-0f32-4370-b55f-81c5595c7339/apply",
+    "job_posted_at_datetime_utc": "2026-04-09T14:48:27.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3eeb4105653741d7a82301ef3435d2d8c353a60242518e88bf620d48e05f649c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "computer science",
+        "deep learning",
+        "k8s",
+        "llm",
+        "nlp",
+        "pytorch",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "About you  • Master’s or PhD in Computer Science (or equivalent proven track record).",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T14:48:27.055Z"
@@ -13616,6 +13647,110 @@
     "job_posted_at": "2026-04-09T07:06:25.982Z"
   },
   {
+    "job_id": "workday-rtx-01837021",
+    "job_title": "2026 Raytheon Full Time-Formal Qualification Testing  Software Engineer I -(Onsite)",
+    "employer_name": "RTX",
+    "job_city": "MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time-Formal-Qualification-Testing--Software-Engineer-I---Onsite-_01837021",
+    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c46c62db0b1b2f27316d342f77438a4edf16815a874810f60cc0575fbe4b0712",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "bash",
+        "clearcase",
+        "computer science",
+        "data analysis",
+        "https",
+        "ibm doors",
+        "jira",
+        "matlab",
+        "perl",
+        "python",
+        "radar"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:06:25.981Z"
+  },
+  {
+    "job_id": "workday-rtx-01836680",
+    "job_title": "2026  Raytheon Full Time- Software Engineer I -(Onsite)",
+    "employer_name": "RTX",
+    "job_city": "IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01836680",
+    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e5f610f015aeb8fe141524692365ca6ea46b7eefb31cf592086f14889379e879",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "azure",
+        "azure devops",
+        "c#",
+        "c++",
+        "devops",
+        "git",
+        "https",
+        "java",
+        "linux",
+        "perl",
+        "python",
+        "r",
+        "rtos",
+        "shell",
+        "tcp/ip",
+        "unix",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6 Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:06:25.981Z"
+  },
+  {
     "job_id": "workday-rtx-01833936",
     "job_title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
     "employer_name": "RTX",
@@ -13821,110 +13956,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1 Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:06:25.981Z"
-  },
-  {
-    "job_id": "workday-rtx-01837021",
-    "job_title": "2026 Raytheon Full Time-Formal Qualification Testing  Software Engineer I -(Onsite)",
-    "employer_name": "RTX",
-    "job_city": "MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time-Formal-Qualification-Testing--Software-Engineer-I---Onsite-_01837021",
-    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c46c62db0b1b2f27316d342f77438a4edf16815a874810f60cc0575fbe4b0712",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "bash",
-        "clearcase",
-        "computer science",
-        "data analysis",
-        "https",
-        "ibm doors",
-        "jira",
-        "matlab",
-        "perl",
-        "python",
-        "radar"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:06:25.981Z"
-  },
-  {
-    "job_id": "workday-rtx-01836680",
-    "job_title": "2026  Raytheon Full Time- Software Engineer I -(Onsite)",
-    "employer_name": "RTX",
-    "job_city": "IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01836680",
-    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e5f610f015aeb8fe141524692365ca6ea46b7eefb31cf592086f14889379e879",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "azure",
-        "azure devops",
-        "c#",
-        "c++",
-        "devops",
-        "git",
-        "https",
-        "java",
-        "linux",
-        "perl",
-        "python",
-        "r",
-        "rtos",
-        "shell",
-        "tcp/ip",
-        "unix",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6 Position Role Type: Onsite U.S.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:06:25.981Z"
@@ -16198,74 +16229,6 @@
     "job_posted_at": "2026-04-09T07:04:31.936Z"
   },
   {
-    "job_id": "workday-fis-JR0303518",
-    "job_title": "Site Reliability Engineer (CI/CD)",
-    "employer_name": "FIS",
-    "job_city": "US FL JAX 347",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer--Mainframe-_JR0303518",
-    "job_posted_at_datetime_utc": "2026-04-09T07:04:31.281Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1c187f70a36873af8a5f1121f8f3f2086a7e4bd3b2aa9a8840f1fc9000a1594",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        ".net",
-        "agile",
-        "ansible",
-        "azure",
-        "azure devops",
-        "bash",
-        "bitbucket",
-        "ci/cd",
-        "cobol",
-        "computer science",
-        "devops",
-        "docker",
-        "git",
-        "github",
-        "github actions",
-        "gitlab",
-        "gitlab ci",
-        "infrastructure as code",
-        "java",
-        "jenkins",
-        "jira",
-        "kubernetes",
-        "powershell",
-        "python",
-        "reporting",
-        "scalability",
-        "scrum",
-        "servicenow",
-        "splunk",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Our technology powers the world’s economy and our teams bring innovation to life.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:04:31.281Z"
-  },
-  {
     "job_id": "workday-fis-JR0306269",
     "job_title": "Cybersecurity Analyst I",
     "employer_name": "FIS",
@@ -16337,6 +16300,74 @@
         "cybersecurity",
         "network security",
         "risk management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Our technology powers the world’s economy and our teams bring innovation to life.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:04:31.281Z"
+  },
+  {
+    "job_id": "workday-fis-JR0303518",
+    "job_title": "Site Reliability Engineer (CI/CD)",
+    "employer_name": "FIS",
+    "job_city": "US FL JAX 347",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer--Mainframe-_JR0303518",
+    "job_posted_at_datetime_utc": "2026-04-09T07:04:31.281Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1c187f70a36873af8a5f1121f8f3f2086a7e4bd3b2aa9a8840f1fc9000a1594",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        ".net",
+        "agile",
+        "ansible",
+        "azure",
+        "azure devops",
+        "bash",
+        "bitbucket",
+        "ci/cd",
+        "cobol",
+        "computer science",
+        "devops",
+        "docker",
+        "git",
+        "github",
+        "github actions",
+        "gitlab",
+        "gitlab ci",
+        "infrastructure as code",
+        "java",
+        "jenkins",
+        "jira",
+        "kubernetes",
+        "powershell",
+        "python",
+        "reporting",
+        "scalability",
+        "scrum",
+        "servicenow",
+        "splunk",
+        "terraform"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -17129,97 +17160,6 @@
     "job_posted_at": "2026-04-09T07:03:52.798Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237500",
-    "job_title": "Information Security Risk Specialist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Belvoir",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Information-Security-Risk-Specialist_R0237500",
-    "job_posted_at_datetime_utc": "2026-04-09T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4641e8ffb0d5b7d03c85136f3c07b9b2caf781ee32c1aa8321145ee0453b210b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "cybersecurity",
-        "devsecops",
-        "information security",
-        "kubernetes",
-        "linux",
-        "nist",
-        "red hat",
-        "risk management",
-        "sap",
-        "windows",
-        "windows server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Information Security Risk Specialist The Opportunity : As an Information Security Risk Spe cia list on our team, you will leverage your expertise to collaborate closely with contractor and DoD governm…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237489",
-    "job_title": "Information Security Risk Specialist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "St Inigoes",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/St-Inigoes-MD/Information-Security-Risk-Specialist_R0237489",
-    "job_posted_at_datetime_utc": "2026-04-09T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8e9387d3ddbc1e953ec54b59b556b72ad4324de2f41bc6fe443f71f883fa2959",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity",
-        "information security",
-        "risk management",
-        "sap"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Information Security Risk Specialist The Opportunity: Cyber threats are everywhere, and the constantly evolving nature of these threats can make understanding them seem overwhelming to government agen…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:03:52.797Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237458",
     "job_title": "Cloud Security Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -17554,6 +17494,97 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "AI DevOps Engineer The Opportunity: Imagine using artifi cia l intelligence ( AI ) to improve critical IT operations for war fighting and intelligence clients.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:03:52.797Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237500",
+    "job_title": "Information Security Risk Specialist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Belvoir",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Information-Security-Risk-Specialist_R0237500",
+    "job_posted_at_datetime_utc": "2026-04-09T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4641e8ffb0d5b7d03c85136f3c07b9b2caf781ee32c1aa8321145ee0453b210b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "cybersecurity",
+        "devsecops",
+        "information security",
+        "kubernetes",
+        "linux",
+        "nist",
+        "red hat",
+        "risk management",
+        "sap",
+        "windows",
+        "windows server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Information Security Risk Specialist The Opportunity : As an Information Security Risk Spe cia list on our team, you will leverage your expertise to collaborate closely with contractor and DoD governm…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:03:52.797Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237489",
+    "job_title": "Information Security Risk Specialist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "St Inigoes",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/St-Inigoes-MD/Information-Security-Risk-Specialist_R0237489",
+    "job_posted_at_datetime_utc": "2026-04-09T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8e9387d3ddbc1e953ec54b59b556b72ad4324de2f41bc6fe443f71f883fa2959",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "information security",
+        "risk management",
+        "sap"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Information Security Risk Specialist The Opportunity: Cyber threats are everywhere, and the constantly evolving nature of these threats can make understanding them seem overwhelming to government agen…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:03:52.797Z"
@@ -22379,50 +22410,6 @@
     "job_posted_at": "2026-04-08T07:05:19.143Z"
   },
   {
-    "job_id": "workday-kbr-R2117702",
-    "job_title": "DevOps Engineer (Ansible)",
-    "employer_name": "KBR",
-    "job_city": "Fulton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fulton-Maryland/DevOps-Engineer--Ansible-_R2117702",
-    "job_posted_at_datetime_utc": "2026-04-08T07:05:12.778Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5e892d5159697343d574cc41aee1c7495d4c87abc211e22ace14288e2b453bdd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "ansible",
-        "cybersecurity",
-        "devops",
-        "networking",
-        "program management",
-        "risk management",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Title: DevOps Engineer (Ansible) Belong.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:05:12.778Z"
-  },
-  {
     "job_id": "workday-kbr-R2121536",
     "job_title": "Junior Reverse Engineer",
     "employer_name": "KBR",
@@ -22592,6 +22579,50 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Title: Digital Integration Engineer Program Summary KBR’s Missile, Aviation, and Ground Systems (MAGS) division delivers mission engineering solutions for critical U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:05:12.778Z"
+  },
+  {
+    "job_id": "workday-kbr-R2117702",
+    "job_title": "DevOps Engineer (Ansible)",
+    "employer_name": "KBR",
+    "job_city": "Fulton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fulton-Maryland/DevOps-Engineer--Ansible-_R2117702",
+    "job_posted_at_datetime_utc": "2026-04-08T07:05:12.778Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5e892d5159697343d574cc41aee1c7495d4c87abc211e22ace14288e2b453bdd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "cybersecurity",
+        "devops",
+        "networking",
+        "program management",
+        "risk management",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Title: DevOps Engineer (Ansible) Belong.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:05:12.778Z"
@@ -23406,49 +23437,6 @@
     "job_posted_at": "2026-04-08T07:04:42.769Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202604346",
-    "job_title": "Component Graphics Designer",
-    "employer_name": "General Motors",
-    "job_city": "Warren",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Component-Graphics-Designer_JR-202604346",
-    "job_posted_at_datetime_utc": "2026-04-08T07:04:42.768Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a49199a98ed33e169637c24af14c502e3a19664fa5eb3434ccebcef63a9fdc2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "adobe illustrator",
-        "figma",
-        "illustrator",
-        "nx",
-        "sketch",
-        "teamcenter"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Description The Role As a Component Graphics Designer , you will create and execute clear, intuitive icons for physical controls and in-vehicle interfaces.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:04:42.768Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202606083",
     "job_title": "Software Engineer",
     "employer_name": "General Motors",
@@ -23539,6 +23527,49 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Job Description The Team: General Motors is at the forefront of the transformation in the automotive industry with the electrification of our portfolio and the development of industry-leading display…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:04:42.768Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202604346",
+    "job_title": "Component Graphics Designer",
+    "employer_name": "General Motors",
+    "job_city": "Warren",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Component-Graphics-Designer_JR-202604346",
+    "job_posted_at_datetime_utc": "2026-04-08T07:04:42.768Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2a49199a98ed33e169637c24af14c502e3a19664fa5eb3434ccebcef63a9fdc2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "adobe illustrator",
+        "figma",
+        "illustrator",
+        "nx",
+        "sketch",
+        "teamcenter"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description The Role As a Component Graphics Designer , you will create and execute clear, intuitive icons for physical controls and in-vehicle interfaces.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:04:42.768Z"
@@ -23834,106 +23865,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:03:56.037Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026502108",
-    "job_title": "Experienced Systems Engineer",
-    "employer_name": "Boeing",
-    "job_city": "Richardson",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Experienced-Systems-Engineer_JR2026502108-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:54.014Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fa4b3671b6902bf4c76f884ca647bba042c9a75c5316398ba3ffa84a5f059d9d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "cameo",
-        "computer science",
-        "data science",
-        "gitlab",
-        "mbse",
-        "program management",
-        "requirements management",
-        "requirements traceability",
-        "sysml"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Experienced Systems Engineer Company: The Boeing Company Boeing Defense, Space & Security (BDS) is hiring for multiple Experienced Systems Engineers to support development and sustainment efforts for…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:54.014Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026499261",
-    "job_title": "Information Technology (IT) Systems Administrator (Level 4) - Millennium Space Systems",
-    "employer_name": "Boeing",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Information-Technology--IT--Systems-Administrator--Level-4----Millennium-Space-Systems_JR2026499261-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:54.014Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "edb1c18e5cfee1c0d89f34060fa1a663d06094a0c984d6d085dc7eacfb8fe9ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "active directory",
-        "agile",
-        "cisco",
-        "dns",
-        "excel",
-        "firewall",
-        "firewalls",
-        "juniper",
-        "linux",
-        "networking",
-        "palo alto",
-        "red hat",
-        "vmware",
-        "vsphere",
-        "windows",
-        "windows server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Information Technology (IT) Systems Administrator (Level 4) - Millennium Space Systems Company: Millennium Space Systems Millennium Space Systems (MSS), a part of Boeing Defense, Space and Security (B…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:54.014Z"
   },
   {
     "job_id": "workday-boeing-JR2026503660",
@@ -24322,6 +24253,106 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Experienced Quality Systems Specialist/DQMR Company: Boeing Distribution, Inc.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:54.014Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026502108",
+    "job_title": "Experienced Systems Engineer",
+    "employer_name": "Boeing",
+    "job_city": "Richardson",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Experienced-Systems-Engineer_JR2026502108-1",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:54.014Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fa4b3671b6902bf4c76f884ca647bba042c9a75c5316398ba3ffa84a5f059d9d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "cameo",
+        "computer science",
+        "data science",
+        "gitlab",
+        "mbse",
+        "program management",
+        "requirements management",
+        "requirements traceability",
+        "sysml"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Experienced Systems Engineer Company: The Boeing Company Boeing Defense, Space & Security (BDS) is hiring for multiple Experienced Systems Engineers to support development and sustainment efforts for…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:54.014Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026499261",
+    "job_title": "Information Technology (IT) Systems Administrator (Level 4) - Millennium Space Systems",
+    "employer_name": "Boeing",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Information-Technology--IT--Systems-Administrator--Level-4----Millennium-Space-Systems_JR2026499261-1",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:54.014Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "edb1c18e5cfee1c0d89f34060fa1a663d06094a0c984d6d085dc7eacfb8fe9ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "active directory",
+        "agile",
+        "cisco",
+        "dns",
+        "excel",
+        "firewall",
+        "firewalls",
+        "juniper",
+        "linux",
+        "networking",
+        "palo alto",
+        "red hat",
+        "vmware",
+        "vsphere",
+        "windows",
+        "windows server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Information Technology (IT) Systems Administrator (Level 4) - Millennium Space Systems Company: Millennium Space Systems Millennium Space Systems (MSS), a part of Boeing Defense, Space and Security (B…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:03:54.014Z"
@@ -26371,55 +26402,6 @@
     "job_posted_at": "2026-04-08T07:01:09.261Z"
   },
   {
-    "job_id": "workday-rtx-01836672",
-    "job_title": "Information System Security Officer (ISSO) - Tucson, AZ",
-    "employer_name": "RTX",
-    "job_city": "AZ-TUCSON-802 ~ 1151 E Hermans Rd ~ BLDG 802",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Information-System-Security-Officer--ISSO----Tucson--AZ_01836672",
-    "job_posted_at_datetime_utc": "2026-04-08T07:01:09.260Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "62516dbe7032e7b2fa0938e7c64ce0fdaaae5813802d21b3db895589361a9392",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "change management",
-        "cybersecurity",
-        "https",
-        "iam",
-        "incident response",
-        "iso 9001",
-        "nist",
-        "php",
-        "program management",
-        "risk management",
-        "sap"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-08 Country: United States of America Location: US-AZ-TUCSON-802 ~ 1151 E Hermans Rd ~ BLDG 802 Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:01:09.260Z"
-  },
-  {
     "job_id": "workday-rtx-01834958",
     "job_title": "Systems Engineer I (Onsite)",
     "employer_name": "RTX",
@@ -26549,6 +26531,55 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-08 Country: United States of America Location: US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:01:09.260Z"
+  },
+  {
+    "job_id": "workday-rtx-01836672",
+    "job_title": "Information System Security Officer (ISSO) - Tucson, AZ",
+    "employer_name": "RTX",
+    "job_city": "AZ-TUCSON-802 ~ 1151 E Hermans Rd ~ BLDG 802",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Information-System-Security-Officer--ISSO----Tucson--AZ_01836672",
+    "job_posted_at_datetime_utc": "2026-04-08T07:01:09.260Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "62516dbe7032e7b2fa0938e7c64ce0fdaaae5813802d21b3db895589361a9392",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "change management",
+        "cybersecurity",
+        "https",
+        "iam",
+        "incident response",
+        "iso 9001",
+        "nist",
+        "php",
+        "program management",
+        "risk management",
+        "sap"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-08 Country: United States of America Location: US-AZ-TUCSON-802 ~ 1151 E Hermans Rd ~ BLDG 802 Position Role Type: Onsite U.S.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:01:09.260Z"
@@ -33198,65 +33229,6 @@
     "job_posted_at": "2026-04-07T07:05:12.779Z"
   },
   {
-    "job_id": "workday-kbr-R2121404",
-    "job_title": "Junior Software Engineer",
-    "employer_name": "KBR",
-    "job_city": "El Segundo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Junior-Software-Engineer_R2121404",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:12.779Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f09f3754cfadfce8d281b6a752078d417b531a78740e440da6e5bf32506d8d28",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "angular",
-        "aws",
-        "azure",
-        "ci/cd",
-        "computer science",
-        "confluence",
-        "cybersecurity",
-        "docker",
-        "gitlab",
-        "go",
-        "java",
-        "javascript",
-        "jira",
-        "kubernetes",
-        "microservices",
-        "mysql",
-        "postgresql",
-        "program management",
-        "project management",
-        "python",
-        "react"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Title: Junior Software Engineer Belong.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:05:12.779Z"
-  },
-  {
     "job_id": "workday-aig-JR2502100",
     "job_title": "SDN Enterprise Engineer",
     "employer_name": "AIG",
@@ -34460,60 +34432,6 @@
     "job_posted_at": "2026-04-07T07:03:54.015Z"
   },
   {
-    "job_id": "workday-boeing-JR2026501978",
-    "job_title": "Software Engineer–Developer (Development)",
-    "employer_name": "Boeing",
-    "job_city": "Huntington Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Software-Engineer-Developer--Development-_JR2026501978-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.014Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86874240b6f5ac5f5d31c6c54894dbd2fedde06a90faf4dff5bc2e1697732fb4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "bitbucket",
-        "c++",
-        "computer science",
-        "confluence",
-        "data analysis",
-        "data science",
-        "docker",
-        "java",
-        "jira",
-        "kubernetes",
-        "less",
-        "linux",
-        "project management",
-        "python",
-        "requirements management",
-        "ubuntu"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Software Engineer–Developer (Development) Company: The Boeing Company At The Boeing Company, we innovate and collaborate to make the world a better place.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:54.014Z"
-  },
-  {
     "job_id": "workday-boeing-JR2026500073",
     "job_title": "Software Engineer–Developer (Development)",
     "employer_name": "Boeing",
@@ -34693,6 +34611,116 @@
     "job_posted_at": "2026-04-07T07:03:54.014Z"
   },
   {
+    "job_id": "workday-boeing-JR2026501978",
+    "job_title": "Software Engineer–Developer (Development)",
+    "employer_name": "Boeing",
+    "job_city": "Huntington Beach",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Software-Engineer-Developer--Development-_JR2026501978-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.014Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86874240b6f5ac5f5d31c6c54894dbd2fedde06a90faf4dff5bc2e1697732fb4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "bitbucket",
+        "c++",
+        "computer science",
+        "confluence",
+        "data analysis",
+        "data science",
+        "docker",
+        "java",
+        "jira",
+        "kubernetes",
+        "less",
+        "linux",
+        "project management",
+        "python",
+        "requirements management",
+        "ubuntu"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Software Engineer–Developer (Development) Company: The Boeing Company At The Boeing Company, we innovate and collaborate to make the world a better place.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:54.014Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237248",
+    "job_title": "F-35 Software Systems Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/F-35-Software-Systems-Engineer_R0237248",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "656e3d93e5ca8dbfdb53fba3b550bbdc45d4367457568fb893b377829e6e6804",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        ".net",
+        "agile",
+        "analytics",
+        "api",
+        "c#",
+        "c++",
+        "computer science",
+        "github",
+        "github actions",
+        "java",
+        "javascript",
+        "jenkins",
+        "jira",
+        "mbse",
+        "nodejs",
+        "php",
+        "python",
+        "react",
+        "sysml"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "F-35 Software Systems Engineer The Opportunity : Are you looking for an opportunity to combine your technical skills with big picture thinking to make an impact on national security and the F-35 progr…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:52.798Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0236754",
     "job_title": "Cloud Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -34737,6 +34765,50 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Cloud Engineer The Opportunity: Everyone is trying to “harness the cloud,” but not everyone knows how.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:52.798Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236492",
+    "job_title": "Full Stack Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Full-Stack-Developer_R0236492",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c4e8911dfd6c0ab850b9b75f99c2591150d741423909d998e6fbc8aac02eed0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "api",
+        "java",
+        "python",
+        "react",
+        "restful",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Full Stack Developer The Opportunity: As a full stack developer, you can resolve a problem with a complete end-to-end solution in a fast, agile environment.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T07:03:52.798Z"
@@ -35053,261 +35125,6 @@
     "job_posted_at": "2026-04-07T07:03:52.798Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237248",
-    "job_title": "F-35 Software Systems Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/F-35-Software-Systems-Engineer_R0237248",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "656e3d93e5ca8dbfdb53fba3b550bbdc45d4367457568fb893b377829e6e6804",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        ".net",
-        "agile",
-        "analytics",
-        "api",
-        "c#",
-        "c++",
-        "computer science",
-        "github",
-        "github actions",
-        "java",
-        "javascript",
-        "jenkins",
-        "jira",
-        "mbse",
-        "nodejs",
-        "php",
-        "python",
-        "react",
-        "sysml"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "F-35 Software Systems Engineer The Opportunity : Are you looking for an opportunity to combine your technical skills with big picture thinking to make an impact on national security and the F-35 progr…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236492",
-    "job_title": "Full Stack Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Full-Stack-Developer_R0236492",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0c4e8911dfd6c0ab850b9b75f99c2591150d741423909d998e6fbc8aac02eed0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "api",
-        "java",
-        "python",
-        "react",
-        "restful",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Full Stack Developer The Opportunity: As a full stack developer, you can resolve a problem with a complete end-to-end solution in a fast, agile environment.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-caci-324202",
-    "job_title": "Software Engineer",
-    "employer_name": "CACI",
-    "job_city": "US VA Ashburn",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Software-Engineer_324202",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:43.578Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "89967b59d09ddc53b77d44ab3381c63fae6c285c3cd8dfc441dd5246fcd16585",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "api",
-        "ci/cd",
-        "computer science",
-        "devsecops",
-        "docker",
-        "java",
-        "jira",
-        "junit",
-        "mysql",
-        "oracle",
-        "postgresql",
-        "regression",
-        "restful",
-        "scrum",
-        "spring",
-        "spring boot",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Software Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Travel: Co…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:43.578Z"
-  },
-  {
-    "job_id": "workday-caci-324522",
-    "job_title": "Systems Engineer / Product Owner",
-    "employer_name": "CACI",
-    "job_city": "US VA Sterling",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Systems-Engineer---Product-Owner_324522-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:43.578Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "230f07b3429af0e2c29631f90f3dccfd1753d59272035a0c72b56980bc29199e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "cameo",
-        "computer science",
-        "dsp",
-        "mbse",
-        "rf",
-        "scrum",
-        "sysml"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Systems Engineer / Product Owner Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: Top Secret Employee Type: Regular Percentage of Travel Required: Up to 1…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:43.578Z"
-  },
-  {
-    "job_id": "workday-caci-323883",
-    "job_title": "Information Systems Security Engineer (ISSE)",
-    "employer_name": "CACI",
-    "job_city": "US CO Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Information-Systems-Security-Engineer--ISSE-_323883",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:43.578Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ee4f7de200739d988abda7214e50c7eda75ec079693f6c2467f5ded9c5ac13e1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "amazon web services",
-        "aws",
-        "centos",
-        "computer science",
-        "confluence",
-        "devops",
-        "excel",
-        "iam",
-        "information security",
-        "jira",
-        "linux",
-        "nist",
-        "red hat",
-        "splunk",
-        "system design",
-        "vulnerability assessment",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Information Systems Security Engineer (ISSE) Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of T…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:43.578Z"
-  },
-  {
     "job_id": "workday-caci-324556",
     "job_title": "Enterprise Service Desk Technician (SIPRNet)",
     "employer_name": "CACI",
@@ -35525,6 +35342,161 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Job Title: Systems Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: None Type of Travel: None *…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:43.578Z"
+  },
+  {
+    "job_id": "workday-caci-324202",
+    "job_title": "Software Engineer",
+    "employer_name": "CACI",
+    "job_city": "US VA Ashburn",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Software-Engineer_324202",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:43.578Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "89967b59d09ddc53b77d44ab3381c63fae6c285c3cd8dfc441dd5246fcd16585",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "api",
+        "ci/cd",
+        "computer science",
+        "devsecops",
+        "docker",
+        "java",
+        "jira",
+        "junit",
+        "mysql",
+        "oracle",
+        "postgresql",
+        "regression",
+        "restful",
+        "scrum",
+        "spring",
+        "spring boot",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Software Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Travel: Co…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:43.578Z"
+  },
+  {
+    "job_id": "workday-caci-324522",
+    "job_title": "Systems Engineer / Product Owner",
+    "employer_name": "CACI",
+    "job_city": "US VA Sterling",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Systems-Engineer---Product-Owner_324522-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:43.578Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "230f07b3429af0e2c29631f90f3dccfd1753d59272035a0c72b56980bc29199e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "cameo",
+        "computer science",
+        "dsp",
+        "mbse",
+        "rf",
+        "scrum",
+        "sysml"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Systems Engineer / Product Owner Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: Top Secret Employee Type: Regular Percentage of Travel Required: Up to 1…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:43.578Z"
+  },
+  {
+    "job_id": "workday-caci-323883",
+    "job_title": "Information Systems Security Engineer (ISSE)",
+    "employer_name": "CACI",
+    "job_city": "US CO Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Information-Systems-Security-Engineer--ISSE-_323883",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:43.578Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ee4f7de200739d988abda7214e50c7eda75ec079693f6c2467f5ded9c5ac13e1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "amazon web services",
+        "aws",
+        "centos",
+        "computer science",
+        "confluence",
+        "devops",
+        "excel",
+        "iam",
+        "information security",
+        "jira",
+        "linux",
+        "nist",
+        "red hat",
+        "splunk",
+        "system design",
+        "vulnerability assessment",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Information Systems Security Engineer (ISSE) Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of T…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T07:03:43.578Z"
@@ -36027,50 +35999,6 @@
     "job_posted_at": "2026-04-07T07:03:26.418Z"
   },
   {
-    "job_id": "workday-adobe-R164544",
-    "job_title": "Technical Support Engineer",
-    "employer_name": "Adobe",
-    "job_city": "McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/McLean/Technical-Support-Engineer_R164544",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:26.262Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "934712373ec05c4023ea3f5030341f6b7061cff07ec8a2975d3cbc1ef54d4f8c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "express",
-        "java",
-        "linux",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "The mission Adobe delivers digital government solutions that put people first.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:26.262Z"
-  },
-  {
     "job_id": "workday-adobe-R166942",
     "job_title": "Software Development Engineer",
     "employer_name": "Adobe",
@@ -36116,6 +36044,50 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "The Opportunity Adobe Experience Platform (AEP) enables businesses to deliver the right experience at the right time to their customers.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:26.262Z"
+  },
+  {
+    "job_id": "workday-adobe-R164544",
+    "job_title": "Technical Support Engineer",
+    "employer_name": "Adobe",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/McLean/Technical-Support-Engineer_R164544",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:26.262Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "934712373ec05c4023ea3f5030341f6b7061cff07ec8a2975d3cbc1ef54d4f8c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "express",
+        "java",
+        "linux",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The mission Adobe delivers digital government solutions that put people first.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T07:03:26.262Z"
@@ -42970,46 +42942,6 @@
     "job_posted_at": "2026-04-06T07:05:17.123Z"
   },
   {
-    "job_id": "workday-leidos-R-00180101",
-    "job_title": "Systems Administrator",
-    "employer_name": "Leidos",
-    "job_city": "Tucson",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Systems-Administrator_R-00180101",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:12.912Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "18b560015900f66bc0db64b5efa16162ab44b460c03949f9cc9aa22888106cd7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "active directory",
-        "cyber security",
-        "java"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Are you ready for your next career challenge?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:05:12.912Z"
-  },
-  {
     "job_id": "workday-leidos-R-00180071",
     "job_title": "Enterprise Systems Engineer SME",
     "employer_name": "Leidos",
@@ -43144,6 +43076,46 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Leidos is seeking a Network Engineer to join our Defense Enclave Services (DES) team at F t.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:05:12.912Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180101",
+    "job_title": "Systems Administrator",
+    "employer_name": "Leidos",
+    "job_city": "Tucson",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Systems-Administrator_R-00180101",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:12.912Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "18b560015900f66bc0db64b5efa16162ab44b460c03949f9cc9aa22888106cd7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "active directory",
+        "cyber security",
+        "java"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Are you ready for your next career challenge?",
       "is_remote": false
     },
     "job_posted_at": "2026-04-06T07:05:12.912Z"
@@ -43324,51 +43296,6 @@
     "job_posted_at": "2026-04-06T07:05:04.858Z"
   },
   {
-    "job_id": "workday-intel-JR0279567",
-    "job_title": "GPU Software Development Engineer",
-    "employer_name": "Intel",
-    "job_city": "US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0279567",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:01.880Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a4454047ef4dd25b04d17c1ee36d7e4d81cc91a259cad77502b180d3b725459c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "c++",
-        "computer science",
-        "jtag",
-        "python",
-        "soc",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Details: Job Description: Join Intel and Build a Better Tomorrow Intel is in the midst of an exciting transformation, with a vision to create and extend computing technology to connect and enrich…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:05:01.880Z"
-  },
-  {
     "job_id": "workday-intel-JR0282466",
     "job_title": "IP Methodology and Automation Engineer",
     "employer_name": "Intel",
@@ -43464,6 +43391,51 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Are you ready to play a pivotal role in revolutionizing the future of manufacturing technology?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:05:01.880Z"
+  },
+  {
+    "job_id": "workday-intel-JR0279567",
+    "job_title": "GPU Software Development Engineer",
+    "employer_name": "Intel",
+    "job_city": "US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0279567",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:01.880Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a4454047ef4dd25b04d17c1ee36d7e4d81cc91a259cad77502b180d3b725459c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "c++",
+        "computer science",
+        "jtag",
+        "python",
+        "soc",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Details: Job Description: Join Intel and Build a Better Tomorrow Intel is in the midst of an exciting transformation, with a vision to create and extend computing technology to connect and enrich…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-06T07:05:01.880Z"
@@ -46493,6 +46465,158 @@
     "job_posted_at": "2026-04-06T07:00:21.722Z"
   },
   {
+    "job_id": "workday-northrop-grumman-R10224264",
+    "job_title": "Systems Engineer - Level 4",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Colorado-Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Systems-Engineer---Level-4_R10224264",
+    "job_posted_at_datetime_utc": "2026-04-06T07:00:17.789Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9fa77f6fb72ab348ae99b7d2f87fa5a1db11d5afcace2d59f406e6bb3d54d1e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "c++",
+        "cameo",
+        "ci/cd",
+        "confluence",
+        "git",
+        "http",
+        "java",
+        "jenkins",
+        "jira",
+        "kaizen",
+        "lean",
+        "linux",
+        "mbse",
+        "model-based systems engineering",
+        "process improvement",
+        "python",
+        "root cause analysis",
+        "spring",
+        "sysml",
+        "value stream",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incr…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:00:17.789Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10228607",
+    "job_title": "Sentinel - Systems Engineer level 3/4 - 16702",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Utah-Roy",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer-level-3-4---16702_R10228607",
+    "job_posted_at_datetime_utc": "2026-04-06T07:00:17.789Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c753b00a2ddaae1842777e58a2419122fef362e81c64e81da71f845b3efcf09a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cameo",
+        "confluence",
+        "http",
+        "jira",
+        "mbse",
+        "project management",
+        "requirements management",
+        "rhapsody"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:00:17.789Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10228482",
+    "job_title": "Modeling & Simulation Systems Engineer (IRHB) - Level 2 or 3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Colorado-Schriever AFB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Modeling---Simulation-Systems-Engineer--IRHB----Level-2-or-3_R10228482",
+    "job_posted_at_datetime_utc": "2026-04-06T07:00:17.789Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abdaddcdb3378c6aa044571ff70cd46f3a02a08df76b129391d86aca8f3813b7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "bash",
+        "http",
+        "infrared",
+        "kanban",
+        "matlab",
+        "python",
+        "rf",
+        "scrum",
+        "spring",
+        "threat modeling"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incr…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:00:17.789Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10228019",
     "job_title": "Systems Administrator Level 2/3 - Top Secret",
     "employer_name": "Northrop Grumman",
@@ -46962,158 +47086,6 @@
         "spring",
         "threat modeling",
         "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incr…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:00:17.789Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10224264",
-    "job_title": "Systems Engineer - Level 4",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Colorado-Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Systems-Engineer---Level-4_R10224264",
-    "job_posted_at_datetime_utc": "2026-04-06T07:00:17.789Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9fa77f6fb72ab348ae99b7d2f87fa5a1db11d5afcace2d59f406e6bb3d54d1e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "c++",
-        "cameo",
-        "ci/cd",
-        "confluence",
-        "git",
-        "http",
-        "java",
-        "jenkins",
-        "jira",
-        "kaizen",
-        "lean",
-        "linux",
-        "mbse",
-        "model-based systems engineering",
-        "process improvement",
-        "python",
-        "root cause analysis",
-        "spring",
-        "sysml",
-        "value stream",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incr…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:00:17.789Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10228607",
-    "job_title": "Sentinel - Systems Engineer level 3/4 - 16702",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Utah-Roy",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer-level-3-4---16702_R10228607",
-    "job_posted_at_datetime_utc": "2026-04-06T07:00:17.789Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c753b00a2ddaae1842777e58a2419122fef362e81c64e81da71f845b3efcf09a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cameo",
-        "confluence",
-        "http",
-        "jira",
-        "mbse",
-        "project management",
-        "requirements management",
-        "rhapsody"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:00:17.789Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10228482",
-    "job_title": "Modeling & Simulation Systems Engineer (IRHB) - Level 2 or 3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Colorado-Schriever AFB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Modeling---Simulation-Systems-Engineer--IRHB----Level-2-or-3_R10228482",
-    "job_posted_at_datetime_utc": "2026-04-06T07:00:17.789Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "abdaddcdb3378c6aa044571ff70cd46f3a02a08df76b129391d86aca8f3813b7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "bash",
-        "http",
-        "infrared",
-        "kanban",
-        "matlab",
-        "python",
-        "rf",
-        "scrum",
-        "spring",
-        "threat modeling"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
