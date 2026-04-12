@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-1020-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-1019-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-204-blue?style=flat&logo=building)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-765-red?style=flat&logo=star)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-764-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -87,7 +87,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **EliseAI** | Web Developer | ✅ Sponsor | New York City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/eliseai/8f25b00c-3923-491c-900b-b7319acb2b90/application) |
 | 🏢 **LaunchDarkly** | Frontend Engineer, AI Configs | ✅ Sponsor | San Francisco Bay... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/launchdarkly/jobs/7694156003) |
 | 🏢 **Cisco** | Software Engineer Front-End I (Full-Time) United States |  | RTP, US | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer-Front-End-I--Full-Time--United-States_2010724) |
-| 🏢 **CACI** | Full Stack Web Developer |  | CO Denver + 1 more | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Full-Stack-Web-Developer_324575) |
+| 🏢 **CACI** | Full Stack Web Developer |  | CO Aurora + 1 more | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Aurora/Full-Stack-Web-Developer_319909-1) |
 | 🏢 **American Express** | Cybersecurity Engineer (Web Development-HTML/ CSS/ JavaScript/ React, Next.js) |  | Phoenix | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/40707064) |
 
 <p align="center">Apply for more jobs at</p>
@@ -347,8 +347,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **ServiceNow** | ServiceNow AI.Accelerate Bootcamp |  | Santa Clara | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000120218287) |
-| 🏢 **Thermo Fisher Scientific** | Regional Security Operations Center (RSOC) Supervisor |  | Cincinnati | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Regional-Security-Operations-Center--RSOC--Supervisor_R-01346963) |
+| 🏢 **ServiceNow** | ServiceNow AI.Accelerate Bootcamp |  | Santa Clara | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000120218287) |
+| 🏢 **Thermo Fisher Scientific** | Regional Security Operations Center (RSOC) Supervisor |  | Cincinnati | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Regional-Security-Operations-Center--RSOC--Supervisor_R-01346963) |
 | 🏢 **Zoom** | Software Engineer |  | San Jose + 1 more | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R18600) |
 | 🏢 **Unisys** | Data Center Technician in Chester, VA |  | Chester, VA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://unisys.wd5.myworkdayjobs.com/External/job/Chester-VA-United-States-of-America/Data-Center-Technician-in-Chester--VA_REQ572280) |
 | 🏢 **Franklin Templeton** | Digital Assets - Blockchain Software Developer |  | 3 Locations | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Stamford-Connecticut-United-States-of-America/Digital-Assets---Blockchain-Software-Developer_865777) |
@@ -468,8 +468,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KBR** | VIPER Systems Engineer |  | Mountain View | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Mountain-View-California/VIPER-Systems-Engineer_R2121670) |
 | 🏢 **AbbVie** | Systems Engineer |  | North Chicago, IL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012531956) |
 | 🏢 **Kitware** | CMake Engineer | ✅ Sponsor | Clifton Park | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/535a3473-4baa-4003-818f-3590d3e6db73/apply) |
-| 🏢 **Mistral AI** | Research Engineer, Machine Learning |  | Palo Alto | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/mistral/bada0014-0f32-4370-b55f-81c5595c7339/apply) |
 | 🏢 **Mistral AI** | AI Scientist - Palo Alto |  | Palo Alto | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/mistral/7b20d2c8-d5a7-4efd-a13e-05d920ec5985/apply) |
+| 🏢 **Mistral AI** | Research Engineer, Machine Learning |  | Palo Alto | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/mistral/bada0014-0f32-4370-b55f-81c5595c7339/apply) |
 | 🏢 **D.E. Shaw** | Software Engineer - Cumberland/FICCO Tools Engineering | ✅ Sponsor | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7797373) |
 | 🏢 **Guidehouse** | Java Software Developer |  | MD Bethesda | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Java-Software-Developer_37070) |
 | 🏢 **Supabase** | Foundation Engineer (Golang) - Auth |  | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/supabase/77439e1c-e4eb-483c-aa8e-7686913886e3/application) |
@@ -508,10 +508,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Red Hat** | Software Engineer - ROSA Backend Service Engineering |  | US, NC | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-NC/Software-Engineer---ROSA-Backend-Service-Engineering_R-055487) |
 | 🏢 **Chime** | Software Engineer, Credit Line | ✅ Sponsor | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8219795002?gh_jid=8219795002) |
 | 🏢 **Chime** | Software Engineer, Instant Loans | ✅ Sponsor | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8433840002?gh_jid=8433840002) |
+| 🏢 **Globus Medical** | Associate Software Engineer |  | Pennsylvania | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/associate-software-engineer/8227162) |
 | 🏢 **Amazon Data Services, Inc.** | Software Development Engineer, Internet Monitoring |  | Santa Clara, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388005/software-development-engineer-internet-monitoring) |
 | 🏢 **Amazon Kuiper Manufacturing Enterprises LLC** | Software Development Engineer, Leo Payload Radio |  | Redmond, WA + 1 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388000/software-development-engineer-leo-payload-radio) |
 | 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Distributed SQL |  | Seattle, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10387286/software-development-engineer-aws-distributed-sql) |
-| 🏢 **Globus Medical** | Associate Software Engineer |  | Pennsylvania | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/associate-software-engineer/8227162) |
 | 🏢 **Toshiba Global Commerce Solutions** | Associate Software Engineer |  | Frisco City | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.recruit.net/job/associate-software-engineer-jobs/0F3842D9B0B9D71E) |
 | 🏢 **Southwest Airlines** | Associate Software Engineer - Direct College Hire |  | Dallas | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/3hK3D9ib1lf8nCLyUO9hzi) |
 | 🏢 **Box** | SMB Solutions Engineer | ✅ Sponsor | New York City, NY | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7762861) |
@@ -602,7 +602,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1020 current opportunities from 204 companies**
+**🎯 1019 current opportunities from 204 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
