@@ -1,7 +1,7 @@
 {
   "mobile": {
     "title": "Mobile Development",
-    "emoji": "📱",
+    "emoji": "\ud83d\udcf1",
     "keywords": [
       "ios",
       "android",
@@ -17,7 +17,7 @@
   },
   "frontend": {
     "title": "Frontend",
-    "emoji": "🎨",
+    "emoji": "\ud83c\udfa8",
     "keywords": [
       "frontend",
       "front-end",
@@ -36,7 +36,7 @@
   },
   "full_stack": {
     "title": "Full Stack",
-    "emoji": "🌐",
+    "emoji": "\ud83c\udf10",
     "keywords": [
       "full stack",
       "fullstack",
@@ -47,7 +47,7 @@
   },
   "qa_engineering": {
     "title": "QA Engineering",
-    "emoji": "🧪",
+    "emoji": "\ud83e\uddea",
     "keywords": [
       "qa engineer",
       "quality assurance",
@@ -59,9 +59,76 @@
       "quality assurance engineer"
     ]
   },
+  "devops_infrastructure": {
+    "title": "DevOps & Infrastructure",
+    "emoji": "\u2699\ufe0f",
+    "keywords": [
+      "devops",
+      "site reliability",
+      "~sre",
+      "platform engineer",
+      "infrastructure engineer",
+      "cloud engineer",
+      "kubernetes",
+      "reliability engineer",
+      "build engineer",
+      "release engineer"
+    ]
+  },
+  "security_engineering": {
+    "title": "Security Engineering",
+    "emoji": "\ud83d\udd10",
+    "keywords": [
+      "security engineer",
+      "cybersecurity",
+      "infosec",
+      "information security",
+      "application security",
+      "appsec",
+      "cloud security",
+      "security analyst",
+      "vulnerability management",
+      "penetration tester",
+      "ciam",
+      "identity and access"
+    ]
+  },
+  "ai_ml_engineering": {
+    "title": "AI / ML Engineering",
+    "emoji": "\ud83e\udd16",
+    "keywords": [
+      "ai engineer",
+      "ml engineer",
+      "machine learning engineer",
+      "applied ai",
+      "llm engineer",
+      "genai",
+      "ai/ml",
+      "artificial intelligence engineer",
+      "deep learning",
+      "robotics software",
+      "ml platform",
+      "ai platform"
+    ]
+  },
+  "embedded_systems": {
+    "title": "Embedded & Systems",
+    "emoji": "\ud83d\udd27",
+    "keywords": [
+      "embedded",
+      "firmware",
+      "flight software",
+      "systems software",
+      "kernel",
+      "driver engineer",
+      "low-level",
+      "real-time",
+      "~rtos"
+    ]
+  },
   "backend": {
     "title": "Software Engineering",
-    "emoji": "💻",
+    "emoji": "\ud83d\udcbb",
     "keywords": [
       "software engineer",
       "software developer",
