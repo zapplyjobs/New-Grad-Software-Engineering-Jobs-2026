@@ -25,6 +25,39 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "ansible",
+        "aws",
+        "azure",
+        "bash",
+        "bigquery",
+        "ci/cd",
+        "devops",
+        "docker",
+        "gcp",
+        "gitlab",
+        "gitlab ci",
+        "gke",
+        "go",
+        "google cloud",
+        "iam",
+        "jenkins",
+        "kubernetes",
+        "linux",
+        "networking",
+        "python",
+        "scrum",
+        "terraform",
+        "vpc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "In this Role you will: Design and imple men t Google Cloud and Gem ini solutions that meet business require men t s.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-13T16:55:38.587Z"
   },
   {
@@ -53,6 +86,36 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "apache",
+        "apache spark",
+        "aws",
+        "azure",
+        "cisco",
+        "data pipeline",
+        "distributed systems",
+        "docker",
+        "fault tolerance",
+        "google cloud",
+        "hadoop",
+        "kubernetes",
+        "load balancing",
+        "machine learning",
+        "python",
+        "pytorch",
+        "scalability",
+        "scikit-learn",
+        "spark",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Please note this posting is to advertise potential job opportunities.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-13T16:52:33.032Z"
   },
   {
@@ -82,6 +145,24 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "github",
+        "github actions",
+        "javascript",
+        "node.js",
+        "python",
+        "rust",
+        "terraform",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "Successful candidates with competing offers will receive matching and competitive offers.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-13T16:52:19.551Z"
   },
   {
@@ -110,6 +191,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "confluence",
+        "dashboards",
+        "gitlab",
+        "jira",
+        "process improvement",
+        "project management",
+        "scrum"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Knowledge Management Specialist and Scrum Master The Opportunity: As a scrum master, you’re passionate about outcomes and supporting a development team that’s creating efficiency in critical projects.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-13T16:52:18.427Z"
   },
   {
@@ -138,6 +236,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "aws",
+        "azure",
+        "bash",
+        "cdk",
+        "cloudformation",
+        "gcp",
+        "powershell",
+        "python",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Cloud Engineer The Opportunity: Everyone is trying to “harness the cloud,” but not everyone knows how.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-13T16:52:18.427Z"
   },
   {
