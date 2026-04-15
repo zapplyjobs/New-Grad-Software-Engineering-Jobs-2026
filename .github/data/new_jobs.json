@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-booz-allen-hamilton-R0237805",
+    "job_title": "Cloud Security Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Alexandria",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Cloud-Security-Engineer_R0237805",
+    "job_posted_at_datetime_utc": "2026-04-15T03:16:36.675Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "df63d2db94947bdca9aa4cb11a97547591ce8ee77cf71179665ff5545ca33ad6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T03:16:36.675Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0234903",
     "job_title": "Network Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -25,6 +53,29 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cisco",
+        "cybersecurity",
+        "firewall",
+        "juniper",
+        "linux",
+        "move",
+        "network engineering",
+        "network security",
+        "networking",
+        "palo alto",
+        "unix",
+        "vmware",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Network Engineer The Opportunity: A well-designed secure network is critical to move data and enable the Department of Defense ( DoD ) to achieve their mission, but how can an organization make sure t…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T03:02:17.117Z"
   },
   {
@@ -53,6 +104,40 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "aks",
+        "ansible",
+        "aws",
+        "azure",
+        "bash",
+        "centos",
+        "dhcp",
+        "dns",
+        "docker",
+        "eks",
+        "firewall",
+        "firewalls",
+        "kubernetes",
+        "linux",
+        "mysql",
+        "oracle",
+        "postgresql",
+        "python",
+        "red hat",
+        "rhel",
+        "routing",
+        "tcp/ip",
+        "ubuntu",
+        "vpn"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Systems Administrator The Opportunity: We are seeking a skilled Systems Administrator to support mission-critical infrastructure for a federal client.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T03:02:17.117Z"
   },
   {
@@ -82,6 +167,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "c++",
+        "computer science",
+        "do-178",
+        "embedded systems",
+        "jama",
+        "jira",
+        "less",
+        "process improvement",
+        "r",
+        "rust"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Application close date: Applications will be accepted on an ongoing basis until the requisition is closed.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T03:02:15.396Z"
   },
   {
@@ -110,6 +216,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "cadence",
+        "computer science"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The candidate will be a member of the R&D team working on the industry leading Virtuoso Platform; working on the development and maintenance of OpenAccess and other core Infrastructure components.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T03:02:13.699Z"
   },
   {
@@ -139,6 +258,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "cadence",
+        "computer science",
+        "excel",
+        "firewall",
+        "github",
+        "oauth",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Role Summary The L2 GenAI Tools Support Engineer provides advanced operational, technical, and user support for enterprise GenAI productivity and “vibe coding” platforms, including Claude Code / Claud…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T03:02:13.699Z"
   },
   {
@@ -167,6 +304,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "cadence",
+        "ci/cd",
+        "computer science",
+        "concurrency",
+        "continuous integration",
+        "linear",
+        "scalability",
+        "unit testing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "We are seeking a highly skilled HPC Engineer to join our team.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T03:02:13.699Z"
   },
   {
@@ -196,6 +352,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "api",
+        "bdd",
+        "ci/cd",
+        "computer science",
+        "cypress",
+        "devops",
+        "java",
+        "jenkins",
+        "junit",
+        "performance testing",
+        "playwright",
+        "pytest",
+        "python",
+        "regression",
+        "scalability",
+        "selenium",
+        "tdd",
+        "testng"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "If you are a first time user, please create your candidate login account before you apply for a job.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T03:02:06.160Z"
   },
   {
@@ -224,6 +409,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "cadence",
+        "computer science"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The candidate will be a member of the R&D team working on the industry leading Virtuoso Platform; working on the development and maintenance of OpenAccess and other core Infrastructure components.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T03:02:00.005Z"
   },
   {
@@ -253,6 +451,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "cadence",
+        "computer science",
+        "excel",
+        "firewall",
+        "github",
+        "oauth",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Role Summary The L2 GenAI Tools Support Engineer provides advanced operational, technical, and user support for enterprise GenAI productivity and “vibe coding” platforms, including Claude Code / Claud…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T03:02:00.005Z"
   },
   {
@@ -2519,7 +2735,7 @@
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "DevOps Engineer The Opportunity : Everyone is trying to “harness the cloud���, but not everyone knows how.",
+      "summary_line": "DevOps Engineer The Opportunity : Everyone is trying to “harness the cloud”, but not everyone knows how.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T20:42:03.460Z"
@@ -7001,6 +7217,53 @@
     "job_posted_at": "2026-04-14T15:34:53.487Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237691",
+    "job_title": "Cyberspace Infrastructure Support Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Cyberspace-Infrastructure-Support-Engineer_R0237691-1",
+    "job_posted_at_datetime_utc": "2026-04-14T15:33:00.331Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f854b31ed1a125fa47621e03586e58485a0caea756095d7cf25ae5e026ec266e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "bash",
+        "encryption",
+        "linux",
+        "networking",
+        "penetration testing",
+        "python",
+        "routing",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Cyberspace Infrastructure Support Engineer The Opportunity: Do you have strong computer networking skills and a problem-solving mindset?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T15:33:00.331Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237702",
     "job_title": "Databricks Platform Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -7055,53 +7318,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Databricks Platform Engineer The Opportunity As a Databricks data engineer, you’ll use your skills to help implement data engineering activities on some of the most mission-driven projects in the indu…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T15:33:00.331Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237691",
-    "job_title": "Cyberspace Infrastructure Support Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Cyberspace-Infrastructure-Support-Engineer_R0237691-1",
-    "job_posted_at_datetime_utc": "2026-04-14T15:33:00.331Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f854b31ed1a125fa47621e03586e58485a0caea756095d7cf25ae5e026ec266e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "bash",
-        "encryption",
-        "linux",
-        "networking",
-        "penetration testing",
-        "python",
-        "routing",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Cyberspace Infrastructure Support Engineer The Opportunity: Do you have strong computer networking skills and a problem-solving mindset?",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T15:33:00.331Z"
@@ -9220,6 +9436,52 @@
     "job_posted_at": "2026-04-14T00:01:57.802Z"
   },
   {
+    "job_id": "js-the-mitre-corporation-qqglb5pevlfxny-haaaaaa==",
+    "job_title": "Internships in Electrical or Computer Engineering",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115476/Internships-in-Electrical-or-Computer-Engineering",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c91f7559c33a75326c44d74441cb3e9d4186870c39062e1a82cc79d062f83652",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "electromagnetics",
+        "embedded systems",
+        "photonics",
+        "radar",
+        "signal processing",
+        "workday"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications • Must be a full-time student pursuing an accredited degree program in Electrical Engineering, Computer Engineering, or related disciplines.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-dd4010cd-2da2-4211-acbc-4aa1455ce551",
     "job_title": "Software Development Engineer, Aurora DSQL",
     "employer_name": "Amazon.com Services LLC",
@@ -9660,52 +9922,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 3+ years of technical product or program management experience - 3+ years of project management disciplines including scope, schedule, budget, quality, along with risk and crit…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-the-mitre-corporation-qqglb5pevlfxny-haaaaaa==",
-    "job_title": "Internships in Electrical or Computer Engineering",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115476/Internships-in-Electrical-or-Computer-Engineering",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c91f7559c33a75326c44d74441cb3e9d4186870c39062e1a82cc79d062f83652",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity",
-        "electromagnetics",
-        "embedded systems",
-        "photonics",
-        "radar",
-        "signal processing",
-        "workday"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications • Must be a full-time student pursuing an accredited degree program in Electrical Engineering, Computer Engineering, or related disciplines.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -21751,6 +21967,65 @@
     "job_posted_at": "2026-04-10T07:44:31.479Z"
   },
   {
+    "job_id": "workday-leidos-R-00179486",
+    "job_title": "Cloud Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Suitland",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Cloud-Engineer_R-00179486",
+    "job_posted_at_datetime_utc": "2026-04-10T07:21:02.803Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2709a22b660701ef3b0f43c49d2613f4f3b0ba9a50a15b570f6f07e878e68469",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "amazon web services",
+        "aws",
+        "cloudformation",
+        "cyber security",
+        "docker",
+        "ecs",
+        "eks",
+        "gitlab",
+        "incident response",
+        "kubernetes",
+        "linux",
+        "networking",
+        "powershell",
+        "python",
+        "red hat",
+        "rhel",
+        "risk management",
+        "shell",
+        "terraform",
+        "windows",
+        "windows server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you passionate about Cloud technologies where you can leverage your skills towards career growth?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:21:02.803Z"
+  },
+  {
     "job_id": "workday-leidos-R-00180469",
     "job_title": "Systems Engineer",
     "employer_name": "Leidos",
@@ -21841,65 +22116,6 @@
     "job_posted_at": "2026-04-10T07:21:02.803Z"
   },
   {
-    "job_id": "workday-leidos-R-00179486",
-    "job_title": "Cloud Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Suitland",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Cloud-Engineer_R-00179486",
-    "job_posted_at_datetime_utc": "2026-04-10T07:21:02.803Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2709a22b660701ef3b0f43c49d2613f4f3b0ba9a50a15b570f6f07e878e68469",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "amazon web services",
-        "aws",
-        "cloudformation",
-        "cyber security",
-        "docker",
-        "ecs",
-        "eks",
-        "gitlab",
-        "incident response",
-        "kubernetes",
-        "linux",
-        "networking",
-        "powershell",
-        "python",
-        "red hat",
-        "rhel",
-        "risk management",
-        "shell",
-        "terraform",
-        "windows",
-        "windows server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you passionate about Cloud technologies where you can leverage your skills towards career growth?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:21:02.803Z"
-  },
-  {
     "job_id": "workday-cisco-2005253",
     "job_title": "Software Engineer MuleSoft",
     "employer_name": "Cisco",
@@ -21973,53 +22189,6 @@
     "job_posted_at": "2026-04-10T07:19:35.425Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237544",
-    "job_title": "Cloud Infrastructure Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Cloud-Infrastructure-Engineer_R0237544",
-    "job_posted_at_datetime_utc": "2026-04-10T07:19:23.275Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be7474b594dea8c0ca1836989ef042a1ecd1a48631176e51eebc077637f080cd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity",
-        "devsecops",
-        "kafka",
-        "kubernetes",
-        "logstash",
-        "move",
-        "network engineering",
-        "networking",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Cloud Infrastructure Engineer The Opportunity : A well-designed and secure network is critical to move data and enable the DoD to achieve its mission, but how can an organization make sure its network…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:19:23.275Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237532",
     "job_title": "Data Analytics Platform Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -22073,6 +22242,53 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Data Analytics Platform Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available t…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:19:23.275Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237544",
+    "job_title": "Cloud Infrastructure Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Cloud-Infrastructure-Engineer_R0237544",
+    "job_posted_at_datetime_utc": "2026-04-10T07:19:23.275Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be7474b594dea8c0ca1836989ef042a1ecd1a48631176e51eebc077637f080cd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "devsecops",
+        "kafka",
+        "kubernetes",
+        "logstash",
+        "move",
+        "network engineering",
+        "networking",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Cloud Infrastructure Engineer The Opportunity : A well-designed and secure network is critical to move data and enable the DoD to achieve its mission, but how can an organization make sure its network…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:19:23.275Z"
@@ -22634,6 +22850,124 @@
     "job_posted_at": "2026-04-10T07:03:54.013Z"
   },
   {
+    "job_id": "workday-boeing-JR2026505242",
+    "job_title": "Embedded Software Engineer (Associate or Experienced)",
+    "employer_name": "Boeing",
+    "job_city": "Long Beach",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Embedded-Software-Engineer--Associate-or-Experienced-_JR2026505242-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f9300cb14b7d959461130266b1e2cb1845dedb6dd2be0bb065219cdee7b167fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "assembly",
+        "c++",
+        "computer science",
+        "data science",
+        "embedded systems",
+        "git",
+        "jira",
+        "less",
+        "linux",
+        "unix",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Embedded Software Engineer (Associate or Experienced) Company: The Boeing Company The Boeing Company is currently seeking an Embedded Software Engineer (Associate or Experienced) to support our BGS C-…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:54.012Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026498267",
+    "job_title": "Full Stack Software Engineer, Developer (Associate or Experienced)",
+    "employer_name": "Boeing",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Developer--Associate-or-Experienced-_JR2026498267-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "52fb30ff3733f8cd3c2e53c5f8c6bf5c8aa0454942f6994fc42d06b17b268ab5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "api",
+        "c++",
+        "ci/cd",
+        "computer science",
+        "continuous deployment",
+        "continuous integration",
+        "css",
+        "data science",
+        "devsecops",
+        "git",
+        "gitlab",
+        "gitlab ci",
+        "html",
+        "java",
+        "javascript",
+        "jenkins",
+        "less",
+        "mongodb",
+        "mysql",
+        "oracle",
+        "python",
+        "react",
+        "rest",
+        "spring",
+        "spring framework",
+        "sql",
+        "sql server",
+        "tdd"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Full Stack Software Engineer, Developer (Associate or Experienced) Company: The Boeing Company The Boeing Company is looking for an Associate or Experienced Software Engineer, Developer to join our Sp…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:54.012Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026504382",
     "job_title": "Airplane Performance Software Engineer (Associate)",
     "employer_name": "Boeing",
@@ -22866,124 +23200,6 @@
     "job_posted_at": "2026-04-10T07:03:54.012Z"
   },
   {
-    "job_id": "workday-boeing-JR2026505242",
-    "job_title": "Embedded Software Engineer (Associate or Experienced)",
-    "employer_name": "Boeing",
-    "job_city": "Long Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Embedded-Software-Engineer--Associate-or-Experienced-_JR2026505242-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f9300cb14b7d959461130266b1e2cb1845dedb6dd2be0bb065219cdee7b167fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "assembly",
-        "c++",
-        "computer science",
-        "data science",
-        "embedded systems",
-        "git",
-        "jira",
-        "less",
-        "linux",
-        "unix",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Embedded Software Engineer (Associate or Experienced) Company: The Boeing Company The Boeing Company is currently seeking an Embedded Software Engineer (Associate or Experienced) to support our BGS C-…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:54.012Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026498267",
-    "job_title": "Full Stack Software Engineer, Developer (Associate or Experienced)",
-    "employer_name": "Boeing",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Developer--Associate-or-Experienced-_JR2026498267-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "52fb30ff3733f8cd3c2e53c5f8c6bf5c8aa0454942f6994fc42d06b17b268ab5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "api",
-        "c++",
-        "ci/cd",
-        "computer science",
-        "continuous deployment",
-        "continuous integration",
-        "css",
-        "data science",
-        "devsecops",
-        "git",
-        "gitlab",
-        "gitlab ci",
-        "html",
-        "java",
-        "javascript",
-        "jenkins",
-        "less",
-        "mongodb",
-        "mysql",
-        "oracle",
-        "python",
-        "react",
-        "rest",
-        "spring",
-        "spring framework",
-        "sql",
-        "sql server",
-        "tdd"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Full Stack Software Engineer, Developer (Associate or Experienced) Company: The Boeing Company The Boeing Company is looking for an Associate or Experienced Software Engineer, Developer to join our Sp…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:54.012Z"
-  },
-  {
     "job_id": "workday-boeing-JR2026503130",
     "job_title": "Experienced Systems Engineering Support Analyst",
     "employer_name": "Boeing",
@@ -23023,267 +23239,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:03:54.012Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0231660",
-    "job_title": "Software Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Engineer_R0231660",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ce9fae05d5c8c1c396ae80a2630da5c3c3609d2c1b32d65a0ff65138b396cc20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "c#",
-        "css",
-        "cybersecurity",
-        "docker",
-        "dynamodb",
-        "github",
-        "github actions",
-        "go",
-        "helm",
-        "html",
-        "java",
-        "javascript",
-        "kubernetes",
-        "large language model",
-        "postgresql",
-        "python",
-        "rds",
-        "react",
-        "s3",
-        "sns",
-        "sql",
-        "sqs",
-        "vue"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Software Engineer The Opportunity: Are you looking for an opportunity to leverage your Full Stack Software Engineering expertise in a high impact role?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237588",
-    "job_title": "ICAM Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/ICAM-Engineer_R0237588",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c730bcac8df81f9669b934e2a45ef617efa71a6a85aebcc54c15bc0d44696376",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "active directory",
-        "aws",
-        "azure",
-        "cybersecurity",
-        "elk stack",
-        "iam",
-        "ldap",
-        "pki",
-        "project management",
-        "siem",
-        "splunk"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "ICAM Engineer The Opportunity: The user is the last frontier for cybersecurity.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237582",
-    "job_title": "Network Exploitation Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/Network-Exploitation-Analyst_R0237582",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef9838115b9ee1e8a5f3d7a4aa3083e8ba0170189a4ea30f743c265c458ed5c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "encryption",
-        "networking",
-        "penetration testing",
-        "python",
-        "routing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Network Exploitation Analyst The Opportunity : Do you have strong analytic skills and a problem-solving mindset?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237573",
-    "job_title": "Splunk SOAR Cyber Automation Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Splunk-SOAR-Cyber-Automation-Engineer_R0237573",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "763152afddf13a980ce6a3ef4aa1b1c04e37ce267e95fa25b7baccd75abab904",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "azure",
-        "cfr",
-        "cybersecurity",
-        "dashboards",
-        "git",
-        "incident response",
-        "java",
-        "javascript",
-        "linux",
-        "microservices",
-        "python",
-        "ruby",
-        "soc",
-        "splunk",
-        "svn",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Splunk SOAR Cyber Automation Engineer The Opportunity : Lead the design and development of solutions to automate cyber and cloud services and activities.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237571",
-    "job_title": "University, Full Stack Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Full-Stack-Developer_R0237571",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "18b26aaf8f886feb228ece167c92b1e935e1778faf721c0fd078346ebfc170d1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        ".net",
-        "agile",
-        "c#",
-        "c++",
-        "java",
-        "javascript",
-        "nodejs",
-        "php",
-        "python",
-        "react",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "University, Full Stack Developer The Opportunity : As a full stack developer, you can resolve a problem with a complete end-to-end solution in a fast, agile environment.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237533",
@@ -23743,6 +23698,267 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "DevOps Engineer The Opportunity: Are you looking for an opportunity to leverage your DevOps and Platform Engineering expertise in a high impact role?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0231660",
+    "job_title": "Software Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Engineer_R0231660",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ce9fae05d5c8c1c396ae80a2630da5c3c3609d2c1b32d65a0ff65138b396cc20",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "c#",
+        "css",
+        "cybersecurity",
+        "docker",
+        "dynamodb",
+        "github",
+        "github actions",
+        "go",
+        "helm",
+        "html",
+        "java",
+        "javascript",
+        "kubernetes",
+        "large language model",
+        "postgresql",
+        "python",
+        "rds",
+        "react",
+        "s3",
+        "sns",
+        "sql",
+        "sqs",
+        "vue"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Software Engineer The Opportunity: Are you looking for an opportunity to leverage your Full Stack Software Engineering expertise in a high impact role?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237588",
+    "job_title": "ICAM Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/ICAM-Engineer_R0237588",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c730bcac8df81f9669b934e2a45ef617efa71a6a85aebcc54c15bc0d44696376",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "active directory",
+        "aws",
+        "azure",
+        "cybersecurity",
+        "elk stack",
+        "iam",
+        "ldap",
+        "pki",
+        "project management",
+        "siem",
+        "splunk"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "ICAM Engineer The Opportunity: The user is the last frontier for cybersecurity.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237582",
+    "job_title": "Network Exploitation Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Annapolis Junction",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/Network-Exploitation-Analyst_R0237582",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef9838115b9ee1e8a5f3d7a4aa3083e8ba0170189a4ea30f743c265c458ed5c5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "encryption",
+        "networking",
+        "penetration testing",
+        "python",
+        "routing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Network Exploitation Analyst The Opportunity : Do you have strong analytic skills and a problem-solving mindset?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237573",
+    "job_title": "Splunk SOAR Cyber Automation Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Splunk-SOAR-Cyber-Automation-Engineer_R0237573",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "763152afddf13a980ce6a3ef4aa1b1c04e37ce267e95fa25b7baccd75abab904",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "azure",
+        "cfr",
+        "cybersecurity",
+        "dashboards",
+        "git",
+        "incident response",
+        "java",
+        "javascript",
+        "linux",
+        "microservices",
+        "python",
+        "ruby",
+        "soc",
+        "splunk",
+        "svn",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Splunk SOAR Cyber Automation Engineer The Opportunity : Lead the design and development of solutions to automate cyber and cloud services and activities.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237571",
+    "job_title": "University, Full Stack Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Full-Stack-Developer_R0237571",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "18b26aaf8f886feb228ece167c92b1e935e1778faf721c0fd078346ebfc170d1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        ".net",
+        "agile",
+        "c#",
+        "c++",
+        "java",
+        "javascript",
+        "nodejs",
+        "php",
+        "python",
+        "react",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "University, Full Stack Developer The Opportunity : As a full stack developer, you can resolve a problem with a complete end-to-end solution in a fast, agile environment.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:03:52.797Z"
@@ -25135,6 +25351,141 @@
     "job_posted_at": "2026-04-10T07:01:11.864Z"
   },
   {
+    "job_id": "workday-leidos-R-00180551",
+    "job_title": "Systems Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Bethesda",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Systems-Engineer_R-00180551",
+    "job_posted_at_datetime_utc": "2026-04-10T07:01:11.864Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bce8969b6bd8737fae230bbeb89516098ead75be1052275ac4fdc6b4d1d3722e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "integration testing",
+        "requirements management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Leidos has a new and exciting opportunity for a Systems Engineer in our Intel Sector Analysis Solutions Business Area (ASBA) .",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:01:11.864Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180478",
+    "job_title": "Junior Software Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Columbia",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Junior-Software-Engineer_R-00180478",
+    "job_posted_at_datetime_utc": "2026-04-10T07:01:11.864Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "835c3bb3c71dd8e44b2686f5fb89a3bfa7d67cd73b31deab7b23809aeec66c45",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "c++",
+        "computer science",
+        "deep learning",
+        "docker",
+        "esxi",
+        "gcp",
+        "golang",
+        "java",
+        "kubernetes",
+        "linux",
+        "networking",
+        "python",
+        "rust"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "INTEL/Cyber Analytics at Leidos currently has an opening for a junior-level Software Engineer in Columbia, MD.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:01:11.864Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00178466",
+    "job_title": "Microsoft SQL Database Administrator",
+    "employer_name": "Leidos",
+    "job_city": "Suitland",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Microsoft-SQL-Database-Administrator_R-00178466",
+    "job_posted_at_datetime_utc": "2026-04-10T07:01:11.864Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "735c1d783291138751bc771c2e0491cc8dc47f3f4a0297ab9e3f150369b6f427",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "azure",
+        "microsoft office",
+        "sql",
+        "visio"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "If you hold an active DoD TS/SCI clearance and thrive on solving complex challenges, this is your opportunity to make a meaningful impact.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:01:11.864Z"
+  },
+  {
     "job_id": "workday-leidos-R-00180443",
     "job_title": "SEC ISS2 IT Opportunities",
     "employer_name": "Leidos",
@@ -25266,141 +25617,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Leidos has a new and exciting opportunity for a Scrum Master in our National Security Sector's (NSS) Cyber & Analytics Business Area (CABA) .",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:01:11.864Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180551",
-    "job_title": "Systems Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Bethesda",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Systems-Engineer_R-00180551",
-    "job_posted_at_datetime_utc": "2026-04-10T07:01:11.864Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bce8969b6bd8737fae230bbeb89516098ead75be1052275ac4fdc6b4d1d3722e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "integration testing",
-        "requirements management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Leidos has a new and exciting opportunity for a Systems Engineer in our Intel Sector Analysis Solutions Business Area (ASBA) .",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:01:11.864Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180478",
-    "job_title": "Junior Software Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Columbia",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Junior-Software-Engineer_R-00180478",
-    "job_posted_at_datetime_utc": "2026-04-10T07:01:11.864Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "835c3bb3c71dd8e44b2686f5fb89a3bfa7d67cd73b31deab7b23809aeec66c45",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "c++",
-        "computer science",
-        "deep learning",
-        "docker",
-        "esxi",
-        "gcp",
-        "golang",
-        "java",
-        "kubernetes",
-        "linux",
-        "networking",
-        "python",
-        "rust"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "INTEL/Cyber Analytics at Leidos currently has an opening for a junior-level Software Engineer in Columbia, MD.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:01:11.864Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00178466",
-    "job_title": "Microsoft SQL Database Administrator",
-    "employer_name": "Leidos",
-    "job_city": "Suitland",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Microsoft-SQL-Database-Administrator_R-00178466",
-    "job_posted_at_datetime_utc": "2026-04-10T07:01:11.864Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "735c1d783291138751bc771c2e0491cc8dc47f3f4a0297ab9e3f150369b6f427",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "azure",
-        "microsoft office",
-        "sql",
-        "visio"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "If you hold an active DoD TS/SCI clearance and thrive on solving complex challenges, this is your opportunity to make a meaningful impact.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:01:11.864Z"
@@ -25988,6 +26204,169 @@
     "job_posted_at": "2026-04-10T07:01:00.619Z"
   },
   {
+    "job_id": "workday-trimble-R54425",
+    "job_title": "Systems Support Specialist",
+    "employer_name": "Trimble",
+    "job_city": "Portsmouth, NH",
+    "job_state": "NH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Portsmouth-NH/Systems-Support-Specialist_R54425",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:57.789Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9fc461c0b8976038fb81e8c4750ec370bb6165cdc31b02fcd5c393807f208169",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "crm",
+        "https",
+        "less",
+        "sql",
+        "windows",
+        "windows server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Empower Global Infrastructure as our Next Systems Support Specialist (B2W) in Portsmouth, NH!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:00:57.789Z"
+  },
+  {
+    "job_id": "workday-trimble-R55074",
+    "job_title": "Software Development Engineer in Test",
+    "employer_name": "Trimble",
+    "job_city": "OR, Lake Oswego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Development-Engineer-in-Test_R55074",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:57.789Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "690784b48d0e3f929334f79519243620fc47bf0aa0577602ccae9b676cc4d764",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "azure",
+        "azure devops",
+        "c#",
+        "devops",
+        "https",
+        "less",
+        "oracle",
+        "regression",
+        "selenium",
+        "sql",
+        "sql server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Elevate Software Quality as our next Software Development Engineer in Test!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:00:57.789Z"
+  },
+  {
+    "job_id": "workday-trimble-R53064",
+    "job_title": "Site Reliability Engineer",
+    "employer_name": "Trimble",
+    "job_city": "US CO Westminster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/FedRAMP-Site-Reliability-Engineer-II_R53064",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:57.789Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9a019f649bc5ecb2c4dcdb515cefa54491e354030f1a447cfd429e91665b047e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "active directory",
+        "analytics",
+        "ansible",
+        "aws",
+        "azure",
+        "bash",
+        "change management",
+        "computer science",
+        "devops",
+        "ecs",
+        "eks",
+        "grafana",
+        "https",
+        "infrastructure as code",
+        "kubernetes",
+        "ldap",
+        "less",
+        "linux",
+        "networking",
+        "observability",
+        "perl",
+        "powershell",
+        "python",
+        "scalability",
+        "sre",
+        "terraform",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Shape the Future of Cloud Infrastructure as our next Site Reliability Engineer!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:00:57.789Z"
+  },
+  {
     "job_id": "workday-trimble-R52982",
     "job_title": "Software Engineer",
     "employer_name": "Trimble",
@@ -26240,169 +26619,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Elevate the Enterprise Experience as our next Premier Support Engineer !",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:00:57.789Z"
-  },
-  {
-    "job_id": "workday-trimble-R54425",
-    "job_title": "Systems Support Specialist",
-    "employer_name": "Trimble",
-    "job_city": "Portsmouth, NH",
-    "job_state": "NH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Portsmouth-NH/Systems-Support-Specialist_R54425",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:57.789Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9fc461c0b8976038fb81e8c4750ec370bb6165cdc31b02fcd5c393807f208169",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "crm",
-        "https",
-        "less",
-        "sql",
-        "windows",
-        "windows server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Empower Global Infrastructure as our Next Systems Support Specialist (B2W) in Portsmouth, NH!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:00:57.789Z"
-  },
-  {
-    "job_id": "workday-trimble-R55074",
-    "job_title": "Software Development Engineer in Test",
-    "employer_name": "Trimble",
-    "job_city": "OR, Lake Oswego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Development-Engineer-in-Test_R55074",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:57.789Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "690784b48d0e3f929334f79519243620fc47bf0aa0577602ccae9b676cc4d764",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "azure",
-        "azure devops",
-        "c#",
-        "devops",
-        "https",
-        "less",
-        "oracle",
-        "regression",
-        "selenium",
-        "sql",
-        "sql server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Elevate Software Quality as our next Software Development Engineer in Test!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:00:57.789Z"
-  },
-  {
-    "job_id": "workday-trimble-R53064",
-    "job_title": "Site Reliability Engineer",
-    "employer_name": "Trimble",
-    "job_city": "US CO Westminster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/FedRAMP-Site-Reliability-Engineer-II_R53064",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:57.789Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9a019f649bc5ecb2c4dcdb515cefa54491e354030f1a447cfd429e91665b047e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "active directory",
-        "analytics",
-        "ansible",
-        "aws",
-        "azure",
-        "bash",
-        "change management",
-        "computer science",
-        "devops",
-        "ecs",
-        "eks",
-        "grafana",
-        "https",
-        "infrastructure as code",
-        "kubernetes",
-        "ldap",
-        "less",
-        "linux",
-        "networking",
-        "observability",
-        "perl",
-        "powershell",
-        "python",
-        "scalability",
-        "sre",
-        "terraform",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Shape the Future of Cloud Infrastructure as our next Site Reliability Engineer!",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:00:57.789Z"
@@ -27507,6 +27723,26 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "active directory",
+        "networking",
+        "powershell",
+        "shell",
+        "shell scripting",
+        "splunk",
+        "vmware",
+        "vsphere",
+        "windows",
+        "windows server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Windows System Administrator The Opportunity: Are you looking for an opportunity to combine your technical skills with big picture thinking to make an impact in Booz Allen?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T03:02:17.119Z"
   },
   {
@@ -27535,6 +27771,40 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "angular",
+        "api",
+        "aws",
+        "azure",
+        "c#",
+        "computer science",
+        "confluence",
+        "devsecops",
+        "git",
+        "gitlab",
+        "java",
+        "javascript",
+        "jira",
+        "kubernetes",
+        "microservices",
+        "python",
+        "react",
+        "requirements gathering",
+        "restful",
+        "scrum",
+        "spring",
+        "spring boot",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Full Stack Software Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up to 10% Type…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T03:02:07.262Z"
   },
   {
@@ -27563,6 +27833,26 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "aws",
+        "ci/cd",
+        "cyber security",
+        "cybersecurity",
+        "data analysis",
+        "firewall",
+        "firmware",
+        "incident response",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Space Systems Cyber Security Engineer Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Require…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T03:02:07.262Z"
   },
   {
@@ -32715,49 +33005,6 @@
     "job_posted_at": "2026-04-09T07:03:52.798Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237287",
-    "job_title": "Cyber Warfare Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Rome",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Cyber-Warfare-Engineer_R0237287",
-    "job_posted_at_datetime_utc": "2026-04-09T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "36172e61f537d2a69c9a70d62b42279abcc7f0364169355f3022ce0238a211e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity",
-        "penetration testing",
-        "reporting",
-        "system design",
-        "vulnerability assessment"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Cyber Warfare Engineer The Opportunity: A robust cybersecurity framework is essential for safeguarding critical systems and enabling government agencies to achieve their missions.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:03:52.797Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237447",
     "job_title": "AI DevOps Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -32903,60 +33150,6 @@
     "job_posted_at": "2026-04-09T07:03:52.797Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237458",
-    "job_title": "Cloud Security Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Cloud-Security-Engineer_R0237458",
-    "job_posted_at_datetime_utc": "2026-04-09T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "df63d2db94947bdca9aa4cb11a97547591ce8ee77cf71179665ff5545ca33ad6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "amazon web services",
-        "aws",
-        "azure",
-        "bash",
-        "cybersecurity",
-        "devsecops",
-        "git",
-        "gitlab",
-        "linux",
-        "powershell",
-        "project management",
-        "red hat",
-        "rhel",
-        "risk management",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Cloud Security Engineer The Opportunity : Define, communicate, and implement cybersecurity architecture and administration processes for Amazon Web Services ( AWS ) and Micro sof t Azure cloud environ…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:03:52.797Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0233933",
     "job_title": "Endpoint Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -33047,6 +33240,49 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Cloud Engineer The Opportunity : Everyone is trying to “harness the cloud”, but not everyone knows how.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:03:52.797Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237287",
+    "job_title": "Cyber Warfare Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Rome",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Cyber-Warfare-Engineer_R0237287",
+    "job_posted_at_datetime_utc": "2026-04-09T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "36172e61f537d2a69c9a70d62b42279abcc7f0364169355f3022ce0238a211e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "penetration testing",
+        "reporting",
+        "system design",
+        "vulnerability assessment"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Cyber Warfare Engineer The Opportunity: A robust cybersecurity framework is essential for safeguarding critical systems and enabling government agencies to achieve their missions.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:03:52.797Z"
@@ -33157,6 +33393,103 @@
     "job_posted_at": "2026-04-09T07:03:51.002Z"
   },
   {
+    "job_id": "workday-caci-318528",
+    "job_title": "Expert Geospatial Intelligence Analyst",
+    "employer_name": "CACI",
+    "job_city": "US NC Fort Bragg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Expert-Geospatial-Intelligence-Analyst_318528-1",
+    "job_posted_at_datetime_utc": "2026-04-09T07:03:43.577Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "883695239f12ad9f000caed639a33a9049ffd1263230b8f8b742905d1b7480e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "electro-optical",
+        "java",
+        "lidar",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Expert Geospatial Intelligence Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up t…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:03:43.577Z"
+  },
+  {
+    "job_id": "workday-caci-324525",
+    "job_title": "Software Developer",
+    "employer_name": "CACI",
+    "job_city": "US MD Columbia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Columbia/Software-Developer_324525",
+    "job_posted_at_datetime_utc": "2026-04-09T07:03:43.577Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9abb7c0e3e4e419ef8774e306c4a5383fb61a3f3303151eb6b3a6f8f82106221",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "api",
+        "aws",
+        "computer science",
+        "docker",
+        "elasticsearch",
+        "java",
+        "javascript",
+        "mongodb",
+        "nodejs",
+        "reactjs",
+        "real-time systems",
+        "spring",
+        "spring boot",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Software Developer Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required:…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:03:43.577Z"
+  },
+  {
     "job_id": "workday-caci-324600",
     "job_title": "Software Engineer-TS/SCI with Poly",
     "employer_name": "CACI",
@@ -33259,103 +33592,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Virtual Systems Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: Up to 10% Type of T…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:03:43.577Z"
-  },
-  {
-    "job_id": "workday-caci-318528",
-    "job_title": "Expert Geospatial Intelligence Analyst",
-    "employer_name": "CACI",
-    "job_city": "US NC Fort Bragg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Expert-Geospatial-Intelligence-Analyst_318528-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:03:43.577Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "883695239f12ad9f000caed639a33a9049ffd1263230b8f8b742905d1b7480e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "electro-optical",
-        "java",
-        "lidar",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Expert Geospatial Intelligence Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up t…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:03:43.577Z"
-  },
-  {
-    "job_id": "workday-caci-324525",
-    "job_title": "Software Developer",
-    "employer_name": "CACI",
-    "job_city": "US MD Columbia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Columbia/Software-Developer_324525",
-    "job_posted_at_datetime_utc": "2026-04-09T07:03:43.577Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9abb7c0e3e4e419ef8774e306c4a5383fb61a3f3303151eb6b3a6f8f82106221",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "api",
-        "aws",
-        "computer science",
-        "docker",
-        "elasticsearch",
-        "java",
-        "javascript",
-        "mongodb",
-        "nodejs",
-        "reactjs",
-        "real-time systems",
-        "spring",
-        "spring boot",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Software Developer Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required:…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:03:43.577Z"
@@ -35462,6 +35698,50 @@
     "job_posted_at": "2026-04-09T07:01:11.865Z"
   },
   {
+    "job_id": "workday-leidos-R-00180436",
+    "job_title": "Software Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Gaithersburg",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer_R-00180436",
+    "job_posted_at_datetime_utc": "2026-04-09T07:01:11.864Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "37d5a3bfbc1a3b1c6cf8209350954ef9bd93e0c6a7c75ff3064a72a97be73001",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "c++",
+        "computer science",
+        "linux",
+        "red hat",
+        "tcp/ip"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Software Engineer UK NASR PDT Evolution Program Leidos is seeking a Software Engineer to be based in Gaithersburg, MD; Eagan, MN; or Egg Harbor, NJ.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:01:11.864Z"
+  },
+  {
     "job_id": "workday-leidos-R-00180108",
     "job_title": "Desktop Support Technician",
     "employer_name": "Leidos",
@@ -35869,50 +36149,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Leidos is seeking a Systems Engineer to support a complex, multi-year contract providing Systems Engineering and Integration support to DISA.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:01:11.864Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180436",
-    "job_title": "Software Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Gaithersburg",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer_R-00180436",
-    "job_posted_at_datetime_utc": "2026-04-09T07:01:11.864Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "37d5a3bfbc1a3b1c6cf8209350954ef9bd93e0c6a7c75ff3064a72a97be73001",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "c++",
-        "computer science",
-        "linux",
-        "red hat",
-        "tcp/ip"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Software Engineer UK NASR PDT Evolution Program Leidos is seeking a Software Engineer to be based in Gaithersburg, MD; Eagan, MN; or Egg Harbor, NJ.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:01:11.864Z"
@@ -38411,6 +38647,15 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Target Digital Network Analyst (TDNA) Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T03:02:07.262Z"
   },
   {
@@ -42809,134 +43054,6 @@
     "job_posted_at": "2026-04-08T07:03:52.798Z"
   },
   {
-    "job_id": "workday-caci-324605",
-    "job_title": "Database Administrator (DBA)",
-    "employer_name": "CACI",
-    "job_city": "US VA Ashburn",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Database-Administrator--DBA-_324605",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:43.577Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d484821690383d069ca3a315f571eae74863e91bf60f2feb75e0f170b5e6e7c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "amazon web services",
-        "apache",
-        "apache kafka",
-        "aws",
-        "azure",
-        "cassandra",
-        "ci/cd",
-        "computer science",
-        "continuous deployment",
-        "continuous integration",
-        "data analysis",
-        "data architecture",
-        "data governance",
-        "data integration",
-        "data modeling",
-        "devops",
-        "dynamodb",
-        "encryption",
-        "etl",
-        "google cloud",
-        "kafka",
-        "microservices",
-        "microsoft azure",
-        "microsoft sql server",
-        "mongodb",
-        "mysql",
-        "oracle",
-        "postgresql",
-        "rds",
-        "regression",
-        "scrum",
-        "sql",
-        "sql server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Database Administrator (DBA) Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Required: Up to…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:43.577Z"
-  },
-  {
-    "job_id": "workday-caci-324580",
-    "job_title": "Database/Systems Administrator",
-    "employer_name": "CACI",
-    "job_city": "US VA Ashburn",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Database-Systems-Administrator_324580",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:43.577Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d0d92321b8f532ef06a5aae75fc5ea963c3314a7256ebecbecd8247e7db8f20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "active directory",
-        "agile",
-        "aws",
-        "ci/cd",
-        "computer science",
-        "devops",
-        "docker",
-        "etl",
-        "kubernetes",
-        "oracle",
-        "postgresql",
-        "rds",
-        "regression",
-        "scrum",
-        "sql",
-        "sql server",
-        "windows",
-        "windows server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Database/Systems Administrator Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Required: Up t…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:43.577Z"
-  },
-  {
     "job_id": "workday-caci-324654",
     "job_title": "Systems Admin - Help Desk Specialist",
     "employer_name": "CACI",
@@ -43269,6 +43386,134 @@
       "is_simple_apply": false,
       "summary_line": "Job Title: Master Data Governance Analyst Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Required: Up t…",
       "is_remote": true
+    },
+    "job_posted_at": "2026-04-08T07:03:43.577Z"
+  },
+  {
+    "job_id": "workday-caci-324605",
+    "job_title": "Database Administrator (DBA)",
+    "employer_name": "CACI",
+    "job_city": "US VA Ashburn",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Database-Administrator--DBA-_324605",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:43.577Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d484821690383d069ca3a315f571eae74863e91bf60f2feb75e0f170b5e6e7c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "amazon web services",
+        "apache",
+        "apache kafka",
+        "aws",
+        "azure",
+        "cassandra",
+        "ci/cd",
+        "computer science",
+        "continuous deployment",
+        "continuous integration",
+        "data analysis",
+        "data architecture",
+        "data governance",
+        "data integration",
+        "data modeling",
+        "devops",
+        "dynamodb",
+        "encryption",
+        "etl",
+        "google cloud",
+        "kafka",
+        "microservices",
+        "microsoft azure",
+        "microsoft sql server",
+        "mongodb",
+        "mysql",
+        "oracle",
+        "postgresql",
+        "rds",
+        "regression",
+        "scrum",
+        "sql",
+        "sql server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Database Administrator (DBA) Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Required: Up to…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:43.577Z"
+  },
+  {
+    "job_id": "workday-caci-324580",
+    "job_title": "Database/Systems Administrator",
+    "employer_name": "CACI",
+    "job_city": "US VA Ashburn",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Database-Systems-Administrator_324580",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:43.577Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d0d92321b8f532ef06a5aae75fc5ea963c3314a7256ebecbecd8247e7db8f20",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "active directory",
+        "agile",
+        "aws",
+        "ci/cd",
+        "computer science",
+        "devops",
+        "docker",
+        "etl",
+        "kubernetes",
+        "oracle",
+        "postgresql",
+        "rds",
+        "regression",
+        "scrum",
+        "sql",
+        "sql server",
+        "windows",
+        "windows server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Database/Systems Administrator Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Required: Up t…",
+      "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:03:43.577Z"
   },
@@ -46583,6 +46828,104 @@
     "job_posted_at": "2026-04-08T07:00:19.470Z"
   },
   {
+    "job_id": "workday-general-motors-JR-202604346",
+    "job_title": "Component Graphics Designer",
+    "employer_name": "General Motors",
+    "job_city": "Warren",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Component-Graphics-Designer_JR-202604346",
+    "job_posted_at_datetime_utc": "2026-04-08T07:00:19.469Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2a49199a98ed33e169637c24af14c502e3a19664fa5eb3434ccebcef63a9fdc2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "adobe illustrator",
+        "figma",
+        "illustrator",
+        "nx",
+        "sketch",
+        "teamcenter"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description The Role As a Component Graphics Designer , you will create and execute clear, intuitive icons for physical controls and in-vehicle interfaces.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:00:19.469Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202606083",
+    "job_title": "Software Engineer",
+    "employer_name": "General Motors",
+    "job_city": "Milford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer_JR-202606083",
+    "job_posted_at_datetime_utc": "2026-04-08T07:00:19.469Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2dc3b8277b765878efba3aca6f9659efb7bc8e324774fd057f44160abcc48d6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "c++",
+        "ci/cd",
+        "computer science",
+        "design patterns",
+        "devops",
+        "git",
+        "jira",
+        "mechatronics",
+        "move",
+        "python",
+        "rf",
+        "rhapsody",
+        "scrum",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Our Mission: At General Motors, our product teams are redefining mobility.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:00:19.469Z"
+  },
+  {
     "job_id": "workday-general-motors-JR-202600657",
     "job_title": "Design Release Engineer-Display",
     "employer_name": "General Motors",
@@ -46702,104 +47045,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Description This role is categorized as hybrid, meaning the selected candidate will be expected to work on‑site at the Warren Tech Center at least three days per week (or other frequency determine…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:00:19.469Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202604346",
-    "job_title": "Component Graphics Designer",
-    "employer_name": "General Motors",
-    "job_city": "Warren",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Component-Graphics-Designer_JR-202604346",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:19.469Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a49199a98ed33e169637c24af14c502e3a19664fa5eb3434ccebcef63a9fdc2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "adobe illustrator",
-        "figma",
-        "illustrator",
-        "nx",
-        "sketch",
-        "teamcenter"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description The Role As a Component Graphics Designer , you will create and execute clear, intuitive icons for physical controls and in-vehicle interfaces.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:00:19.469Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202606083",
-    "job_title": "Software Engineer",
-    "employer_name": "General Motors",
-    "job_city": "Milford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer_JR-202606083",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:19.469Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a2dc3b8277b765878efba3aca6f9659efb7bc8e324774fd057f44160abcc48d6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "c++",
-        "ci/cd",
-        "computer science",
-        "design patterns",
-        "devops",
-        "git",
-        "jira",
-        "mechatronics",
-        "move",
-        "python",
-        "rf",
-        "rhapsody",
-        "scrum",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Our Mission: At General Motors, our product teams are redefining mobility.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:00:19.469Z"
