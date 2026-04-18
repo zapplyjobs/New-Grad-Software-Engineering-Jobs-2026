@@ -10445,50 +10445,6 @@
     "job_posted_at": "2026-04-17T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-ad4d2ecd-5088-45dd-a746-67a7a7847ee9",
-    "job_title": "Software Development Engineer, IAM Console Team",
-    "employer_name": "Amazon Development Center U.S., Inc.",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10395039/software-development-engineer-iam-console-team",
-    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fdbcb68eb4db417d4a14c2466d560e48081aec18ff64eb8457babe39ba84931f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "https"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications: - 1+ years of non-internship professional software development experience - Experience programming with at least one software programming language",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-78fc0c98-c5be-4a4e-a79b-7ef0a173962b",
     "job_title": "Software Development Engineer, EC2 Gateway Networking",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -10533,6 +10489,50 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Does working on global scale high performance distributed systems and packet processors excite you?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-ad4d2ecd-5088-45dd-a746-67a7a7847ee9",
+    "job_title": "Software Development Engineer, IAM Console Team",
+    "employer_name": "Amazon Development Center U.S., Inc.",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10395039/software-development-engineer-iam-console-team",
+    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fdbcb68eb4db417d4a14c2466d560e48081aec18ff64eb8457babe39ba84931f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "https"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - 1+ years of non-internship professional software development experience - Experience programming with at least one software programming language",
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T00:00:00.000Z"
@@ -28888,6 +28888,46 @@
     "job_posted_at": "2026-04-15T00:39:09.988Z"
   },
   {
+    "job_id": "amazon-9796e96e-496e-4e19-8dca-55b0859be326",
+    "job_title": "Software Development Engineer, Woot!",
+    "employer_name": "Woot.com LLC",
+    "job_city": "Carrollton",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10393376/software-development-engineer-woot",
+    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3c381f598bab7bee440ad081d55168a780c2029b3e0e96fb104b5e9a952f0531",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "design patterns"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - Experience programming with at least one software programming language - 3+ years of non-internship professional software development experience - 3+ years of non-internship de…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-3a3c8412-c826-4b16-a717-bef7860b3779",
     "job_title": "Software Development Engineer, STRADA",
     "employer_name": "Amazon Data Services, Inc.",
@@ -28931,46 +28971,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new an…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-9796e96e-496e-4e19-8dca-55b0859be326",
-    "job_title": "Software Development Engineer, Woot!",
-    "employer_name": "Woot.com LLC",
-    "job_city": "Carrollton",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10393376/software-development-engineer-woot",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3c381f598bab7bee440ad081d55168a780c2029b3e0e96fb104b5e9a952f0531",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "design patterns"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications: - Experience programming with at least one software programming language - 3+ years of non-internship professional software development experience - 3+ years of non-internship de…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
@@ -41149,6 +41149,115 @@
     "job_posted_at": "2026-04-13T14:17:45.726Z"
   },
   {
+    "job_id": "ashby-commure-4f90cc05-3978-40c7-8f39-80aab6d134c2",
+    "job_title": "Backend Engineer, RCM Core",
+    "employer_name": "Commure",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/commure/4f90cc05-3978-40c7-8f39-80aab6d134c2/application",
+    "job_posted_at_datetime_utc": "2026-04-13T14:05:16.255Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "019a5073e65adcc1da125e30420981bcc2bc878a28ecb0bcdc95ff5de6494164",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "django",
+        "docker",
+        "fastapi",
+        "flask",
+        "http",
+        "https",
+        "information security",
+        "kubernetes",
+        "python",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "We have bold ambitions to reimagine the healthcare experience, setting a new standard for how care is delivered and experienced across the industry.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T14:05:16.255Z"
+  },
+  {
+    "job_id": "ashby-commure-39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
+    "job_title": "Fullstack Engineer, Integrations",
+    "employer_name": "Commure",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/commure/39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5/application",
+    "job_posted_at_datetime_utc": "2026-04-13T14:05:16.255Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "80f690aacb43da374ac91feddba154fae577c655802d449e1dc00bcf98ddedfe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "c++",
+        "computer science",
+        "continuous integration",
+        "css",
+        "devops",
+        "docker",
+        "gcp",
+        "git",
+        "go",
+        "hipaa",
+        "html",
+        "http",
+        "https",
+        "information security",
+        "javascript",
+        "kubernetes",
+        "python",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "We have bold ambitions to reimagine the healthcare experience, setting a new standard for how care is delivered and experienced across the industry.",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-13T14:05:16.255Z"
+  },
+  {
     "job_id": "ashby-commure-faeeff7f-b1f9-4db2-93ff-99da570f85b0",
     "job_title": "Forward Deployed Engineer",
     "employer_name": "Commure",
@@ -41299,115 +41408,6 @@
       "is_simple_apply": true,
       "summary_line": "We have bold ambitions to reimagine the healthcare experience, setting a new standard for how care is delivered and experienced across the industry.",
       "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T14:05:16.255Z"
-  },
-  {
-    "job_id": "ashby-commure-4f90cc05-3978-40c7-8f39-80aab6d134c2",
-    "job_title": "Backend Engineer, RCM Core",
-    "employer_name": "Commure",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/commure/4f90cc05-3978-40c7-8f39-80aab6d134c2/application",
-    "job_posted_at_datetime_utc": "2026-04-13T14:05:16.255Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "019a5073e65adcc1da125e30420981bcc2bc878a28ecb0bcdc95ff5de6494164",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "django",
-        "docker",
-        "fastapi",
-        "flask",
-        "http",
-        "https",
-        "information security",
-        "kubernetes",
-        "python",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "We have bold ambitions to reimagine the healthcare experience, setting a new standard for how care is delivered and experienced across the industry.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T14:05:16.255Z"
-  },
-  {
-    "job_id": "ashby-commure-39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
-    "job_title": "Fullstack Engineer, Integrations",
-    "employer_name": "Commure",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/commure/39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5/application",
-    "job_posted_at_datetime_utc": "2026-04-13T14:05:16.255Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "80f690aacb43da374ac91feddba154fae577c655802d449e1dc00bcf98ddedfe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "c++",
-        "computer science",
-        "continuous integration",
-        "css",
-        "devops",
-        "docker",
-        "gcp",
-        "git",
-        "go",
-        "hipaa",
-        "html",
-        "http",
-        "https",
-        "information security",
-        "javascript",
-        "kubernetes",
-        "python",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "We have bold ambitions to reimagine the healthcare experience, setting a new standard for how care is delivered and experienced across the industry.",
-      "is_remote": true
     },
     "job_posted_at": "2026-04-13T14:05:16.255Z"
   },
@@ -48781,49 +48781,6 @@
     "job_posted_at": "2026-04-12T07:00:25.402Z"
   },
   {
-    "job_id": "js-beaconfire-inc-f0t8oyf4q7b98oh2aaaaaa==",
-    "job_title": "Embedded Systems Engineer – Entry Level (Visa Sponsorship)",
-    "employer_name": "BeaconFire Inc.",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/embedded-systems-engineer-entry-level-visa-sponsorship--new-york--e6ab5620a5434058e22443b87c315e5a5",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "23fab136b1e17bde95d7a258b9712a5d57b9124231ba146dc3521d375eb5aa99",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "java",
-        "spring"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "A technology consulting firm in New York is looking for a Technical Recruiter to join their team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-997d2033-2426-4719-9dca-00b1ffab05c4",
     "job_title": "Software Development Engineer, Sponsored Products",
     "employer_name": "Amazon.com Services LLC",
@@ -48866,6 +48823,49 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new an…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-beaconfire-inc-f0t8oyf4q7b98oh2aaaaaa==",
+    "job_title": "Embedded Systems Engineer – Entry Level (Visa Sponsorship)",
+    "employer_name": "BeaconFire Inc.",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/embedded-systems-engineer-entry-level-visa-sponsorship--new-york--e6ab5620a5434058e22443b87c315e5a5",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "23fab136b1e17bde95d7a258b9712a5d57b9124231ba146dc3521d375eb5aa99",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "java",
+        "spring"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "A technology consulting firm in New York is looking for a Technical Recruiter to join their team.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
