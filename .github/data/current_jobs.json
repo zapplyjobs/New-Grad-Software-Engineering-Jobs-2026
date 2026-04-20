@@ -1020,88 +1020,6 @@
     "job_posted_at": "2026-04-20T09:19:51.705Z"
   },
   {
-    "job_id": "greenhouse-cloudflare-7702476",
-    "job_title": "Technical Program Manager Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476",
-    "job_posted_at_datetime_utc": "2026-04-20T09:16:38.335Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bcae90fb5c6b58f6d52d709a4a3f4e0e7bf66678f848630199c60fd422e57c49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cloudflare",
-        "data visualization",
-        "dns"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T09:16:38.335Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7702175",
-    "job_title": "Technical Program Manager Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175",
-    "job_posted_at_datetime_utc": "2026-04-20T09:16:38.335Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bcae90fb5c6b58f6d52d709a4a3f4e0e7bf66678f848630199c60fd422e57c49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cloudflare",
-        "data visualization",
-        "dns"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T09:16:38.335Z"
-  },
-  {
     "job_id": "workday-nike-R-82625",
     "job_title": "Software Engineer",
     "employer_name": "Nike",
@@ -93343,50 +93261,6 @@
     "job_posted_at": "2026-04-17T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-ad4d2ecd-5088-45dd-a746-67a7a7847ee9",
-    "job_title": "Software Development Engineer, IAM Console Team",
-    "employer_name": "Amazon Development Center U.S., Inc.",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10395039/software-development-engineer-iam-console-team",
-    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fdbcb68eb4db417d4a14c2466d560e48081aec18ff64eb8457babe39ba84931f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "https"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications: - 1+ years of non-internship professional software development experience - Experience programming with at least one software programming language",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-78fc0c98-c5be-4a4e-a79b-7ef0a173962b",
     "job_title": "Software Development Engineer, EC2 Gateway Networking",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -93431,6 +93305,50 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Does working on global scale high performance distributed systems and packet processors excite you?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-ad4d2ecd-5088-45dd-a746-67a7a7847ee9",
+    "job_title": "Software Development Engineer, IAM Console Team",
+    "employer_name": "Amazon Development Center U.S., Inc.",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10395039/software-development-engineer-iam-console-team",
+    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fdbcb68eb4db417d4a14c2466d560e48081aec18ff64eb8457babe39ba84931f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "https"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - 1+ years of non-internship professional software development experience - Experience programming with at least one software programming language",
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T00:00:00.000Z"
@@ -103132,58 +103050,6 @@
     "job_posted_at": "2026-04-16T03:39:30.000Z"
   },
   {
-    "job_id": "js-boeing-rjnv-aorf_-ic64faaaaaa==",
-    "job_title": "Entry-Level Missions Systems Software Engineers - Embedded",
-    "employer_name": "Boeing",
-    "job_city": "Berkeley",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.boeing.com/job/berkeley/entry-level-missions-systems-software-engineers-embedded/185/92941166032",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "3e8a47d101623f7c1af1599c776cc4762a8255680cb15968d10659cb751ad762",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "cameo",
-        "ci/cd",
-        "computer science",
-        "continuous deployment",
-        "continuous integration",
-        "data science",
-        "devops",
-        "devsecops",
-        "git",
-        "linux",
-        "rust"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-06b7541a-68d7-4ceb-83ef-88b10baae255",
     "job_title": "Software Development Engineer, S3",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -103495,51 +103361,6 @@
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-6796f7fe-a78d-458a-ae0f-c0d79471225f",
-    "job_title": "Product Design Mechanical Engineer, Data Center Engineering - Electrical Products and Services",
-    "employer_name": "Amazon Web Services, Inc.",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10394277/product-design-mechanical-engineer-data-center-engineering-electrical-products-and-services",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4c6cbe4cf986c5efeaad7bcd6229c50dcde330c3a98d2b713faef84a4332f64",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "excel",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications: - Bachelor's degree in Electrical Engineering or a related field - NETA or ASHRAE certification or commissioning specific education courses - Knowledge of critical data center me…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-17f3dcc6-5947-4ee3-bccb-6ba43ccc4414",
     "job_title": "Robotics Systems Engineer I",
     "employer_name": "Amazon.com Services LLC",
@@ -103763,6 +103584,103 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new an…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-boeing-rjnv-aorf_-ic64faaaaaa==",
+    "job_title": "Entry-Level Missions Systems Software Engineers - Embedded",
+    "employer_name": "Boeing",
+    "job_city": "Berkeley",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.boeing.com/job/berkeley/entry-level-missions-systems-software-engineers-embedded/185/92941166032",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "3e8a47d101623f7c1af1599c776cc4762a8255680cb15968d10659cb751ad762",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "cameo",
+        "ci/cd",
+        "computer science",
+        "continuous deployment",
+        "continuous integration",
+        "data science",
+        "devops",
+        "devsecops",
+        "git",
+        "linux",
+        "rust"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-6796f7fe-a78d-458a-ae0f-c0d79471225f",
+    "job_title": "Product Design Mechanical Engineer, Data Center Engineering - Electrical Products and Services",
+    "employer_name": "Amazon Web Services, Inc.",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10394277/product-design-mechanical-engineer-data-center-engineering-electrical-products-and-services",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4c6cbe4cf986c5efeaad7bcd6229c50dcde330c3a98d2b713faef84a4332f64",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "excel",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - Bachelor's degree in Electrical Engineering or a related field - NETA or ASHRAE certification or commissioning specific education courses - Knowledge of critical data center me…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
@@ -125579,140 +125497,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T14:46:47.066Z"
-  },
-  {
-    "job_id": "workday-caci-324634",
-    "job_title": "Scrum Master",
-    "employer_name": "CACI",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Scrum-Master_324634",
-    "job_posted_at_datetime_utc": "2026-04-13T14:45:14.826Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ea35bf5e1acf0752d5dfe6029854f7193544f0c42bdc7c2c6610e490b6363aef",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "continuous deployment",
-        "cyber security",
-        "data warehouse",
-        "oracle",
-        "program management",
-        "requirements management",
-        "scrum"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Scrum Master Job Category: Project and Program Management Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Required: Up to 10% Type…",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-13T14:45:14.826Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2655",
-    "job_title": "Software Engineer - Atlas",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Software-Engineer---Atlas_R2655",
-    "job_posted_at_datetime_utc": "2026-04-13T14:45:08.755Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6a2d434813ebef8fc04f94cfe95bca9ecc2844a2a87efcf4442bce1c62cff0c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "go",
-        "linux",
-        "object oriented programming",
-        "python",
-        "real-time systems",
-        "robotics",
-        "rust"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "As a Software Engineer on the Atlas Systems Software team at Boston Dynamics, you’ll help deliver solutions with Atlas, our humanoid robot, to existing and new markets.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T14:45:08.755Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5105606007",
-    "job_title": "Software Engineer (C++)",
-    "employer_name": "Anduril",
-    "job_city": "Reston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5105606007?gh_jid=5105606007",
-    "job_posted_at_datetime_utc": "2026-04-13T14:37:20.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d51645dca0e2374be47e3c170e1e61bf35d090ae9e7e7f6d663c45a70cfe1ef",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "linux"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Bachelor's degree in Computer Science, Software Engineering, Mathematics, Physics, or a related quantitative field, OR equivalent practical industry experience.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T14:37:20.000Z"
   }
 ]

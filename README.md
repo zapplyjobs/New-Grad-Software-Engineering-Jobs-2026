@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-2693-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-2688-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-348-blue?style=flat&logo=building)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-2045-red?style=flat&logo=star)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-2040-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -164,7 +164,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **CACI** | Full Stack Developer | 🏢 Sponsor Employer | VA Ashburn + 1 more | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Full-Stack-Java-Developer_322320) |
+| 🏢 **CACI** | Full Stack Developer | 🏢 Sponsor Employer | VA Ashburn + 1 more | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Full-Stack-Java-Developer_322320) |
 | 🏢 **Ivo** | Software Engineer, Fullstack |  | San Francisco | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c/apply) |
 | 🏢 **Zoox** | Software Engineer - Simulation Scenario Full Stack | ✅ Sponsors Visa | Foster City, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/c36a2c54-6481-4deb-9159-04feec638e97/apply) |
 | 🏢 **Zoox** | Full Stack Software Engineer, Operational Applications and Platforms | 🏢 Sponsor Employer | Foster City, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/0686875b-6d06-49aa-b9f2-772f756d5235/apply) |
@@ -288,7 +288,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **The Hartford** | AI Platform Engineer (Google Cloud Platform) | 🏢 Sponsor Employer | Hartford, CT | 52m | [<img src="images/apply.png" width="75" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/AI-Platform-Engineer--Google-Cloud-Platform-_R2624882) |
+| 🏢 **The Hartford** | AI Platform Engineer (Google Cloud Platform) | 🏢 Sponsor Employer | Hartford, CT | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/AI-Platform-Engineer--Google-Cloud-Platform-_R2624882) |
 | 🏢 **Whatnot** | LLM Platform Engineer | ✅ Sponsors Visa | San Francisco, CA + 1 more | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/fdb6f8e1-125a-4406-9fa4-43b46f3f5ace/application) |
 | 🏢 **Whatnot** | Machine Learning Infrastructure Engineer | ✅ Sponsors Visa | San Francisco, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/cee7e839-d88d-4782-8e55-82de2e9ad87e/application) |
 | 🏢 **Whatnot** | Feature Platform Engineer | ✅ Sponsors Visa | San Francisco, CA + 1 more | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/cb4e987c-b3ea-4117-b91c-75c61b83a7dc/application) |
@@ -399,8 +399,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Leidos** | Application Cybersecurity Engineer | 🏢 Sponsor Employer | Reston, VA | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Application-Cybersecurity-Engineer_R-00181162) |
-| 🏢 **CACI** | Information Systems Security Engineer (ISSE) | 🏢 Sponsor Employer | CO Denver | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Information-Systems-Security-Engineer--ISSE-_323883) |
+| 🏢 **Leidos** | Application Cybersecurity Engineer | 🏢 Sponsor Employer | Reston, VA | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Application-Cybersecurity-Engineer_R-00181162) |
+| 🏢 **CACI** | Information Systems Security Engineer (ISSE) | 🏢 Sponsor Employer | CO Denver | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Information-Systems-Security-Engineer--ISSE-_323883) |
 | 🏢 **Plaid** | Product Security Engineer | ✅ Sponsors Visa | New York | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/plaid/49f7e590-5487-4c58-84fb-54045ab793d1/apply) |
 | 🏢 **WHOOP** | Security Analyst | ✅ Sponsors Visa | Boston, MA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/whoop/8bb45cf1-a4ac-4715-98ab-7f523aaacf9c/apply) |
 | 🏢 **WHOOP** | Security Engineer, IAM | ✅ Sponsors Visa | Boston, MA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/whoop/7b4065d5-0cbb-47da-9d1e-3e52d9f75917/apply) |
@@ -616,19 +616,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Northrop Grumman** | Associate Engineer Systems/Engineer Systems |  | Alabama-Huntsville | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Engineer-Systems-Engineer-Systems_R10225451-1) |
-| 🏢 **CACI** | UAS Red Team Pilot | 🏢 Sponsor Employer | MD Aberdeen Provi... + 1 more | 43m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/UAS-Red-Team-Pilot_324936-1) |
-| 🏢 **Applied Materials** | Systems Engineer V MTS (E5) | 🏢 Sponsor Employer | Benicia, CA | 43m | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/BeniciaCA/Systems-Engineer-V-MTS--E5-_R2618058-1) |
-| 🏢 **Morgan Stanley** | Java Developer, Associate, P2 | 🏢 Sponsor Employer | New York | 51m | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer--Associate--P2_PT-JR031132) |
-| 🏢 **CACI** | Testing Analyst | 🏢 Sponsor Employer | Remote | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Testing-Analyst_323904) |
+| 🏢 **Northrop Grumman** | Associate Engineer Systems/Engineer Systems |  | Alabama-Huntsville | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Engineer-Systems-Engineer-Systems_R10225451-1) |
+| 🏢 **CACI** | UAS Red Team Pilot | 🏢 Sponsor Employer | MD Aberdeen Provi... + 1 more | 58m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/UAS-Red-Team-Pilot_324936-1) |
+| 🏢 **Applied Materials** | Systems Engineer V MTS (E5) | 🏢 Sponsor Employer | Benicia, CA | 58m | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/BeniciaCA/Systems-Engineer-V-MTS--E5-_R2618058-1) |
+| 🏢 **Morgan Stanley** | Java Developer, Associate, P2 | 🏢 Sponsor Employer | New York | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer--Associate--P2_PT-JR031132) |
+| 🏢 **CACI** | Testing Analyst | 🏢 Sponsor Employer | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Testing-Analyst_323904) |
 | 🏢 **CACI** | Linux System Administrator - AWS Cloud (C2S) | 🏢 Sponsor Employer | VA Chantilly | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Linux-System-Administrator---AWS-Cloud--C2S-_324455) |
-| 🏢 **ASML** | Continuous Polishing Technician CWW Back End Nights | 🏢 Sponsor Employer | Wilton, CT | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Continuous-Polishing-Technician-CWW-Back-End-Nights_J-00338906-1) |
-| 🏢 **Fidelity Investments** | Software Engineer in Test | 🏢 Sponsor Employer | Westlake, TX | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Software-Engineer-in-Test_2125656) |
-| 🏢 **Boeing** | Associate Systems Engineer | 🏢 Sponsor Employer | Hazelwood, MO | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Systems-Engineer_JR2025489712) |
+| 🏢 **ASML** | Continuous Polishing Technician CWW Back End Nights | 🏢 Sponsor Employer | Wilton, CT | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Continuous-Polishing-Technician-CWW-Back-End-Nights_J-00338906-1) |
+| 🏢 **Fidelity Investments** | Software Engineer in Test | 🏢 Sponsor Employer | Westlake, TX | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Software-Engineer-in-Test_2125656) |
+| 🏢 **Boeing** | Associate Systems Engineer | 🏢 Sponsor Employer | Hazelwood, MO | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Systems-Engineer_JR2025489712) |
 | 🏢 **RTX** | 2026  Raytheon Full Time- Software Engineer I -(Onsite) | 🏢 Sponsor Employer | MA-MARLBOROUGH-MA2 | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01839123) |
-| 🏢 **Cloudflare** | Technical Program Manager Intern (Summer 2026) | ✅ Sponsors Visa | Remote + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) |
 | 🏢 **Nike** | Software Engineer | 🏢 Sponsor Employer | Beaverton | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Beaverton-Oregon/Software-Engineer_R-82625) |
-| 🏢 **Salesforce** | Solution Engineering, Early Career | 🏢 Sponsor Employer | Illinois Chicago | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Solution-Engineering--Early-Career_JR339058-1) |
+| 🏢 **Salesforce** | Solution Engineering, Early Career | 🏢 Sponsor Employer | Illinois Chicago | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Solution-Engineering--Early-Career_JR339058-1) |
 | 🏢 **Red Hat** | Software Engineer - API Server (OpenShift) | 🏢 Sponsor Employer | Raleigh | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer---API-Server--OpenShift-_R-056136) |
 | 🏢 **Caterpillar** | Ruby on Rails Developer | 🏢 Sponsor Employer | Kennett Square, PA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/PA-Kennett-Square-Tangent-Energy-Solutions/Ruby-on-Rails-Developer_R0000363864) |
 | 🏢 **Promise** | IT Specialist | ✅ Sponsors Visa | San Francisco | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/promise/7f83127d-59c1-4348-8c15-bae23891576b/application) |
@@ -816,6 +815,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Stevens Capital Management** | C++ Market Data Feeds Developer |  | Radnor, PA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/712325) |
 | 🏢 **Stevens Capital Management** | C++ Market Data Feeds Developer - Jersey City, NJ |  | Jersey City, NJ | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/4833280) |
 | 🏢 **Stevens Capital Management** | Execution Developer |  | Radnor, PA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/712321) |
+| 🏢 **Samsara** | Technical Support Engineer | ✅ Sponsors Visa | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7644634?gh_jid=7644634) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -871,7 +871,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2693 current opportunities from 348 companies**
+**🎯 2688 current opportunities from 348 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
