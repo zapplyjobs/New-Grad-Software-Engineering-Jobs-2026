@@ -25,6 +25,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "crm",
+        "devops",
+        "erp",
+        "jira",
+        "netsuite",
+        "oracle",
+        "salesforce",
+        "sap"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "We are Generac, a leading energy technology company committed to powering a smarter world.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T20:07:08.281Z"
   },
   {
@@ -53,6 +72,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "angular",
+        "devops",
+        "devsecops",
+        "incident response",
+        "java",
+        "javascript",
+        "jquery",
+        "linux",
+        "owasp",
+        "root cause analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Experienced Programmer & Security Design/Development Specialist Company: The Boeing Company The Boeing Company is currently seeking an Experienced Programmer & Security Design/Development Specialist t…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T20:06:31.676Z"
   },
   {
@@ -83,6 +123,17 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "distributed systems"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every co…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T20:05:52.686Z"
   },
   {
@@ -160,6 +211,30 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "apache",
+        "aws",
+        "computer science",
+        "distributed systems",
+        "gcp",
+        "go",
+        "helm",
+        "http",
+        "kubernetes",
+        "observability",
+        "snowflake",
+        "sre"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T19:55:13.278Z"
   },
   {
@@ -6095,88 +6170,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T09:19:51.705Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7702476",
-    "job_title": "Technical Program Manager Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476",
-    "job_posted_at_datetime_utc": "2026-04-20T09:16:38.335Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bcae90fb5c6b58f6d52d709a4a3f4e0e7bf66678f848630199c60fd422e57c49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cloudflare",
-        "data visualization",
-        "dns"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companie…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T09:16:38.335Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7702175",
-    "job_title": "Technical Program Manager Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175",
-    "job_posted_at_datetime_utc": "2026-04-20T09:16:38.335Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bcae90fb5c6b58f6d52d709a4a3f4e0e7bf66678f848630199c60fd422e57c49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cloudflare",
-        "data visualization",
-        "dns"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companie…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T09:16:38.335Z"
   },
   {
     "job_id": "workday-nike-R-82625",
@@ -19644,7 +19637,6 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "failure mode",
         "fault tolerance",
         "fault tree",
         "fault tree analysis",
@@ -19730,8 +19722,7 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "c++",
-        "llm"
+        "c++"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -19866,6 +19857,7 @@
         "c++",
         "computer science",
         "fine-tuning",
+        "genai",
         "llm",
         "python",
         "reactjs",
@@ -19912,14 +19904,11 @@
         "c++",
         "computer science",
         "data analysis",
-        "data pipeline",
         "deep learning",
-        "large language model",
-        "llm",
+        "generative ai",
         "machine learning",
         "python",
         "pytorch",
-        "regression",
         "robotics",
         "statistics",
         "tensorflow"
@@ -20013,7 +20002,6 @@
       "required_skills": [
         "c++",
         "computer science",
-        "data pipeline",
         "data science",
         "distributed systems",
         "python",
@@ -20056,7 +20044,6 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "adas",
         "c++",
         "computer science",
         "python",
@@ -20148,7 +20135,6 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "adas",
         "c++",
         "computer science",
         "lidar",
@@ -20235,7 +20221,6 @@
       "required_skills": [
         "c++",
         "computer science",
-        "data pipeline",
         "robotics"
       ],
       "sponsors_visa": null,
@@ -20405,11 +20390,11 @@
       "required_skills": [
         "c++",
         "data analysis",
+        "generative ai",
         "machine learning",
         "numpy",
         "pandas",
         "python",
-        "regression",
         "robotics",
         "spark",
         "sql",
@@ -20543,7 +20528,6 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "api",
         "c++",
         "computer science",
         "data analysis",
@@ -87176,6 +87160,19 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "design patterns",
+        "firmware"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - Bachelor's degree or equivalent - 3+ years of non-internship professional software development experience - 3+ years of non-internship design or architecture (design patterns,…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T00:00:00.000Z"
   },
   {
@@ -98157,44 +98154,6 @@
     "job_posted_at": "2026-04-17T05:03:10.528Z"
   },
   {
-    "job_id": "js-the-mitre-corporation-khnfrsii7nbdij9_aaaaaa==",
-    "job_title": "Entry Level - Software Engineering or Computer Science",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115689/Entry-Level-Software-Engineering-or-Computer-Science",
-    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c851c2f544be0cf834a0f83210f01f86d0e591d150314eee40d6fa4f6c2e89ec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-6dfc1586-0b83-4e2e-875a-ade22bf4bcd0",
     "job_title": "Software Development Engineer",
     "employer_name": "Amazon.com Services LLC",
@@ -98470,49 +98429,6 @@
     "job_posted_at": "2026-04-17T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-ad4d2ecd-5088-45dd-a746-67a7a7847ee9",
-    "job_title": "Software Development Engineer, IAM Console Team",
-    "employer_name": "Amazon Development Center U.S., Inc.",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10395039/software-development-engineer-iam-console-team",
-    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fdbcb68eb4db417d4a14c2466d560e48081aec18ff64eb8457babe39ba84931f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "computer science"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications: - 1+ years of non-internship professional software development experience - Experience programming with at least one software programming language",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-78fc0c98-c5be-4a4e-a79b-7ef0a173962b",
     "job_title": "Software Development Engineer, EC2 Gateway Networking",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -98562,6 +98478,49 @@
     "job_posted_at": "2026-04-17T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-ad4d2ecd-5088-45dd-a746-67a7a7847ee9",
+    "job_title": "Software Development Engineer, IAM Console Team",
+    "employer_name": "Amazon Development Center U.S., Inc.",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10395039/software-development-engineer-iam-console-team",
+    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fdbcb68eb4db417d4a14c2466d560e48081aec18ff64eb8457babe39ba84931f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "computer science"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - 1+ years of non-internship professional software development experience - Experience programming with at least one software programming language",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-e8e2ab21-773b-4c69-b1a8-179725fe98f1",
     "job_title": "Software Development Engineer, Amazon S3, Amazon S3",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -98605,6 +98564,44 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new an…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-the-mitre-corporation-khnfrsii7nbdij9_aaaaaa==",
+    "job_title": "Entry Level - Software Engineering or Computer Science",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115689/Entry-Level-Software-Engineering-or-Computer-Science",
+    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c851c2f544be0cf834a0f83210f01f86d0e591d150314eee40d6fa4f6c2e89ec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T00:00:00.000Z"
@@ -127498,44 +127495,6 @@
     "job_posted_at": "2026-04-14T00:32:41.744Z"
   },
   {
-    "job_id": "js-saic-s4zto1ojggchszneaaaaaa==",
-    "job_title": "React Native Developer Junior",
-    "employer_name": "SAIC",
-    "job_city": "Ashburn",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.saic.com/jobs/17625164-react-native-developer-junior",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "df130d307cfcf0f9d3481d9737db68da2b8355913138540edaf5c42f5669fd3c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-dd4010cd-2da2-4211-acbc-4aa1455ce551",
     "job_title": "Software Development Engineer, Aurora DSQL",
     "employer_name": "Amazon.com Services LLC",
@@ -127933,6 +127892,44 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 3+ years of technical product or program management experience - 3+ years of project management disciplines including scope, schedule, budget, quality, along with risk and crit…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-saic-s4zto1ojggchszneaaaaaa==",
+    "job_title": "React Native Developer Junior",
+    "employer_name": "SAIC",
+    "job_city": "Ashburn",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.saic.com/jobs/17625164-react-native-developer-junior",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "df130d307cfcf0f9d3481d9737db68da2b8355913138540edaf5c42f5669fd3c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -129222,98 +129219,5 @@
       "is_remote": true
     },
     "job_posted_at": "2026-04-13T20:51:14.009Z"
-  },
-  {
-    "job_id": "workday-intel-JR0280597",
-    "job_title": "Software Engineer",
-    "employer_name": "Intel",
-    "job_city": "US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Software-Engineer_JR0280597",
-    "job_posted_at_datetime_utc": "2026-04-13T20:44:31.220Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ad748347949e732597c796e53dd8e688102b87ccf490e850efdc03e4019b05a9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "firmware",
-        "html",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Details: Job Description: Embark with us on a journey of growth and transformation as we create exceptionally engineered technology and bring AI everywhere.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T20:44:31.220Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237673",
-    "job_title": "Digital Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Houston-TX/Digital-Engineer_R0237673-1",
-    "job_posted_at_datetime_utc": "2026-04-13T20:43:18.031Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7f9ceb49104bf1fe40726ec3ed4614ce11331768cbcb67a5544413e4d7899e1d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "c++",
-        "confluence",
-        "data analysis",
-        "doors next generation",
-        "java",
-        "jira",
-        "matlab",
-        "program management",
-        "python",
-        "rest",
-        "rest api",
-        "sysml"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Digital Engineer The Opportunity: Develop novel solutions for systems engineering data manipulation, translation, and visualization.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T20:43:18.031Z"
   }
 ]
