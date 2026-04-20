@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-2678-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-2676-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-346-blue?style=flat&logo=building)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-2033-red?style=flat&logo=star)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-2031-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -218,7 +218,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Affirm** | Software Engineer I, Full-Stack (Home and Search Experience) | ✅ Sponsors Visa | Remote | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7685236003) |
 | 🏢 **Affirm** | Software Engineering Apprentice, Full-Stack | ✅ Sponsors Visa | Remote | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7647925003) |
 | 🏢 **Abnormal Security** | Software Engineer 2 (Fullstack), Threat Narrative | 🏢 Sponsor Employer | Canada; Remote - USA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://abnormal.ai/careers/jobs/7658409003?gh_jid=7658409003) |
-| 🏢 **Fidelity Investments** | Python Full Stack Engineer- | 🏢 Sponsor Employer | Durham, NC | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Durham-NC/Full-Stack-Engineer-_2126449) |
+| 🏢 **Fidelity Investments** | Python Full Stack Engineer- | 🏢 Sponsor Employer | Durham, NC | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Durham-NC/Full-Stack-Engineer-_2126449) |
 | 🏢 **Freeform** | Software Engineer (Full Stack Enterprise) |  | Los Angeles, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7704562003) |
 | 🏢 **Guidehouse** | Full Stack Analytics DevOps Engineer | 🏢 Sponsor Employer | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Full-Stack-Analytics-DevOps-Engineer_35727-1) |
 | 🏢 **Caterpillar** | Full Stack Embedded Software Engineer | 🏢 Sponsor Employer | Mossville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Full-Stack-Embedded-Software-Engineer_R0000364365) |
@@ -533,8 +533,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Robotics Software Engineer, Vehicle Software | ✅ Sponsors Visa | Costa Mesa | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007) |
 | 🏢 **Commure** | Software Engineer, Applied AI | ✅ Sponsors Visa | Mountain View, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/commure/7d4ec84a-9fdc-4238-81e7-8f666836006e/application) |
 | 🏢 **Boston Dynamics** | Robotics Software Engineer- Stretch | ✅ Sponsors Visa | Waltham, MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Software-Engineer--Stretch_R2545) |
-| 🏢 **Cadence** | GenAI Tools Support Engineer |  | SAN JOSE | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/GenAI-Tools-Support-Engineer_R54166-1) |
-| 🏢 **Cadence (University)** | GenAI Tools Support Engineer |  | SAN JOSE | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/GenAI-Tools-Support-Engineer_R54166) |
+| 🏢 **Cadence** | GenAI Tools Support Engineer | 🏢 Sponsor Employer | SAN JOSE | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/GenAI-Tools-Support-Engineer_R54166-1) |
+| 🏢 **Cadence (University)** | GenAI Tools Support Engineer | 🏢 Sponsor Employer | SAN JOSE | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/GenAI-Tools-Support-Engineer_R54166) |
 | 🏢 **NVIDIA** | Deep Learning Software Engineer, FlashInfer - New College Grad 2025 | 🏢 Sponsor Employer | US, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086) |
 | 🏢 **Intel** | Robotics Software Developer | 🏢 Sponsor Employer | US | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Robotics-Software-Developer_JR0282885) |
 | 🏢 **Snowflake** | Software Engineer (AI Engineer - Dev Exp / IC1) | ✅ Sponsors Visa | WA-Bellevue | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/bed7fa9d-f8a4-4c7f-ad1a-59883a43b6fe/application) |
@@ -615,11 +615,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Cloudflare** | Technical Program Manager Intern (Summer 2026) |  | Remote + 1 more | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) |
-| 🏢 **Nike** | Software Engineer | 🏢 Sponsor Employer | Beaverton | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Beaverton-Oregon/Software-Engineer_R-82625) |
+| 🏢 **Nike** | Software Engineer | 🏢 Sponsor Employer | Beaverton | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Beaverton-Oregon/Software-Engineer_R-82625) |
 | 🏢 **Salesforce** | Solution Engineering, Early Career | 🏢 Sponsor Employer | Illinois Chicago | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Solution-Engineering--Early-Career_JR339058-1) |
-| 🏢 **Red Hat** | Software Engineer - API Server (OpenShift) | 🏢 Sponsor Employer | Raleigh | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer---API-Server--OpenShift-_R-056136) |
-| 🏢 **Caterpillar** | Ruby on Rails Developer | 🏢 Sponsor Employer | Kennett Square, PA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/PA-Kennett-Square-Tangent-Energy-Solutions/Ruby-on-Rails-Developer_R0000363864) |
+| 🏢 **Red Hat** | Software Engineer - API Server (OpenShift) | 🏢 Sponsor Employer | Raleigh | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer---API-Server--OpenShift-_R-056136) |
+| 🏢 **Caterpillar** | Ruby on Rails Developer | 🏢 Sponsor Employer | Kennett Square, PA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/PA-Kennett-Square-Tangent-Energy-Solutions/Ruby-on-Rails-Developer_R0000363864) |
 | 🏢 **Promise** | IT Specialist | ✅ Sponsors Visa | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/promise/7f83127d-59c1-4348-8c15-bae23891576b/application) |
 | 🏢 **Ivo** | Software Engineer, Backend |  | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d/apply) |
 | 🏢 **Ivo** | Software Engineer, Infrastructure |  | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/dceaaf87-1cac-45b6-81d6-568b2913acef/apply) |
@@ -815,6 +814,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Rockstar Games** | Software Engineer (C++) | 🏢 Sponsor Employer | Manhattan | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rockstargames/jobs/7676254003) |
 | 🏢 **Gecko Robotics** | Forward Deployed Engineer | ✅ Sponsors Visa | New York City | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/gecko-robotics/1ae83c3f-565a-48c9-85f7-55ab1c75593d/application) |
 | 🏢 **Gecko Robotics** | Software Engineer   Infrastructure | ✅ Sponsors Visa | New York City | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/gecko-robotics/e27b6b39-38be-4566-8f09-15fcd80da9fe/application) |
+| 🏢 **Gecko Robotics** | IT Engineer | ✅ Sponsors Visa | New York City | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/gecko-robotics/cb4259ca-c0f1-45e3-934a-df96ebcde2ce/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -870,7 +870,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2678 current opportunities from 346 companies**
+**🎯 2676 current opportunities from 346 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

@@ -1,61 +1,5 @@
 [
   {
-    "job_id": "greenhouse-cloudflare-7702476",
-    "job_title": "Technical Program Manager Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476",
-    "job_posted_at_datetime_utc": "2026-04-20T08:40:44.933Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bcae90fb5c6b58f6d52d709a4a3f4e0e7bf66678f848630199c60fd422e57c49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T08:40:44.933Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7702175",
-    "job_title": "Technical Program Manager Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175",
-    "job_posted_at_datetime_utc": "2026-04-20T08:40:44.933Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bcae90fb5c6b58f6d52d709a4a3f4e0e7bf66678f848630199c60fd422e57c49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T08:40:44.933Z"
-  },
-  {
     "job_id": "workday-nike-R-82625",
     "job_title": "Software Engineer",
     "employer_name": "Nike",
@@ -83319,6 +83263,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "cadence",
+        "computer science",
+        "excel",
+        "firewall",
+        "genai",
+        "github",
+        "oauth",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-17T08:41:17.152Z"
   },
   {
@@ -83348,6 +83311,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "cadence",
+        "computer science",
+        "excel",
+        "firewall",
+        "genai",
+        "github",
+        "oauth",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-17T08:41:04.624Z"
   },
   {
@@ -91988,6 +91970,58 @@
     "job_posted_at": "2026-04-17T03:32:55.097Z"
   },
   {
+    "job_id": "js-boeing-rjnv-aorf_-ic64faaaaaa==",
+    "job_title": "Entry-Level Missions Systems Software Engineers - Embedded",
+    "employer_name": "Boeing",
+    "job_city": "Berkeley",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.boeing.com/job/berkeley/entry-level-missions-systems-software-engineers-embedded/185/92941166032",
+    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "3e8a47d101623f7c1af1599c776cc4762a8255680cb15968d10659cb751ad762",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "cameo",
+        "ci/cd",
+        "computer science",
+        "continuous deployment",
+        "continuous integration",
+        "data science",
+        "devops",
+        "devsecops",
+        "git",
+        "linux",
+        "rust"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-6dfc1586-0b83-4e2e-875a-ade22bf4bcd0",
     "job_title": "Software Development Engineer",
     "employer_name": "Amazon.com Services LLC",
@@ -92440,58 +92474,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Qualifications",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-boeing-rjnv-aorf_-ic64faaaaaa==",
-    "job_title": "Entry-Level Missions Systems Software Engineers - Embedded",
-    "employer_name": "Boeing",
-    "job_city": "Berkeley",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.boeing.com/job/berkeley/entry-level-missions-systems-software-engineers-embedded/185/92941166032",
-    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "3e8a47d101623f7c1af1599c776cc4762a8255680cb15968d10659cb751ad762",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "cameo",
-        "ci/cd",
-        "computer science",
-        "continuous deployment",
-        "continuous integration",
-        "data science",
-        "devops",
-        "devsecops",
-        "git",
-        "linux",
-        "rust"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T00:00:00.000Z"
@@ -95276,6 +95258,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "data quality",
+        "linux",
+        "power bi",
+        "sql",
+        "tableau",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T08:41:58.403Z"
   },
   {
@@ -95304,6 +95303,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "high availability",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T08:41:12.161Z"
   },
   {
@@ -102168,35 +102180,6 @@
     "job_posted_at": "2026-04-16T03:39:30.000Z"
   },
   {
-    "job_id": "js-boeing-pb_otppn3tjimdgtaaaaaa==",
-    "job_title": "Entry - Level Product Data Management Specialist",
-    "employer_name": "Boeing",
-    "job_city": "Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.boeing.com/job/mesa/entry-level-product-data-management-specialist/185/94038469040",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "40897edba9929d8b846dad483b699d29d0d6c90ecec54c0ba4e776b52884a64d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-06b7541a-68d7-4ceb-83ef-88b10baae255",
     "job_title": "Software Development Engineer, S3",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -102776,6 +102759,49 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new an…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-boeing-pb_otppn3tjimdgtaaaaaa==",
+    "job_title": "Entry - Level Product Data Management Specialist",
+    "employer_name": "Boeing",
+    "job_city": "Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.boeing.com/job/mesa/entry-level-product-data-management-specialist/185/94038469040",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "40897edba9929d8b846dad483b699d29d0d6c90ecec54c0ba4e776b52884a64d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "excel",
+        "microsoft office"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
@@ -104938,6 +104964,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "pki",
+        "process improvement",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T08:41:12.161Z"
   },
   {
@@ -104966,6 +105005,15 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T08:41:12.161Z"
   },
   {
@@ -112271,6 +112319,53 @@
     "job_posted_at": "2026-04-15T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-78228023-bb93-4c39-a841-12ab2ca81ea1",
+    "job_title": "Software Development Engineer, Aurora Storage",
+    "employer_name": "Amazon.com LLC",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10392904/software-development-engineer-aurora-storage",
+    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7e99392c7d367e4764b56c56adf8daf204e78ed2c193dcf9f2ca93b8a1404fbc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "amazon web services",
+        "aws",
+        "excel",
+        "mysql",
+        "postgres"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you interested in building hyper-scale database services in the cloud?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-361c02c4-5ba6-4b67-8717-c47fc5c6bd11",
     "job_title": "Software Development Engineer, Aurora Storage",
     "employer_name": "Amazon Web Services, Inc.",
@@ -112306,53 +112401,6 @@
         "analytics",
         "aws",
         "distributed systems",
-        "excel",
-        "mysql",
-        "postgres"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you interested in building hyper-scale database services in the cloud?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-78228023-bb93-4c39-a841-12ab2ca81ea1",
-    "job_title": "Software Development Engineer, Aurora Storage",
-    "employer_name": "Amazon.com LLC",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10392904/software-development-engineer-aurora-storage",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7e99392c7d367e4764b56c56adf8daf204e78ed2c193dcf9f2ca93b8a1404fbc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "amazon web services",
-        "aws",
         "excel",
         "mysql",
         "postgres"
@@ -114935,6 +114983,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "computer science",
+        "crm",
+        "css",
+        "html",
+        "java",
+        "javascript",
+        "llm",
+        "salesforce",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-14T08:44:07.633Z"
   },
   {
@@ -114963,6 +115033,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "api",
+        "crm",
+        "salesforce",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-14T08:44:07.633Z"
   },
   {
