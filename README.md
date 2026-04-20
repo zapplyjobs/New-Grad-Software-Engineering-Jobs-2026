@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-2679-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-2680-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-347-blue?style=flat&logo=building)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-2034-red?style=flat&logo=star)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-2035-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -125,8 +125,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Kitware** | Full-Stack Web Developer for Scientific Applications | ✅ Sponsors Visa | AZ | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/c590ff37-f1d8-480a-a251-6441b795e3aa/apply) |
 | 🏢 **Virtu Financial** | Software Engineer - Frontend Trading Application (C#/.NET) | ✅ Sponsors Visa | New York | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/virtu/jobs/4261145002) |
 | 🏢 **True Anomaly** | Software Engineer I, Front End | ✅ Sponsors Visa | Denver, CO | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992058007) |
-| 🏢 **OpenAI** | Frontend Software Engineer, Codex App | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/5f6685ad-2fba-4e60-8982-fa142b33e194/application) |
 | 🏢 **OpenAI** | Frontend Engineer, ChatGPT Engineering | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/5bde9af5-df78-460e-ae9c-5c49ac778640/application) |
+| 🏢 **OpenAI** | Frontend Software Engineer, Codex App | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/5f6685ad-2fba-4e60-8982-fa142b33e194/application) |
 | 🏢 **OpenAI** | Frontend Engineer, Dotcom (Marketing) | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/ffc3f648-a39d-4403-ad16-e8d38c88d572/application) |
 | 🏢 **SpaceX** | Mechanical Design Engineer, Gateways (Starlink) |  | Bastrop, TX | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8273339002?gh_jid=8273339002) |
 | 🏢 **SpaceX** | Electrical Design Engineer, Gateways & Customer Hardware (Starlink) |  | Bastrop, TX | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8357124002?gh_jid=8357124002) |
@@ -147,7 +147,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Airtable** | Software Engineer, Product Frontend (2-8 YOE) | ✅ Sponsors Visa | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8397137002) |
 | 🏢 **Comcast** | Front End Software Engineer with React Experience - Chicago OR Denver - Onsite | 🏢 Sponsor Employer | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-350-N-Orleans-St-1300N/Front-End-Software-Engineer-with-React-Experience---Chicago-OR-Denver---Onsite_R435141) |
 | 🏢 **Globus Medical** | Software Engineer-Frontend | 🏢 Sponsor Employer | Audubon, PA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Software-Engineer_JR106391) |
-| 🏢 **SAIC** | Junior Frontend Software Engineer | 🏢 Sponsor Employer | Huntsville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.saic.com/jobs/17629491-junior-frontend-software-engineer) |
+| 🏢 **SAIC** | Junior Frontend Software Engineer | 🏢 Sponsor Employer | Huntsville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.saic.com/jobs/17629491-junior-frontend-software-engineer) |
 | 🏢 **Anduril** | Mission Software Engineer, Vehicle Software, Frontend | ✅ Sponsors Visa | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4672911007?gh_jid=4672911007) |
 | 🏢 **Snowflake** | Frontend Software Engineer - Data Governance | ✅ Sponsors Visa | CA-Menlo Park | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/3d9d64b3-3744-4d80-a7e5-693bf0759cfc/application) |
 | 🏢 **CACI** | Web Developer | 🏢 Sponsor Employer | OK Tinker AFB | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-OK-Tinker-AFB/Web-Developer_324911) |
@@ -235,7 +235,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Workday Inc** | Full Stack Development Engineer- US Federal (REACT/XO) | 🏢 Sponsor Employer | USA, GA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Full-Stack-Development-Engineer--US-Federal--REACT-XO-_JR-0106446) |
 | 🏢 **Anthropic** | Full-Stack Software Engineer, Reinforcement Learning | ✅ Sponsors Visa | San Francisco, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5186067008) |
 | 🏢 **Boeing** | Full-Stack Software Engineer (Associate/Experienced) | 🏢 Sponsor Employer | Chantilly, VA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Associate-Experienced-_JR2026502050-1) |
-| 🏢 **Booz Allen Hamilton** | Full-Stack Software Engineer | 🏢 Sponsor Employer | Chantilly, VA + 3 more | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0233147-1) |
+| 🏢 **Booz Allen Hamilton** | Full-Stack Software Engineer | 🏢 Sponsor Employer | Langley AFB, VA + 3 more | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0237759) |
 | 🏢 **Pylon** | Fullstack Engineer, Customer Success |  | Palo Alto | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/pylon/fd573bb0-d06c-401f-97b5-b73d030662d4/application) |
 
 <p align="center">Apply for more jobs at</p>
@@ -289,8 +289,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Whatnot** | Feature Platform Engineer | ✅ Sponsors Visa | San Francisco, CA + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/cb4e987c-b3ea-4117-b91c-75c61b83a7dc/application) |
 | 🏢 **Whatnot** | LLM Platform Engineer | ✅ Sponsors Visa | San Francisco, CA + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/bbf75c51-3a20-4989-bd13-1f24b66dbb16/application) |
+| 🏢 **Whatnot** | Feature Platform Engineer | ✅ Sponsors Visa | San Francisco, CA + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/9e4d357d-3438-4359-a4f0-8de259501de7/application) |
 | 🏢 **Whatnot** | Machine Learning Platform Engineer | ✅ Sponsors Visa | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/11162b1e-e7c9-432d-8ef6-6e89d28b3078/application) |
 | 🏢 **Valkyrie Trading** | DevOps Engineer | ✅ Sponsors Visa | Chicago, IL | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/valkyrietrading/c804d5f6-8a0d-4649-97a0-3c3b1863cb13/apply) |
 | 🏢 **Uncountable** | Platform Engineer - Generative AI |  | New York | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/uncountable/503ed581-d189-437a-a8ba-7e0b3e9677c6/apply) |
@@ -301,9 +301,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Pulse** | DevOps Engineer | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/pulse/6a68aba5-72ed-4117-97ed-e05480d6cebb/application) |
 | 🏢 **Verkada** | Site Reliability Engineer - Infrastructure | 🏢 Sponsor Employer | San Mateo, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4129338007) |
 | 🏢 **Virtu Financial** | Hardware Platform Engineer | ✅ Sponsors Visa | Austin, TX + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/virtu/jobs/8449417002) |
-| 🏢 **OpenAI** | Client Platform Engineer | ✅ Sponsors Visa | San Francisco + 2 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/2115c524-07dd-401c-8549-5598ce5cbc9c/application) |
-| 🏢 **OpenAI** | Site Reliability Engineer, Frontier Systems Infrastructure | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/ad2cf782-15a4-48c7-9133-1788e3f33bbb/application) |
 | 🏢 **OpenAI** | Hardware Development Infrastructure Engineer | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/f2908f94-93a9-476b-ac83-b03392ae827d/application) |
+| 🏢 **OpenAI** | Release Engineer, Consumer Devices | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/63f7f0b3-ba2c-437b-87ba-ec476729f071/application) |
+| 🏢 **OpenAI** | Software Engineer, Identity Infrastructure Engineering | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db/application) |
 | 🏢 **Notion** | Client Platform Engineer | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/notion/18d063f7-5e28-4c02-b88c-dd23943ce06d/application) |
 | 🏢 **Trace3** | DevOps | ✅ Sponsors Visa | United States | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
 | 🏢 **Tenstorrent** | Infrastructure and Platform Engineer, Metal | 🏢 Sponsor Employer | United States | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5105551007) |
@@ -400,15 +400,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Plaid** | Product Security Engineer | ✅ Sponsors Visa | New York | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/plaid/49f7e590-5487-4c58-84fb-54045ab793d1/apply) |
-| 🏢 **WHOOP** | Security Engineer, IAM | ✅ Sponsors Visa | Boston, MA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/whoop/7b4065d5-0cbb-47da-9d1e-3e52d9f75917/apply) |
 | 🏢 **WHOOP** | Security Analyst | ✅ Sponsors Visa | Boston, MA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/whoop/8bb45cf1-a4ac-4715-98ab-7f523aaacf9c/apply) |
+| 🏢 **WHOOP** | Security Engineer, IAM | ✅ Sponsors Visa | Boston, MA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/whoop/7b4065d5-0cbb-47da-9d1e-3e52d9f75917/apply) |
 | 🏢 **Ramp** | Security Engineer, Privacy | 🏢 Sponsor Employer | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36/application) |
 | 🏢 **xAI** | Application Security Engineer | ✅ Sponsors Visa | Palo Alto, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4559147007) |
 | 🏢 **xAI** | Infrastructure Security Engineer | ✅ Sponsors Visa | Palo Alto, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5090998007) |
 | 🏢 **xAI** | Network Security Engineer | ✅ Sponsors Visa | Palo Alto, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4800712007) |
 | 🏢 **OpenAI** | Security Engineer, Host Assurance | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/3de4718b-8f4c-4b63-8637-02077a0113aa/application) |
 | 🏢 **OpenAI** | Researcher, Frontier Cybersecurity Risks | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/97a7eeae-9625-4d00-874f-e50131f98369/application) |
-| 🏢 **OpenAI** | Network Security Engineer | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/02aaa36c-971f-464e-b41c-0435bf762d43/application) |
+| 🏢 **OpenAI** | Security Engineer, Detection and Response | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/f956b77c-3cc5-4fdd-9463-2a6e5047e57c/application) |
 | 🏢 **Trace3** | Cybersecurity Engineer, ACAS Administrator   TS/SCI | ✅ Sponsors Visa | Colorado Springs, CO | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/7728076) |
 | 🏢 **Take-Two Interactive** | Cloud Security Engineer | ✅ Sponsors Visa | Austin | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/taketwo/jobs/7072655) |
 | 🏢 **Take-Two Interactive** | Information Security Engineer | ✅ Sponsors Visa | Austin + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/taketwo/jobs/7647578) |
@@ -452,9 +452,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Benchling** | Application Security Engineer | ✅ Sponsors Visa | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/benchling/7300821b-f2ee-4d20-95fe-6df6a0b88dc6/application) |
 | 🏢 **Candid Health** | Security Engineer | ✅ Sponsors Visa | New York City | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/05085e52-174c-4d29-a31f-0e85970b8c55/application) |
 | 🏢 **Baseten** | Security Engineer | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/b85e4b1d-6531-46b5-bc8a-238f3761a50e/application) |
-| 🏢 **Palantir** | Information Systems Security Engineer | ✅ Sponsors Visa | Washington | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/caeb42e8-5d44-4114-a912-0de2584d1a75/apply) |
 | 🏢 **Palantir** | Product Infrastructure Security Engineer | ✅ Sponsors Visa | Washington + 3 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/15f01f3a-922d-4cff-b093-888333d88628/apply) |
-| 🏢 **Palantir** | Information Security Engineer | ✅ Sponsors Visa | Seattle, WA + 2 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/1124402c-2088-40c6-b6aa-b9ef7777519b/apply) |
+| 🏢 **Palantir** | Information Systems Security Engineer | ✅ Sponsors Visa | Washington | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/caeb42e8-5d44-4114-a912-0de2584d1a75/apply) |
+| 🏢 **Palantir** | Forward Deployed Security Engineer - US Government | ✅ Sponsors Visa | Washington | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/22053072-4c22-49c4-8299-28e107ceeb98/apply) |
 | 🏢 **Airtable** | Product Security Engineer | ✅ Sponsors Visa | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8194662002) |
 | 🏢 **Visa** | Cybersecurity Analyst | 🏢 Sponsor Employer | Foster City, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Visa/744000121414183) |
 | 🏢 **RTX** | Cloud Network Security Engineer (Puerto Rico) | 🏢 Sponsor Employer | PR-SANTA ISABEL-B1 | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Cloud-Network-Security-Engineer--Puerto-Rico-_01838700) |
@@ -525,8 +525,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Captivation** | Software Engineer 2 - AI/ML/C++/GPU | ✅ Sponsors Visa | Annapolis Junctio... + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5179424008) |
 | 🏢 **Captivation** | AI Engineer (Hybrid) | ✅ Sponsors Visa | Annapolis Junctio... | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5179521008) |
 | 🏢 **Aurora Innovation** | Machine Learning Engineering TL, Behavior Planning | ✅ Sponsors Visa | Mountain View + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://aurora.tech/jobs/8360046002?gh_jid=8360046002) |
-| 🏢 **Anthropic** | Forward Deployed Engineer, Applied AI | ✅ Sponsors Visa | Boston, MA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4985877008) |
 | 🏢 **Anthropic** | Forward Deployed Engineer, Applied AI (Federal Civilian) | ✅ Sponsors Visa | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5079562008) |
+| 🏢 **Anthropic** | Forward Deployed Engineer, Applied AI | ✅ Sponsors Visa | Boston, MA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4985877008) |
 | 🏢 **Applied Intuition** | Software Engineer - AI Engineering | ✅ Sponsors Visa | Sunnyvale | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4677060005?gh_jid=4677060005) |
 | 🏢 **Anduril** | Robotics Software Engineer | ✅ Sponsors Visa | Costa Mesa + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4772830007?gh_jid=4772830007) |
 | 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy | ✅ Sponsors Visa | Costa Mesa + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) |
@@ -554,8 +554,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Verkada** | Embedded Software Engineer - Access Control | ✅ Sponsors Visa | San Mateo, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5032260007) |
 | 🏢 **Waymo** | Software Engineer, Embedded Systems / Robotics | 🏢 Sponsor Employer | Mountain View, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7429873) |
 | 🏢 **True Anomaly** | Flight Software Engineer I | ✅ Sponsors Visa | Denver, CO | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) |
-| 🏢 **OpenAI** | Linux Kernels Software Engineer | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/e5691162-4e45-4dc6-a6bf-64f60ebf1ac4/application) |
 | 🏢 **OpenAI** | Camera Firmware Engineer, Consumer Devices | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0/application) |
+| 🏢 **OpenAI** | Linux Kernels Software Engineer | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/e5691162-4e45-4dc6-a6bf-64f60ebf1ac4/application) |
 | 🏢 **SpaceX** | Wireless Firmware Engineer (Direct To Cell) |  | Redmond, WA + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8376486002?gh_jid=8376486002) |
 | 🏢 **SpaceX** | Satellite Systems Software Engineer (Starlink) |  | Redmond, WA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8395341002?gh_jid=8395341002) |
 | 🏢 **SpaceX** | Software Engineer, Embedded Software (Starlink) |  | Redmond, WA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8398552002?gh_jid=8398552002) |
@@ -615,19 +615,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **RTX** | 2026  Raytheon Full Time- Software Engineer I -(Onsite) | 🏢 Sponsor Employer | MA-MARLBOROUGH-MA2 | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01839123) |
-| 🏢 **Cloudflare** | Technical Program Manager Intern (Summer 2026) | ✅ Sponsors Visa | Remote + 1 more | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175) |
+| 🏢 **CACI** | SIGINT Analyst (Digital Network Exploitation Analyst - DNEA) |  | NC Fort Bragg | 22m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/SIGINT-Analyst--Digital-Network-Exploitation-Analyst---DNEA-_324288) |
+| 🏢 **RTX** | 2026  Raytheon Full Time- Software Engineer I -(Onsite) | 🏢 Sponsor Employer | MA-MARLBOROUGH-MA2 | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01839123) |
+| 🏢 **Cloudflare** | Technical Program Manager Intern (Summer 2026) | ✅ Sponsors Visa | Remote + 1 more | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175) |
 | 🏢 **Nike** | Software Engineer | 🏢 Sponsor Employer | Beaverton | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Beaverton-Oregon/Software-Engineer_R-82625) |
 | 🏢 **Salesforce** | Solution Engineering, Early Career | 🏢 Sponsor Employer | Illinois Chicago | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Solution-Engineering--Early-Career_JR339058-1) |
 | 🏢 **Red Hat** | Software Engineer - API Server (OpenShift) | 🏢 Sponsor Employer | Raleigh | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer---API-Server--OpenShift-_R-056136) |
 | 🏢 **Caterpillar** | Ruby on Rails Developer | 🏢 Sponsor Employer | Kennett Square, PA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/PA-Kennett-Square-Tangent-Energy-Solutions/Ruby-on-Rails-Developer_R0000363864) |
-| 🏢 **Promise** | IT Specialist | ✅ Sponsors Visa | San Francisco | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/promise/7f83127d-59c1-4348-8c15-bae23891576b/application) |
+| 🏢 **Promise** | IT Specialist | ✅ Sponsors Visa | San Francisco | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/promise/7f83127d-59c1-4348-8c15-bae23891576b/application) |
 | 🏢 **Ivo** | Software Engineer, Backend |  | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d/apply) |
 | 🏢 **Ivo** | Software Engineer, Infrastructure |  | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/dceaaf87-1cac-45b6-81d6-568b2913acef/apply) |
 | 🏢 **Perr & Knight** | Associate UI Designer |  | Charlotte, NC | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/perrknight/8dfa5a94-9803-457b-8d79-e794338a3049/apply) |
 | 🏢 **Life.Church (YouVersion)** | Systems Specialist |  | Edmond, OK | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/life/5b1b034c-3ebd-4bd8-86fc-5125eaf905ca/apply) |
 | 🏢 **Life.Church (YouVersion)** | Volunteer Systems Specialist |  | Edmond, OK | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/life/37870bee-6ff8-48e3-bcde-5b348100e80d/apply) |
-| 🏢 **Life.Church (YouVersion)** | Software Engineer | ✅ Sponsors Visa | Edmond, OK + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/life/6f833512-e517-4095-83f1-c18d0b01f795/apply) |
+| 🏢 **Life.Church (YouVersion)** | Software Engineer | ✅ Sponsors Visa | Edmond, OK + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/life/66c365e4-5128-4510-99cc-66a938fd559f/apply) |
 | 🏢 **AHEAD** | Specialty Solutions Engineer - Modern Workspace |  | Atlanta | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/thinkahead/9dfdaacf-9b8d-4bdb-a3b8-0476fe274956/apply) |
 | 🏢 **AHEAD** | Specialty Solutions Engineer - ServiceNow | 🏢 Sponsor Employer | Chicago | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/thinkahead/ae3e484b-f851-4c24-bd88-911a3f939e4d/apply) |
 | 🏢 **AHEAD** | Technical Fellow | 🏢 Sponsor Employer | United States | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/thinkahead/3e263adc-0bca-4752-80a5-891059415a8a/apply) |
@@ -635,9 +636,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Zoox** | Software Engineer - Mission Planning | ✅ Sponsors Visa | Foster City, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/6efb15a8-ebe0-4ffc-bcc6-1d8f8375dbee/apply) |
 | 🏢 **Zoox** | Software Engineer - Motion Planning | ✅ Sponsors Visa | Foster City, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/7dd45151-9d8a-45a4-bb33-86fb88c1995d/apply) |
 | 🏢 **Multiply Labs** | Robotics Field Engineer | 🏢 Sponsor Employer | Los Angeles | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/multiplylabs/c9fe817b-745a-4c68-a157-1b2afdc09f9a/apply) |
+| 🏢 **Plaid** | Technical Support Engineer | ✅ Sponsors Visa | United States | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/plaid/1e10caf7-85ed-4610-842f-78cea7d40de7/apply) |
 | 🏢 **Plaid** | Software Engineer | ✅ Sponsors Visa | New York + 2 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/plaid/49139a62-a9bc-4400-ae89-789818b34cb8/apply) |
 | 🏢 **Plaid** | Software Engineer - Platform | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/plaid/2b9a141e-0669-4197-aa52-2b07d9fadc96/apply) |
-| 🏢 **Plaid** | Technical Support Engineer | ✅ Sponsors Visa | United States | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/plaid/1e10caf7-85ed-4610-842f-78cea7d40de7/apply) |
 | 🏢 **FloQast** | Technical Support Engineer (Integrations) | ✅ Sponsors Visa | Los Angeles | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/floqast/cdff651b-44f5-4d3b-9df3-c4d5528a5833/apply) |
 | 🏢 **FloQast** | Accounting Technology Consultant |  | Los Angeles | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/floqast/76cc9d3d-edb9-4624-a054-dba1d5170f97/apply) |
 | 🏢 **Waabi** | Platform Systems Engineer; Motion Planning and Control | 🏢 Sponsor Employer | Phoenix, AZ | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/5fcde68c-577a-4fed-b532-793fec8de175/apply) |
@@ -652,15 +653,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Drata** | Solutions Engineer, Commercial - West | ✅ Sponsors Visa | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/drata/d167dbcd-a66f-4b9f-be19-cdc38e4bc756/application) |
 | 🏢 **Drata** | Solutions Engineer, Commercial - East | ✅ Sponsors Visa | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/drata/1dbcc071-259c-4c0b-8b8e-e3d740428860/application) |
 | 🏢 **Vanta** | IT Operations Engineer, Corporate Engineering | ✅ Sponsors Visa | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/vanta/543fac40-eb9e-48e6-b2e1-16fa6ced04b1/application) |
-| 🏢 **Cursor** | Software Engineer, Growth |  | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74/application) |
-| 🏢 **Cursor** | Software Engineer, Services Platform |  | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cursor/0863d184-1b2f-42cd-9fca-37fa90efe2eb/application) |
-| 🏢 **Cursor** | Software Engineer, Infrastructure |  | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511/application) |
-| 🏢 **Zip** | Software Engineer, Identity | 🏢 Sponsor Employer | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/zip/39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9/application) |
+| 🏢 **Cursor** | Software Engineer, Billing |  | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cursor/47994d20-cc6a-436b-8da0-2eceabfd413e/application) |
+| 🏢 **Cursor** | Forward Deployed Engineer |  | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011/application) |
+| 🏢 **Cursor** | Software Engineer, Agent Evaluation and Quality |  | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693/application) |
 | 🏢 **Zip** | Technical Integrations Consultant | ✅ Sponsors Visa | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/zip/2e9f06d6-5b33-4936-a088-4b39c0be1b56/application) |
+| 🏢 **Zip** | Software Engineer, Identity | 🏢 Sponsor Employer | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/zip/39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9/application) |
 | 🏢 **Render** | Software Engineer, Billing | ✅ Sponsors Visa | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/render/57a61c00-fa74-402d-89cd-1a1b936e14d5/application) |
-| 🏢 **Whatnot** | Software Engineer, Logistics Platform | ✅ Sponsors Visa | Los Angeles, CA + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/49e7dc41-b0ad-42d7-9265-20cf04ab5034/application) |
-| 🏢 **Whatnot** | Software Engineer, Data | ✅ Sponsors Visa | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/a906c895-a49e-4961-9b11-7cc23517204a/application) |
-| 🏢 **Whatnot** | Software Engineer, Inventory Experience | ✅ Sponsors Visa | San Francisco, CA + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/adbcb313-419a-4a6c-8428-9e0fa57b1d8e/application) |
+| 🏢 **Whatnot** | Software Engineer, Fraud | ✅ Sponsors Visa | San Francisco, CA + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/31b68e8c-6edb-414f-bec0-5375c2b52332/application) |
+| 🏢 **Whatnot** | IT Systems & A/V Engineer | ✅ Sponsors Visa | Los Angeles, CA + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/f4aaebe0-6c7d-414e-9ccb-8bc19c1ad721/application) |
+| 🏢 **Whatnot** | Software Engineer, Discovery (Search) | ✅ Sponsors Visa | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/a8eb8dfb-778a-4bc3-ad7c-2590155bb22e/application) |
 | 🏢 **WHOOP** | System Administrator, Boston |  | Boston, MA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/whoop/3064fc5a-56b8-4fe2-a42d-f704f60a1a5f/apply) |
 | 🏢 **WHOOP** | Systems Engineer | ✅ Sponsors Visa | Boston, MA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/whoop/2392c72b-6e86-4ce3-95b8-cebb4b8b48fe/apply) |
 | 🏢 **WHOOP** | Software Engineer I (Backend) | ✅ Sponsors Visa | Boston, MA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8/apply) |
@@ -688,16 +689,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Supabase** | Support Engineer (AMER) |  | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/supabase/e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd/application) |
 | 🏢 **Supabase** | Support Engineer (APAC) |  | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/supabase/142135ae-a15f-4ec7-90bb-cb4e7968bc09/application) |
 | 🏢 **Sift** | Software Engineer | ✅ Sponsors Visa | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/sift/059a1510-a14c-4941-afd4-23cde9b8b25e/application) |
+| 🏢 **Replit** | Conferencing/Audio Visual (AV) Administrator | ✅ Sponsors Visa | Foster City, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/replit/e1c59a55-1103-4c58-afc3-ddcd200550b4/application) |
 | 🏢 **Replit** | Software Engineer, Growth | ✅ Sponsors Visa | Foster City, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/replit/447a6e11-b06b-4cc5-9203-cd55883f2af4/application) |
 | 🏢 **Replit** | Software Engineer, Compute Platform | ✅ Sponsors Visa | Foster City, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/replit/659a8e1e-69ba-44c0-a632-96665051a3e8/application) |
-| 🏢 **Replit** | Software Engineer, Product Infrastructure (TypeScript DevEx) | ✅ Sponsors Visa | Foster City, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/replit/34afefd8-f698-4c46-a517-9ced6695b59b/application) |
 | 🏢 **Rilla** | Software Engineer |  | New York City | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/rilla/37228ca3-4e4a-4e3c-9414-d8a2046ff496/application) |
 | 🏢 **Rilla** | Forward Deployed Engineer, Integrations |  | New York City | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/rilla/ec768352-6ddb-4d4b-8704-0c04c37fff13/application) |
 | 🏢 **Sentra** | Software Engineer - New Grad | ✅ Sponsors Visa | San Francisco / B... | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719/application) |
 | 🏢 **Sentry** | Solutions Engineer | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/sentry/9889cf59-cd32-4aff-bff7-645bb1be4e14/application) |
-| 🏢 **Ramp** | Software Engineer, Guest Travel | 🏢 Sponsor Employer | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/f2d10bdf-0906-47eb-96fb-0efe6f81d8a3/application) |
 | 🏢 **Ramp** | Software Engineer, Data Platform | 🏢 Sponsor Employer | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b/application) |
 | 🏢 **Ramp** | Software Engineer, Infrastructure | 🏢 Sponsor Employer | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/0ea43bb5-201b-4626-ae19-1d7ae3a3193f/application) |
+| 🏢 **Ramp** | Software Engineer, Stablecoins | 🏢 Sponsor Employer | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3/application) |
 | 🏢 **Mistral AI** | Research Engineer, Machine Learning | 🏢 Sponsor Employer | Palo Alto | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/mistral/bada0014-0f32-4370-b55f-81c5595c7339/apply) |
 | 🏢 **Mistral AI** | Software Engineer, Backend (New-York) | 🏢 Sponsor Employer | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/mistral/f2e8ba75-bf5a-4976-bb96-c5d3e0f99366/apply) |
 | 🏢 **Mistral AI** | AI Scientist - Palo Alto | 🏢 Sponsor Employer | Palo Alto | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/mistral/7b20d2c8-d5a7-4efd-a13e-05d920ec5985/apply) |
@@ -707,13 +708,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Redis** | Developer Advocate - Bay Area Only | ✅ Sponsors Visa |  | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/redis/316bbfd7-d76d-4c86-aabc-0fcf774b9dda/application) |
 | 🏢 **Redis** | Technical Support Engineer | ✅ Sponsors Visa | United States | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/redis/89c3a3dd-27dd-4e30-9bfd-65268fe7b880/application) |
 | 🏢 **NimbleRx** | AI-Forward Engineer | ✅ Sponsors Visa | Redwood City, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/nimblerx/a4c29cab-9446-4bb8-82f9-bb6325e1cb18/apply) |
-| 🏢 **Radiant Industries** | Systems Integration Engineer | ✅ Sponsors Visa | El Segundo, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/b14259c2-800a-4a58-a86b-3d135a63b413/application) |
 | 🏢 **Radiant Industries** | Quality Systems Engineer | ✅ Sponsors Visa | El Segundo, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/e3f53c50-3f67-497f-ba34-4376fae95391/application) |
+| 🏢 **Radiant Industries** | Systems Integration Engineer | ✅ Sponsors Visa | El Segundo, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/b14259c2-800a-4a58-a86b-3d135a63b413/application) |
+| 🏢 **Kitware** | CMake Engineer | ✅ Sponsors Visa | Clifton Park | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/535a3473-4baa-4003-818f-3590d3e6db73/apply) |
+| 🏢 **Kitware** | Computational Imaging Researcher |  | Minneapolis, MN | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/7289713c-6882-44cc-8650-72030738b0b3/apply) |
 | 🏢 **Kitware** | OSTP Software Developer |  | Clifton Park | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/0dade915-7f07-437e-8ddf-c346f70acd1d/apply) |
-| 🏢 **Kitware** | Software Engineer | ✅ Sponsors Visa | Clifton Park | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/3bf971c6-93d9-4ba3-8946-54fc7741c2b0/apply) |
-| 🏢 **Kitware** | Technical Support Specialist |  | Clifton Park | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/8fe61804-6d79-4a94-8f97-23405b32e4cb/apply) |
-| 🏢 **Promise** | Software Engineer - AI | ✅ Sponsors Visa | San Francisco + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/promise/aed7d514-6a36-498b-9659-4fb6ae38dca4/application) |
-| 🏢 **Promise** | Forward Deployed Engineer | ✅ Sponsors Visa | San Francisco + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/promise/ac4259d7-1276-440f-b918-851ef3e0faa5/application) |
+| 🏢 **Promise** | Software Engineer - AI | ✅ Sponsors Visa | Washington + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/promise/ea0b2ad0-7270-413a-91f9-0be0b99052e1/application) |
+| 🏢 **Promise** | Software Engineer - Backend |  | San Francisco + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/promise/523b659d-742c-4af8-92db-9b4e38a7da16/application) |
 | 🏢 **Workato** | Software Engineer - Developer Products (AI) | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/workato/jobs/8112909002) |
 | 🏢 **Workato** | Forward Deployed Engineer | ✅ Sponsors Visa | Boston + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/workato/jobs/8437707002) |
 | 🏢 **xAI** | Detection & Response Engineer | ✅ Sponsors Visa | Palo Alto, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4559148007) |
@@ -725,7 +726,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Pulse** | Software Engineer, Inference | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/pulse/d316e466-7dfe-42f5-af73-215892a658b4/application) |
 | 🏢 **Verkada** | Technical Support Engineer | ✅ Sponsors Visa | San Mateo, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5063200007) |
 | 🏢 **Verkada** | Technical Support Engineer - University Graduate 2026 | ✅ Sponsors Visa | San Mateo, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
-| 🏢 **Verkada** | Enterprise Solutions Engineer, Central Corp |  | Austin, TX | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4669998007) |
+| 🏢 **Verkada** | Solutions Engineer |  | Austin, TX + 3 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4087168007) |
 | 🏢 **Persona** | Software Engineer, Data Infrastructure | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/persona/0c22b00a-79c9-448f-9a39-0d5da64d93f4/application) |
 | 🏢 **Waymo** | Software Engineer, Trip Platform | 🏢 Sponsor Employer | Mountain View, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7433503) |
 | 🏢 **Waymo** | Systems Engineer, Behavioral Requirements | 🏢 Sponsor Employer | Mountain View, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7545185) |
@@ -762,21 +763,21 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Together AI** | Research Engineer, Core ML | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/4384627007) |
 | 🏢 **Together AI** | Research Engineer, Frontier Speculative Decoding | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/4987660007) |
 | 🏢 **The Trade Desk** | Software Engineer I | ✅ Sponsors Visa | Irvine | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5105036007) |
-| 🏢 **Tenstorrent** | Developer Relations Engineer, Advocacy | 🏢 Sponsor Employer | Austin | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4742588007) |
-| 🏢 **Tenstorrent** | Developer Relations Engineer, Tools | 🏢 Sponsor Employer | Austin | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4742568007) |
 | 🏢 **Tenstorrent** | GCC Compiler Engineer | 🏢 Sponsor Employer | Austin | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4219803007) |
-| 🏢 **Tailscale** | Product Growth Engineer | ✅ Sponsors Visa | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4527064005) |
-| 🏢 **Tailscale** | Security Software Engineer | ✅ Sponsors Visa | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4648916005) |
-| 🏢 **Tailscale** | Software Engineer, Engineering Tooling | ✅ Sponsors Visa | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4616090005) |
+| 🏢 **Tenstorrent** | Infrastructure and Platform Development Engineer | 🏢 Sponsor Employer | Austin | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5084998007) |
+| 🏢 **Tenstorrent** | Software Engineer, AI Compiler | 🏢 Sponsor Employer | Austin | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4717175007) |
+| 🏢 **Tailscale** | Software Engineer, Networking | ✅ Sponsors Visa | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4525230005) |
+| 🏢 **Tailscale** | Software Engineer, Product Strategy | ✅ Sponsors Visa | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4631832005) |
+| 🏢 **Tailscale** | Support Engineer (Tier 1) | ✅ Sponsors Visa | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4441212005) |
 | 🏢 **SpaceX** | Systems Analyst, Supply Chain (Starlink) |  | Woodinville, WA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8407646002?gh_jid=8407646002) |
 | 🏢 **SpaceX** | Technical Operations Engineer, Customer Success (Starlink) |  | Redmond, WA + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8318355002?gh_jid=8318355002) |
 | 🏢 **SpaceX** | Video & Voice Systems Engineer, Broadcast |  | Starbase, TX | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8480479002?gh_jid=8480479002) |
+| 🏢 **Mercor** | Software Engineer, Backend |  | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/b89b87e5-0102-4d4d-8251-3c873e1bf6e4/application) |
+| 🏢 **Mercor** | Software Engineer, Agentic Product |  | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/4f4fc8c3-4056-47bb-9e00-1db6e5dd958f/application) |
 | 🏢 **Mercor** | Research Engineer - Environments, Data and Post-Training | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/97b8c17e-e438-4b61-bab1-9ae18e2c3f34/application) |
-| 🏢 **Mercor** | Software Engineer, Automation | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/dd4f59a1-d077-4c20-8333-9a7706210e99/application) |
-| 🏢 **Mercor** | Research Engineer – Benchmarking, Evals & Failure Analysis | ✅ Sponsors Visa | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/e2c6a4a0-87d2-425d-bf2c-322e6128d8dc/application) |
 | 🏢 **Northwood Space** | RF & Antenna Systems Engineer (Early Career) | ✅ Sponsors Visa | Torrance, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/11992bc2-5ec9-4143-9b64-e70be5b13726/application) |
-| 🏢 **Method** | Technical Integration Engineer | ✅ Sponsors Visa | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/method/5dde1ef0-4df6-4209-a60c-f966d446320b/application) |
 | 🏢 **Method** | Software Engineer | ✅ Sponsors Visa | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/method/33e8b312-a0a6-479d-81cf-24fd048f8303/application) |
+| 🏢 **Method** | Technical Integration Engineer | ✅ Sponsors Visa | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/method/5dde1ef0-4df6-4209-a60c-f966d446320b/application) |
 | 🏢 **Maybern** | Software Engineer, Scenario Modeling | ✅ Sponsors Visa | New York | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/maybern/0e6d43a6-a5f9-44fb-be3e-78a160a8fb11/application) |
 | 🏢 **Maybern** | Software Engineer, New Grad | ✅ Sponsors Visa | New York | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058/application) |
 | 🏢 **Maybern** | Solutions Engineer | ✅ Sponsors Visa | New York | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/maybern/a40cecf6-8fff-4af2-8801-3ab2c92a56c9/application) |
@@ -796,9 +797,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Sigma Computing** | Software Engineer (New Grad Program) | ✅ Sponsors Visa | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003) |
 | 🏢 **Sigma Computing** | Technical Support Engineer | ✅ Sponsors Visa | San Francisco, CA + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690418003) |
 | 🏢 **Sony Interactive Entertainment** | Software Systems Integration Engineer | ✅ Sponsors Visa | United States, CA + 2 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5803419004) |
+| 🏢 **Snorkel AI** | Software Engineer in Test - Infrastructure | ✅ Sponsors Visa | Redwood City, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5844047004) |
 | 🏢 **Snorkel AI** | Forward Deployed Engineer - Data-as-a-Service | ✅ Sponsors Visa | New York City, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5689470004) |
 | 🏢 **Snorkel AI** | Research Engineer – Training Infra | 🏢 Sponsor Employer | Redwood City, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5825066004) |
-| 🏢 **Snorkel AI** | Software Engineer in Test - Infrastructure | ✅ Sponsors Visa | Redwood City, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5844047004) |
 | 🏢 **SharkNinja** | Platform Administrator (Salesforce Service Cloud & CCaaS) | ✅ Sponsors Visa | United States - R... | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4665845006) |
 | 🏢 **Scale AI** | Machine Learning Research Engineer - Robotics | ✅ Sponsors Visa | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4600908005) |
 | 🏢 **Scale AI** | Machine Learning Research Scientist / Research Engineer, Post-Training | ✅ Sponsors Visa | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4528009005) |
@@ -814,7 +815,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Illumio** | Infrastructure Administrator I, Cloud AI |  |  | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/illumio/fd85f4f7-77df-4a65-933e-152203bf0576/application) |
 | 🏢 **Rockstar Games** | Engine Programmer |  | Carlsbad | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rockstargames/jobs/7639773003) |
 | 🏢 **Rockstar Games** | Software Engineer (C++) | 🏢 Sponsor Employer | Manhattan | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rockstargames/jobs/7676254003) |
-| 🏢 **Gecko Robotics** | Forward Deployed Engineer | ✅ Sponsors Visa | New York City | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/gecko-robotics/1ae83c3f-565a-48c9-85f7-55ab1c75593d/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -870,7 +870,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2679 current opportunities from 347 companies**
+**🎯 2680 current opportunities from 347 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
