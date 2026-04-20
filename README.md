@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-2799-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-2798-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-352-blue?style=flat&logo=building)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-2125-red?style=flat&logo=star)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-2124-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -219,7 +219,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Affirm** | Software Engineer I, Full-Stack (Home and Search Experience) | ✅ Sponsors Visa | Remote | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7685236003) |
 | 🏢 **Affirm** | Software Engineering Apprentice, Full-Stack | ✅ Sponsors Visa | Remote | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7647925003) |
 | 🏢 **Abnormal Security** | Software Engineer 2 (Fullstack), Threat Narrative | 🏢 Sponsor Employer | Canada; Remote - USA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://abnormal.ai/careers/jobs/7658409003?gh_jid=7658409003) |
-| 🏢 **Fidelity Investments** | Python Full Stack Engineer- | 🏢 Sponsor Employer | Durham, NC | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Durham-NC/Full-Stack-Engineer-_2126449) |
+| 🏢 **Fidelity Investments** | Python Full Stack Engineer- | 🏢 Sponsor Employer | Durham, NC | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Durham-NC/Full-Stack-Engineer-_2126449) |
 | 🏢 **Freeform** | Software Engineer (Full Stack Enterprise) |  | Los Angeles, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7704562003) |
 | 🏢 **Guidehouse** | Full Stack Analytics DevOps Engineer | 🏢 Sponsor Employer | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Full-Stack-Analytics-DevOps-Engineer_35727-1) |
 | 🏢 **Caterpillar** | Full Stack Embedded Software Engineer | 🏢 Sponsor Employer | Mossville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Full-Stack-Embedded-Software-Engineer_R0000364365) |
@@ -634,8 +634,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Salesforce** | Solution Engineering, Early Career | 🏢 Sponsor Employer | Illinois Chicago | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Solution-Engineering--Early-Career_JR339058-1) |
-| 🏢 **Red Hat** | Software Engineer - API Server (OpenShift) | 🏢 Sponsor Employer | Raleigh | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer---API-Server--OpenShift-_R-056136) |
-| 🏢 **Caterpillar** | Ruby on Rails Developer | 🏢 Sponsor Employer | Kennett Square, PA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/PA-Kennett-Square-Tangent-Energy-Solutions/Ruby-on-Rails-Developer_R0000363864) |
+| 🏢 **Red Hat** | Software Engineer - API Server (OpenShift) | 🏢 Sponsor Employer | Raleigh | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer---API-Server--OpenShift-_R-056136) |
+| 🏢 **Caterpillar** | Ruby on Rails Developer | 🏢 Sponsor Employer | Kennett Square, PA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/PA-Kennett-Square-Tangent-Energy-Solutions/Ruby-on-Rails-Developer_R0000363864) |
 | 🏢 **Promise** | IT Specialist | ✅ Sponsors Visa | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/promise/7f83127d-59c1-4348-8c15-bae23891576b/application) |
 | 🏢 **Ivo** | Software Engineer, Backend |  | San Francisco | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d/apply) |
 | 🏢 **Ivo** | Software Engineer, Infrastructure |  | San Francisco | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/dceaaf87-1cac-45b6-81d6-568b2913acef/apply) |
@@ -888,7 +888,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2799 current opportunities from 352 companies**
+**🎯 2798 current opportunities from 352 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
