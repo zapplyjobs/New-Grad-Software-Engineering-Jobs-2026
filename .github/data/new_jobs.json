@@ -1448,6 +1448,37 @@
     "job_posted_at": "2026-04-21T00:03:26.346Z"
   },
   {
+    "job_id": "amazon-7ab61d3f-b50a-4f5d-a70b-40cda2433bea",
+    "job_title": "Project Engineer, Data Center Construction",
+    "employer_name": "Amazon Data Services, Inc.",
+    "job_city": "Canton",
+    "job_state": "MS",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10397960/project-engineer-data-center-construction",
+    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b69aee4fee28c7df4d2c8c338ac8f52a45f17b34b841ede644206dd58ba1313c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-04-21T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-c632faf0-ce40-4d2b-b000-86a524789ba2",
     "job_title": "Software Dev Engineer, Redshift Distributed Systems, AWS Redshift",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -48363,14 +48394,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "labview"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "Bachelor’s degree in electrical engineering, electronics engineering, computer engineering or equivalent disciplines   Demonstrated experience designing, building and operating electrical systems at a",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.609Z"
@@ -48402,15 +48431,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "erp",
-        "excel"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Bachelor’s degree or equivalent work experience (4+ years of work experience).",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.609Z"
@@ -48444,17 +48470,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "a/b testing",
-        "cad",
-        "ios",
-        "swift"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "You have 4+ years of experience building and shipping iOS applications using Swift   You have experience improving app performance, reliability, and user experience in production environments   You ar",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.444Z"
@@ -48488,16 +48509,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "ios",
-        "swift",
-        "swiftui"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "You have 4+ years of professional iOS development experience, including shipping customer-facing features in production applications.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.444Z"
@@ -48531,16 +48548,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "edr",
-        "incident response",
-        "sql"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "2–4 years of experience in security operations, detection engineering, or incident response   Experience analyzing logs and tuning alerts within SIEMs, EDR platforms, and cloud security tools   Experi",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.444Z"
@@ -48574,14 +48587,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "distributed systems"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "You’re a creative problem solver with a passion for building reliable, high-performance systems that scale.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.444Z"
@@ -48615,17 +48626,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "go",
-        "kafka",
-        "python",
-        "system design"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "2+ years of experience in software development.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.444Z"
@@ -48659,14 +48665,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "javascript"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "2+ years of full-time professional experience with modern Web standards, technologies, and frameworks   Skilled at writing and efficiently debugging JavaScript in Node and browser environments   Obses",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.444Z"
@@ -48700,18 +48704,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "android",
-        "computer science",
-        "java",
-        "kotlin",
-        "spark"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "3+ years of professional Android development experience building consumer Android applications at scale, preferably in Kotlin and Compose   Attention to detail, passion for writing clean, readable and",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.443Z"
@@ -48745,18 +48743,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "android",
-        "computer science",
-        "java",
-        "kotlin",
-        "spark"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "3+ years of professional Android development experience building consumer Android applications at scale, preferably in Kotlin and Compose   Attention to detail, passion for writing clean, readable and",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.443Z"
@@ -48790,17 +48782,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "android",
-        "java",
-        "jetpack compose",
-        "kotlin"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "You bring 0-3 years experience building Android applications using Kotlin or Java   You have experience building UI using Jetpack Compose or Views   You have experience integrating APIs and handling r",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.443Z"
@@ -48834,15 +48821,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "android",
-        "kotlin"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "You have at least 3 years of professional experience developing Android applications   You are proficient in Kotlin and familiar with modern Android development frameworks   You have experience buildi",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.443Z"
@@ -48874,19 +48858,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "c++",
-        "continuous deployment",
-        "continuous integration",
-        "docker",
-        "python",
-        "rust"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": true,
-      "summary_line": "Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.087Z"
@@ -48918,19 +48895,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "c++",
-        "continuous deployment",
-        "continuous integration",
-        "docker",
-        "python",
-        "rust"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": true,
-      "summary_line": "Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.087Z"
@@ -48963,16 +48933,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "autocad",
-        "classification",
-        "project management"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": false,
-      "summary_line": "Bachelor’s degree in Electrical Engineering or a related engineering field.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.087Z"
@@ -49005,15 +48971,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "as9100",
-        "embedding"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": true,
-      "summary_line": "Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.087Z"
@@ -49046,15 +49009,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "as9100",
-        "embedding"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": true,
-      "summary_line": "Our Terran R vehicle will deliver customer payloads to orbit, meeting the growing demand for launch capacity.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:35.087Z"
@@ -49087,26 +49047,12 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "enrichment": {
-      "required_skills": [
-        "agile",
-        "amazon web services",
-        "ci/cd",
-        "css",
-        "devops",
-        "docker",
-        "git",
-        "html",
-        "javascript",
-        "nextjs",
-        "node.js",
-        "react",
-        "typescript"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": null,
       "is_simple_apply": true,
-      "summary_line": "Our embedded fintech platform empowers legacy financial institutions, like community banks and credit unions, to pioneer novel digital experiences for their customers.",
+      "summary_line": null,
       "is_remote": true
     },
     "job_posted_at": "2026-04-20T01:57:35.015Z"
@@ -49138,19 +49084,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "azure",
-        "kubernetes",
-        "sre",
-        "vmware"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Bachelor's Degree in a technical field and/or related technical experience.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.562Z"
@@ -49182,21 +49121,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "c++",
-        "ci/cd",
-        "dashboards",
-        "firmware",
-        "hdd",
-        "python",
-        "root cause analysis",
-        "ssd"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "###SECTION:Architect Automated Qualification Frameworks: Design and scale Python and C++ test infrastructures that orchestrate drive-level qualification, ensuring firmware stability across performance",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.561Z"
@@ -49228,15 +49158,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "high availability",
-        "python"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "###SECTION:Drive Release Integrity: Own the end-to-end qualification and strategy for major shipping releases, ensuring every update strengthens our reputation for \"never-down\" reliability.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.561Z"
@@ -49268,18 +49195,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "c++",
-        "distributed systems",
-        "go",
-        "linux",
-        "python"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "Deep mastery of a programming language like C, C++, Python, or Go, with the ability to write clean, high-performance, and maintainable production code.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.561Z"
@@ -49311,16 +49232,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "golang"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "3+ years experience using C, C++, Golang, or related programming languages   Relevant engineering experience within the field of data storage or related technologies   Comfort working with engineers, ",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.561Z"
@@ -49352,20 +49269,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "bash",
-        "c++",
-        "git",
-        "linux",
-        "python",
-        "shell",
-        "shell scripting"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Educational Background: BS in Electrical or Computer Engineering   Strong Software Foundation: Proficiency in Python (for scripting/automation) and C/C++ (for low-level interaction), with a solid unde",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.561Z"
@@ -90523,6 +90432,53 @@
     "job_posted_at": "2026-04-20T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-94222267-8382-4af6-be8d-90a6d6bdd9c9",
+    "job_title": "Software Development Engineer, EC2 Instance Networking",
+    "employer_name": "Amazon Development Center U.S., Inc.",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10396444/software-development-engineer-ec2-instance-networking",
+    "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e5eaf1962e5f6d2e8ad0086ff24535ecbd4e2358f30a44bef731d68d6721a494",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "design patterns",
+        "distributed systems",
+        "linux",
+        "networking"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new an…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-7201ebf5-59b4-4616-b6b5-6d1b94edca03",
     "job_title": "Software Development Engineer, Applied AI Solutions",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -90561,53 +90517,6 @@
         "design patterns",
         "java",
         "perl"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications: - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new an…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-94222267-8382-4af6-be8d-90a6d6bdd9c9",
-    "job_title": "Software Development Engineer, EC2 Instance Networking",
-    "employer_name": "Amazon Development Center U.S., Inc.",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10396444/software-development-engineer-ec2-instance-networking",
-    "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e5eaf1962e5f6d2e8ad0086ff24535ecbd4e2358f30a44bef731d68d6721a494",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "design patterns",
-        "distributed systems",
-        "linux",
-        "networking"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -101890,6 +101799,50 @@
     "job_posted_at": "2026-04-17T05:03:10.528Z"
   },
   {
+    "job_id": "js-edz-systems-c-lcmwjb4zb4tdekaaaaaa==",
+    "job_title": "Entry Level Network Engineer",
+    "employer_name": "EDZ Systems",
+    "job_city": "Kansas City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/entry-level-network-engineer--kansas-city--e7c424fd2a855c909bfc7395690ffc7e2",
+    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "2a8e42772911705208b86bd7e0dd7de3ff4d2046c0cf216336c1c77b4ad8f62a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "microwave",
+        "networking",
+        "rf",
+        "routing",
+        "tcp/ip"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications  • Bachelor’s degree in Electrical Engineering, Telecommunications, or related field  • Basic knowledge of RF principles, wireless communication, and microwave systems  • Famil…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-6dfc1586-0b83-4e2e-875a-ade22bf4bcd0",
     "job_title": "Software Development Engineer",
     "employer_name": "Amazon.com Services LLC",
@@ -102300,50 +102253,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new an…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-edz-systems-c-lcmwjb4zb4tdekaaaaaa==",
-    "job_title": "Entry Level Network Engineer",
-    "employer_name": "EDZ Systems",
-    "job_city": "Kansas City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/entry-level-network-engineer--kansas-city--e7c424fd2a855c909bfc7395690ffc7e2",
-    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "2a8e42772911705208b86bd7e0dd7de3ff4d2046c0cf216336c1c77b4ad8f62a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "microwave",
-        "networking",
-        "rf",
-        "routing",
-        "tcp/ip"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications  • Bachelor’s degree in Electrical Engineering, Telecommunications, or related field  • Basic knowledge of RF principles, wireless communication, and microwave systems  • Famil…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T00:00:00.000Z"
@@ -111855,58 +111764,6 @@
     "job_posted_at": "2026-04-16T03:39:30.000Z"
   },
   {
-    "job_id": "js-boeing-rjnv-aorf_-ic64faaaaaa==",
-    "job_title": "Entry-Level Missions Systems Software Engineers - Embedded",
-    "employer_name": "Boeing",
-    "job_city": "Berkeley",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.boeing.com/job/berkeley/entry-level-missions-systems-software-engineers-embedded/185/92941166032",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "3e8a47d101623f7c1af1599c776cc4762a8255680cb15968d10659cb751ad762",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "cameo",
-        "ci/cd",
-        "computer science",
-        "continuous deployment",
-        "continuous integration",
-        "data science",
-        "devops",
-        "devsecops",
-        "git",
-        "linux",
-        "rust"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Export Control Requirements: This position must meet U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-06b7541a-68d7-4ceb-83ef-88b10baae255",
     "job_title": "Software Development Engineer, S3",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -112585,6 +112442,58 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Required Qualifications  • 2+ years of full stack development experience in enterprise environments.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-boeing-rjnv-aorf_-ic64faaaaaa==",
+    "job_title": "Entry-Level Missions Systems Software Engineers - Embedded",
+    "employer_name": "Boeing",
+    "job_city": "Berkeley",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.boeing.com/job/berkeley/entry-level-missions-systems-software-engineers-embedded/185/92941166032",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "3e8a47d101623f7c1af1599c776cc4762a8255680cb15968d10659cb751ad762",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "cameo",
+        "ci/cd",
+        "computer science",
+        "continuous deployment",
+        "continuous integration",
+        "data science",
+        "devops",
+        "devsecops",
+        "git",
+        "linux",
+        "rust"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Export Control Requirements: This position must meet U.S.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
@@ -124356,149 +124265,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T14:46:48.000Z"
-  },
-  {
-    "job_id": "lever-palantir-6bddf672-5920-46f3-8127-2a15a377cb99",
-    "job_title": "Information Security Engineer - Insider Risk",
-    "employer_name": "Palantir",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/6bddf672-5920-46f3-8127-2a15a377cb99/apply",
-    "job_posted_at_datetime_utc": "2026-04-14T14:32:59.312Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4417918b95da2ee5c2d6f6493937e399a30043bf388abc91603478147cb0b819",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "incident response",
-        "information security",
-        "linux",
-        "powershell",
-        "python",
-        "siem",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Palantir builds the world’s leading software for data-driven decisions and operations.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T14:32:59.312Z"
-  },
-  {
-    "job_id": "lever-palantir-b0e1823a-fbe7-4c9d-a4d3-a1e738db2589",
-    "job_title": "Information Security Engineer - Insider Risk",
-    "employer_name": "Palantir",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/b0e1823a-fbe7-4c9d-a4d3-a1e738db2589/apply",
-    "job_posted_at_datetime_utc": "2026-04-14T14:32:19.276Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4ca048827c715710b3db8fe3ac95a1ab23d7a533a9556e183ad931797d416f78",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "incident response",
-        "information security",
-        "linux",
-        "powershell",
-        "python",
-        "siem",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Palantir builds the world’s leading software for data-driven decisions and operations.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T14:32:19.276Z"
-  },
-  {
-    "job_id": "lever-palantir-2127f3af-1fb3-4aa3-9aa1-eb06967e0166",
-    "job_title": "Information Security Engineer - Insider Risk",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/2127f3af-1fb3-4aa3-9aa1-eb06967e0166/apply",
-    "job_posted_at_datetime_utc": "2026-04-14T14:31:19.533Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "24ae78af0617825fb67240e527105e7b5f2d1e1037a4acbc32f5ee8fbd970836",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "incident response",
-        "information security",
-        "linux",
-        "powershell",
-        "python",
-        "siem",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Palantir builds the world’s leading software for data-driven decisions and operations.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T14:31:19.533Z"
   }
 ]
