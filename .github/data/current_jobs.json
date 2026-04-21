@@ -33226,7 +33226,7 @@
         "sql"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Software Engineer I",
@@ -33271,7 +33271,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "Leadership to drive compiler development across multiple layers of the stack, including custom dialects, transformation passes, and runtime integration.",
       "is_remote": false
     },
@@ -33312,7 +33312,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "Strong coder in C or C++, and enjoy working close to hardware.",
       "is_remote": false
     },
@@ -33352,7 +33352,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "Strong coder in C or C++, and love working close to hardware.",
       "is_remote": false
     },
@@ -33395,7 +33395,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "Strong C or C++ engineer with solid foundations in systems programming, operating systems, and distributed systems principles.",
       "is_remote": false
     },
@@ -33438,7 +33438,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency.",
       "is_remote": false
     },
@@ -33480,7 +33480,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "Strong in C++ and low-level systems programming, especially in performance-critical code.",
       "is_remote": false
     },
@@ -33606,7 +33606,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "Experienced compiler engineer with deep knowledge of GCC and LLVM internals, comfortable optimizing for custom hardware targets.",
       "is_remote": false
     },
@@ -33698,7 +33698,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "Experienced backend or infrastructure engineer with a focus on platform development in large-scale environments.",
       "is_remote": false
     },
@@ -33736,7 +33736,7 @@
         "statistics"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "What We Are Looking For      Strong track record of working with a product mindset and influencing product strategy   Experience with backend and client development   User-focused design and problem-s…",
@@ -33787,9 +33787,9 @@
         "tls"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": null,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "What We Are Looking For   ###SECTION:Technical###     Expertise in the security of cloud platforms (e.g., AWS), especially securing multi-cloud networks and infrastructure, and designing cloud agnosti…",
       "is_remote": true
     },
@@ -33839,9 +33839,9 @@
         "windows"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": null,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "Proficiency developing in at least one programming language (Tailscale uses Go)   Proficiency developing for at least one application platform (e.g.",
       "is_remote": true
     },
@@ -33886,7 +33886,7 @@
         "statistics"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "What We Are Looking For      Experience with CI/CD, secrets management, infrastructure as code, and/or observability   Experience with developer tooling or developer experience   Experience with distr…",
@@ -33932,7 +33932,7 @@
         "vpn"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Significant experience with networking software and diagnosing networking issues   Deep understanding of networking concepts, including IP addressing, routing, NAT traversal, and VPN technologies   Ex",
@@ -33977,7 +33977,7 @@
         "oauth"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "What We Are Looking For    Ideal candidates will have experience iteratively developing software in startup-like environments.",
@@ -34027,7 +34027,7 @@
         "windows"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Bring 1–4+ years of experience in a technical support or customer-facing role, with a track record of solving technical problems.",
@@ -34070,9 +34070,9 @@
         "networking"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": null,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "You have at least 3 years of professional technical writing and editing experience creating high-quality, code-heavy product documentation and how-to guides for a diverse technical audience.",
       "is_remote": true
     },
@@ -34115,9 +34115,9 @@
         "statistics"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": null,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "What We Are Looking For      Experience with distributed systems   Experience with the Go programming language   Experience with one or more SQL databases   Familiarity with networking (IP addressing,…",
       "is_remote": true
     },
@@ -34156,9 +34156,9 @@
         "go"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": null,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "What We Are Looking For    The list below captures the skills and experiences we use to evaluate candidates.",
       "is_remote": true
     },
@@ -34207,7 +34207,7 @@
         "windows"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "What We Are Looking For      2–4+ years of experience in a technical, customer-facing role such as Technical Support, Implementation, or Solutions Engineering   Strong foundational knowledge of networ…",
@@ -34256,8 +34256,8 @@
         "python"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Have a heart for service and a tempered ego   BA/BS or equivalent experience in computer science or related field   3-5 years in a Cloud Security, Security Engineering, or Network Security Engineering",
       "is_remote": false
@@ -34303,8 +34303,8 @@
         "siem"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Service-oriented attitude and tempered ego.",
       "is_remote": false
@@ -34350,8 +34350,8 @@
         "siem"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Service-oriented attitude and tempered ego.",
       "is_remote": false
@@ -111327,6 +111327,20 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "excel",
+        "microsoft office"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Export Control Requirements:  This position must meet U.S.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
