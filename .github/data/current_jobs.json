@@ -25,6 +25,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "change management",
+        "cisco",
+        "cybersecurity",
+        "encryption",
+        "ldap",
+        "microsoft teams",
+        "network engineering",
+        "networking",
+        "oracle",
+        "root cause analysis",
+        "routing",
+        "tls",
+        "windows",
+        "zoom"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Comcast Business offers a suite of Connectivity, Communications, Networking, Cybersecurity, Wireless, and Managed Solutions to help global organizations of all sizes prepare for what’s next.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:23:08.285Z"
   },
   {
@@ -53,6 +77,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "c#",
+        "c++",
+        "data analysis",
+        "firmware",
+        "matlab",
+        "mbse",
+        "microsoft office",
+        "model-based systems engineering",
+        "oscilloscope",
+        "python",
+        "rf",
+        "signal processing",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-22 Country: United States of America Location: US-GA-ATLANTA-002 ~ 1 Glenlake Pkwy ~ GLENLAKE, Ste 650 (External Site) Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:21:51.428Z"
   },
   {
@@ -81,6 +129,29 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cisco",
+        "encryption",
+        "firewalls",
+        "forecasting",
+        "http",
+        "jira",
+        "network engineering",
+        "networking",
+        "routing",
+        "sap",
+        "sdwan",
+        "servicenow",
+        "switching"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 25% of the Time Description At Northrop Grumman, our employees have…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:21:09.249Z"
   },
   {
@@ -109,6 +180,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "jira"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The National Security Sector at Leidos currently has an opening for a cleared Geospatial Discovery & Collection Specialist to work at a customer location in Springfield, VA.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:20:47.896Z"
   },
   {
@@ -137,6 +220,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        ".net",
+        "agile",
+        "c#",
+        "c++",
+        "java",
+        "javascript",
+        "nodejs",
+        "php",
+        "python",
+        "react",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Full Stack Developer, Junior The Opportunity : As a full stack developer, you can resolve a problem with a complete end-to-end solution in a fast and agile environment.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:18:58.599Z"
   },
   {
@@ -165,6 +269,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        ".net",
+        "agile",
+        "assembly",
+        "c#",
+        "c++",
+        "computer science",
+        "java",
+        "machine learning",
+        "python",
+        "unix",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "CNO Developer The Opportunity: As a computer network operations (CNO) specialist, you know that embedded and application developers, reverse engineers, and vulnerability analysts all play key roles in…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:18:58.599Z"
   },
   {
@@ -193,6 +318,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "c++",
+        "machine learning",
+        "networking",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "CNO Analyst and Programmer The Opportunity: As a computer network operations ( CNO ) spe cia list, you know how embedded and application developers, reverse engineers, and vulnerability analysts all p…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:18:58.599Z"
   },
   {
@@ -222,6 +362,24 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "ci/cd",
+        "go",
+        "linear",
+        "observability",
+        "python",
+        "sre"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Media Group at NBCU supports a powerhouse collection of consumer-first brands including Peacock, NBC, Bravo, NBC Sports, and NBCU International.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:05:33.286Z"
   },
   {
