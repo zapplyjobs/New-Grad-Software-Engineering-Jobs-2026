@@ -19,7 +19,7 @@
 
 ![Active Jobs](https://img.shields.io/badge/Active_Jobs-2777-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-343-blue?style=flat&logo=building)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-2090-red?style=flat&logo=star)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-2089-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -290,17 +290,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
-| 🏢 **Northwood Space** | [Infrastructure Engineer →](https://jobs.ashbyhq.com/northwoodspace/00955a02-867b-42e2-ba35-3cc41020fc99/application) | ✅ Sponsors Visa | Torrance, CA | 42m |
-| 🏢 **Northwood Space** | [Infrastructure Engineer - Early Career →](https://jobs.ashbyhq.com/northwoodspace/d81a9f1e-002e-4c1a-8b09-8dbac575279c/application) | ✅ Sponsors Visa | Torrance, CA | 50m |
+| 🏢 **Northrop Grumman** | [DevOps Engineer - Level 3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/DevOps-Engineer---Level-3_R10230403) |  | Colorado-Colorado... + 1 more | 8m |
+| 🏢 **Northwood Space** | [Infrastructure Engineer →](https://jobs.ashbyhq.com/northwoodspace/00955a02-867b-42e2-ba35-3cc41020fc99/application) | ✅ Sponsors Visa | Torrance, CA | 49m |
+| 🏢 **Northwood Space** | [Infrastructure Engineer - Early Career →](https://jobs.ashbyhq.com/northwoodspace/d81a9f1e-002e-4c1a-8b09-8dbac575279c/application) | ✅ Sponsors Visa | Torrance, CA | 57m |
 | 🏢 **FIS** | [Site Reliability Engineer (CI/CD) →](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer--Mainframe-_JR0303518) | 🏢 Sponsor Employer | FL JAX 347 | 2h |
 | 🏢 **FIS** | [Site Reliability Engineer (AWS) →](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer_JR0301756) | 🏢 Sponsor Employer | FL JAX 347 | 2h |
 | 🏢 **Booz Allen Hamilton** | [AWS AI Cloud Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Springfield-VA/AWS-AI-Cloud-Engineer_R0238414) | 🏢 Sponsor Employer | Springfield, VA | 3h |
 | 🏢 **Relativity Space** | [Infrastructure Engineer I →](https://boards.greenhouse.io/relativity/jobs/8517617002?gh_jid=8517617002) |  | Stennis Space + 1 more | 3h |
-| 🏢 **Northrop Grumman** | [DevOps Engineer - Level 3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/DevOps-Engineer---Level-3_R10230408) |  | Colorado-Colorado... | 4h |
 | 🏢 **Booz Allen Hamilton** | [Data Platform Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Data-Platform-Engineer_R0238430) | 🏢 Sponsor Employer | Alexandria, VA | 4h |
 | 🏢 **Booz Allen Hamilton** | [Oracle Cloud Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Springfield-VA/Oracle-Cloud-Engineer_R0238420) | 🏢 Sponsor Employer | Springfield, VA | 5h |
 | 🏢 **Fidelity Investments** | [Cloud Engineer →](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Cloud-Engineer_2124991-1) | 🏢 Sponsor Employer | Westlake, TX | 6h |
-| 🏢 **Captivation** | [Systems Administrator 2 - Linux/Cisco/Kubernetes/NetApp →](https://job-boards.greenhouse.io/captivation/jobs/5196936008) | ✅ Sponsors Visa | Annapolis Junctio... | 6h |
+| 🏢 **Captivation** | [Systems Administrator 2 - Linux/Cisco/Kubernetes/NetApp →](https://job-boards.greenhouse.io/captivation/jobs/5196936008) | ✅ Sponsors Visa | Annapolis Junctio... | 7h |
 | 🏢 **Captivation** | [Software Engineer 3 - Linux/Java/Spring/Docker/Kubernetes/Grafana/Prometheus/NiFi →](https://job-boards.greenhouse.io/captivation/jobs/5196894008) | ✅ Sponsors Visa | Annapolis Junctio... | 7h |
 | 🏢 **Jabil** | [Site Reliability Technician (402) →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Site-Reliability-Technician--402-_J2447460) | 🏢 Sponsor Employer | Florence, KY | 7h |
 | 🏢 **Leidos** | [Journeyman Infrastructure Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Journeyman-Infrastructure-Engineer_R-00181481) | 🏢 Sponsor Employer | Alexandria, VA + 1 more | 7h |
@@ -355,8 +355,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Trace3** | [DevOps →](https://job-boards.greenhouse.io/trace3/jobs/596239) | ✅ Sponsors Visa | United States | 2d |
 | 🏢 **Tenstorrent** | [Infrastructure and Platform Engineer, Metal →](https://job-boards.greenhouse.io/tenstorrent/jobs/5105551007) | 🏢 Sponsor Employer | United States | 2d |
 | 🏢 **Tailscale** | [Security Infrastructure Engineer →](https://job-boards.greenhouse.io/tailscale/jobs/4648933005) | ✅ Sponsors Visa | Remote | 2d |
-| 🏢 **SpaceX** | [Site Reliability Engineer - Top Secret Clearance →](https://boards.greenhouse.io/spacex/jobs/8362795002?gh_jid=8362795002) |  | Hawthorne, CA | 2d |
 | 🏢 **SpaceX** | [Software Engineer, DevOps (Starlink) →](https://boards.greenhouse.io/spacex/jobs/8443737002?gh_jid=8443737002) |  | Redmond, WA | 2d |
+| 🏢 **SpaceX** | [Software Infrastructure Engineer, Flight Software (Starlink) →](https://boards.greenhouse.io/spacex/jobs/8478283002?gh_jid=8478283002) |  | Redmond, WA | 2d |
 | 🏢 **Mercor** | [Infrastructure Engineer →](https://jobs.ashbyhq.com/mercor/296c4031-5e98-4772-95f5-a9eb5bd7746d/application) | ✅ Sponsors Visa | San Francisco | 2d |
 | 🏢 **Sony Interactive Entertainment** | [Platform Engineer - Application Networking →](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5818262004) | ✅ Sponsors Visa | United States, CA + 1 more | 2d |
 | 🏢 **Scale AI** | [DevOps Engineer, Infrastructure & Security →](https://job-boards.greenhouse.io/scaleai/jobs/4674863005) | ✅ Sponsors Visa | Washington, DC | 2d |
@@ -385,8 +385,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | [Flight Software Platform Engineer, Embedded C/C++, Air Dominance & Strike →](https://boards.greenhouse.io/andurilindustries/jobs/5086631007?gh_jid=5086631007) | ✅ Sponsors Visa | Costa Mesa | 2d |
 | 🏢 **Benchling** | [Software Engineer, Backend (Infrastructure Engineering) →](https://jobs.ashbyhq.com/benchling/e729560e-a2dd-4949-8dc5-031312a9b2e2/application) | ✅ Sponsors Visa | San Francisco, CA | 2d |
 | 🏢 **Baseten** | [Site Reliability Engineer (SRE) →](https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392/application) | ✅ Sponsors Visa | San Francisco | 2d |
-| 🏢 **Palantir** | [Site Reliability Engineer - US Government →](https://jobs.lever.co/palantir/211f99dc-269e-4f25-84d3-d73dea782080/apply) | ✅ Sponsors Visa | Washington | 2d |
 | 🏢 **Palantir** | [Site Reliability Operations Analyst - Commercial →](https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94/apply) | ✅ Sponsors Visa | New York, NY | 2d |
+| 🏢 **Palantir** | [Site Reliability Operations Analyst - US Government →](https://jobs.lever.co/palantir/38758e88-5884-4a11-98ac-d23cab51bc7a/apply) | ✅ Sponsors Visa | Washington + 1 more | 2d |
 | 🏢 **Spotify** | [Site Reliability Engineer - Backstage →](https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb/apply) | 🏢 Sponsor Employer | New York, NY | 2d |
 | 🏢 **Allen Control Systems** | [CV/ML Platform Engineer →](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5156551008) | ✅ Sponsors Visa | Austin, TX | 2d |
 | 🏢 **Allen Control Systems** | [Platform Engineer →](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5140775008) | ✅ Sponsors Visa | Austin, TX | 2d |
@@ -455,16 +455,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **WHOOP** | [Security Analyst →](https://jobs.lever.co/whoop/8bb45cf1-a4ac-4715-98ab-7f523aaacf9c/apply) | ✅ Sponsors Visa | Boston, MA | 2d |
 | 🏢 **WHOOP** | [Security Engineer, IAM →](https://jobs.lever.co/whoop/7b4065d5-0cbb-47da-9d1e-3e52d9f75917/apply) | ✅ Sponsors Visa | Boston, MA | 2d |
 | 🏢 **Ramp** | [Security Engineer, Privacy →](https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36/application) | 🏢 Sponsor Employer | New York, NY | 2d |
-| 🏢 **xAI** | [Application Security Engineer →](https://job-boards.greenhouse.io/xai/jobs/4559147007) | ✅ Sponsors Visa | Palo Alto, CA | 2d |
 | 🏢 **xAI** | [Infrastructure Security Engineer →](https://job-boards.greenhouse.io/xai/jobs/5090998007) | ✅ Sponsors Visa | Palo Alto, CA | 2d |
+| 🏢 **xAI** | [Network Security Engineer →](https://job-boards.greenhouse.io/xai/jobs/4800712007) | ✅ Sponsors Visa | Palo Alto, CA | 2d |
 | 🏢 **OpenAI** | [Security Engineer, Host Assurance →](https://jobs.ashbyhq.com/openai/3de4718b-8f4c-4b63-8637-02077a0113aa/application) | ✅ Sponsors Visa | San Francisco | 2d |
 | 🏢 **OpenAI** | [Researcher, Frontier Cybersecurity Risks →](https://jobs.ashbyhq.com/openai/97a7eeae-9625-4d00-874f-e50131f98369/application) | ✅ Sponsors Visa | San Francisco | 2d |
-| 🏢 **OpenAI** | [Enterprise Security Engineer →](https://jobs.ashbyhq.com/openai/4fb47557-86d2-47c3-9c6a-909aeb561329/application) | ✅ Sponsors Visa | San Francisco + 3 more | 2d |
+| 🏢 **OpenAI** | [Enterprise Security Engineer →](https://jobs.ashbyhq.com/openai/720b6d72-0c98-4acc-ab75-d67dd36fbccf/application) | ✅ Sponsors Visa | New York City + 3 more | 2d |
 | 🏢 **Trace3** | [Cybersecurity Engineer, ACAS Administrator   TS/SCI →](https://job-boards.greenhouse.io/trace3/jobs/7728076) | 🏢 Sponsor Employer | Colorado Springs, CO | 2d |
 | 🏢 **Take-Two Interactive** | [Cloud Security Engineer →](https://job-boards.greenhouse.io/taketwo/jobs/7072655) | ✅ Sponsors Visa | Austin | 2d |
 | 🏢 **Take-Two Interactive** | [Information Security Engineer →](https://job-boards.greenhouse.io/taketwo/jobs/7647578) | ✅ Sponsors Visa | Austin + 1 more | 2d |
-| 🏢 **SpaceX** | [Product Security Engineer (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8492076002?gh_jid=8492076002) |  | Hawthorne, CA + 1 more | 2d |
-| 🏢 **SpaceX** | [Security Engineer (Blue Team) →](https://boards.greenhouse.io/spacex/jobs/8426423002?gh_jid=8426423002) |  | Redmond, WA + 1 more | 2d |
+| 🏢 **SpaceX** | [Product Security Engineer (Starlink) →](https://boards.greenhouse.io/spacex/jobs/8459547002?gh_jid=8459547002) |  | Redmond, WA + 2 more | 2d |
+| 🏢 **SpaceX** | [Product Security Engineer (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8492058002?gh_jid=8492058002) |  | Washington, DC + 1 more | 2d |
 | 🏢 **Stripe** | [Security Engineer, New Grad →](https://stripe.com/jobs/search?gh_jid=7477571) |  | Seattle, WA | 2d |
 | 🏢 **Snorkel AI** | [Infrastructure Security Engineer →](https://job-boards.greenhouse.io/snorkelai/jobs/5839660004) | ✅ Sponsors Visa | Redwood City, CA | 2d |
 | 🏢 **Scale AI** | [Security Engineer, Infrastructure →](https://job-boards.greenhouse.io/scaleai/jobs/4646888005) | ✅ Sponsors Visa | New York, NY | 2d |
@@ -476,8 +476,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Robinhood** | [Security Engineer, Detection & Response →](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725) | ✅ Sponsors Visa | Menlo Park, CA | 2d |
 | 🏢 **Pinterest** | [Vendor Security Analyst →](https://www.pinterestcareers.com/jobs/?gh_jid=7494921) | 🏢 Sponsor Employer | Chicago, IL | 2d |
 | 🏢 **Latitude AI** | [Cyber Security Engineer - Identity Solutions, Asset Management, & Data Protection →](https://job-boards.greenhouse.io/latitude/jobs/7809755) | ✅ Sponsors Visa | Pittsburgh, PA | 2d |
-| 🏢 **Jane Street** | [IT Security Engineer →](https://job-boards.greenhouse.io/janestreet/jobs/8155302002) | 🏢 Sponsor Employer | New York | 2d |
 | 🏢 **Jane Street** | [Cybersecurity Engineer - Threat Modelling →](https://job-boards.greenhouse.io/janestreet/jobs/7999330002) | 🏢 Sponsor Employer | New York | 2d |
+| 🏢 **Jane Street** | [IT Security Engineer →](https://job-boards.greenhouse.io/janestreet/jobs/8155302002) | 🏢 Sponsor Employer | New York | 2d |
 | 🏢 **GitLab** | [Infrastructure Security Engineer (USA) →](https://job-boards.greenhouse.io/gitlab/jobs/8459132002) | ✅ Sponsors Visa | US | 2d |
 | 🏢 **Glean** | [Security Engineer, Cloud Security →](https://job-boards.greenhouse.io/gleanwork/jobs/4650994005) | 🏢 Sponsor Employer | Remote | 2d |
 | 🏢 **Databricks** | [Product Security Engineer →](https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002) | ✅ Sponsors Visa | United States | 2d |
@@ -561,7 +561,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | [Robotics Software Engineer, Air Vehicle Autonomy →](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) | ✅ Sponsors Visa | Costa Mesa + 1 more | 2d |
 | 🏢 **Anduril** | [Robotics Software Engineer, Vehicle Software →](https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007) | ✅ Sponsors Visa | Costa Mesa | 2d |
 | 🏢 **Commure** | [Software Engineer, Applied AI →](https://jobs.ashbyhq.com/commure/7d4ec84a-9fdc-4238-81e7-8f666836006e/application) | ✅ Sponsors Visa | Mountain View, CA | 2d |
-| 🏢 **Amazon Development Center U.S., Inc.** | [Software Development Engineer, Applied AI Solutions →](https://www.amazon.jobs/en/jobs/10396346/software-development-engineer-applied-ai-solutions) | 🏢 Sponsor Employer | Seattle, WA + 1 more | 3d |
+| 🏢 **Amazon Development Center U.S., Inc.** | [Software Development Engineer, Applied AI Solutions →](https://www.amazon.jobs/en/jobs/10396342/software-development-engineer-applied-ai-solutions) | 🏢 Sponsor Employer | Mountain View, CA + 1 more | 3d |
 | 🏢 **Boston Dynamics** | [Robotics Software Engineer- Stretch →](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Software-Engineer--Stretch_R2545) | ✅ Sponsors Visa | Waltham, MA | 4d |
 | 🏢 **Cadence** | [GenAI Tools Support Engineer →](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/GenAI-Tools-Support-Engineer_R54166-1) | 🏢 Sponsor Employer | SAN JOSE | 5d |
 | 🏢 **Cadence (University)** | [GenAI Tools Support Engineer →](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/GenAI-Tools-Support-Engineer_R54166) | 🏢 Sponsor Employer | SAN JOSE | 5d |
@@ -578,7 +578,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
-| 🏢 **Intel** | [Linux Kernel Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Linux-Kernel-Engineer_JR0278075) | 🏢 Sponsor Employer | US | 1h |
+| 🏢 **Intel** | [Linux Kernel Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Linux-Kernel-Engineer_JR0278075) | 🏢 Sponsor Employer | US | 2h |
 | 🏢 **Northrop Grumman** | [Embedded Software Engineer – Level 3 or 4 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Embedded-Software-Engineer---Level-3-or-4_R10230501) |  | Illinois-Rolling ... | 4h |
 | 🏢 **Anduril** | [Embedded Software Engineer, EW →](https://boards.greenhouse.io/andurilindustries/jobs/5117734007?gh_jid=5117734007) | ✅ Sponsors Visa | Costa Mesa | 5h |
 | 🏢 **Motorola Solutions** | [Embedded Software Engineer - R&D →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Embedded-Software-Engineer---R-D_R63223) | 🏢 Sponsor Employer | Los Angeles, CA | 21h |
@@ -598,7 +598,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **OpenAI** | [Linux Kernels Software Engineer →](https://jobs.ashbyhq.com/openai/e5691162-4e45-4dc6-a6bf-64f60ebf1ac4/application) | ✅ Sponsors Visa | San Francisco | 2d |
 | 🏢 **OpenAI** | [Camera Firmware Engineer, Consumer Devices →](https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0/application) | ✅ Sponsors Visa | San Francisco | 2d |
 | 🏢 **SpaceX** | [Wireless Firmware Engineer (Direct To Cell) →](https://boards.greenhouse.io/spacex/jobs/8376504002?gh_jid=8376504002) |  | Sunnyvale, CA + 1 more | 2d |
-| 🏢 **SpaceX** | [Satellite Systems Software Engineer (Starlink) →](https://boards.greenhouse.io/spacex/jobs/8395341002?gh_jid=8395341002) |  | Redmond, WA | 2d |
+| 🏢 **SpaceX** | [Software Engineer, Embedded Software (Starlink) →](https://boards.greenhouse.io/spacex/jobs/8398552002?gh_jid=8398552002) |  | Redmond, WA | 2d |
 | 🏢 **Northwood Space** | [Embedded Software Engineer →](https://jobs.ashbyhq.com/northwoodspace/bcedd247-5593-44a4-84c3-32145328162a/application) | ✅ Sponsors Visa | Torrance, CA | 2d |
 | 🏢 **SharkNinja** | [Embedded Software Engineering Opportunities at SharkNinja →](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4603769006) | ✅ Sponsors Visa | Needham, MA | 2d |
 | 🏢 **Roblox** | [Systems Software Engineer - Game Engine Network (C++) →](https://careers.roblox.com/jobs/7561739?gh_jid=7561739) | ✅ Sponsors Visa | San Mateo, CA | 2d |
@@ -647,11 +647,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
-| 🏢 **Salesforce** | [Technical Support Engineer - Sales Cloud →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Technical-Support-Engineer_JR334959) | 🏢 Sponsor Employer | Indiana Indianapolis | 32m |
-| 🏢 **RTX** | [Software Engineer I - RDPL, Onsite →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I---RDPL--Onsite_01823174) | 🏢 Sponsor Employer | CA-FULLERTON-675 | 32m |
-| 🏢 **Northrop Grumman** | [Software Engineer - Level 3 or 4 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-3-or-4_R10230566) |  | Colorado-Colorado... | 32m |
-| 🏢 **Northrop Grumman** | [Power Systems Engineer 2/3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Power-Systems-Engineer-2-3_R10227183) |  | Utah-Magna | 32m |
-| 🏢 **Northrop Grumman** | [Software Engineer - Level 2 or 3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-2-or-3_R10230594) |  | Colorado-Colorado... | 56m |
+| 🏢 **Salesforce** | [Account Solution Engineer, Higher Education →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Lead--Account-SE_JR334666-1) |  | Illinois Chicago | 8m |
+| 🏢 **RTX** | [Systems Engineer I – Algorithms (Onsite) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Systems-Engineer-I---Algorithms--Onsite-_01836372) |  | CA-FULLERTON-676 | 8m |
+| 🏢 **Salesforce** | [Technical Support Engineer - Sales Cloud →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Technical-Support-Engineer_JR334959) | 🏢 Sponsor Employer | Indiana Indianapolis | 38m |
+| 🏢 **RTX** | [Software Engineer I - RDPL, Onsite →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I---RDPL--Onsite_01823174) | 🏢 Sponsor Employer | CA-FULLERTON-675 | 38m |
+| 🏢 **Northrop Grumman** | [Software Engineer - Level 3 or 4 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-3-or-4_R10230566) |  | Colorado-Colorado... | 39m |
+| 🏢 **Northrop Grumman** | [Power Systems Engineer 2/3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Power-Systems-Engineer-2-3_R10227183) |  | Utah-Magna | 39m |
+| 🏢 **Northrop Grumman** | [Software Engineer - Level 2 or 3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-2-or-3_R10230594) |  | Colorado-Colorado... | 1h |
 | 🏢 **LLNL** | [Software Engineer →](https://jobs.smartrecruiters.com/llnl/3743990012782386) | 🏢 Sponsor Employer | Livermore, CA | 1h |
 | 🏢 **Booz Allen Hamilton** | [Model Based Systems Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Clearfield-UT/Model-Based-Systems-Engineer_R0236018) | 🏢 Sponsor Employer | Clearfield, UT | 1h |
 | 🏢 **Zipline** | [Autonomy Software Engineer, Validation Tools →](https://www.flyzipline.com/careers/open-roles?gh_jid=7711584003) | ✅ Sponsors Visa | South San Francisco | 1h |
@@ -665,10 +667,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Jump Trading** | [Data Center Technician →](https://www.jumptrading.com/hr/job?gh_jid=7781600) | ✅ Sponsors Visa | Carrollton, TX | 2h |
 | 🏢 **SpaceX** | [Forward Deployed Engineer, Mission Systems (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8520029002?gh_jid=8520029002) |  | Hawthorne, CA | 2h |
 | 🏢 **SpaceX** | [Mission Integration Engineer, Network and Infrastructure (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8519574002?gh_jid=8519574002) |  | Hawthorne, CA | 2h |
-| 🏢 **Motorola Solutions** | [Software Engineer →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melville-NY/Software-Engineer_R64140) | 🏢 Sponsor Employer | Melville, NY | 2h |
+| 🏢 **Motorola Solutions** | [Software Engineer →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Melville-NY/Software-Engineer_R64140) | 🏢 Sponsor Employer | Melville, NY | 3h |
 | 🏢 **Waabi** | [Research Engineer, Calibration →](https://jobs.lever.co/waabi/4c352ae0-53b0-4510-8d46-894b87d96ede/apply) | 🏢 Sponsor Employer | San Francisco, CA | 3h |
 | 🏢 **Guidehouse** | [ServiceNow Developer →](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/ServiceNow-Developer_38814) | 🏢 Sponsor Employer | VA McLean + 2 more | 3h |
-| 🏢 **CACI** | [Document Management Technician (Entry Level Legal Support) →](https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Document-Management-Technician--Entry-Level-Legal-Support-_321979-1) | 🏢 Sponsor Employer | DC Washington + 1 more | 3h |
+| 🏢 **CACI** | [Document Management Technician (Entry Level Legal Support) →](https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Document-Management-Technician--Entry-Level-Legal-Support-_321979-1) | 🏢 Sponsor Employer | DC Washington | 3h |
 | 🏢 **Leidos** | [Journeyman Cloud Operations Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Journeyman-Cloud-Operations-Engineer_R-00181520) | 🏢 Sponsor Employer | Alexandria, VA | 3h |
 | 🏢 **Guidehouse** | [Data Catalog Integration Engineer →](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Data-Catalog-Integration-Engineer_38206) | 🏢 Sponsor Employer | VA McLean | 3h |
 | 🏢 **NVIDIA** | [System Software Engineer - Tegra →](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer---Tegra_JR2007081) | 🏢 Sponsor Employer | US, CA | 3h |
@@ -690,20 +692,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cadence** | [C++ Software Engineer →](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer_R53008-1) | 🏢 Sponsor Employer | SAN JOSE + 1 more | 5h |
 | 🏢 **Trimble** | [Software Engineer →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineer_R52983-1) | 🏢 Sponsor Employer | CO, Westminster + 1 more | 5h |
 | 🏢 **RTX** | [Software Engineer I - Military Avionics FMS (Onsite) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Military-Avionics-FMS--Onsite-_01839874) | 🏢 Sponsor Employer | IA-CEDAR RAPIDS-182 | 5h |
-| 🏢 **RTX** | [Systems Engineer I - Military Avionics FMS (Onsite) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-I---Military-Avionics-FMS--Onsite-_01839391) | 🏢 Sponsor Employer | IA-CEDAR RAPIDS-182 | 5h |
 | 🏢 **Intel** | [Software Development Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Development-Engineer_JR0283216) | 🏢 Sponsor Employer | US + 1 more | 5h |
-| 🏢 **Truveta** | [Software Engineer - Search →](https://job-boards.greenhouse.io/truveta/jobs/5979001004) | ✅ Sponsors Visa | Seattle, WA | 5h |
+| 🏢 **Truveta** | [Software Engineer - Search →](https://job-boards.greenhouse.io/truveta/jobs/5979001004) | ✅ Sponsors Visa | Seattle, WA | 6h |
 | 🏢 **Red Bull** | [IT Business Analyst →](https://jobs.smartrecruiters.com/RedBull/744000122319730) | 🏢 Sponsor Employer | Santa Monica, CA | 6h |
 | 🏢 **Aptiv** | [Linux Engineering Dev - eLxr →](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Linux-Engineering-Dev---eLxr_J000695559) | 🏢 Sponsor Employer | WR, CA | 6h |
-| 🏢 **Adobe** | [Software Development Engineer →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R167972) | 🏢 Sponsor Employer | San Jose + 7 more | 6h |
 | 🏢 **KBR** | [Software Engineer →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Software-Engineer_R2122454) | 🏢 Sponsor Employer | Beavercreek + 1 more | 6h |
 | 🏢 **Hitachi** | [Supply Chain Systems Analyst →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---North-Carolina-United-States/Supply-Chain-Systems-Analyst_R0121458-2) | 🏢 Sponsor Employer | North Carolina, U... | 6h |
 | 🏢 **Captivation** | [Systems Engineer 1 (Travel Required)  - RF/Python →](https://job-boards.greenhouse.io/captivation/jobs/5196989008) | ✅ Sponsors Visa | Annapolis Junctio... | 6h |
 | 🏢 **Captivation** | [Software Engineer 3 - JavaScript/TypeScript/React/Java/Spring →](https://job-boards.greenhouse.io/captivation/jobs/5196988008) | ✅ Sponsors Visa | Annapolis Junctio... | 6h |
 | 🏢 **Captivation** | [Software Engineer 2 - Grafana/Bash/Python/JavaScript →](https://job-boards.greenhouse.io/captivation/jobs/5196985008) | ✅ Sponsors Visa | Annapolis Junctio... | 6h |
 | 🏢 **Waymo** | [Software Engineer, Planner Reasoning, Onboard Infrastructure →](https://careers.withwaymo.com/jobs?gh_jid=7460969) | 🏢 Sponsor Employer | Mountain View, CA | 6h |
-| 🏢 **NVIDIA** | [AI Research Engineer - Applied Scientist Compilers →](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Research-Engineer---Applied-Scientist-Compilers_JR2016804-1) | 🏢 Sponsor Employer | CA Santa Clara | 6h |
+| 🏢 **NVIDIA** | [AI Research Engineer - Applied Scientist Compilers →](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Research-Engineer---Applied-Scientist-Compilers_JR2016804-1) | 🏢 Sponsor Employer | CA Santa Clara | 7h |
 | 🏢 **Caterpillar** | [Autonomy Systems Engineer →](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Autonomy-Systems-Engineer_R0000354263) | 🏢 Sponsor Employer | Mossville Illinois + 1 more | 7h |
+| 🏢 **Adobe** | [Software Development Engineer →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Software-Development-Engineer_R168044) | 🏢 Sponsor Employer | San Francisco + 5 more | 7h |
 | 🏢 **Salesforce** | [Agentforce & Data 360 Technical Support Engineer →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Agentforce---Data-360-Support-Engineer_JR336646) | 🏢 Sponsor Employer | Georgia Atlanta | 7h |
 | 🏢 **IDEXX** | [Network Security Administrator →](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Network-Security-Administrator_J-052664) | 🏢 Sponsor Employer | Westbrook, ME | 7h |
 | 🏢 **Comcast** | [AI Agentic Software Engineer →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/AI-Agentic-Software-Engineer_R434815) | 🏢 Sponsor Employer | West Chester, 135... | 7h |
@@ -728,24 +729,23 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Comcast** | [Tier 3 UCaaS, Voice Engineer →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/TX---Plano-7900-Windrose-Avenue-8th-Floor/Sr-UCaaS--Support-Engineer_R434906) | 🏢 Sponsor Employer | 2 Locations | 10h |
 | 🏢 **Ramp** | [Software Engineer, Banking →](https://jobs.ashbyhq.com/ramp/d818443f-d4c5-4eab-892d-3715a935c165/application) | 🏢 Sponsor Employer | New York, NY | 10h |
 | 🏢 **NBCUniversal** | [Software Engineer →](https://jobs.smartrecruiters.com/NBCUniversal3/744000122269958) | 🏢 Sponsor Employer | New York | 10h |
-| 🏢 **Salesforce** | [Solution Engineer - AI & Data Integration - US Federal →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Solution-Engineer---AI---Data-Integration---US-Federal_JR339538) | 🏢 Sponsor Employer | Virginia Mclean | 10h |
 | 🏢 **Medtronic** | [Requirements Technical Writer →](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Requirements-Technical-Writer_R64915-1) | 🏢 Sponsor Employer | Mounds View | 11h |
 | 🏢 **KBR** | [Systems Engineer →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Dulles-Virginia/Systems-Engineer_R2122399) | 🏢 Sponsor Employer | Dulles + 1 more | 11h |
 | 🏢 **Anduril** | [Software Engineer, C++ →](https://boards.greenhouse.io/andurilindustries/jobs/5009240007?gh_jid=5009240007) | ✅ Sponsors Visa | Bellevue + 2 more | 11h |
 | 🏢 **Cisco** | [Software Engineer →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2007058-1) | 🏢 Sponsor Employer | Milpitas, US + 1 more | 12h |
 | 🏢 **KBR** | [Scrum Master →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Scrum-Master_R2122384-1) | 🏢 Sponsor Employer | Colorado Springs | 12h |
 | 🏢 **Mercor** | [Software Engineer, Fraud →](https://jobs.ashbyhq.com/mercor/4d817fa9-8860-4063-9da7-f484569ed1dc/application) |  | San Francisco or NYC | 19h |
-| 🏢 **Snorkel AI** | [Software Engineer - Core Services →](https://job-boards.greenhouse.io/snorkelai/jobs/5970324004) | ✅ Sponsors Visa | Redwood City, CA | 20h |
+| 🏢 **Snorkel AI** | [Software Engineer - Core Services →](https://job-boards.greenhouse.io/snorkelai/jobs/5970324004) | ✅ Sponsors Visa | Redwood City, CA | 21h |
 | 🏢 **HPE (University)** | [Technology Consultant I →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-I_1197479-1) | 🏢 Sponsor Employer | Spring | 23h |
 | 🏢 **HPE** | [Technology Consultant I →](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Technology-Consultant-I_1197479) | 🏢 Sponsor Employer | Spring | 23h |
 | 🏢 **Chime** | [Software Engineer, MyPay →](https://boards.greenhouse.io/chime/jobs/8499450002?gh_jid=8499450002) | ✅ Sponsors Visa | San Francisco, CA | 23h |
 | 🏢 **LLNL** | [Combat Simulation Systems Analyst →](https://jobs.smartrecruiters.com/llnl/3743990012762736) | 🏢 Sponsor Employer | Livermore, CA | 23h |
 | 🏢 **Philips** | [Ultrasound Systems Engineer →](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Ultrasound-Systems-Engineer_577706) | 🏢 Sponsor Employer | Bothell | 23h |
-| 🏢 **LLNL** | [Junior Combat Simulation Systems Analyst →](https://jobs.smartrecruiters.com/llnl/3743990012762656) | 🏢 Sponsor Employer | Livermore, CA | 23h |
+| 🏢 **LLNL** | [Junior Combat Simulation Systems Analyst →](https://jobs.smartrecruiters.com/llnl/3743990012762656) | 🏢 Sponsor Employer | Livermore, CA | 1d |
 | 🏢 **Nuro** | [Software Engineer, Software Update Infrastructure →](https://nuro.ai/careersitem?gh_jid=7235419) | ✅ Sponsors Visa | Mountain View | 1d |
 | 🏢 **Amazon Kuiper Manufacturing Enterprises LLC** | [Software Development Engineer, Leo Autopilot →](https://www.amazon.jobs/en/jobs/10399602/software-development-engineer-leo-autopilot) | 🏢 Sponsor Employer | Redmond, WA | 1d |
-| 🏢 **Amazon.com Services LLC** | [Software Development Engineer, Amazon Finance Technology →](https://www.amazon.jobs/en/jobs/10399313/software-development-engineer-amazon-finance-technology) | 🏢 Sponsor Employer | Jersey City, NJ | 1d |
 | 🏢 **Amazon.com Services LLC** | [Software Development Engineer, CIA Orchestration Team →](https://www.amazon.jobs/en/jobs/10399621/software-development-engineer-cia-orchestration-team) | 🏢 Sponsor Employer | Austin, TX | 1d |
+| 🏢 **Amazon.com Services LLC** | [Software Development Engineer, Amazon Finance Technology →](https://www.amazon.jobs/en/jobs/10399313/software-development-engineer-amazon-finance-technology) | 🏢 Sponsor Employer | Jersey City, NJ | 1d |
 | 🏢 **Annapurna Labs (U.S.) Inc.** | [Software Development Engineer,  Nitro Card, Annapurna Labs →](https://www.amazon.jobs/en/jobs/10400157/software-development-engineer-nitro-card-annapurna-labs) |  | Cupertino, CA | 1d |
 | 🏢 **Robinhood** | [Backend Software Engineer, Credit Cards & Banking →](https://boards.greenhouse.io/robinhood/jobs/7754143?t=gh_src=&gh_jid=7754143) | 🏢 Sponsor Employer | Bellevue, WA | 1d |
 | 🏢 **Mistral AI** | [Research Engineer, Data Infrastructure →](https://jobs.lever.co/mistral/37f53ee5-dd88-43e3-be6a-70e3db159c8f/apply) | 🏢 Sponsor Employer | Palo Alto | 1d |
@@ -794,12 +794,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Redis** | [Technical Support L3 - Weekends →](https://jobs.ashbyhq.com/redis/ba13265a-b9f4-4e5e-94f4-e9c351ffd23d/application) | ✅ Sponsors Visa | United States | 1d |
 | 🏢 **Persona** | [Software Engineer, Security →](https://jobs.ashbyhq.com/persona/06ce6de8-8541-4dfd-9c09-3e467d5f91bb/application) | ✅ Sponsors Visa | San Francisco | 2d |
 | 🏢 **Relativity Space** | [Application Administrator I →](https://boards.greenhouse.io/relativity/jobs/8505276002?gh_jid=8505276002) |  | Long Beach | 2d |
-| 🏢 **Amentum** | [Junior Software Developer →](https://www.amentumcareers.com/jobs/junior-software-developer-springfield-virginia-united-states-merrifield) | 🏢 Sponsor Employer | Springfield | 2d |
 | 🏢 **Amazon.com Services LLC** | [Software Development Engineer, CloudFront →](https://www.amazon.jobs/en/jobs/10399015/software-development-engineer-cloudfront) | 🏢 Sponsor Employer | Seattle, WA | 2d |
 | 🏢 **Amazon Development Center U.S., Inc.** | [Software Development Engineer, Aurora DSQL →](https://www.amazon.jobs/en/jobs/10398450/software-development-engineer-aurora-dsql) | 🏢 Sponsor Employer | Seattle, WA | 2d |
 | 🏢 **Amazon Kuiper Manufacturing Enterprises LLC** | [Software Development Engineer, Integrated Vehicle Testing →](https://www.amazon.jobs/en/jobs/10398886/software-development-engineer-integrated-vehicle-testing) | 🏢 Sponsor Employer | Redmond, WA + 1 more | 2d |
 | 🏢 **Amazon Data Services, Inc.** | [Project Engineer, Data Center Construction →](https://www.amazon.jobs/en/jobs/10397960/project-engineer-data-center-construction) | 🏢 Sponsor Employer | Canton, MS | 2d |
 | 🏢 **Amazon Development Center U.S., Inc.** | [Software Dev Engineer, Redshift Distributed Systems, AWS Redshift →](https://www.amazon.jobs/en/jobs/10397551/software-dev-engineer-redshift-distributed-systems-aws-redshift) | 🏢 Sponsor Employer | East Palo Alto, CA | 2d |
+| 🏢 **Amentum** | [Junior Software Developer →](https://www.amentumcareers.com/jobs/junior-software-developer-springfield-virginia-united-states-merrifield) | 🏢 Sponsor Employer | Springfield | 2d |
 | 🏢 **The MITRE Corporation** | [Internships in Computer Science or Software Engineering →](https://careers.mitre.org/us/en/job/R115479/Internships-in-Computer-Science-or-Software-Engineering) |  | Unknown + 1 more | 2d |
 | 🏢 **Pylon** | [Backend Engineer, Integrations →](https://jobs.ashbyhq.com/pylon/23ee52df-cd68-42c9-bf27-5b844ae8e2c6/application) | 🏢 Sponsor Employer | Palo Alto | 2d |
 | 🏢 **Pylon** | [Backend Engineer, Underwriting →](https://jobs.ashbyhq.com/pylon/2ed1cad6-d4c7-48a4-bf8a-f66ce884a0ea/application) | 🏢 Sponsor Employer | Palo Alto | 2d |
