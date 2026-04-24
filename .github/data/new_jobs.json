@@ -26,6 +26,17 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ids"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-24T18:30:43.845Z"
   },
   {
@@ -54,6 +65,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "c++",
+        "cisco",
+        "distributed systems",
+        "firewall",
+        "ids",
+        "ips",
+        "machine learning",
+        "network security",
+        "networking",
+        "python",
+        "routing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-24T18:30:39.851Z"
   },
   {
@@ -83,6 +116,25 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "asana",
+        "c++",
+        "ios",
+        "linux",
+        "macos",
+        "openai",
+        "robotics",
+        "xcode"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-24T18:24:22.665Z"
   },
   {
@@ -2279,88 +2331,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-24T17:20:16.440Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7702476",
-    "job_title": "Technical Program Manager Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476",
-    "job_posted_at_datetime_utc": "2026-04-24T17:20:13.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bcae90fb5c6b58f6d52d709a4a3f4e0e7bf66678f848630199c60fd422e57c49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cloudflare",
-        "data visualization",
-        "dns"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T17:20:13.704Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7702175",
-    "job_title": "Technical Program Manager Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175",
-    "job_posted_at_datetime_utc": "2026-04-24T17:20:13.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bcae90fb5c6b58f6d52d709a4a3f4e0e7bf66678f848630199c60fd422e57c49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cloudflare",
-        "data visualization",
-        "dns"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T17:20:13.704Z"
   },
   {
     "job_id": "greenhouse-coreweave-4676234006",
@@ -5913,51 +5883,6 @@
     "job_posted_at": "2026-04-24T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-49964a37-345b-4a66-a4f8-1a91a556f19b",
-    "job_title": "Robotics Systems Engineer I, Tech Deployment",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10402325/robotics-systems-engineer-i-tech-deployment",
-    "job_posted_at_datetime_utc": "2026-04-24T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c4eabbb1ae9d346c91678b62ff126b72e9e21f2c2e511dc5d4463977977cdb2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "reporting",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-e2267897-5a97-40de-990e-49905faae96a",
     "job_title": "Robotics Systems Engineer I, Tech Deployment",
     "employer_name": "Amazon.com Services LLC",
@@ -5998,6 +5923,51 @@
         "python",
         "ruby",
         "shell"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-49964a37-345b-4a66-a4f8-1a91a556f19b",
+    "job_title": "Robotics Systems Engineer I, Tech Deployment",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10402325/robotics-systems-engineer-i-tech-deployment",
+    "job_posted_at_datetime_utc": "2026-04-24T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c4eabbb1ae9d346c91678b62ff126b72e9e21f2c2e511dc5d4463977977cdb2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "reporting",
+        "robotics"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -129850,98 +129820,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T19:31:07.517Z"
-  },
-  {
-    "job_id": "greenhouse-intrinsicrobotics-5972997004",
-    "job_title": "Software Engineer, Planning & Orchestration",
-    "employer_name": "Intrinsic Robotics",
-    "job_city": "Mountain View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5972997004?gh_jid=5972997004",
-    "job_posted_at_datetime_utc": "2026-04-17T18:56:11.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b8c00edcf686b011310b8220ed9119fbda4d862963b3d4045ef1035cfe8de66d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "c++",
-        "computer science",
-        "generative ai",
-        "load balancing",
-        "mes",
-        "python",
-        "reinforcement learning",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T18:56:11.000Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4673233006",
-    "job_title": "Software Development Engineer in Test",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4673233006",
-    "job_posted_at_datetime_utc": "2026-04-17T18:55:13.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c6bf74ed94b26d210a2da55961d437397bc2f0a87373165140a6e47554d5339",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "api",
-        "ci/cd",
-        "computer science",
-        "javascript",
-        "scrum",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T18:55:13.000Z"
   }
 ]
