@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-3089-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-3087-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-374-blue?style=flat&logo=building)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-2216-red?style=flat&logo=star)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-2214-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,10 +69,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Speechify** | Software Engineer, iOS Core Product - Washington, DC, USA | Washington, DC | 20h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/speechify/jobs/5981026004) |
-| 🏢 **Speechify** | Software Engineer, iOS Core Product - Long Beach, CA, USA | Long Beach, CA | 20h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/speechify/jobs/5981034004) |
-| 🏢 **Speechify** | Software Engineer, iOS Core Product - Los Angeles, CA, USA | Los Angeles, CA | 20h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/speechify/jobs/5981021004) |
-| 🏢 **WHOOP** | iOS Engineer | Boston, MA | 1d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/whoop/3b167cf6-a220-4c03-8a4e-0977fa732afc/apply) |
+| 🏢 **Speechify** | Software Engineer, iOS Core Product - New York, NY, USA | New York, NY | 21h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/speechify/jobs/5981016004) |
+| 🏢 **Speechify** | Software Engineer, iOS Core Product - Palo Alto, CA, USA | Palo Alto, CA | 21h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/speechify/jobs/5981015004) |
+| 🏢 **Speechify** | Software Engineer, iOS Core Product - San Francisco, CA, USA | San Francisco, CA | 21h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/speechify/jobs/5981014004) |
+| 🏢 **WHOOP** | iOS Engineer | Boston, MA | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/whoop/3b167cf6-a220-4c03-8a4e-0977fa732afc/apply) |
 | 🏢 **Anthropic** | Software Engineer, Android | San Francisco, CA | 2d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4899511008) |
 | 🏢 **Anthropic** | Software Engineer, iOS | San Francisco, CA | 2d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4572744008) |
 | 🏢 **Airbnb** | iOS Software Engineer, Host Pricing | Remote | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.airbnb.com/positions/7822751?gh_jid=7822751) |
@@ -96,9 +96,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **xAI** | Mobile iOS Engineer | New York, NY | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4985386007) |
 | 🏢 **Verkada** | Mobile Engineer - Alarms | San Mateo, CA | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4856201007) |
 | 🏢 **Twilio** | Android Engineer - P3 - Security + Identity | Remote | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7229383) |
-| 🏢 **OpenAI** | iOS Engineer, ChatGPT Mobile Infrastructure | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/d66ae477-8742-4c4c-85a2-6f92a7dc67f2/application) |
-| 🏢 **OpenAI** | Android Engineer, ChatGPT Mobile Infrastructure | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/76ab9863-fc86-4ecf-9cc2-759cdd6b64b7/application) |
 | 🏢 **OpenAI** | iOS Engineer, Monetization | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/c9fd2911-586b-45b2-80ea-2078ce6dafff/application) |
+| 🏢 **OpenAI** | Android Engineer, Monetization | Seattle | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/7daff2af-1686-43fe-85c0-ca912c8747ac/application) |
+| 🏢 **OpenAI** | iOS Engineer, ChatGPT Mobile Infrastructure | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/d66ae477-8742-4c4c-85a2-6f92a7dc67f2/application) |
 | 🏢 **Notion** | Software Engineer, Mobile Platform (Android) | New York | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/notion/67a6ea13-9e71-4e0c-ba9c-999126417a3c/application) |
 | 🏢 **Stripe** | Android Engineer, Terminal Global Payments | San Francisco, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7778627) |
 | 🏢 **Stripe** | Android Engineer, Terminal OS Platform | San Francisco | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7557403) |
@@ -128,7 +128,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SEL** | Software Engineer - Front End | Chattanooga, TN | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Tennessee---Chattanooga/Lead-Software-Engineer---Front-End_2026-19689) |
 | 🏢 **Capco** | Front End Developer, React+ Javascript | Dallas + 1 more | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7759515) |
 | 🏢 **Intrinsic Robotics** | Frontend Software Engineer | Mountain View | 4d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5973139004?gh_jid=5973139004) |
-| 🏢 **Anduril** | Frontend Software Engineer, Maneuver dominance | Boston | 4d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5115179007?gh_jid=5115179007) |
+| 🏢 **Anduril** | Frontend Software Engineer, Maneuver dominance | Boston | 5d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5115179007?gh_jid=5115179007) |
 | 🏢 **KBR** | Web Developer | Chantilly | 5d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Web-Developer_R2122373) |
 | 🏢 **Versapay** | Web Developer (Liquid) | United States (Re... | 5d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/versapay/1dd82ffb-b114-4356-9876-841cfc71a91b/apply) |
 | 🏢 **Spotify** | Frontend Engineer - Music | New York, NY | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/spotify/a8606ee6-84b9-4677-af2f-b57f1e71fd91/apply) |
@@ -247,8 +247,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Palantir** | Full Stack Software Engineer - Application Development | New York, NY | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/2da4be12-bc7a-4950-87db-e9d68d955ff7/apply) |
 | 🏢 **Spotify** | Fullstack Engineer – Platform Developer Experience | New York, NY | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/spotify/651491f7-cd91-49bd-93f5-eb939344463b/apply) |
 | 🏢 **Allium** | Full Stack / Product Engineer | New York | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/allium/1831be9b-630b-45ba-acad-1564bfc21e38/application) |
-| 🏢 **Affirm** | Software Engineer I, Full-Stack (Home and Search Experience) | Remote | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7685236003) |
 | 🏢 **Affirm** | Software Engineering Apprentice, Full-Stack | Remote | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7647925003) |
+| 🏢 **Affirm** | Software Engineer I, Full-Stack (Home and Search Experience) | Remote | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7685236003) |
 | 🏢 **Abnormal Security** | Software Engineer 2 (Fullstack), Threat Narrative | Canada; Remote - USA | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://abnormal.ai/careers/jobs/7658409003?gh_jid=7658409003) |
 | 🏢 **Fidelity Investments** | Python Full Stack Engineer- | Durham, NC | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Durham-NC/Full-Stack-Engineer-_2126449) |
 | 🏢 **Peraton** | Junior Full Stack Software Engineer (DevSecOps) | Virginia | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://www.careers.peraton.com/jobs/junior-full-stack-software-engineer-dev-sec-ops-herndon-virginia-164735-jobs--information-technology--) |
@@ -346,8 +346,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **2K Games** | Build Engineer - NBA 2K | Novato | 3d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/2k/jobs/7702146003) |
 | 🏢 **Northwood Space** | Infrastructure Engineer | Torrance, CA | 3d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/00955a02-867b-42e2-ba35-3cc41020fc99/application) |
 | 🏢 **Northwood Space** | Infrastructure Engineer - Early Career | Torrance, CA | 3d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/d81a9f1e-002e-4c1a-8b09-8dbac575279c/application) |
-| 🏢 **FIS** | Site Reliability Engineer (AWS) | FL JAX 347 | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer_JR0301756) |
 | 🏢 **FIS** | Site Reliability Engineer (CI/CD) | FL JAX 347 | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer--Mainframe-_JR0303518) |
+| 🏢 **FIS** | Site Reliability Engineer (AWS) | FL JAX 347 | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer_JR0301756) |
 | 🏢 **Relativity Space** | Infrastructure Engineer I | Stennis Space | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8517617002?gh_jid=8517617002) |
 | 🏢 **Fidelity Investments** | Cloud Engineer | Westlake, TX | 4d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Cloud-Engineer_2124991-1) |
 | 🏢 **NBCUniversal** | Site Reliability Engineer - Nexthink | New York | 4d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000122298602) |
@@ -394,14 +394,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **xAI** | Site Reliability Engineer - Cybersecurity | Palo Alto, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4803447007) |
 | 🏢 **Pulse** | DevOps Engineer | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/pulse/6a68aba5-72ed-4117-97ed-e05480d6cebb/application) |
 | 🏢 **Verkada** | Site Reliability Engineer - Infrastructure | San Mateo, CA | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4129338007) |
+| 🏢 **OpenAI** | Site Reliability Engineer, Frontier Systems Infrastructure | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/ad2cf782-15a4-48c7-9133-1788e3f33bbb/application) |
 | 🏢 **OpenAI** | Hardware Development Infrastructure Engineer | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/f2908f94-93a9-476b-ac83-b03392ae827d/application) |
 | 🏢 **OpenAI** | Release Engineer, Consumer Devices | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/63f7f0b3-ba2c-437b-87ba-ec476729f071/application) |
-| 🏢 **OpenAI** | Software Engineer, Identity Infrastructure Engineering | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db/application) |
 | 🏢 **Trace3** | DevOps | United States | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
 | 🏢 **Tenstorrent** | Infrastructure and Platform Engineer, Metal | United States | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5105551007) |
 | 🏢 **Tailscale** | Security Infrastructure Engineer | Remote | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4648933005) |
+| 🏢 **SpaceX** | Site Reliability Engineer - Top Secret Clearance | Hawthorne, CA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8362795002?gh_jid=8362795002) |
 | 🏢 **SpaceX** | Software Engineer, DevOps (Starlink) | Redmond, WA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8443737002?gh_jid=8443737002) |
-| 🏢 **SpaceX** | Software Infrastructure Engineer, Flight Software (Starlink) | Redmond, WA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8478283002?gh_jid=8478283002) |
 | 🏢 **Mercor** | Infrastructure Engineer | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/mercor/296c4031-5e98-4772-95f5-a9eb5bd7746d/application) |
 | 🏢 **Sony Interactive Entertainment** | Platform Engineer - Application Networking | United States, CA + 1 more | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5812444004) |
 | 🏢 **Scale AI** | DevOps Engineer, Infrastructure & Security | Washington, DC | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4674863005) |
@@ -429,8 +429,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Flight Software Platform Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5086631007?gh_jid=5086631007) |
 | 🏢 **Benchling** | Software Engineer, Backend (Infrastructure Engineering) | San Francisco, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/benchling/e729560e-a2dd-4949-8dc5-031312a9b2e2/application) |
 | 🏢 **Baseten** | Cloud Platform Engineer | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392/application) |
-| 🏢 **Palantir** | Product Reliability Engineer - Defense | New York, NY + 1 more | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/250f623c-9afb-4c91-b0c0-25d4e83005ec/apply) |
 | 🏢 **Palantir** | Site Reliability Engineer - US Government | Washington | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/211f99dc-269e-4f25-84d3-d73dea782080/apply) |
+| 🏢 **Palantir** | Site Reliability Operations Analyst - Commercial | New York, NY | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94/apply) |
 | 🏢 **Spotify** | Site Reliability Engineer - Backstage | New York, NY | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb/apply) |
 | 🏢 **Allen Control Systems** | CV/ML Platform Engineer | Austin, TX | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5156551008) |
 | 🏢 **Allen Control Systems** | Platform Engineer | Austin, TX | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5140775008) |
@@ -466,7 +466,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **FLIR Systems** | Information Systems Security Engineer | Huntsville, AL, AL | 4d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL-Arsenal/Information-Systems-Security-Engineer_REQ34397) |
 | 🏢 **CACI** | Cybersecurity Analyst | VA Fort Belvoir | 4d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Fort-Belvoir/Cybersecurity-Analyst_325160) |
 | 🏢 **Motorola Solutions** | Cybersecurity Analyst (FedRAMP) | Illinois Remote Work | 4d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Analyst--FedRAMP-_R62686) |
-| 🏢 **Northrop Grumman** | Industrial Security Analyst | West Virginia-Rocket + 1 more | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Industrial-Security-Analyst_R10230612) |
+| 🏢 **Northrop Grumman** | Industrial Security Analyst | California-San Diego + 1 more | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Industrial-Security-Analyst_R10229672) |
 | 🏢 **KLA** | Cybersecurity Engineer - Endpoint Detection | Ann Arbor, MI | 4d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Cybersecurity-Engineer---Endpoint-Detection_2635605-1) |
 | 🏢 **SpaceX** | Information Security Analyst | Hawthorne, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8517412002?gh_jid=8517412002) |
 | 🏢 **xAI** | Security Engineer - Azure Government | Palo Alto, CA | 4d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5050657007) |
@@ -490,11 +490,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **WHOOP** | Security Analyst | Boston, MA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/whoop/8bb45cf1-a4ac-4715-98ab-7f523aaacf9c/apply) |
 | 🏢 **WHOOP** | Security Engineer, IAM | Boston, MA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/whoop/7b4065d5-0cbb-47da-9d1e-3e52d9f75917/apply) |
 | 🏢 **Ramp** | Security Engineer, Privacy | New York, NY | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36/application) |
-| 🏢 **xAI** | Application Security Engineer | Palo Alto, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4559147007) |
-| 🏢 **xAI** | Infrastructure Security Engineer | Palo Alto, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5090998007) |
+| 🏢 **xAI** | Network Security Engineer | Palo Alto, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4800712007) |
+| 🏢 **xAI** | Security Engineer - Detection & Response | New York, NY | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5008186007) |
 | 🏢 **OpenAI** | Security Engineer, Host Assurance | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/3de4718b-8f4c-4b63-8637-02077a0113aa/application) |
 | 🏢 **OpenAI** | Researcher, Frontier Cybersecurity Risks | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/97a7eeae-9625-4d00-874f-e50131f98369/application) |
-| 🏢 **OpenAI** | Enterprise Security Engineer | San Francisco + 3 more | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/4fb47557-86d2-47c3-9c6a-909aeb561329/application) |
+| 🏢 **OpenAI** | Network Security Engineer | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/02aaa36c-971f-464e-b41c-0435bf762d43/application) |
 | 🏢 **Trace3** | Cybersecurity Engineer, ACAS Administrator   TS/SCI | Colorado Springs, CO | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/7728076) |
 | 🏢 **Take-Two Interactive** | Cloud Security Engineer | Austin | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/taketwo/jobs/7072655) |
 | 🏢 **Take-Two Interactive** | Information Security Engineer | Austin + 1 more | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/taketwo/jobs/7647578) |
@@ -527,8 +527,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Astranis** | Product Security Engineer | San Francisco | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4667335006) |
 | 🏢 **Astranis** | Red Team Security Engineer | San Francisco | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4667338006) |
 | 🏢 **Asana** | Corporate Security Engineer | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://www.asana.com/jobs/apply/7441441?gh_jid=7441441) |
-| 🏢 **Anthropic** | Security Engineer, Detection & Response | San Francisco, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4982193008) |
 | 🏢 **Anthropic** | Research Engineer, Cybersecurity Reinforcement Learning | San Francisco, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5025624008) |
+| 🏢 **Anthropic** | Security Engineer, Detection & Response | San Francisco, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4982193008) |
 | 🏢 **Applied Intuition** | Security Engineer (Purple Team) | Sunnyvale | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4435584005?gh_jid=4435584005) |
 | 🏢 **Anduril** | Travel Security Analyst | Costa Mesa | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5063495007?gh_jid=5063495007) |
 | 🏢 **Anduril** | System Security Engineer, Program Protection | Costa Mesa | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4978917007?gh_jid=4978917007) |
@@ -537,7 +537,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Benchling** | Application Security Engineer | San Francisco, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/benchling/7300821b-f2ee-4d20-95fe-6df6a0b88dc6/application) |
 | 🏢 **Candid Health** | Security Engineer | New York City | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/05085e52-174c-4d29-a31f-0e85970b8c55/application) |
 | 🏢 **Baseten** | Security Engineer | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/baseten/b85e4b1d-6531-46b5-bc8a-238f3761a50e/application) |
-| 🏢 **Palantir** | Product Infrastructure Security Engineer | Palo Alto, CA + 3 more | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/346ff0e0-94dd-4d6c-916a-23ecdd74bbc6/apply) |
+| 🏢 **Palantir** | Product Infrastructure Security Engineer | New York, NY + 3 more | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/d617af53-e943-4122-8993-4f5853c667bf/apply) |
 | 🏢 **Palantir** | Information Systems Security Engineer | Washington | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/caeb42e8-5d44-4114-a912-0de2584d1a75/apply) |
 | 🏢 **Airtable** | Product Security Engineer | San Francisco, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8194662002) |
 
@@ -569,9 +569,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **OpenAI** | Backend Software Engineer, Enterprise AI Platform | San Francisco | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/2f4ded22-dcc4-4e2c-94be-ca824071a7b7/application) |
 | 🏢 **OpenAI** | Research Engineer, Applied AI Engineering | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/d44c9f70-4aef-45a4-a36a-54fb65663ccb/application) |
 | 🏢 **Tenstorrent** | C++ Machine Learning Engineer, AI Models Training | Santa Clara | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4607141007) |
+| 🏢 **Scale AI** | Infrastructure Software Engineer, Enterprise GenAI | San Francisco, CA | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4665557005) |
 | 🏢 **Scale AI** | Machine Learning Research Engineer, Agents - Enterprise GenAI | San Francisco, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4625344005) |
 | 🏢 **Scale AI** | Machine Learning Research Engineer, GenAI Applied ML | San Francisco, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4490301005) |
-| 🏢 **Scale AI** | Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI | San Francisco, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4625341005) |
 | 🏢 **Nuro** | Software Engineer, AI Platform - New Grad | Mountain View | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7351066) |
 | 🏢 **Nuro** | Software Engineer, ML Platform Infrastructure | Mountain View | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7786771) |
 | 🏢 **Intrinsic Robotics** | Robotics Software Engineer - Manufacturing Automation | Mountain View | 6d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5841400004?gh_jid=5841400004) |
@@ -638,10 +638,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Zoox** | Firmware Validation Engineer | Foster City, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/4b00bf61-6547-4c50-be83-5d659176090b/apply) |
 | 🏢 **Verkada** | Embedded Software Engineer - Access Control | San Mateo, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5032260007) |
 | 🏢 **True Anomaly** | Flight Software Engineer I | Denver, CO | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) |
-| 🏢 **OpenAI** | Camera Firmware Engineer, Consumer Devices | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0/application) |
 | 🏢 **OpenAI** | Linux Kernels Software Engineer | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/e5691162-4e45-4dc6-a6bf-64f60ebf1ac4/application) |
+| 🏢 **OpenAI** | Camera Firmware Engineer, Consumer Devices | San Francisco | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0/application) |
 | 🏢 **SpaceX** | Wireless Firmware Engineer (Direct To Cell) | Sunnyvale, CA + 1 more | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8376504002?gh_jid=8376504002) |
-| 🏢 **SpaceX** | Software Engineer, Embedded Software (Starlink) | Redmond, WA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8398552002?gh_jid=8398552002) |
+| 🏢 **SpaceX** | Satellite Systems Software Engineer (Starlink) | Redmond, WA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8395341002?gh_jid=8395341002) |
 | 🏢 **Northwood Space** | Embedded Software Engineer | Torrance, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/bcedd247-5593-44a4-84c3-32145328162a/application) |
 | 🏢 **SharkNinja** | Embedded Software Engineering Opportunities at SharkNinja | Needham, MA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4603769006) |
 | 🏢 **Roblox** | Systems Software Engineer - Game Engine Network (C++) | San Mateo, CA | 6d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.roblox.com/jobs/7561739?gh_jid=7561739) |
@@ -763,9 +763,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **NVIDIA** | Compiler Engineer - AI Inference | US, CA | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Compiler-Engineer_JR2014497-1) |
 | 🏢 **NVIDIA** | VLSI Design Automation Software Engineer | US, MA | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-MA-Westford/VLSI-Design-Automation-Software-Engineer_JR2016784) |
 | 🏢 **Morgan Stanley** | Scrum Master (Risk Management) : Job Level - Associate | New York | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Credit-Risk--Risk-Management----Job-Level---Associate_PT-JR034529) |
-| 🏢 **Northrop Grumman** | Linux Systems Administrator (AHT) | 2 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Linux-Systems-Administrator--AHT-_R10230897) |
 | 🏢 **Northrop Grumman** | Cyber Systems Engineer 3 (26-205) | Colorado-Schrieve... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Cyber-Systems-Engineer-3--26-205-_R10230873) |
 | 🏢 **Northrop Grumman** | Linux Systems Administrator 3/4 - Top Secret | Florida-Melbourne | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Linux-Systems-Administrator-3-4---Top-Secret_R10225638-1) |
+| 🏢 **Northrop Grumman** | HPC Linux Systems Administrator 3/4 - Secret | Florida-Melbourne | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/HPC-Linux-Systems-Administrator-3-4---Secret_R10219518-1) |
 | 🏢 **Oshkosh Corporation** | Software Project Engineer | New Hudson | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Software-Project-Engineer_R46050) |
 | 🏢 **Leidos** | Systems Engineer | Springfield, VA + 4 more | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Systems-Engineer_R-00181755) |
 | 🏢 **KBR** | Radar Research Engineer | Chantilly | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Radar-Research-Engineer_R2122559) |
@@ -785,9 +785,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Ciena** | Enterprise Integration Developer | Baltimore | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/Enterprise-Integration-Developer_R030725) |
 | 🏢 **Cboe** | Software Engineer, Testing | Kansas City, MO | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer--Testing_R-4393) |
 | 🏢 **Boeing** | Associate Information Technology Engineer - Computing Methods & Technology | Hazelwood, MO | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Information-Technology-Engineer---Computing-Methods---Technology_JR2026507469) |
+| 🏢 **Booz Allen Hamilton** | OPIR Systems Engineer | Chantilly, VA | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/OPIR-Systems-Engineer_R0227737) |
 | 🏢 **Booz Allen Hamilton** | F-35 Software Systems Engineer | Arlington, VA | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/F-35-Software-Systems-Engineer_R0237248) |
 | 🏢 **Booz Allen Hamilton** | Systems Administrator | Annapolis Junctio... + 1 more | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/Systems-Administrator_R0238025) |
-| 🏢 **Booz Allen Hamilton** | Palantir Software Engineer | Vandenberg AFB, CA | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Vandenberg-AFB-CA/Palantir-Software-Engineer_R0238659) |
 | 🏢 **Blue Origin** | Developer – Vision Based Navigation Associate Software Engineer | Denver, CO | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Denver-CO/Developer---Vision-Based-Navigation-Associate-Software-Engineer_R61150) |
 | 🏢 **CACI** | Systems Engineering | FL Sarasota + 1 more | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Sarasota/Systems-Engineering_325324-1) |
 | 🏢 **CACI** | ServiceNow Integration Engineer | Remote | 2d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Integration-Engineer_323624) |
@@ -856,8 +856,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Comcast** | Software Engineer 3 | 2 Locations | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-350-N-Orleans-St-1300N/Software-Engineer-3_R435630) |
 | 🏢 **Redwood Materials** | Power Systems Engineer, Energy Storage | San Francisco | 3d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/5731003004?gh_jid=5731003004) |
 | 🏢 **Redwood Materials** | Software Engineer – Site Controller, Energy Storage | San Francisco | 3d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/5737844004?gh_jid=5737844004) |
-| 🏢 **Planet** | Software Engineer, Platform Operations | United States | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/planetlabs/jobs/7555019) |
 | 🏢 **Planet** | Software Engineer, AI Systems & Infrastructure - AI Geospatial Assistant Team | San Francisco, CA | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/planetlabs/jobs/7603817) |
+| 🏢 **Planet** | Software Engineer, Platform Operations | United States | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/planetlabs/jobs/7555019) |
 | 🏢 **PlanetScale** | Developer Educator | San Francisco and... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/planetscale/jobs/4021848009) |
 | 🏢 **Ping Identity** | AI Systems Analyst | USA - Denver, CO | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pingidentity/jobs/8472416002) |
 | 🏢 **Nozomi Networks** | IT Operations Engineer | United States | 3d | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/nozominetworks/jobs/4622734005) |
@@ -871,7 +871,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Philips** | Technical Support Engineer 4 (Remote) | Home Based, Unite... | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Technical-Support-Engineer-4--Remote-_568921-1) |
 | 🏢 **PayPal** | Software Engineer | Scottsdale | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://paypal.wd1.myworkdayjobs.com/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer_R0136173-1) |
 | 🏢 **ResMed** | Business Systems Analyst (Technical) | San Diego, CA | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Distribution-Systems-Analyst_JR_044250-2) |
-| 🏢 **RTX** | 2026 Collins Full Time - Systems Engineer I - Military Avionics Flight Management Systems - Cedar Rapids, IA (Onsite) | IA-CEDAR RAPIDS-182 | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2026-Collins-Full-Time---Systems-Engineer-I---Military-Avionics-Flight-Management-Systems---Cedar-Rapids--IA--Onsite-_01840020) |
+| 🏢 **RTX** | 2026  Raytheon Full Time- Software Engineer I -(Onsite) | CA-GOLETA-H01 + 1 more | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01840483) |
 | 🏢 **Medtronic** | Financial Systems Analyst | Minneapolis | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Financial-Systems-Analyst_R62042-2) |
 | 🏢 **Medtronic** | Quality Systems Specialist | Dexter | 3d | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dexter-Michigan-United-States-of-America/Quality-Systems-Specialist_R63303-2) |
 | 🏢 **Moog** | Associate Software Engineer | Santa Barbara, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229) |
@@ -933,7 +933,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3089 current opportunities from 374 companies**
+**🎯 3087 current opportunities from 374 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
