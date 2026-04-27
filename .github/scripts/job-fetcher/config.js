@@ -20,6 +20,7 @@ module.exports = {
   // Branding text
   title: 'Software Engineering Jobs 2026',
   tagline: '',  // No tagline for SEO repos
+  jobCountBadgeLabel: 'Software Jobs',
 
   // Description paragraphs (with template variables)
   descriptionLine1: '🚀 Software engineering and IT jobs for new graduates, updated in real time.',
