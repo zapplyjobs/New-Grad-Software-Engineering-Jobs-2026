@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-4006-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-399-blue?style=flat&logo=building)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-2954-red?style=flat&logo=star)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3997-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-395-blue?style=flat&logo=building)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-2948-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -186,8 +186,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Snowflake** | Software Engineer - Frontend | Menlo Park, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/950abc30-8bfb-4f15-9bb9-62713c93aa5f/application) |
 | 🏢 **LaunchDarkly** | Frontend Engineer, Guarded Releases | US | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/launchdarkly/jobs/7664340003) |
 | 🏢 **Fable** | Frontend Engineer | San Francisco, CA... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/fable/aa900256-a8c4-4491-9d69-9f36d865ea71/application) |
-| 🏢 **Amazon Data Services, Inc.** | Physical Security Engineer, Data Center Design Engineering | Seattle, WA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10404312/physical-security-engineer-data-center-design-engineering) |
-| 🏢 **Amazon Data Services, Inc.** | Product Design Engineer, Data Center Engineering - Electrical Products and Services | Seattle, WA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10404549/product-design-engineer-data-center-engineering-electrical-products-and-services) |
+| 🏢 **Amazon Data Services, Inc.** | Physical Security Engineer, Data Center Design Engineering | Seattle, WA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10404312/physical-security-engineer-data-center-design-engineering) |
+| 🏢 **Amazon Data Services, Inc.** | Product Design Engineer, Data Center Engineering - Electrical Products and Services | Seattle, WA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10404549/product-design-engineer-data-center-engineering-electrical-products-and-services) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -218,7 +218,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northrop Grumman** | Full Stack Software Developer (AHT) | California | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Full-Stack-Software-Developer--AHT-_R10231428) |
 | 🏢 **Northrop Grumman** | Full-stack Software Engineer Level 3 or 4 | Colorado | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Full-stack-Software-Engineer-Level-3-or-4_R10231410) |
 | 🏢 **Leidos** | Full Stack Developer | Ashburn, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Full-Stack-Developer_R-00182087) |
-| 🏢 **Netflix** | Full-Stack Engineer 5 - Decisioning & Optimization | New York, New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://explore.jobs.netflix.net/careers/job/790315746996) |
+| 🏢 **Netflix** | Full-Stack Engineer 5 - Decisioning & Optimization | New York, New York | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://explore.jobs.netflix.net/careers/job/790315746996) |
 | 🏢 **Commure** | Fullstack Engineer, Integrations | Mountain View, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/commure/39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5/application) |
 | 🏢 **Pylon** | Fullstack Engineer, Customer Success | Palo Alto | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/pylon/fd573bb0-d06c-401f-97b5-b73d030662d4/application) |
 | 🏢 **Anthropic** | Full-Stack Software Engineer, Reinforcement Learning | San Francisco, CA... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5186067008) |
@@ -315,7 +315,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Jabil** | Automation Engineer I | Memphis, TN | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Automation-Engineer-I_J2447938-1) |
 | 🏢 **Jabil** | Automation Engineer I | Memphis, TN | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Automation-Engineer-I_J2447934) |
 | 🏢 **HPE** | Software Development Engineer in Test | San Jose, Califor... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Software-Development-Engineer-in-Test_1201922) |
-| 🏢 **Amazon.com Services LLC** | Automation Engineer , Controls Systems Engineer I | West Columbia, SC | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10405798/automation-engineer-controls-systems-engineer-i) |
+| 🏢 **Amazon.com Services LLC** | Automation Engineer , Controls Systems Engineer I | West Columbia, SC | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10405798/automation-engineer-controls-systems-engineer-i) |
 | 🏢 **Contoro Robotics** | Software & Systems Test Engineer | Austin, TX | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/contoro/e3980fff-1b5c-4826-8d6c-f8bd7845a42b/application) |
 | 🏢 **Zoom** | Enterprise Systems QA Engineer | San Jose | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Enterprise-Systems-QA-Engineer_R18853-2) |
 | 🏢 **SpaceX** | Automation Engineer, Blades and Vanes Foundry | Bastrop, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8502939002?gh_jid=8502939002) |
@@ -351,14 +351,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Booz Allen Hamilton** | Infrastructure Engineer | El Segundo, CA | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/Infrastructure-Engineer_R0238273) |
+| 🏢 **Booz Allen Hamilton** | Infrastructure Engineer | El Segundo, CA | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/Infrastructure-Engineer_R0238273) |
 | 🏢 **Boeing** | Advanced Information Technologist – Associate Cloud Engineer | Hazelwood, MO | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Associate-Cloud-Engineer_JR2026494282) |
 | 🏢 **Booz Allen Hamilton** | FedRAMP Cloud Engineer | McLean, VA | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/FedRAMP-Cloud-Engineer_R0233195) |
 | 🏢 **CACI** | DevOps Engineer | VA Norfolk | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Norfolk/DevOps-Engineer_325509) |
 | 🏢 **AMD** | Hardware Gaming Platform Engineering-Silicon Validation & System Debug | Austin, TX, Unite... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85777/login) |
 | 🏢 **Vanguard** | Cloud Engineer | Wayne, PA + 1 more | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Cloud-Engineer_177147-1) |
 | 🏢 **Vanguard** | Manager, Cloud Engineering | Wayne, PA + 1 more | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Manager--Cloud-Engineering_177051-1) |
-| 🏢 **Boeing** | Machine Learning Infrastructure Engineer (Associate or Experienced) | Huntsville, AL | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Machine-Learning-Infrastructure-Engineer--Associate-or-Experienced-_JR2026508407-2) |
+| 🏢 **Boeing** | Machine Learning Infrastructure Engineer (Associate or Experienced) | Huntsville, AL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Machine-Learning-Infrastructure-Engineer--Associate-or-Experienced-_JR2026508407-2) |
 | 🏢 **Workday Inc** | Software Development Engineer, SRE (US Federal) | USA.VA.Reston | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105390) |
 | 🏢 **AHEAD** | Managed Services Cloud Engineer - FinOps | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/thinkahead/9b4d6190-c78a-4776-8a2a-66de64ac1cb5/apply) |
 | 🏢 **Booz Allen Hamilton** | Site Reliability Engineer | McLean, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Site-Reliability-Engineer_R0239116) |
@@ -380,7 +380,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | Site Reliability Engineer | 3 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Field-Service-Engineer_R-00175292) |
 | 🏢 **Apple** | Compute SRE | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200634911/compute-sre) |
 | 🏢 **Northwood Space** | Infrastructure Engineer | Torrance, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/00955a02-867b-42e2-ba35-3cc41020fc99/application) |
-| 🏢 **Northwood Space** | Infrastructure Engineer - Early Career | Torrance, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/d81a9f1e-002e-4c1a-8b09-8dbac575279c/application) |
+| 🏢 **Northwood Space** | Infrastructure Engineer - Early Career | Torrance, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/d81a9f1e-002e-4c1a-8b09-8dbac575279c/application) |
 | 🏢 **ServiceNow** | Software Engineer, DevOps - Moveworks | Mountain View, CA... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000123804310) |
 | 🏢 **Zoom** | Kubernetes Platform Engineer – Big Data Infrastructure | San Jose | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Big-Data-Infrastructure-Engineer_R18274-1) |
 | 🏢 **Captivation** | Software Engineer 3 - Linux/Java/Spring/Docker/Kubernetes/Grafana/Prometheus/NiFi | Annapolis Junctio... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5196894008) |
@@ -645,7 +645,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Apptronik** | Security Engineer - Data Platform | Austin, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5800406004?gh_jid=5800406004) |
 | 🏢 **Datadog** | Manager I, Security Engineering - Vulnerability Management | New York, New Yor... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.datadoghq.com/detail/7748975/?gh_jid=7748975) |
 | 🏢 **Cisco** | Information Security Engineer (Onsite) | RTP, North Caroli... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Information-Security-Engineer--Onsite-_2007604) |
-| 🏢 **Open Systems Inc.** | Associate Embedded Security Engineer (C/C++) — Hybrid | Peachtree City, G... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.jobleads.com/us/job/associate-embedded-security-engineer-c-c-hybrid--peachtree-city--e327cc88092b7e1093a1206d277885a07) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -669,7 +668,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Google** | Machine Learning Engineer, XLS, Compiler | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142249195464467142) |
 | 🏢 **Google** | Software Engineer, Next Generation AI/ML Infrastructure | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/79906529687282374) |
 | 🏢 **Mercor** | Software Engineer, Applied AI | San Francisco | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/mercor/cae88190-a2fd-4d04-9352-9f48fedb56a7/application) |
-| 🏢 **Airbnb** | Machine Learning Engineer, Customer Support Engineering | USA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.airbnb.com/positions/7826337?gh_jid=7826337) |
+| 🏢 **Airbnb** | Machine Learning Engineer, Customer Support Engineering | USA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.airbnb.com/positions/7826337?gh_jid=7826337) |
 | 🏢 **Johnson & Johnson** | Robotics Software Manager | 4 Locations | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Robotics-Software-Manager_R-071007-1) |
 | 🏢 **Rilla** | Software Engineer, Applied AI | New York City | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/rilla/fad15157-b4cc-44ff-92b7-4afd4fe3388e/application) |
 | 🏢 **OpenAI** | Research Engineer / Machine Learning Engineer - Applied Voice | San Francisco | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409/application) |
@@ -743,7 +742,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Boeing** | Entry Level Embedded Software Engineer | Fort Walton Beach... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fort-Walton-Beach-FL/Entry-Level-Embedded-Software-Engineer_JR2026502637-1) |
 | 🏢 **RTX** | Real-Time Qt Software Engineer (Onsite) | 2 Locations | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Real-Time-Qt-Software-Engineer--Onsite-_01831566) |
 | 🏢 **Apple** | Cellular Firmware Integration Engineer | San Francisco Bay... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200660142/cellular-firmware-integration-engineer) |
-| 🏢 **The Boeing Company** | Entry Level Embedded Software Engineer | Fort Walton Beach... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://simplify.jobs/p/a59de19e-95b0-4294-ac03-4b7edcd9d03f/Entry-Level-Embedded-Software-Engineer) |
+| 🏢 **The Boeing Company** | Entry Level Embedded Software Engineer | Fort Walton Beach... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://simplify.jobs/p/a59de19e-95b0-4294-ac03-4b7edcd9d03f/Entry-Level-Embedded-Software-Engineer) |
 | 🏢 **CACI** | Embedded Software Engineer | NY Rochester | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Embedded-Software-Engineer_325329) |
 | 🏢 **Northwood Space** | Embedded Software Engineer | Torrance, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/bcedd247-5593-44a4-84c3-32145328162a/application) |
 | 🏢 **OpenAI** | Camera Firmware Engineer, Consumer Devices | San Francisco | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0/application) |
@@ -779,11 +778,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Allen Control Systems** | Embedded Software Engineer | Austin, TX | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/4943808008) |
 | 🏢 **Muon Space** | Software Engineer, Flight Software | San Jose, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/muonspace/jobs/5023371007) |
 | 🏢 **CoreWeave** | Systems Engineer, Kernel | Livingston, NJ /... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://coreweave.com/careers/job?4599319006&board=coreweave&gh_jid=4599319006) |
-| 🏢 **Boeing Aerospace Operations** | Entry Level Embedded Software Engineer | Remote | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/Entry-Level-Embedded-Software-Engineer_JR2026502637) |
-| 🏢 **Rockwell Automation (USA)** | Junior Software Engineer-Embedded | Remote | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Junior-Software-Engineer-Embedded_R26-1610) |
+| 🏢 **Boeing Aerospace Operations** | Entry Level Embedded Software Engineer | Remote | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/Entry-Level-Embedded-Software-Engineer_JR2026502637) |
+| 🏢 **Rockwell Automation (USA)** | Junior Software Engineer-Embedded | Remote | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Junior-Software-Engineer-Embedded_R26-1610) |
 | 🏢 **Boston Dynamics** | Distributed Systems Software Engineer | Waltham | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Distributed-Systems-Software-Engineer_R2499) |
 | 🏢 **NVIDIA** | Manager, Systems Software Engineering - NVLink and AI | US, CA, Santa Clara | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Manager--Systems-Software-Engineering---NVLink-and-AI_JR2007814-1) |
-| 🏢 **BeaconFire Inc.** | Embedded Systems Engineer – Entry Level (Visa Sponsorship) | New York, New York | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.jobleads.com/us/job/embedded-systems-engineer-entry-level-visa-sponsorship--new-york--e6ab5620a5434058e22443b87c315e5a5) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -795,10 +793,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Southwest Airlines** | Software Engineer | Dallas, TX | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Software-Engineer_R-2026-67599) |
-| 🏢 **Cigna** | Scrum Master - Cigna HealthCare - Remote | United States Wor... | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Scrum-Master---Cigna-HealthCare---Remote_26005048) |
-| 🏢 **Boeing** | Associate Propulsion System Integration Engineer | North Charleston, SC | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Propulsion-System-Integration-Engineer_JR2026504400-1) |
-| 🏢 **Booz Allen Hamilton** | Axonius Platform Systems Engineer | Reston, VA + 5 more | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Axonius-Platform-Systems-Engineer_R0239158) |
+| 🏢 **Southwest Airlines** | Software Engineer | Dallas, TX | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Software-Engineer_R-2026-67599) |
+| 🏢 **Cigna** | Scrum Master - Cigna HealthCare - Remote | United States Wor... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Scrum-Master---Cigna-HealthCare---Remote_26005048) |
+| 🏢 **Boeing** | Associate Propulsion System Integration Engineer | North Charleston, SC | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Propulsion-System-Integration-Engineer_JR2026504400-1) |
+| 🏢 **Booz Allen Hamilton** | Axonius Platform Systems Engineer | Reston, VA + 5 more | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Axonius-Platform-Systems-Engineer_R0239158) |
 | 🏢 **Northrop Grumman** | Software Engineer - Atlassian Administration | Florida | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Software-Engineer---Atlassian-Administration_R10228376) |
 | 🏢 **General Motors** | Software Engineer, Simulation Scalability - Sim RIM (Release and Incident Management) Focus | Mountain View, Ca... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer--Simulation-Scalability---Sim-RIM--Release-and-Incident-Management--Focus_JR-202605924) |
 | 🏢 **Cursor** | IT Systems Engineer | San Francisco | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/0ec3e4a3-03f7-4a80-bb5d-6b2afa23aefc/application) |
@@ -817,7 +815,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | Junior Reliability and Systems Engineer | Huntsville, AL | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Reliability-and-Systems-Engineer_R-00182290) |
 | 🏢 **Intel** | EDA Tools Software Engineer | Arizona Phoenix +... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/EDA-Tools-Software-Engineer_JR0280762-1) |
 | 🏢 **Adobe** | Cleared Product Support Engineer | McLean | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/McLean/Technical-Support-Engineer_R164544) |
-| 🏢 **General Motors** | Software Engineer | 2 Locations | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer_JR-202521213) |
+| 🏢 **General Motors** | Software Engineer | 2 Locations | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer_JR-202521213) |
 | 🏢 **Trimble** | ERP Business Advisor - Vista | CO Westminster + ... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/ERP-Business-Advisor---Vista_R54080) |
 | 🏢 **Wiz** | Revenue Systems Administrator | USA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.wiz.io/careers/job/4678173006/:title?gh_jid=4678173006) |
 | 🏢 **Leidos** | Control Systems Engineer | Springfield, VA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Control-Systems-Engineer_R-00182250) |
@@ -825,9 +823,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Sierra Nevada Corporation** | Engineering Manager I - Systems Engineering | Dayton, OH + 1 more | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Engineering-Manager-I---Systems-Engineering_R0029842) |
 | 🏢 **Booz Allen Hamilton** | CNO Developer | Annapolis Junctio... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/CNO-Developer_R0226194) |
 | 🏢 **Google** | Silicon System and Software Integration Engineer, Google Cloud | United States | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/77235222164185798) |
-| 🏢 **Apptronik** | Software Engineer – Platform | Austin, TX | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5985625004?gh_jid=5985625004) |
-| 🏢 **General Motors** | Software Engineer - Battery Energy Transfer ART | Milford, Michigan... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---Battery-Energy-Transfer-ART_JR-202608722) |
-| 🏢 **CACI** | Cloud Software Engineer | AYR HANOVER, MD +... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/AYR-HANOVER-MD/Cloud-Software-Engineer_324920-1) |
+| 🏢 **Apptronik** | Software Engineer – Platform | Austin, TX | 9h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5985625004?gh_jid=5985625004) |
+| 🏢 **General Motors** | Software Engineer - Battery Energy Transfer ART | Milford, Michigan... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---Battery-Energy-Transfer-ART_JR-202608722) |
+| 🏢 **CACI** | Cloud Software Engineer | AYR HANOVER, MD +... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/AYR-HANOVER-MD/Cloud-Software-Engineer_324920-1) |
 | 🏢 **Vanguard** | Network Engineer – Campus WLAN/LAN | Wayne, PA + 1 more | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Network-Engineer---Campus-WLAN-LAN_176658-1) |
 | 🏢 **Northrop Grumman** | Sentinel - Radar Post Flight Analysis - Systems Engineer (T01/T02) - 18023 | Utah | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Radar-Post-Flight-Analysis---Systems-Engineer--T01-T02----18023_R10231000) |
 | 🏢 **Micron** | Process Integration Engineer - DRAM, DMTS | Boise, ID - Main ... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DMTS-Process-Engineer--DRAM-PI_JR87299) |
@@ -844,11 +842,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Carrier Global** | MDG Functional Analyst | 2 Locations | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG24-Atlanta-Digital-Hub-3350-Riverwood-Parkway-Atlanta-GA-30339-USA/MDG-Functional-Analyst_30198916) |
 | 🏢 **Comcast** | Software Engineer-7979 | Reston, 11951 Fre... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-7979_R436522) |
 | 🏢 **Booz Allen Hamilton** | Windows System Administrator | McLean, VA | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Windows-System-Administrator_R0239136) |
-| 🏢 **Northrop Grumman** | 2026 Associate Systems Engineer - Roy UT | Utah | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Systems-Engineer---Roy-UT_R10231623) |
-| 🏢 **KBR** | Network Administrator SME | Colorado Springs,... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Network-Administrator-SME_R2116457) |
-| 🏢 **KBR** | Database Administrator SME | Colorado Springs,... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Database-Administrator-SME_R2116407) |
-| 🏢 **Comcast** | Software Engineer-0774 | Reston, 11951 Fre... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-0774_R436402) |
-| 🏢 **Salesforce** | Incident Responder CSIRT - Multiple Levels | California San Fr... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Incident-Responder-CSIRT---Multiple-Levels_JR340483) |
+| 🏢 **Northrop Grumman** | 2026 Associate Systems Engineer - Roy UT | Utah | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Systems-Engineer---Roy-UT_R10231623) |
+| 🏢 **KBR** | Network Administrator SME | Colorado Springs,... | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Network-Administrator-SME_R2116457) |
+| 🏢 **KBR** | Database Administrator SME | Colorado Springs,... | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Database-Administrator-SME_R2116407) |
+| 🏢 **Comcast** | Software Engineer-0774 | Reston, 11951 Fre... | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-0774_R436402) |
+| 🏢 **Salesforce** | Incident Responder CSIRT - Multiple Levels | California San Fr... | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Incident-Responder-CSIRT---Multiple-Levels_JR340483) |
 | 🏢 **Guidehouse** | ServiceNow Developer | VA, McLean | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/ServiceNow-Developer_38611-1) |
 | 🏢 **Loop** | Forward Deployed Engineer | San Francisco, Ne... | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/loop/jobs/5986356004) |
 | 🏢 **Guidehouse** | Salesforce Developer | TX, San Antonio | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Salesforce-Developer_38333) |
@@ -856,16 +854,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CACI** | Systems Administrator | VA Hampton | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Hampton/Systems-Administrator_325557) |
 | 🏢 **IDEXX** | Software Developer | Westbrook, ME | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Software-Developer_J-052098) |
 | 🏢 **Anthropic** | Research Engineer, Search and Knowledge Post-Training | Friendly (Travel | 12h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5206456008) |
-| 🏢 **Tesla** | Software Engineering, People Systems | Palo Alto, CA | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/internship-software-engineering-people-systems-fall-2026-269198) |
+| 🏢 **Tesla** | Software Engineering, People Systems | Palo Alto, CA | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/internship-software-engineering-people-systems-fall-2026-269198) |
 | 🏢 **Applied Materials** | Systems Engineer IV | Santa Clara,CA | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-IV_R2618658) |
 | 🏢 **Microsoft** | Software Engineer - CTJ - Poly | Redmond, Washingt... | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556859432) |
-| 🏢 **Salesforce** | Software Engineering SMTS | Redwood City | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Redwood-City/Software-Engineering-SMTS_JR340228) |
-| 🏢 **RTX** | Manager - ServiceNow Technical Development | Ka, IN | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/ServiceNow-Technical-Lead_01821305) |
-| 🏢 **RTX** | Manager - ServiceNow Technical Development | Ka, IN | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Manager---ServiceNow-Technical-Development_01830834) |
+| 🏢 **Salesforce** | Software Engineering SMTS | Redwood City | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Redwood-City/Software-Engineering-SMTS_JR340228) |
+| 🏢 **RTX** | Manager - ServiceNow Technical Development | Ka, IN | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/ServiceNow-Technical-Lead_01821305) |
+| 🏢 **RTX** | Manager - ServiceNow Technical Development | Ka, IN | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Manager---ServiceNow-Technical-Development_01830834) |
 | 🏢 **Apple** | Wireless Systems Engineer | Cupertino | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200660862/wireless-systems-engineer) |
 | 🏢 **Microsoft** | Technical Program Manager - AI Graphs | United States | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556861598) |
 | 🏢 **Etched** | ASIC Technical Program Manager | San Jose | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/bdec1a6d-300b-47fc-a551-3c937d76fee0/application) |
-| 🏢 **Axon** | Priority Support Engineer I | Scottsdale, Arizo... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7719781003) |
+| 🏢 **Axon** | Priority Support Engineer I | Scottsdale, Arizo... | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7719781003) |
 | 🏢 **AbbVie** | Systems Analyst/Platform Owner, Global Security Systems | North Chicago, IL | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012924119) |
 | 🏢 **AbbVie** | Pricing Strategy Analytics Manager- Irvine, CA | Irvine, CA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012922130) |
 | 🏢 **RTX** | Skillbridge Conversion: Digital Technology System Administrator | Anaheim, CA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Skillbridge-Conversion--Digital-Technology-System-Administrator_01837777) |
@@ -1050,7 +1048,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 4006 current opportunities from 399 companies**
+**🎯 3997 current opportunities from 395 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -1058,6 +1056,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: May 1, 2026
+**Last Updated**: May 2, 2026
 
 </div>
