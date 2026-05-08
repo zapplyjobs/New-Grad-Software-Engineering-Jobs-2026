@@ -108,7 +108,10 @@
       "deep learning",
       "robotics software",
       "ml platform",
-      "ai platform"
+      "ai platform",
+      "computer vision",
+      "research engineer",
+      "applied scientist"
     ]
   },
   "embedded_systems": {
@@ -132,13 +135,12 @@
     "keywords": [
       "software engineer",
       "software developer",
+      "software development engineer",
       "backend",
       "back-end",
       "back end",
       "backend engineer",
       "backend developer",
-      "systems engineer",
-      "platform engineer",
       "api engineer",
       "sde",
       "application developer",
@@ -146,15 +148,6 @@
       "java developer",
       "python developer",
       "javascript developer",
-      "embedded",
-      "firmware",
-      "devops",
-      "site reliability",
-      "security engineer",
-      "computer vision engineer",
-      "ml engineer",
-      "research engineer",
-      "applied engineer",
       "forward deployed engineer"
     ]
   }
