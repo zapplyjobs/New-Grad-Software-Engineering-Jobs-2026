@@ -344,7 +344,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Northrop Grumman** | Embedded Software Engineer - Level 2 or 3 | Colorado | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Embedded-Software-Engineer---Level-2-or-3_R10232441) |
+| 🏢 **Northrop Grumman** | Embedded Software Engineer - Level 2 or 3 | Colorado | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Embedded-Software-Engineer---Level-2-or-3_R10232441) |
 | 🏢 **Apple** | Embedded Software Engineer | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662204/embedded-software-engineer) |
 | 🏢 **Astranis** | Software Simulation Engineer - Flight Software | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4680136006) |
 | 🏢 **Booz Allen Hamilton** | Embedded Systems Software Engineer | Albuquerque, NM | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/Embedded-Systems-Software-Engineer_R0239709) |
@@ -377,7 +377,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Google** | Data Center Technician | United States | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140367320110244550) |
-| 🏢 **Northrop Grumman** | Modeling & Simulation Systems Engineer (Kinematic) - Level 2 or 3 | Colorado | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Modeling---Simulation-Systems-Engineer--Kinematic----Level-2-or-3_R10232451) |
+| 🏢 **Northrop Grumman** | Modeling & Simulation Systems Engineer (Kinematic) - Level 2 or 3 | Colorado | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Modeling---Simulation-Systems-Engineer--Kinematic----Level-2-or-3_R10232451) |
 | 🏢 **Apple** | Software Engineering Systems Engineer | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662186/software-engineering-systems-engineer) |
 | 🏢 **KBR** | Strategic Requirements Systems Engineer | El Segundo, Calif... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Strategic-Requirements-Systems-Engineer_R2119697) |
 | 🏢 **Anthropic** | Network Engineer, Capacity and Efficiency | San Francisco, CA... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5177143008) |
@@ -551,9 +551,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Handshake** | Software Engineer, Agentic Infrastructure | San Francisco, CA | 6h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/handshake/750185eb-d575-430a-93ad-51b7e83a5581/application) |
 | 🏢 **Sigma Computing** | Technical Support Engineer | New York City, NY | 9h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714504003) |
 | 🏢 **Sigma Computing** | Technical Support Engineer | San Francisco, CA | 9h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714505003) |
-| 🏢 **Neuralink** | Software Engineer, Agentic AI | Austin, Texas, Un... | 12h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7729500003?gh_jid=7729500003) |
+| 🏢 **Neuralink** | Software Engineer, Agentic AI | Austin, Texas, Un... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7729500003?gh_jid=7729500003) |
 | 🏢 **CLEAR** | Support Engineer I | New York, New Yor... | 14h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/clear/jobs/7911785) |
-| 🏢 **Leidos** | Software Engineer | Reston, VA | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer_R-00181566) |
+| 🏢 **Leidos** | Software Engineer | Reston, VA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer_R-00181566) |
 | 🏢 **Zoox** | PT Student Worker-AI Driven trouble shooting Robot | Foster City, CA | 18h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/0bb2dd41-e6a9-41a5-bafc-8a438f0a7cca/apply) |
 | 🏢 **Northrop Grumman** | Modeling & Simulation Software Engineer - Level 3 or 4 | Colorado | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Modeling---Simulation-Software-Engineer---Level-3-or-4_R10232446) |
 | 🏢 **Leidos** | Windows Server Administrator | 6314 Remote/Telew... | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Windows-Server-Administrator_R-00182679) |
