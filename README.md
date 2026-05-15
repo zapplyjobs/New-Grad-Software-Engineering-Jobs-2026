@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-3360-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3359-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-401-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -195,7 +195,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **General Motors** | Full Stack Developer | Warren, Michigan,... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/PROGRAMMER-FULL-STACK_JR-202603193) |
 | 🏢 **Parsons** | Junior Full Stack Developer | Hoffman Estates, IL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IL-Schaumburg/Junior-Full-Stack-Developer_R179262-2) |
 | 🏢 **Google** | Software Engineer, Full Stack, gUP Engineering | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120479753218990790) |
-| 🏢 **Instabase** | Full-stack Software Engineer (New Grad) | San Francisco, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/instabase/jobs/8548929002) |
+| 🏢 **Instabase** | Full-stack Software Engineer (New Grad) | San Francisco, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/instabase/jobs/8548929002) |
 | 🏢 **Affirm** | Analyst I, Full Stack | Remote US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7726627003) |
 | 🏢 **CACI** | Full Stack Developer (C#) | Ashburn, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Full-Stack-Developer--C--_324124) |
 | 🏢 **Salesforce** | SMTS/LMTS/PMTS Full Stack/Back End Software Engineer - Agentforce | California San Fr... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Engineer---Agentforce_JR329502) |
@@ -392,7 +392,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | Computer Infrastructure Engineer (BIW) Onsite | Bath, ME | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-ME-BATH-015-CUST--15-Vine-St--VINE-External-Site/Computer-Infrastructure-Engineer--BIW--Onsite_01843682-1) |
 | 🏢 **Jabil** | DevOps & Software Development Engineer | Austin, TX | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Devops-CI-CD-Engineer_J2435193-1) |
 | 🏢 **Geotab** | Site Reliability Engineering | Atlanta, Georgia ... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/geotab/jobs/5155972008) |
-| 🏢 **Alchemy** | Cloud Infrastructure Engineer | New York | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/alchemy/66e65a72-785c-4fa8-9833-4c1661146a68/application) |
+| 🏢 **Alchemy** | Cloud Infrastructure Engineer | New York | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/alchemy/66e65a72-785c-4fa8-9833-4c1661146a68/application) |
 | 🏢 **Figure AI** | AI Training Infrastructure Engineer – Humanoid Whole Body Control | San Jose, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
 | 🏢 **Zoom** | AI Infrastructure Engineer | Seattle | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Infrastructure-Engineer_R18263-1) |
 | 🏢 **Sumo Logic** | Site Reliability Engineer I | San Jose, Costa Rica | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sumologic/jobs/7819085) |
@@ -452,7 +452,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Ping Identity** | Product Security Engineer - Federal | Remote | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pingidentity/jobs/8458046002) |
 | 🏢 **Ping Identity** | Product Security Engineer - Federal | Austin, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pingidentity/jobs/8419761002) |
 | 🏢 **ByteDance** | Security Engineering Project - Watermark | San Jose, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7625759034518128901/detail) |
-| 🏢 **Ibotta** | Security Engineer | Denver, CO | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Denver-CO/Security-Engineer_R-102506) |
+| 🏢 **Ibotta** | Security Engineer | Denver, CO | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Denver-CO/Security-Engineer_R-102506) |
 | 🏢 **GitLab** | Software Security Engineer | Remote, Canada; R... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8516916002) |
 | 🏢 **Booz Allen Hamilton** | Forescout Cybersecurity Engineer | Reston, VA + 4 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Forescout-Cybersecurity-Engineer_R0240041) |
 | 🏢 **Leidos** | Vulnerability Management Engineer | 6314 Remote/Telew... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Vulnerability-Management-Engineer_R-00183253) |
@@ -475,7 +475,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Google** | Security Engineer | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104649942579978950) |
 | 🏢 **Google** | Security Engineer, National Security | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122934761894093510) |
 | 🏢 **Glean** | Cloud Security Engineer | US | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4694835005) |
-| 🏢 **Glean** | Application Security Engineer | US | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4694831005) |
+| 🏢 **Glean** | Application Security Engineer | US | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4694831005) |
 | 🏢 **SpaceX** | Information Security Analyst | Hawthorne, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8517412002?gh_jid=8517412002) |
 | 🏢 **Benchling** | Enterprise Security Engineer | Remote, US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/benchling/6f9e4f51-0980-4fe0-b9c2-aff05839e164/application) |
 | 🏢 **xAI** | Security Engineer - Azure Government | Palo Alto, CA; Wa... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5050657007) |
@@ -855,7 +855,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Google** | Partner Solutions Engineer, Machine Learning and Digitization Operations | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104934232907752134) |
 | 🏢 **Snowflake** | Associate Solution Engineer, Commercial | Atlanta, GA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/76278625-d0e3-4dcb-aa98-a675268100bc/application) |
 | 🏢 **Apple** | Software Engineer (Enablon), G&A Solutions Engineering (GSE) | Austin | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663195/software-engineer-enablon-g-a-solutions-engineering-gse) |
-| 🏢 **Intel** | SW Solutions Engineer | Oregon Hillsboro ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/SW-Solutions-Engineer_JR0283802-1) |
+| 🏢 **Intel** | SW Solutions Engineer | Oregon Hillsboro ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/SW-Solutions-Engineer_JR0283802-1) |
 | 🏢 **Google** | Product Solutions Engineer, Authentication and Security, gTech Ads | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98066248415224518) |
 | 🏢 **Snowflake** | Cloud Partner Solutions Engineer (AWS / Azure / Google Cloud) | Remote | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/c6737b02-5f22-489c-8565-659fd1e5051a/application) |
 | 🏢 **CrowdStrike** | Manager, Corporate Sales Engineering (Remote) | 2 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Manager--Corporate-Sales-Engineering--Remote-_R28798-1) |
@@ -1166,7 +1166,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3360 current opportunities from 401 companies**
+**🎯 3359 current opportunities from 401 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
