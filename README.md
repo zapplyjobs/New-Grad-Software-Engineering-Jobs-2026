@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-3367-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3365-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-401-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -349,9 +349,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northwood Space** | Infrastructure Engineer - Early Career | Torrance, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/d81a9f1e-002e-4c1a-8b09-8dbac575279c/application) |
 | 🏢 **Northwood Space** | Infrastructure Engineer | Torrance, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/00955a02-867b-42e2-ba35-3cc41020fc99/application) |
 | 🏢 **Glean** | Cloud Infrastructure Engineer | Mountain View, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4547218005) |
-| 🏢 **Vanguard** | MultiCloud Engineer | Charlotte, NC + 1... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/MultiCloud-Engineer_172902) |
-| 🏢 **Guidehouse** | Junior Cloud DevOps Engineer | VA Arlington + 1 ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Junior-Cloud-DevOps-Engineer_39338) |
-| 🏢 **D.E. Shaw** | DevOps Engineer | Chicago, Austin | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7913994) |
+| 🏢 **Vanguard** | MultiCloud Engineer | Charlotte, NC + 1... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/MultiCloud-Engineer_172902) |
+| 🏢 **Guidehouse** | Junior Cloud DevOps Engineer | VA Arlington + 1 ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Junior-Cloud-DevOps-Engineer_39338) |
+| 🏢 **D.E. Shaw** | DevOps Engineer | Chicago, Austin | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7913994) |
 | 🏢 **Apple** | Site Reliability Engineer, Enterprise Technology Services | Sunnyvale | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662016/site-reliability-engineer-enterprise-technology-services) |
 | 🏢 **Leidos** | Site Reliability Engineering (SRE) Automation and Orchestration Engineer | 6314 RemoteTelewo... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Site-Reliability-Engineering--SRE--Automation-and-Orchestration-Engineer_R-00183106) |
 | 🏢 **Booz Allen Hamilton** | Site Reliability Engineer | McLean, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Site-Reliability-Engineer_R0239116) |
@@ -766,7 +766,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SpaceX** | IT Windows Systems Engineer - Top Secret Clearance | Hawthorne, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8548907002?gh_jid=8548907002) |
 | 🏢 **SpaceX** | IT Systems Engineer - Top Secret Clearance | Hawthorne, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8548102002?gh_jid=8548102002) |
 | 🏢 **Motorola Solutions** | Systems Engineer | Elgin, IL, More... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Elgin-IL/Systems-Engineer_R60796-1) |
-| 🏢 **Applied Materials** | Systems Engineer IV | Santa Clara,CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-IV_R2619841) |
+| 🏢 **Applied Materials** | Systems Engineer IV | Santa Clara,CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-IV_R2619841) |
 | 🏢 **Leidos** | Windows Systems Administrator | Bethesda, MD | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Windows-Systems-Administrator_R-00183257) |
 | 🏢 **CrowdStrike** | IT Support Admin – Executive Briefing Center (EBC) | Sunnyvale, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/IT-Support-Admin---Executive-Briefing-Center--Remote-_R28812) |
 | 🏢 **Southwest Airlines** | Network Engineer | Dallas, TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Network-Engineer_R-2026-67595-1) |
@@ -1167,7 +1167,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3367 current opportunities from 401 companies**
+**🎯 3365 current opportunities from 401 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
