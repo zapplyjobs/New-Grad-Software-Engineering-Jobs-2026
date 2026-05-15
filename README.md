@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-3369-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3367-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-401-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -153,7 +153,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **OpenAI** | Frontend Engineer, ChatGPT Engineering | San Francisco | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/5bde9af5-df78-460e-ae9c-5c49ac778640/application) |
 | 🏢 **OpenAI** | Frontend Software Engineer, Codex App | San Francisco | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/5f6685ad-2fba-4e60-8982-fa142b33e194/application) |
 | 🏢 **EliseAI** | Web Developer | New York City | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/eliseai/0167da77-b597-4773-8cc0-52dbadacb0a9/application) |
-| 🏢 **Versapay** | Web Developer (Liquid) | United States (Re... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/versapay/1dd82ffb-b114-4356-9876-841cfc71a91b/apply) |
+| 🏢 **Versapay** | Web Developer (Liquid) | United States (Re... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/versapay/1dd82ffb-b114-4356-9876-841cfc71a91b/apply) |
 | 🏢 **Citi** | Angular Developer | Irving Texas Unit... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Applications-Development-Intermediate-Programmer-Analyst_26948091) |
 | 🏢 **Blueprint Technologies** | Full Stack Web Developer – C#.NET and Cloud Based | Redmond, WA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/bpcs/jobs/7913772) |
 | 🏢 **Intrinsic Robotics** | Frontend Robotics Engineer | Mountain View, Ca... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5982764004?gh_jid=5982764004) |
@@ -197,7 +197,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Google** | Software Engineer, Full Stack, gUP Engineering | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120479753218990790) |
 | 🏢 **Instabase** | Full-stack Software Engineer (New Grad) | San Francisco, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/instabase/jobs/8548929002) |
 | 🏢 **Affirm** | Analyst I, Full Stack | Remote US | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7726627003) |
-| 🏢 **CACI** | Full Stack Developer (C#) | Ashburn, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Full-Stack-Developer--C--_324124) |
+| 🏢 **CACI** | Full Stack Developer (C#) | Ashburn, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Full-Stack-Developer--C--_324124) |
 | 🏢 **Salesforce** | SMTS/LMTS/PMTS Full Stack/Back End Software Engineer - Agentforce | California San Fr... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Engineer---Agentforce_JR329502) |
 | 🏢 **BlackRock** | Full Stack Software Engineer - Atlanta | Atlanta, GA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Atlanta-GA/Technology-and-Development-Operations-UI-Developer---Atlanta_R260504) |
 | 🏢 **Captivation** | Software Engineer 2 - Full-Stack/Java/Angular/Python | Annapolis Junctio... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5196908008) |
@@ -300,7 +300,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Sony Interactive Entertainment** | Software Quality Engineer Contractor (SQE Contractor) | CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5993063004) |
 | 🏢 **Sony Interactive Entertainment** | Software Development Engineer in Test Contractor (SDET Contractor) | CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5993055004) |
 | 🏢 **Walmart** | Manager, Automation Engineering | Bentonville, AR | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Manager--Automation-Engineering_R-2377293) |
-| 🏢 **Zoox** | Validation Test Engineer, Test Set Curation | Foster City, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/62adaf80-43a9-4210-a908-7b714bfea84b/apply) |
+| 🏢 **Zoox** | Validation Test Engineer, Test Set Curation | Foster City, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/62adaf80-43a9-4210-a908-7b714bfea84b/apply) |
 | 🏢 **Zoom** | Enterprise Systems QA Engineer | San Jose | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Enterprise-Systems-QA-Engineer_R18853-2) |
 | 🏢 **SEL** | Power Systems Automation Engineer | Georgia Alpharett... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Georgia---Alpharetta/Senior-Automation-Engineer_2025-17812) |
 | 🏢 **SpaceX** | Automation Engineer, Blades and Vanes Foundry | Bastrop, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8502939002?gh_jid=8502939002) |
@@ -318,7 +318,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CFS Energy** | R&D Measurement & Automation Engineer | Devens, MA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/cfsenergy/0cd485ad-8d10-4cc5-96ef-cb234a7be06d/apply) |
 | 🏢 **Anduril** | Manager - Test Automation Engineering | Costa Mesa, Calif... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4791848007?gh_jid=4791848007) |
 | 🏢 **Sony Interactive Entertainment** | Software Development Engineer in Test - Contractor | CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5838100004) |
-| 🏢 **Box** | AI Business Automation Engineer | Redwood City, CA,... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7909448) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -809,7 +808,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Honeywell** | Systems Engineering – Recent Grad/Full Time | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113413) |
 | 🏢 **NVIDIA** | Data Center Engineering and Operations EHS Engineer | US, CA, Santa Clara | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Center-Engineering-and-Operations-EHS-Engineer_JR2017469) |
 | 🏢 **Apple** | AirPods Analog Systems Engineer, Power | Cupertino | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662760/airpods-analog-systems-engineer-power) |
-| 🏢 **Roblox** | Data Center Engineer | Ashburn, Virginia... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.roblox.com/jobs/7807930?gh_jid=7807930) |
+| 🏢 **Roblox** | Data Center Engineer | Ashburn, Virginia... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.roblox.com/jobs/7807930?gh_jid=7807930) |
 | 🏢 **Boston Dynamics** | Perception Systems Engineer | Waltham | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Principal-Systems-Engineer_R2063) |
 | 🏢 **Kitware** | Systems Administrator | Clifton Park, New... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/kitware/5206cfb4-c604-479e-86e7-72a8a0688193/apply) |
 | 🏢 **Collibra** | Learning Systems Engineer | Raleigh, North Ca... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=7793093) |
@@ -943,7 +942,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Morningstar** | Technical Program Manager, Marketing Operations | Chicago | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Technical-Program-Manager--Marketing-Operations_AP-22795933) |
 | 🏢 **Google** | Technical Program Manager, Fleet Resource Management | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122082491132453574) |
 | 🏢 **Cohere** | Technical Program Manager, Product Engineering | United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cohere/f00dbf81-17ff-4584-b015-67dfae1dc59c/application) |
-| 🏢 **Booz Allen Hamilton** | Scrum Master | McLean, VA + 1 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Scrum-Master_R0239947) |
+| 🏢 **Booz Allen Hamilton** | Scrum Master | McLean, VA + 1 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Scrum-Master_R0239947) |
 | 🏢 **Experian** | Technical Program Manager - Remote | United States, UN... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000126403370) |
 | 🏢 **Roku** | Technical Program Manager, Voice | San Jose, California | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.weareroku.com/jobs/7922814?gh_jid=7922814) |
 | 🏢 **Apple** | Technical Project Manager, Enterprise Technology Services | Sunnyvale | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663160/technical-project-manager-enterprise-technology-services) |
@@ -1168,7 +1167,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3369 current opportunities from 401 companies**
+**🎯 3367 current opportunities from 401 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
