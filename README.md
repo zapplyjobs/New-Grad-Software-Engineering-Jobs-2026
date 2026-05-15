@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-3359-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3357-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-401-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -474,7 +474,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Apple** | Software Security Engineer, Enterprise Technology Services | Austin | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661977/software-security-engineer-enterprise-technology-services) |
 | 🏢 **Google** | Security Engineer | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104649942579978950) |
 | 🏢 **Google** | Security Engineer, National Security | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122934761894093510) |
-| 🏢 **Glean** | Cloud Security Engineer | US | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4694835005) |
+| 🏢 **Glean** | Cloud Security Engineer | US | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4694835005) |
 | 🏢 **Glean** | Application Security Engineer | US | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4694831005) |
 | 🏢 **SpaceX** | Information Security Analyst | Hawthorne, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8517412002?gh_jid=8517412002) |
 | 🏢 **Benchling** | Enterprise Security Engineer | Remote, US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/benchling/6f9e4f51-0980-4fe0-b9c2-aff05839e164/application) |
@@ -497,7 +497,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Boeing** | Cybersecurity - Information System Security Manager (ISSM) | Herndon, VA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Cybersecurity---Information-System-Security-Manager--ISSM-_JR2026499917-1) |
 | 🏢 **Modal** | Infrastructure Security Engineer | New York | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/modal/8de60620-09bf-4905-910f-a290814a29ee/application) |
 | 🏢 **Persona** | Product Security Engineer | San Francisco | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/persona/bff2649a-6931-4aa6-a223-022230122671/application) |
-| 🏢 **SpaceX** | Security Analyst (Detection and Incident Response) | Hawthorne, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8525400002?gh_jid=8525400002) |
+| 🏢 **SpaceX** | Security Analyst (Detection and Incident Response) | Hawthorne, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8525400002?gh_jid=8525400002) |
 | 🏢 **Intuitive** | Information Security Project Manager | Sunnyvale, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000125946829) |
 | 🏢 **Boeing** | Experienced Product Security Engineer | Seattle, WA + 2 more | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Experienced-Product-Security-Engineer_JR2026509921-1) |
 | 🏢 **Boeing** | Experienced Product Security Engineer (Virtual) | Remote | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Experienced-Product-Security-Engineer--Virtual-_JR2026509762-1) |
@@ -721,7 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Muon Space** | Software Engineer, Flight Software | San Jose, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/muonspace/jobs/5023371007) |
 | 🏢 **CoreWeave** | Systems Engineer, Kernel | Livingston, NJ /... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://coreweave.com/careers/job?4599319006&board=coreweave&gh_jid=4599319006) |
 | 🏢 **Annapurna Labs (U.S.) Inc.** | Embedded Software Engineer, Annapurna ML Software | Austin, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10416608/embedded-software-engineer-annapurna-ml-software) |
-| 🏢 **Astranis** | Software Simulation Engineer - Flight Software | San Francisco | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4680136006) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -759,8 +758,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Aurora Innovation** | Vehicle Platform Systems Engineer | Dallas, Texas | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://aurora.tech/jobs/8508606002?gh_jid=8508606002) |
 | 🏢 **Apple** | Network Engineer, , Apple Cloud Network | Sacramento Metro ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662900/network-engineer-apple-cloud-network) |
 | 🏢 **Booz Allen Hamilton** | Anti-Tamper Systems Engineer | Arlington, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/FMS-Anti-Tamper-Systems-Engineer_R0238874) |
-| 🏢 **Boeing** | Optical Systems Engineer (Entry Level) - Millennium Space Systems | El Segundo, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Optical-Systems-Engineer--Entry-Level----Millennium-Space-Systems_JR2026510383-1) |
-| 🏢 **Anduril** | Energy Systems Engineer, Maritime | Costa Mesa, Calif... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5124623007?gh_jid=5124623007) |
+| 🏢 **Boeing** | Optical Systems Engineer (Entry Level) - Millennium Space Systems | El Segundo, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Optical-Systems-Engineer--Entry-Level----Millennium-Space-Systems_JR2026510383-1) |
+| 🏢 **Anduril** | Energy Systems Engineer, Maritime | Costa Mesa, Calif... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5124623007?gh_jid=5124623007) |
 | 🏢 **Salesforce** | Manager, Systems Engineering | Herndon | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Herndon/Manager--Systems-Engineering_JR341315) |
 | 🏢 **True Anomaly** | Accounting & Finance Systems Administrator | Denver, CO or Lon... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5136120007) |
 | 🏢 **SpaceX** | IT Windows Systems Engineer - Top Secret Clearance | Hawthorne, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8548907002?gh_jid=8548907002) |
@@ -1166,7 +1165,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3359 current opportunities from 401 companies**
+**🎯 3357 current opportunities from 401 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
