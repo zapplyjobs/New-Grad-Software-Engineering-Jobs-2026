@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-3242-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3241-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-401-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -201,7 +201,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Analytical Applications Full-Stack Developer | Albuquerque, NM | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/Analytical-Applications-Full-Stack-Developer_R0239973) |
 | 🏢 **Apptronik** | Full Stack Software Engineer - Fleet Connect | Austin, TX | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5978803004?gh_jid=5978803004) |
 | 🏢 **CACI** | Software Engineer – Full Stack | Annapolis Junctio... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Annapolis-Junction/Software-Engineer---Full-Stack_326004) |
-| 🏢 **Google** | Software Engineer, Full Stack, NotebookLM | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128931197664273094) |
+| 🏢 **Google** | Software Engineer, Full Stack, NotebookLM | United States | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128931197664273094) |
 | 🏢 **Benchling** | Software Engineer, Full Stack (Process Execution) | San Francisco, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/benchling/4cc84632-9ac2-473c-81ac-8a35cb77c62b/application) |
 | 🏢 **OpenAI** | Full Stack Software Engineer, Jobs Platform | San Francisco | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/bdd7d3ae-0921-45e5-8e8b-0846e9a402e1/application) |
 | 🏢 **OpenAI** | Full-Stack Engineer, ChatGPT Ecosystem (Apps Platform & SDK) | San Francisco | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/aace9373-65bd-452b-91d8-1abfe8a7a11e/application) |
@@ -565,7 +565,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KLA** | Software Engineer - AI/ML | Ann Arbor, MI | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Software-Engineer---AI-ML_2634351-1) |
 | 🏢 **Google** | Software Engineer AI/ML Networking | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97664839697998534) |
 | 🏢 **Mistral AI** | Research Engineer, Data Infrastructure | Palo Alto | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/mistral/37f53ee5-dd88-43e3-be6a-70e3db159c8f/apply) |
-| 🏢 **Google** | Research Engineer, Gemini Latent Thinking, DeepMind | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112315673224323782) |
+| 🏢 **Google** | Research Engineer, Gemini Latent Thinking, DeepMind | United States | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112315673224323782) |
 | 🏢 **Inflection AI** | Research Engineer, Voice | Palo Alto, Califo... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/inflectionai/jobs/4681124006?gh_jid=4681124006) |
 | 🏢 **Rocket Lawyer** | AI/ML Software Engineer | Arizona ; Colorad... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rocketlawyer/jobs/5070929008) |
 | 🏢 **OpenAI** | Research Engineer, 3D & Multi-View Geometry | San Francisco | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/d9e942a7-a84e-4fb2-8fea-b976a1abaa68/application) |
@@ -751,7 +751,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Neuralink** | Network and Systems Engineer | Fremont, Californ... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7720290003?gh_jid=7720290003) |
 | 🏢 **Apple** | Engineering Program Manager, Data Center Operations | Garland | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200636333/engineering-program-manager-data-center-operations) |
 | 🏢 **Aurora Innovation** | Vehicle Platform Systems Engineer | Dallas, Texas | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://aurora.tech/jobs/8508606002?gh_jid=8508606002) |
-| 🏢 **Apple** | Network Engineer, , Apple Cloud Network | Sacramento Metro ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662900/network-engineer-apple-cloud-network) |
+| 🏢 **Apple** | Network Engineer, , Apple Cloud Network | Sacramento Metro ... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662900/network-engineer-apple-cloud-network) |
 | 🏢 **Booz Allen Hamilton** | Anti-Tamper Systems Engineer | Arlington, VA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/FMS-Anti-Tamper-Systems-Engineer_R0238874) |
 | 🏢 **Boeing** | Optical Systems Engineer (Entry Level) - Millennium Space Systems | El Segundo, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Optical-Systems-Engineer--Entry-Level----Millennium-Space-Systems_JR2026510383-1) |
 | 🏢 **Anduril** | Energy Systems Engineer, Maritime | Costa Mesa, Calif... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5124623007?gh_jid=5124623007) |
@@ -1159,7 +1159,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3242 current opportunities from 401 companies**
+**🎯 3241 current opportunities from 401 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
