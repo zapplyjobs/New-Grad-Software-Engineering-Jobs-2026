@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-3241-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3240-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-401-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -1159,7 +1159,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3241 current opportunities from 401 companies**
+**🎯 3240 current opportunities from 401 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
