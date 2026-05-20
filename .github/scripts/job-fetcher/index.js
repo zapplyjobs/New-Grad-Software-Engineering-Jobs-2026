@@ -27,7 +27,7 @@ async function main() {
 
     // Fetch software engineering jobs from aggregator
     const consumer = createAggregatorConsumer({
-      filters: { domains: ['software'], employment: 'entry_level', locations: ['us'] },
+      filters: { domains: ['software'], locations: ['us'] },
       verbose: true
     });
 
