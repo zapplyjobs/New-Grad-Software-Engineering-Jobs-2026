@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2798-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-370-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2791-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-369-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -206,10 +206,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Machine Learning Engineer (Clearance ... | Chantilly, VA, US | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Chantilly-VA-US/Machine-Learning-Engineer--Clearance-Sponsorship-_325560) |
 | **CACI** | Testing Data Analyst | National Harbor, ... | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/National-Harbor-MD-US/Testing-Data-Analyst_326768-1) |
 | **CAE** | Data Engineer | Tampa + 1 more | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Data-Engineer_121684-1) |
-| **Vertex Pharmaceuticals** | Pharmacology Research Scientist, Ex Vivo | Boston, MA | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Pharmacology-Research-Scientist--Ex-Vivo_REQ-29064) |
-| **Vertex Pharmaceuticals** | Research Scientist, Pain Pharmacology | San Diego, CA | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Research-Scientist--Pain-Pharmacology_REQ-28910) |
-| **Vertex Pharmaceuticals** | Protein Sciences Research Scientist | Seattle, WA | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Seattle-WA/Protein-Sciences-Research-Scientist_REQ-28792) |
-| **Zayo** | Network Automation & AI Engineer Inte... | Denver, CO | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Network-Automation---AI-Engineer-Intern---WaaS_R0016176) |
+| **Vertex Pharmaceuticals** | Pharmacology Research Scientist, Ex Vivo | Boston, MA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Pharmacology-Research-Scientist--Ex-Vivo_REQ-29064) |
+| **Vertex Pharmaceuticals** | Research Scientist, Pain Pharmacology | San Diego, CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Research-Scientist--Pain-Pharmacology_REQ-28910) |
+| **Vertex Pharmaceuticals** | Protein Sciences Research Scientist | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Seattle-WA/Protein-Sciences-Research-Scientist_REQ-28792) |
+| **Zayo** | Network Automation & AI Engineer Inte... | Denver, CO | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Network-Automation---AI-Engineer-Intern---WaaS_R0016176) |
 | **Intel** | Path Tracing/ML Research Engineer | US, Oregon, Hills... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Path-Tracing-ML-Research-Engineer_JR0284039) |
 | **Carnegie Mellon University** | Machine Learning Engineer - Autonomy Lab | Pittsburgh, PA + ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Machine-Engineer---Autonomy-Lab_2024072) |
 | **Carnegie Mellon University** | Machine Learning Engineer - Secure AI... | Pittsburgh, PA + ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Machine-Learning-Engineer---Secure-AI-Lab_2024338-1) |
@@ -462,7 +462,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Jabil** | IT Systems Engineer | Hunt Valley, MD | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Hunt-Valley-MD/IT-Systems-Engineer_J2450142) |
 | **General Motors** | Thermal Systems Engineer | Warren, Michigan,... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Thermal-Systems-Engineer_JR-202609243) |
 | **CACI** | Satellite Systems Engineer | Aurora, CO, US | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Aurora-CO-US/Satellite-Systems-Engineer_314919-2) |
-| **Moog** | Intern, Systems Engineering | Salt Lake City, UT | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Intern--Systems-Engineering_R-26-16547) |
+| **Moog** | Intern, Systems Engineering | Salt Lake City, UT | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Intern--Systems-Engineering_R-26-16547) |
 | **IMC Trading** | Data Center Engineer | United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4869766101) |
 | **Oracle** | Data Center Technical Program Manager | United States | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/332899) |
 | **HPE** | Hardware Engineering Program Manager 2 | Sunnyvale, Califo... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Program-Manager-2_1206366-1) |
@@ -579,7 +579,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2798 current opportunities from 370 companies**
+**🎯 2791 current opportunities from 369 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
