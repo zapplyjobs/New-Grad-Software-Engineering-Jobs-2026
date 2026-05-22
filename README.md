@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2721-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2718-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-367-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -303,7 +303,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Trace3** | DevOps | United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
 | **Honeywell** | Information Systems Intern - IT - Cyb... | United States | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393) |
 | **Tesla** | Operational Automation Engineer Intern | Draper, UT | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150) |
-| **OpenAI** | Forward Deployed Security Engineer | Washington, DC | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41/application) |
+| **OpenAI** | Forward Deployed Security Engineer | Washington, DC | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41/application) |
 | **Philips** | Software Test Engineer | Cambridge (US), M... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Software-Development-Test-Engineer_573555-1) |
 | **Jabil** | Automation Engineer | St. Petersburg/Ta... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Automation-Engineer_J2448213) |
 | **Jabil** | Automation Engineer | St. Petersburg/Ta... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Automation-Engineer_J2448215) |
@@ -349,7 +349,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Brown & Brown Insurance** | QA Engineer | Plano, TX, USA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Senior-QA-Engineer_R25_0000004124-1) |
 | **Adobe** | Product Security Engineer | New York + 2 more | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Product-Security-Engineer_R168782) |
 | **Blue Origin** | Aerospace Software DevOps Engineer II | Greater Seattle Area | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Aerospace-Software-DevOps-Engineer-II_R64480) |
-| **Hermeus** | Subsystem Test Engineering Intern - F... | Atlanta, GA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e/apply) |
+| **Hermeus** | Subsystem Test Engineering Intern - F... | Atlanta, GA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e/apply) |
 | **Accenture Federal Services** | Cybersecurity Tools Administrator | Arlington, VA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4680761006?gh_jid=4680761006) |
 | **Salesforce** | SRE Systems Engineer | Virginia Washingt... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Washington-DC-Metro---Remote/SRE-Systems-Engineer_JR341343) |
 | **Philips** | Software Test Automation Engineer-C++... | Orange (OH), Ohio... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Software-Test-Automation-Engineer-C----C---Orange--OH-_582456) |
@@ -446,8 +446,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Blue Origin** | Mission Systems Engineer | Los Angeles, CA +... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Mission-Systems-Engineer_R64469) |
 | **Blue Origin** | Aerospace Systems Engineer III (Struc... | Space Coast, FL +... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Aerospace-Systems-Engineer-III--Structures---Mechanisms------Lunar-Permanence_R64583) |
 | **Blue Origin** | Aerospace Systems Engineer III (Top S... | Greater Seattle Area | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Aerospace-Systems-Engineer-III--Top-Secret-Clearance-Required-_R63004) |
-| **VAST** | Life Support Systems Engineer II | Long Beach, Calif... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4682799006?gh_jid=4682799006) |
-| **Johnson Controls** | Controls Systems Engineer | Virginia | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Rockville-Virginia-United-States-of-America/HVAC-Controls-Systems-Engineer_WD30269889) |
+| **VAST** | Life Support Systems Engineer II | Long Beach, Calif... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4682799006?gh_jid=4682799006) |
+| **Johnson Controls** | Controls Systems Engineer | Virginia | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Rockville-Virginia-United-States-of-America/HVAC-Controls-Systems-Engineer_WD30269889) |
 | **Philips** | Systems Engineer – Ultrasound (Cambri... | 2 Locations | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Systems-Engineer---Ultrasound--Cambridge--MA-_575000) |
 | **Accuray** | Electrical Engineer III | Madison, WI | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://accuray.wd5.myworkdayjobs.com/External/job/Madison-WI/Electrical-Engineer-III_3162) |
 | **Captivation** | Systems Engineer 2 (Travel Required) ... | Annapolis Junctio... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5225272008) |
@@ -577,7 +577,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2721 current opportunities from 367 companies**
+**🎯 2718 current opportunities from 367 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
