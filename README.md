@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-3020-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-388-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-3022-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-389-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -68,9 +68,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Software Engineer III, AI/ML Infrastr... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86513194410877638) |
-| **Google** | Software Engineer III | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135744170068189894) |
-| **Google** | Software Engineer, AI/ML, Creative In... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104998479176049350) |
+| **Google** | Technical Program Manager II, Softwar... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96485424498647750) |
+| **Google** | Technical Program Manager II, Softwar... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105097336438301382) |
+| **Google** | Technical Program Manager I, Software... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137277922216944326) |
+| **X Development** | PhD / Masters Residency Intern - Mach... | Mountain View, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://x.company/careers/8515901002?gh_jid=8515901002) |
+| **BillionToOne** | Product Management Intern - Software ... | Menlo Park, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4687612005) |
+| **Berkshire Hathaway Energy** | Software Engineer Intern | Des Moines, IA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004529) |
+| **ACI Worldwide** | Software Engineering Intern | Norcross, GA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19060) |
 | **General Dynamics Mission Systems** | Software Engineer – Intern | Fort Wayne, IN | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-gdms.icims.com/jobs/72240/job?mobile=true&needsRedirect=false) |
 | **Gelber Group** | Software Engineering Intern - Backoff... | Chicago, IL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gelbergroup/jobs/4657272006) |
 | **Gelber Group** | Software Engineer Intern - Technical ... | Chicago, IL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gelbergroup/jobs/4652887006) |
@@ -80,6 +84,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Dow Chemical Company** | Data Engineer / Data Platform Enginee... | Urbana, IL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Fall-2026-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2066692) |
 | **DiDi Global** | Software Engineer Intern - Simulation | San Jose, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/didi/jobs/7906174) |
 | **Harris Computer** | Software Developer Intern | United States | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Software-Developer---Intern_R0043779-1) |
+| **JP Morgan Chase** | Emerging Talent Software Engineer – C... | Chicago, IL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700938) |
+| **John Deere** | Part-Time Student - Software Engineer... | Ames, IA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://johndeere.eightfold.ai/careers/job/137478709942) |
 | **Apex Fintech Solutions** | Software Engineering Intern - Margins | Austin, TX | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern---Margins_JR104263) |
 | **Hunt Oil Company** | SAP BTP Application Developer Intern ... | Dallas, TX | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/886) |
 | **Woven** | Software Engineer Intern - ML Platform | Ann Arbor, MI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/b6bb0a14-829c-45d6-b64d-7ddaeb1851b3/apply) |
@@ -103,10 +109,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **APEX Analytix** | NET Application Developer Intern | Greensboro, NC | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ats.rippling.com/apexanalytix-careers/jobs/e4557482-8bb2-4c04-a074-41566107e6f1) |
 | **Tessera Labs** | Software Engineer Intern - Backend | San Jose, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/tessera-labs/dce8d8e5-f169-4bdb-b1c2-f4754fca31e7/application) |
 | **Fortinet** | Software Development Intern | Sunnyvale, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22609) |
-| **X Development** | PhD / Masters Residency Intern - Mach... | Mountain View, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://x.company/careers/8515901002?gh_jid=8515901002) |
-| **BillionToOne** | Product Management Intern - Software ... | Menlo Park, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4687612005) |
-| **Berkshire Hathaway Energy** | Software Engineer Intern | Des Moines, IA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004529) |
-| **ACI Worldwide** | Software Engineering Intern | Norcross, GA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19060) |
 | **Honeywell** | Software Engineer Intern - Computer S... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113405) |
 | **Axos Bank** | Software Development Intern | San Diego, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://axos.wd5.myworkdayjobs.com/en-US/axos/job/HQ---San-Diego-CA/Software-Development-Intern---Summer-2026_JR3503-1) |
 | **Innovative Defense Technologies** | Software Engineer Intern | Arlington, VA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.jobvite.com/careers/idtus/job/oiEfyfwt) |
@@ -132,15 +134,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apex Fintech Solutions** | Software Engineer Intern - Accounts | Austin, TX | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/SWE-Intern--Accounts-_JR103944) |
 | **LMI** | Software Engineer Intern - Usps - Sum... | Washington, DC | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-lmi.icims.com/jobs/13493/job?mobile=true&needsRedirect=false) |
 | **Crane Co.** | Software Engineer Intern | Burbank, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Software-Engineering-Intern_JR100860) |
-| **JP Morgan Chase** | Emerging Talent Software Engineer – C... | Chicago, IL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700938) |
-| **John Deere** | Part-Time Student - Software Engineer... | Ames, IA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://johndeere.eightfold.ai/careers/job/137478709942) |
-| **Varian** | Software Engineer - DevOps/.NET/Azure | Knoxville, TN | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1) |
-| **General Dynamics Mission Systems** | Junior Full Stack Engineer (Java/React) | Dedham, MA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-gdms.icims.com/jobs/71647/junior-full-stack-engineer-%28java-react%29/job) |
-| **Schweitzer Engineering Laboratories** | Associate Software Engineer | Moscow, ID | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-20434) |
-| **Peraton** | Junior Cyber Software Engineer - UI A... | San Diego, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-peraton.icims.com/jobs/165429/job?mobile=true&needsRedirect=false) |
 | **Berkshire Hathaway Energy** | Software Engineer 1 - Automation | Salt Lake City, UT | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004755) |
 | **Emerson Electric** | Associate Software Engineer | Grove City, PA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26003460) |
 | **General Dynamics Mission Systems** | Junior RUST Embedded Software Enginee... | Dedham, MA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-gdms.icims.com/jobs/71965/junior-rust-embedded-software-engineer-%28cleared%29/job) |
+| **General Dynamics Mission Systems** | Junior Software Engineer | Dedham, MA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-gdms.icims.com/jobs/71172/job?mobile=true&needsRedirect=false) |
 | **Parsons** | Junior Full Stack Developer | Hoffman Estates, IL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IL-Schaumburg/Junior-Full-Stack-Developer_R179262-2) |
 | **Apex Fintech Solutions** | Software Engineer 1 | Austin, TX | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I_JR104657) |
 | **Berkshire Hathaway Energy** | Software Engineer 1 Intern | Des Moines, IA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004645) |
@@ -157,17 +154,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Corning** | Engineer – Automation Software Develo... | Elmira, NY | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://corningjobs.corning.com/job/Corning-Engineer,-Automation-Software-Development-NY-14831/1391190600/?ats=successfactors) |
 | **Cox** | Entry Level Software Engineer | Draper, UT | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202677231) |
 | **Schweitzer Engineering Laboratories** | Associate Software Engineer | Moscow, ID | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-21244) |
-| **Veeva Systems** | Associate Software Engineer – Seeking... | Columbus, OH | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply) |
-| **Veeva Systems** | Associate Software Engineer – Seeking... | Pleasanton, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply) |
-| **Veeva Systems** | Associate Software Engineer – Seeking... | Raleigh, NC | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/e31a2a3c-a508-459c-9f77-a2692a95f233/apply) |
-| **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259) |
-| **EBSCO** | Cloud Platform Engineer I | Ipswich, MA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-ebscoind.icims.com/jobs/1873/cloud-platform-engineer-i/job) |
-| **Honeywell** | Software Engineer & Computer Science ... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113397) |
-| **Honeywell** | Software Engineer & Computer Science ... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113400) |
 | **CVS Health** | Associate Software Development Engineer | Richardson, TX | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1) |
 | **Charles Schwab** | Associate Software Engineer | Lone Tree, CO | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://career-schwab.icims.com/jobs/117784/associate-software-engineer/job) |
 | **Qualcomm** | Software Engineer - Software Engineering | San Diego, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://qualcomm.eightfold.ai/careers/job/446715747052) |
 | **Qualcomm** | GPU Kernel Development Engineer - Mul... | San Diego, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://qualcomm.eightfold.ai/careers/job/446715939731) |
+| **Westinghouse Electric Company** | IT Software Engineer Analyst | Palm Beach Garden... | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.westinghousenuclear.com/job/Norwell-IT-Software-Engineer-Analyst-MA-02061/1359224300/?ats=successfactors) |
+| **Honeywell** | Software Engineer 1 | Phoenix, AZ | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/137126) |
+| **Honeywell** | Software Engineer 1 | Clearwater, FL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139984) |
+| **Northwestern Mutual** | Software Engineer | Greendale, WI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NorthwesternMutual/743999658679125) |
+| **Peraton** | Cloud Software Engineer 1 | Odenton, MD | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false) |
+| **Veeva Systems** | Associate Software Engineer | Kansas City, MO | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/93aa70b0-3f70-449a-ab56-ffa7df61a488/apply) |
+| **Citadel Securities** | Software Engineer – University Gradua... | Miami, FL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) |
+| **Varian** | Software Engineer - DevOps/.NET/Azure | Knoxville, TN | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1) |
+| **Schweitzer Engineering Laboratories** | Associate Software Engineer | Moscow, ID | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-20434) |
+| **Veeva Systems** | Associate Software Engineer – Seeking... | Columbus, OH | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -179,16 +179,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Google** | Research Engineer, Frontier Safety Lo... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/85955084885598918) |
+| **Google** | Machine Learning Engineer, XLS, Compiler | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142249195464467142) |
 | **Google** | Research Engineer, Security and Priva... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/90906328553136838) |
-| **Google** | Research Engineer, Gemmaverse Variant... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86310936884716230) |
-| **Google** | Partner Solutions Engineer, Machine L... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104934232907752134) |
 | **Marmon Holdings** | Data Engineering Intern Co-op | Milwaukee, WI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) |
+| **APEX Analytix** | Data Engineering Intern | Greensboro, NC | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ats.rippling.com/apexanalytix-careers/jobs/6ee082e7-a22e-4cf9-b80b-38f38db7f555) |
 | **Global Partners** | Data Engineering Intern | Waltham, MA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Data-Engineering-Intern_R0030316) |
 | **Marmon Holdings** | Data Engineering Intern/Co-op | Milwaukee, WI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) |
 | **Citadel Securities** | Quantitative Research Engineer – PhD ... | Miami, FL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/) |
 | **Pennsylvania State University** | Research Engineering Interns Intern | State College, PA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000071407-1) |
 | **Honeywell** | Information Systems Intern - IT - Cyb... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113395) |
-| **APEX Analytix** | Data Engineering Intern | Greensboro, NC | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ats.rippling.com/apexanalytix-careers/jobs/6ee082e7-a22e-4cf9-b80b-38f38db7f555) |
 | **Citadel Securities** | Quantitative Research Engineer | Miami, FL | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/) |
 | **Booz Allen Hamilton** | Applied Data Scientist | Arlington, VA | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Applied-Data-Scientist_R0239173) |
 | **Booz Allen Hamilton** | Data Engineer | Fayetteville, NC | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Engineer_R0239251) |
@@ -241,13 +241,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Engineering Lab Manager, Platforms In... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99464680103125702) |
-| **Google** | Security Engineer | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104649942579978950) |
-| **Google** | Security Engineer, Cloud Threat and A... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107262608767099590) |
-| **Trace3** | DevOps | United States | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
+| **Google** | Security Engineer III, Security Response | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/81786096496583366) |
+| **Google** | Security Engineer, National Security | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122934761894093510) |
+| **Google** | Security Engineer II, Uppercase Research | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/75870343834542790) |
+| **Trace3** | DevOps | United States | 11m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
 | **Honeywell** | Information Systems Intern - IT - Cyb... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393) |
 | **Tesla** | Operational Automation Engineer Intern | Draper, UT | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150) |
-| **Intel** | Load Balancer Network Engineer | California Santa ... | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Load-Balancer-Network-Engineer_JR0284296) |
+| **Intel** | Load Balancer Network Engineer | California Santa ... | 56m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Load-Balancer-Network-Engineer_JR0284296) |
 | **BlackRock** | Associate, DevOps Engineer | Wilmington, DE | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Wilmington-DE/Associate--DevOps-Engineer_R264018) |
 | **Johnson Controls** | Automation Engineer | Pennsylvania | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Automation-Engineer_EB00075294) |
 | **GDIT** | Azure Cloud Engineer | USA MD Fort Meade | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Fort-Meade/Azure-Cloud-Engineer_RQ220522-2) |
@@ -352,17 +352,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Google** | Technical Program Manager II, Hardwar... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131244105198904006) |
 | **Google** | Technical Program Manager III, System... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95380335855837894) |
 | **Google** | Civil and Structural Data Center Engi... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92899975062528710) |
-| **Google** | Data Center Engineer Mechanical Engineer | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92059707660739270) |
 | **Bio-Techne** | Hardware Engineering Intern | San Jose, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533) |
 | **Onto Innovation** | Optical Systems Engineer Intern | Milpitas, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Optical-Systems-Engineer-Internship_R-5704) |
 | **Honeywell** | Systems Engineering – Summer 2026 Int... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113500) |
 | **Crane Co.** | Hardware Engineering Intern | Burbank, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Hardware-Engineering-Intern_JR100859) |
-| **University of Texas at Austin** | Linux Systems Engineering Scientist A... | Austin, TX | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Linux-Systems-Engineering-Scientist-Associate_R_00044919) |
-| **Schweitzer Engineering Laboratories** | Embedded Systems Engineer | Moscow, ID | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/FPGA-Design-Engineer_2025-18317) |
 | **Honeywell** | Systems Engineering | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113416) |
 | **Honeywell** | Systems Engineering – Recent Grad/Ful... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113413) |
+| **University of Texas at Austin** | Linux Systems Engineering Scientist A... | Austin, TX | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Linux-Systems-Engineering-Scientist-Associate_R_00044919) |
+| **Schweitzer Engineering Laboratories** | Embedded Systems Engineer | Moscow, ID | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/FPGA-Design-Engineer_2025-18317) |
 | **RTX** | 2026-Fulltime- Systems Engineer I – O... | 2 Locations | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/XMLNAME-2026-Fulltime--Systems-Engineer-I---Onsite-McKinney--Texas_01822465) |
 | **RTX** | Systems Engineer III - Ridgecrest | Ridgecrest, CA | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-RIDGECREST-815--815-Downs-St--DOWNS-Ste-A/Systems-Engineer-III---Ridgecrest_01847432) |
 | **RTX** | Systems Engineer III - Eglin AFB | Eglin, FL | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-EGLIN-AFB-CUST--601-W-Choctawhatchee-Ave--EGLIN-AFB-Building-60Ste-38-External-Site/Systems-Engineer-III---Eglin-AFB_01847423) |
@@ -463,10 +463,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Google** | Technical Program Manager III, Softwa... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/124330445876667078) |
+| **Google** | Technical Program Manager II, Enterpr... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91408662559367878) |
 | **Google** | Technical Program Manager III, Gemini... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140308835540574918) |
-| **Google** | Technical Program Manager III, ML Inf... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/85732181451645638) |
-| **Google** | Technical Program Manager II, Privacy... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86248342031344326) |
-| **CVS Health** | Manager - Scrum Master | Texas | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Texas/Manager---Scrum-Master_R0916455-1) |
+| **CVS Health** | Manager - Scrum Master | Texas | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Texas/Manager---Scrum-Master_R0916455-1) |
 | **Zoom** | Upmarket Solutions Engineer | 2 Locations | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--SC/Solutions-Engineer_R18870-1) |
 | **Zoom** | Contact Center Consulting Solutions E... | 2 Locations | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--AZ/Contact-Center-Consulting-Solutions-Engineer_R18583-1) |
 | **Blue Origin** | HR Technology Product Manager | Huntsville, AL + ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/HR-Technology-Product-Manager_R65260) |
@@ -566,7 +566,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3020 current opportunities from 388 companies**
+**🎯 3022 current opportunities from 389 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
