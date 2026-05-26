@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2487-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-361-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2484-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-360-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -97,10 +97,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Disney** | Software Engineer II | Seattle, WA, USA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineer-II_10146106) |
 | **Cigna** | Software Engineering Advisor- Hybrid | Morris Plains, NJ | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Advisor--Hybrid_26006516) |
 | **Caterpillar** | Embedded Cybersecurity Software Engineer | Mossville, Illinois | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Cybersecurity-Software-Engineer_R0000336422) |
-| **Cisco** | Software Engineer | RTP, North Caroli... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2010769) |
+| **Cisco** | Software Engineer | RTP, North Caroli... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2010769) |
 | **Capital One** | Manager, Security Platform Engineerin... | McLean, VA + 3 more | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Security-Platform-Engineering--DLP-Control-Platform_R243193-1) |
-| **Boeing** | Associate and Experienced Software En... | Oklahoma City, OK | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026509074-1) |
-| **Boeing** | Full-Stack Software Engineer (Associa... | Chantilly, VA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Associate---Experienced-_JR2026511246-1) |
+| **Boeing** | Associate and Experienced Software En... | Oklahoma City, OK | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026509074-1) |
+| **Boeing** | Full-Stack Software Engineer (Associa... | Chantilly, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Associate---Experienced-_JR2026511246-1) |
 | **Booz Allen Hamilton** | Software Engineer, Mid | McLean, VA + 1 more | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Engineer--Mid_R0240264) |
 | **Booz Allen Hamilton** | Software Engineer, Mid | McLean, VA + 1 more | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Engineer--Mid_R0240263) |
 | **CACI** | Full Stack Developer | Fort Bragg, NC, US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Fort-Bragg-NC-US/Full-Stack-Developer_326969) |
@@ -246,10 +246,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cisco** | Information Security Engineer | RTP, North Caroli... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Information-Security-Engineer_2012059) |
 | **Cisco** | Security Engineer | RTP, North Caroli... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer_2012057-1) |
 | **Boeing** | Advanced Information Technologist – A... | Hazelwood, MO | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Associate-Cloud-Engineer_JR2026494282) |
-| **Boeing** | Advanced Information Technologist – M... | Hazelwood, MO | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Mid-Level-Cloud-Engineer_JR2026511876) |
+| **Boeing** | Advanced Information Technologist – M... | Hazelwood, MO | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Mid-Level-Cloud-Engineer_JR2026511876) |
 | **Booz Allen Hamilton** | Application Security Engineer | Fort Meade, MD + ... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Application-Security-Engineer_R0240449) |
-| **Booz Allen Hamilton** | Information Security Risk Specialist | Albuquerque, NM +... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/Information-Security-Risk-Specialist_R0240861) |
-| **Booz Allen Hamilton** | System Administrator | Panama City, FL | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Panama-City-FL/System-Administrator_R0240889) |
+| **Booz Allen Hamilton** | Information Security Risk Specialist | Albuquerque, NM +... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/Information-Security-Risk-Specialist_R0240861) |
+| **Booz Allen Hamilton** | System Administrator | Panama City, FL | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Panama-City-FL/System-Administrator_R0240889) |
 | **CACI** | Software Test Engineer | Reston, VA, US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Reston-VA-US/Software-Test-Engineer_326787) |
 | **CACI** | Cybersecurity Implementation Engineer | Springfield, VA, US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Springfield-VA-US/Cybersecurity-Implementation-Engineer_323515) |
 | **CACI** | Information Systems Security Engineer | King of Prussia P... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Information-Systems-Security-Engineer_325952) |
@@ -264,7 +264,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **D.E. Shaw** | Client Platforms Security Engineer | Chicago | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7957926) |
 | **Accenture Federal Services** | Site Reliability Engineer | Arlington, VA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4683281006?gh_jid=4683281006) |
 | **Accenture Federal Services** | Enterprise AI Security Engineer (ISSE) | Arlington, VA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4683272006?gh_jid=4683272006) |
-| **Faire** | IT Operations Automation Engineer | San Francisco, CA | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8564497002?gh_jid=8564497002) |
+| **Faire** | IT Operations Automation Engineer | San Francisco, CA | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8564497002?gh_jid=8564497002) |
 | **Freedom Technology Solutions Group** | Cloud Engineer | Chantilly, VA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5146265007) |
 | **Google** | Cloud Infrastructure Engineer, HPC, T... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/134733376358621894) |
 | **Google** | Engineering Lab Manager, Platforms In... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99464680103125702) |
@@ -352,7 +352,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Draper** | Integration and Test Systems Engineer | Cambridge, MA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integration-and-Test-Systems-Engineer_JR001984) |
 | **Carrier Global** | Systems Engineer | CAN03: Carrier-Ch... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN03-Carrier-Charlotte-9701-Old-Statesville-Road-Charlotte-NC-28269-USA/Systems-Engineer_30206513) |
 | **Caterpillar** | Control Systems Engineer - EH Brakes | Mossville, Illinois | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Control-Systems-Engineer---EH-Brakes_R0000351141) |
-| **Cisco** | Network Systems Engineer I (Full Time... | RTP, North Caroli... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Network-Systems-Engineer-I--Full-Time----United-States_2015726) |
+| **Cisco** | Network Systems Engineer I (Full Time... | RTP, North Caroli... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Network-Systems-Engineer-I--Full-Time----United-States_2015726) |
 | **Booz Allen Hamilton** | Advanced Aircraft Systems Engineer | Arlington, VA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Advanced-Aircraft-Systems-Engineer_R0240814) |
 | **Booz Allen Hamilton** | Systems Engineer & Management Analyst | San Diego, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Systems-Engineer---Management-Analyst_R0240841) |
 | **Blue Origin** | Systems Engineer – Laser Communicatio... | Greater Seattle Area | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/SENIOR-PRINCIPAL-ENGINEER---OPTICAL-SYSTEMS-ARCHITECTURE---TeraWave_R62379) |
@@ -378,7 +378,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leidos** | Junior Reliability and Systems Engineer | Huntsville, AL | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Reliability-and-Systems-Engineer_R-00183959) |
 | **Aerospace Corporation** | Enterprise Systems Engineer – Space-B... | El Segundo, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Enterprise-Systems-Engineer---Space-Based-Sensing---Targeting-Integration_R015411-1) |
 | **Varda Space** | IT Support Technician | El Segundo, Calif... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7747305003) |
-| **PlusAI** | Systems Engineering Intern | Santa Clara, CA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/bbdaa94b-6c29-4b1b-b810-05cda3c08d03/apply) |
+| **PlusAI** | Systems Engineering Intern | Santa Clara, CA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/bbdaa94b-6c29-4b1b-b810-05cda3c08d03/apply) |
 | **Northrop Grumman** | Manager Systems Engineering 3 | 3 Locations | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Manager-Systems-Engineering-3_R10233662) |
 | **KBR** | Systems Engineer (SETA) Mid - Level | Chantilly, Virginia | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--SETA--Mid---Level_R2124110) |
 | **General Motors** | Vehicle Systems Engineer - Chassis, T... | Warren, Michigan,... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Systems-Engineer---Chassis--Thermal-and-Propulsion-Integration--CTPI-_JR-202607697-1) |
@@ -427,7 +427,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **FLIR Systems** | Systems Engineer | Huntsville, AL | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL-Arsenal/Systems-Engineer_REQ34718) |
 | **NBCUniversal** | Broadcast Systems Engineer, NBC Boston | Needham, Massachu... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000127312899) |
 | **Anduril** | Systems Engineer, Battlespace | Broomfield, Color... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5142407007?gh_jid=5142407007) |
-| **Sony Interactive Entertainment** | Systems Engineer I | WA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6000422004) |
 | **Moog** | Intern, Systems Engineering | Salt Lake City, UT | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Intern--Systems-Engineering_R-26-16547) |
 | **CAE** | Systems Engineering Co-op (Summer) | Tampa | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Systems-Engineering-Co-op--Summer-_121982) |
 | **Moog** | Intern, Systems Engineering | Buffalo, NY | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Systems-Engineering_R-26-16992) |
@@ -437,6 +436,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intel** | Pre Silicon Engineering Intern | Costa Rica, San Jose | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Pre-SIlicon-Engineering--Intern_JR0280563) |
 | **KLA** | Software Intern (IOT) | Milpitas, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern--IOT-_2532211-1) |
 | **Autodesk** | Intern, Model Based Systems Engineering | United States | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---Michigan---Novi/Intern--Model-Based-Systems-Engineering_26WD94900) |
+| **Bosch Group** | Requirements Engineering Intern – Dat... | Sunnyvale, CA | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000118244288) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -450,7 +450,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Northrop Grumman** | Scrum Master Level 3 or 4 | Colorado | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Scrum-Master-Level-3-or-4_R10233781) |
 | **ICF** | Scrum Master (Top Secret cleared) | Washington, DC | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Washington-DC/Scrum-Master--Top-Secret-cleared-_R2601802) |
-| **Booz Allen Hamilton** | Scrum Master | McLean, VA + 2 more | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Scrum-Master_R0240878) |
+| **Booz Allen Hamilton** | Scrum Master | McLean, VA + 2 more | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Scrum-Master_R0240878) |
 | **Boston Dynamics** | Manager, Technical Program Manager | Waltham | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Technical-Program-Manager_R2457) |
 | **Google** | Technical Program Manager II, Enterpr... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91408662559367878) |
 | **Google** | Technical Program Manager III, Gemini... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140308835540574918) |
@@ -462,7 +462,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Manager - Scrum Master | Texas | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Texas/Manager---Scrum-Master_R0916455-1) |
 | **Brown & Brown Insurance** | Scrum Master | Daytona Beach, FL... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Scrum-Master_R26_0000001898) |
 | **Ramp** | Technical Program Manager | New York, NY ( | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/ramp/1db75064-e38c-4b21-8310-21471943d0be/application) |
-| **EnergyHub** | Solutions Engineering intern | United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/energyhub/jobs/8560473002) |
+| **EnergyHub** | Solutions Engineering intern | United States | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/energyhub/jobs/8560473002) |
 | **Salesforce** | Technical Program Manager, Enterprise... | Indiana Indianapo... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Technical-Program-Manager--Enterprise-Technology_JR340894) |
 | **Marvell** | Technical Program Manager - Central C... | Santa Clara, CA | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Technical-Program-Manager---Central-CAD---Design-Services_2600255) |
 | **ICF** | Scrum Master (Top Secret cleared) | Washington, DC | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Washington-DC/Scrum-Master--Top-Secret-cleared-_R2600994) |
@@ -541,7 +541,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2487 current opportunities from 361 companies**
+**🎯 2484 current opportunities from 360 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
