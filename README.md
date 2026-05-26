@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2527-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-356-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2522-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-355-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -197,7 +197,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Machine Learning Engineer — Generativ... | Cupertino | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200662933/machine-learning-engineer-generative-models-productivity-apps) |
 | **Johnson & Johnson** | Data Scientist- Clinical Decision Sup... | Danvers, Massachu... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Data-Scientist--Clinical-Decision-Support--LLMs_R-077082-1) |
 | **Jabil** | data scientist | St. Petersburg/Ta... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/data-scientist_J2447396) |
-| **Autodesk** | Data Engineer | California + 3 more | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Data-Engineer_26WD97843-1) |
+| **Autodesk** | Data Engineer | California + 3 more | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Data-Engineer_26WD97843-1) |
 | **Booz Allen Hamilton** | Azure Data Engineer | McLean, VA + 1 more | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Azure-Data-Engineer_R0240295) |
 | **Apple** | On-Device ML Integration Engineer, Gr... | Cupertino | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200642883/on-device-ml-integration-engineer-graphics-games-and-machine-learning) |
 | **Microsoft** | Multidisciplinary Manager, Industry S... | United States | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556652525) |
@@ -240,10 +240,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cisco** | Security Engineer | RTP, North Caroli... | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer_2012057-1) |
 | **Trace3** | DevOps | United States | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
 | **Tesla** | Operational Automation Engineer Intern | Draper, UT | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150) |
-| **Blackstone** | 2024 Blackstone Technology and Innova... | Miami | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Miami/XMLNAME-2024-Blackstone-Technology-and-Innovations---Cybersecurity-Operations-Analyst_29111) |
-| **Zoom** | AI Infrastructure Engineer | Seattle | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Infrastructure-Engineer_R18263-1) |
-| **Zoom** | Enterprise Systems QA Engineer | San Jose | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Enterprise-Systems-QA-Engineer_R18853-2) |
-| **Zoom** | SRE - Linux Administration | San Jose | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18412) |
+| **Blackstone** | 2024 Blackstone Technology and Innova... | Miami | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Miami/XMLNAME-2024-Blackstone-Technology-and-Innovations---Cybersecurity-Operations-Analyst_29111) |
+| **Zoom** | AI Infrastructure Engineer | Seattle | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Infrastructure-Engineer_R18263-1) |
+| **Zoom** | Enterprise Systems QA Engineer | San Jose | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Enterprise-Systems-QA-Engineer_R18853-2) |
+| **Zoom** | SRE - Linux Administration | San Jose | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18412) |
 | **Intel** | Load Balancer Network Engineer | California Santa ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Load-Balancer-Network-Engineer_JR0284296) |
 | **Vanguard** | MultiCloud Engineer, Google Cloud | Wayne, PA + 1 more | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/MultiCloud-Engineer--Google-Cloud_177983) |
 | **GDIT** | Azure Cloud Engineer | USA MD Fort Meade | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Fort-Meade/Azure-Cloud-Engineer_RQ220522-2) |
@@ -354,9 +354,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Schweitzer Engineering Laboratories** | Embedded Systems Engineer | Moscow, ID | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/FPGA-Design-Engineer_2025-18317) |
 | **GlobalFoundries** | Systems Engineer - Networking | Texas Richardson ... | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineer---Networking_JR-2601903) |
 | **GlobalFoundries** | Software Systems Engineer | Texas Richardson ... | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Software-Systems-Engineer_JR-2601938) |
-| **GDIT** | Full-Time IT Support Specialist - Bos... | USA LA Bossier City | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/Full-Time-IT-Support-Specialist---Bossier-City_RQ220641-1) |
-| **GDIT** | Full-Time IT Support Specialist - El ... | USA TX El Paso | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-El-Paso/Full-Time-IT-Support-Specialist---El-Paso_RQ220639) |
-| **GDIT** | Full-Time IT Support Specialist - Nat... | USA LA Natchitoches | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Natchitoches/Full-Time-IT-Support-Specialist---Natchitoches_RQ220643) |
+| **GDIT** | Full-Time IT Support Specialist - Bos... | USA LA Bossier City | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/Full-Time-IT-Support-Specialist---Bossier-City_RQ220641-1) |
+| **GDIT** | Full-Time IT Support Specialist - El ... | USA TX El Paso | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-El-Paso/Full-Time-IT-Support-Specialist---El-Paso_RQ220639) |
+| **GDIT** | Full-Time IT Support Specialist - Nat... | USA LA Natchitoches | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Natchitoches/Full-Time-IT-Support-Specialist---Natchitoches_RQ220643) |
 | **Leidos** | Junior Reliability and Systems Engineer | Huntsville, AL | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Reliability-and-Systems-Engineer_R-00183959) |
 | **Leidos** | Junior Reliability and Systems Engineer | Huntsville, AL | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Reliability-and-Systems-Engineer_R-00183958) |
 | **Leidos** | IT Support Technician | Washington, DC | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/IT-Support-Technician_R-00183874-1) |
@@ -457,8 +457,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Technical Program Manager III, ML Inf... | United States | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/85732181451645638) |
 | **HPE (University)** | Engineering Technical Program Manager | 3 Locations | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Technical-Program-Manager_1206118) |
 | **HPE** | Engineering Technical Program Manager | 3 Locations | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Engineering-Technical-Program-Manager_1206118-2) |
-| **Zoom** | Upmarket Solutions Engineer | 2 Locations | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--SC/Solutions-Engineer_R18870-1) |
-| **Zoom** | Contact Center Consulting Solutions E... | 2 Locations | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--AZ/Contact-Center-Consulting-Solutions-Engineer_R18583-1) |
+| **Zoom** | Upmarket Solutions Engineer | 2 Locations | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--SC/Solutions-Engineer_R18870-1) |
+| **Zoom** | Contact Center Consulting Solutions E... | 2 Locations | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--AZ/Contact-Center-Consulting-Solutions-Engineer_R18583-1) |
 | **CVS Health** | Manager - Scrum Master | Texas | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Texas/Manager---Scrum-Master_R0916455-1) |
 | **Boston Dynamics** | Manager, Technical Program Manager | Waltham | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Technical-Program-Manager_R2457) |
 | **Brown & Brown Insurance** | Scrum Master | Daytona Beach, FL... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Scrum-Master_R26_0000001898) |
@@ -484,7 +484,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | Systems Integrator / Business Analyst... | USA MD Bethesda | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Bethesda/Systems-Integrator---Business-Analyst---Scrum-Master---TS-SCI-w-Polygraph_RQ220492) |
 | **Kodiak Robotics** | Hardware Technical Program Manager | Mountain View, CA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/kodiak/jobs/4254544009) |
 | **Notion** | Product Manager, AI Governance and Ad... | New York, New York | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/notion/2dd301f6-42da-40a2-a064-0f6fcfbdca77/application) |
-| **EliseAI** | Associate Solutions Engineer   Housing | New York City | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eliseai/5b6f3775-3e79-4269-a255-47ee3057265d/application) |
+| **EliseAI** | Associate Solutions Engineer   Housing | New York City | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eliseai/5b6f3775-3e79-4269-a255-47ee3057265d/application) |
 | **Etsy** | Program Coordinator, Workforce Planning | Brooklyn, New York | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Program-Coordinator--Workforce-Planning_JR5622-1) |
 | **KLA** | Technical Program Manager – Engineeri... | Ann Arbor, MI + 1... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Technical-Program-Manager---Engineering-Digital-Transformation_2635402-1) |
 | **OpenAI** | Technical Program Manager, Core Netwo... | San Francisco | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/6d642115-b495-4119-818d-cdef2003ae93/application) |
@@ -549,7 +549,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2527 current opportunities from 356 companies**
+**🎯 2522 current opportunities from 355 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
