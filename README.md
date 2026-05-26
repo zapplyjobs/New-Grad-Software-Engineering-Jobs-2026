@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-2574-brightgreen?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-2566-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-362-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -199,7 +199,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Jabil** | data scientist | St. Petersburg/Ta... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/data-scientist_J2447396) |
 | **Autodesk** | Data Engineer | California + 3 more | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Data-Engineer_26WD97843-1) |
 | **Booz Allen Hamilton** | Azure Data Engineer | McLean, VA + 1 more | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Azure-Data-Engineer_R0240295) |
-| **Apple** | On-Device ML Integration Engineer, Gr... | Cupertino | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200642883/on-device-ml-integration-engineer-graphics-games-and-machine-learning) |
+| **Apple** | On-Device ML Integration Engineer, Gr... | Cupertino | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200642883/on-device-ml-integration-engineer-graphics-games-and-machine-learning) |
 | **Microsoft** | Multidisciplinary Manager, Industry S... | United States | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556652525) |
 | **Graphcore** | Research Scientist (Visual Generative... | Cambridge, UK | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8559604002) |
 | **Apex Fintech Solutions** | Data Analyst | Chicago, IL | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Chicago-IL/Data-Analyst_JR104794) |
@@ -315,7 +315,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Jabil** | Automation Engineer | St. Petersburg/Ta... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Automation-Engineer_J2448213) |
 | **Jabil** | Automation Engineer | St. Petersburg/Ta... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Automation-Engineer_J2448215) |
 | **Riot Games** | Network Engineer III, Enterprise IT | Mercer Island, USA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.riotgames.com/en/work-with-us/job/7922798?gh_jid=7922798) |
-| **Pure Storage** | DC Devops Engineer | Dallas, Texas | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7944064) |
+| **Pure Storage** | DC Devops Engineer | Dallas, Texas | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7944064) |
 | **nCino** | Manager - Business Information Securi... | Wilmington, NC | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ncino.wd5.myworkdayjobs.com/ncinoCareers/job/Wilmington-NC/Manager---Business-Information-Security-Office_R6235) |
 | **RTX** | Cyber Security Engineer (Onsite) | Largo, FL | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Cyber-Security-Engineer--Onsite-_01846879) |
 | **Motorola Solutions** | Cybersecurity Analyst (FedRAMP) | Illinois Remote W... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Analyst--FedRAMP-_R62686) |
@@ -399,8 +399,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Apple Business Systems Engineer Manager | Austin | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200646658/apple-business-systems-engineer-manager) |
 | **Rocket Lab** | RF Systems Engineer I/II - TS/SCI Pip... | Long Beach, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7746572003) |
 | **HP Inc** | 3LS Quality Systems Engineer | Spring, Texas, Un... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/XMLNAME-3LS-Quality-Systems-Engineer_3160550) |
-| **Intel** | OS Kernel Engineer | Oregon Hillsboro ... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/OS-Kernel-Engineer_JR0281962) |
-| **Pure Storage** | Associate Systems Engineer | Chicago, Illinois... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7931226) |
+| **Intel** | OS Kernel Engineer | Oregon Hillsboro ... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/OS-Kernel-Engineer_JR0281962) |
+| **Pure Storage** | Associate Systems Engineer | Chicago, Illinois... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7931226) |
 | **Rocket Lab** | Systems Engineering Intern Fall 2026 | Long Beach, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7725384003) |
 | **AMD** | Data Center Systems Engineer | Austin, TX, Unite... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/86260/login) |
 | **Caterpillar** | Control Systems Engineer | Peoria, Illinois | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/Control-Systems-Engineer_R0000371053) |
@@ -551,7 +551,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2574 current opportunities from 362 companies**
+**🎯 2566 current opportunities from 362 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
