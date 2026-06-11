@@ -16,7 +16,7 @@
     ]
   },
   "frontend": {
-    "title": "Frontend",
+    "title": "Frontend Engineering",
     "emoji": "\ud83c\udfa8",
     "keywords": [
       "frontend",
@@ -35,7 +35,7 @@
     ]
   },
   "full_stack": {
-    "title": "Full Stack",
+    "title": "Full-Stack Engineering",
     "emoji": "\ud83c\udf10",
     "keywords": [
       "full stack",
@@ -115,7 +115,7 @@
     ]
   },
   "embedded_systems": {
-    "title": "Embedded & Systems",
+    "title": "Embedded & Systems Software",
     "emoji": "\ud83d\udd27",
     "keywords": [
       "embedded",
@@ -130,7 +130,7 @@
     ]
   },
   "backend": {
-    "title": "Software Engineering",
+    "title": "Backend & General Software",
     "emoji": "\ud83d\udcbb",
     "keywords": [
       "software engineer",
