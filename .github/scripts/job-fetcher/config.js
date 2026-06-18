@@ -41,4 +41,6 @@ module.exports = {
 
   // Job categorization
   defaultCategory: 'backend'  // Fallback for uncategorized jobs
+  // Active window for current_jobs.json (days) — read by write-current-jobs.js
+  activeWindowDays: 14
 };
