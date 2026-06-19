@@ -15,10 +15,10 @@ module.exports = {
 
   // Image configuration
   repoPrefix: 'sej',
-  headingImageAlt: 'Software Engineering Jobs 2026 - Illustration of people working on tech.',
+  headingImageAlt: 'Software Engineering Jobs 2027 - Illustration of people working on tech.',
 
   // Branding text
-  title: 'Software Engineering Jobs 2026',
+  title: 'Software Engineering Jobs 2027',
   tagline: '',  // No tagline for SEO repos
   jobCountBadgeLabel: 'Software Jobs',
 
@@ -31,7 +31,7 @@ module.exports = {
   noteText: '🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).',
 
   // Section headers
-  jobsSectionHeader: 'Fresh Software Jobs 2026',
+  jobsSectionHeader: 'Fresh Software Jobs 2027',
 
   // Feature flags
   features: {
