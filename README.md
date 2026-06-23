@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- Banner -->
-<img src="images/sej-heading.png" alt="Software Engineering Jobs 2027 - Illustration of people working on tech.">
+<!-- Cover -->
+<img src="images/covers/cover.png" alt="Software Engineering Jobs 2027 - Illustration of people working on tech.">
 
 # Software Engineering Jobs 2027
 
